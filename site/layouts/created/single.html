@@ -1,0 +1,9 @@
+{{ define "main" }}
+	{{ partial "stats" . }}
+
+	<div class="wrap wrap--content content insulate">
+		{{ .Content }}
+	</div>
+
+	{{ partial "related" . }}
+{{ end }}

@@ -1,0 +1,220 @@
+.logo {
+	letter-spacing: -1px;
+	font-size: 28px;
+
+	span {
+		letter-spacing: -4px;
+	}
+}
+
+.top {
+	position: relative;
+	background-size: cover, auto;
+	background-repeat: no-repeat, repeat;
+	background-image: url('../images/pattern.svg');
+	background-color: darken($light, 5%);
+	background-position: 60% top, center;
+	margin: -1px 0 0 -1px;
+
+	@include mq(769px) {
+		background-image: url('../images/pattern.svg'), url('../images/brandlines.svg');
+	}
+
+	&--home {
+		background-position: top, center;
+		background-size: 100% auto, auto;
+	}
+
+	&-contact {
+		background: transparent;
+		line-height: 1;
+		position: relative;
+		z-index: 600;
+		padding: 37px 20px 36px 21px;
+		max-width: 1372px;
+		margin: 0 auto;
+
+		.nav-open & {
+			transition: .25s .25s background;
+			background: $black;
+		}
+
+		@include mq(1476px) {
+			padding-right: 72px;
+			padding-left: 72px;
+			max-width: 100%;
+		}
+	}
+
+	[href^="tel"] {
+		display: none;
+
+		@include mq(30em) {
+			margin-right: 19px;
+			padding-top: 4px;
+			font-size: 16px;
+			display: block;
+			float: right;
+		}
+	}
+
+	&-nav {
+		transition: .25s all;
+		visibility: hidden;
+		overflow: auto;
+		position: fixed;
+		padding: 100px 0 20px;
+		z-index: 500;
+		opacity: 0;
+		height: 100vh;
+		width: 100%;
+		left: 0;
+		top: 0;
+
+		&-wrapper {
+			justify-content: center;
+			flex-direction: column;
+			display: flex;
+			min-height: calc(100% - 100px);
+			width: 100%;
+		}
+
+		a {
+			transition: .2s opacity;
+			display: block;
+
+			&:hover {
+				opacity: 0.5;
+			}
+		}
+		
+		.nav-open &,
+		&:target {
+			visibility: visible;
+			opacity: 1;
+		}
+	}
+
+	&-content {
+		padding-bottom: calc( 20px + 55 * (100vw - 320px) / (960 - 320) );
+		min-height: calc( 160px + 150 * (100vh - 320px) / (960 - 320) );
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+
+		time {
+			white-space: nowrap;
+		}
+
+		&--home {
+			padding-top: 3em;
+			padding-bottom: 2em;
+
+			@media screen and (min-height: 800px) {
+				padding-top: 150px;
+				padding-bottom: 150px;
+			}
+
+			> div {
+				max-width: 95%;
+
+				@include mq(456px) {
+					max-width: 80%;
+				}
+			}
+
+			h3 {
+				color: $grey;
+				font-size: 1.3em;
+				margin-top: 2em;
+
+				a {
+					border-bottom: 1px solid #FFF;
+					padding-bottom: 0.2em;
+					transition: 200ms color;
+
+					&:hover {
+						color: #FFF;
+					}
+				}
+			}
+		}
+
+		@include mq(48em) {
+			padding-bottom: 30px;
+
+			&--home {
+				padding-bottom: 80px;
+			}
+		}
+
+		@include mq(1025px) {
+			padding-bottom: 42px;
+			min-height: 440px;
+
+			h1:last-child {
+				max-width: 1200px;
+				margin-bottom: 51px;
+			}
+
+			&--home {
+				padding-bottom: 110px;
+
+				h3 {
+					font-size: 1.6em;
+				}
+
+				> div {
+					max-width: 870px;
+				}
+			}
+		}
+	}
+}
+
+.navicon {
+	-webkit-tap-highlight-color: transparent;
+	float: right;
+	width: 36px;
+	height: 30px;
+	margin: -4px 0 0;
+	position: relative;
+
+	i {
+	    transition: .3s all;
+	    background: #FFF;
+	    position: absolute;
+	    height: 2px;
+	    width: 20px;
+	    left: 8px;
+	    top: 14px;
+	    
+	    &:nth-child(1) {
+	        transform-origin: 0 50%;
+	        top: 7px;
+	    }
+
+	    &:nth-child(3) {
+	        transform-origin: 0 50%;
+	        top: 21px;
+	    }
+
+	    .nav-open & {
+	        &:nth-child(1) {
+	            transform: translate3d(3px, 0, 0) rotate(45deg);
+	        }
+	
+	        &:nth-child(2) {
+	            opacity: 0;
+	        }
+	
+	        &:nth-child(3) {
+	            transform: translate3d(3px, 0, 0) rotate(-45deg);
+	        }
+	    }
+	}
+}
+
+body.nav-open {
+	overflow: hidden;
+}

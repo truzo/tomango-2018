@@ -1,0 +1,34 @@
+.button {
+	-webkit-appearance: none;
+	transition: .3s all;
+	border-radius: 2px;
+	line-height: 18px;
+	font-weight: 700;
+	text-align: center;
+	background: $red;
+	box-shadow: none;
+	min-width: 163px;
+	font-size: 14px;
+	display: inline-block;
+	padding: 14px 35px 13px;
+	outline: none;
+	margin: 3px 12px 24px 0;
+	cursor: pointer;
+	border: none;
+	width: auto;
+	color: #FFF;
+
+	&:hover {
+		background: #FD2B3F;
+	}
+
+	&[disabled] {
+		background: #FAFAFA;
+		color: #AAA;
+		cursor: not-allowed;
+	}
+
+	.content &:not(:last-child) {
+		margin-bottom: 50px;
+	}
+}

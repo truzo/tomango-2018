@@ -1,0 +1,113 @@
+.clear,
+.wrap {
+	@include clear;
+}
+
+.wrap {
+	position: relative;
+	max-width: 1372px;
+	padding: 0 20px;
+	margin: 0 auto;
+	width: 100%;
+
+	&--content {
+		max-width: 688px;
+	}
+
+	&--mid {
+		max-width: 950px;
+	}
+}
+
+.insulate {
+	padding-bottom: calc( 20px + 85 * (100vw - 320px) / (960 - 320) );
+	padding-top: calc( 20px + 61 * (100vw - 320px) / (960 - 320) );
+
+	&--mid {
+		padding-bottom: 30px;
+		padding-top: 30px;
+	}
+
+	@include mq(40em) {
+		padding-bottom: calc( 20px + 61 * (100vw - 320px) / (960 - 320) );
+
+		&--mid {
+			padding-top: 50px;
+			padding-bottom: 50px;
+		}
+	}
+
+	@include mq(960px) {
+		padding-bottom: 105px;
+		padding-top: 81px;
+
+		&--mid {
+			padding-bottom: 72px;
+			padding-top: 72px;
+		}
+	}
+
+	&--bottom {
+		padding-top: 0;
+	}
+
+	&--top {
+		padding-bottom: 0;
+	}
+}
+
+.three-col {
+	> aside {
+		display: none;
+	}
+
+	.content {
+		max-width: 648px;
+		margin: 0 auto;
+	}
+
+	@include mq(49em) {
+		> aside {
+			display: block;
+			width: 12.75%;
+
+			float: left;
+
+			+ aside {
+				max-width: 100px;
+				float: right;
+			}
+		}
+
+		&--creates > aside {
+			display: none;
+		}
+
+		.content {
+			max-width: 648px;
+			width: 65%;
+		}
+	}
+
+	@include mq(65em) {
+		> aside {
+			display: block;
+			width: 17%;
+
+			h2 {
+				font-size: 1.25em;
+				margin-bottom: 30px;
+			}
+
+			p {
+				margin-bottom: 15px;
+			}
+		}
+	}
+
+	@include mq(75em) {
+		> aside h2 {
+			font-size: 2rem;
+		}
+	}
+}

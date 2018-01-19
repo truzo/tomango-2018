@@ -1,0 +1,12 @@
+{{ define "main" }}
+	<div class="wrap three-col insulate">
+		<aside></aside>
+		<aside>
+			<a class="traverse" href="{{ if .NextInSection }}{{ .NextInSection.URL }}{{ else }}{{ range last 1 .Parent.Pages }}{{ .URL }}{{ end }}{{ end }}"><img src="images/traverse.svg" alt="Next"></a>
+			<a class="traverse" href="{{ if .PrevInSection }}{{ .PrevInSection.URL }}{{ else }}{{ range first 1 .Parent.Pages }}{{ .URL }}{{ end }}{{ end }}"><img src="images/traverse.svg" alt="Previous"></a>
+		</aside>
+		<div class="content">
+			{{ .Content }}
+		</div>
+	</div>
+{{ end }}

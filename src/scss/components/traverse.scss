@@ -1,0 +1,15 @@
+.traverse {
+	display: inline-block;
+	transition: .2s opacity;
+	max-width: 45%;
+
+	&:hover {
+		opacity: 0.5;
+	}
+
+	&:last-child {
+		transform: rotate(180deg);
+		margin-right: 0;
+		float: right;
+	}
+}

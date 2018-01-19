@@ -1,0 +1,21 @@
+{{ define "main" }}
+	{{ if .Content }}
+		<div class="wrap wrap--content content insulate">
+			{{ .Content }}
+		</div>
+	{{ end }}
+	<div class="wrap insulate posts">
+		{{ range .Pages }}
+			<article class="post post-work clear">
+				<a href="{{ .URL }}">
+					<img class="post-image" src="{{ .Params.image }}" alt="{{ .Title }}">
+					<div class="post-preview content">
+						<h3>{{ .Title }}</h3>
+						<h2>{{ .Params.excerpt }}</h2>
+						<span class="button">Tell me more</span>
+					</div>
+				</a>
+			</article>
+		{{ end }}
+	</div>
+{{ end }}

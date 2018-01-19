@@ -1,0 +1,5 @@
+{{ if .Params.category }}
+  {{ range first 1 .Params.category }}
+    <a href="blog/categories/{{ . | urlize }}">{{ . }}</a>
+  {{ end }}
+{{ end }}

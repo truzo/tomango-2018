@@ -1,0 +1,37 @@
+{{ if .Params.bannerLarge }}
+	<style>
+		[role=banner] {
+			background: -webkit-linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.banner }}') center {{ if .Params.bannerPosition }}{{ .Params.bannerPosition }}{{ else }}50%{{ end }} /cover no-repeat;
+			background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.banner }}') center {{ if .Params.bannerPosition }}{{ .Params.bannerPosition }}{{ else }}50%{{ end }} /cover no-repeat;
+		}
+
+		@media screen and (min-width: 768px) {
+			[role=banner] {
+				background-image: -webkit-linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.bannerLarge }}');
+				background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.bannerLarge }}');
+			}
+		}
+	</style>
+{{ else if .Params.banner }}
+	<style>
+		[role=banner] {
+			background-image: url('data:image/svg+xml;utf8,{{ .Params.banner }}');
+		}
+
+		@media screen and (min-width: 769px) {
+			[role=banner] {
+				background-image: url('images/pattern.svg'), url('images/brandlines.svg');
+			}
+
+			[role=banner].top--home {
+				background-image: url('data:image/svg+xml;utf8,{{ safeHTML .Params.banner }}'), url('images/brandlines.svg');
+			}
+		}
+
+		@media screen and (min-width: 1025px) {
+			[role=banner] {
+				background-image: url('data:image/svg+xml;utf8,{{ safeHTML .Params.banner }}'), url('images/brandlines.svg');
+			}
+		}
+	</style>
+{{ end }}

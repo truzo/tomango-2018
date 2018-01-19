@@ -1,0 +1,9 @@
+baseurl = "/"
+languageCode = "en-gb"
+languageLang = "en"
+title = "Tomango"
+disableKinds = ["taxonomyTerm"]
+[Taxonomies]
+category = "blog/categories"
+[permalinks]
+  categories = "/blog/categories/:slug/"

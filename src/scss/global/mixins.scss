@@ -1,0 +1,30 @@
+/* Clearfix */
+@mixin clear {
+	&:after,
+	&:before {
+		content: ' ';
+		display: table;
+	}
+	&:after {
+		clear: both;
+	}
+}
+
+/* Media Queries */
+@mixin mq( $min, $max: false ) {
+	@if ( $min and $max == false ) {
+		@media screen and ( min-width: $min ) {
+			@content;
+		}
+	}
+	@else if ( $min and $max == true ) {
+		@media screen and ( max-width: $min ) {
+			@content;
+		}
+	}
+	@else if ( $min and $max ) {
+		@media screen and ( min-width: $min ) and ( max-width: $max ) {
+			@content;
+		}
+	}
+}

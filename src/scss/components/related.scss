@@ -1,0 +1,50 @@
+.related {
+	a {
+		display: block;
+		position: relative;
+
+		&:after {
+			content: '';
+			height: 100%;
+			width: 100%;
+			left: 0;
+			top: 0;
+			background: #000;
+		}
+
+		& + a {
+			margin-top: 30px;
+		}
+
+		@include mq(42em) {
+			width: calc(50% - 18px);
+			float: left;
+
+			& + a {
+				margin: 0 0 0 36px;
+			}
+		}
+	}
+
+	a:after,
+	h3 {
+		transition: 200ms opacity, 200ms visibility;
+		position: absolute;
+		visibility: hidden;
+		opacity: 0;
+	}
+
+	a:hover:after,
+	a:hover h3 {
+		opacity: 1;
+		visibility: visible;
+	}
+
+	h3 {
+		bottom: 20px;
+		left: 20px;
+		color: #FFF;
+		z-index: 2;
+		margin: 0;
+	}
+}

@@ -1,0 +1,15 @@
+{{ if .Params.related }}
+	<div class="content">
+		<h2 class="more-work center">Some of our work</h2>
+	</div>
+	<div class="related wrap insulate insulate--bottom">
+		{{ range $index, $element := .Params.related }}
+			{{ with $.Site.GetPage "page" "created" (printf "%s.md" $element) }}
+				<a href="{{ .URL }}">
+					<h3>{{ .Title }}</h3>
+					<img src="{{ .Params.image }}" alt="{{ .Title }}">
+				</a>
+			{{ end }}
+		{{ end }}
+	</div>
+{{ end }}

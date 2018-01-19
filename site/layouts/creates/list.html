@@ -1,0 +1,19 @@
+{{ define "main" }}
+	<div class="wrap wrap--content content insulate">
+		{{ .Content }}
+	</div>
+	<div class="wrap insulate insulate--bottom posts">
+		{{ range .Pages }}
+			<article class="post post-work clear">
+				<a href="{{ .URL }}">
+					<img class="post-image" src="{{ .Params.image }}" alt="Tomango works on {{ .Title }} projects">
+					<div class="post-preview content">
+						<h2>{{ .Title }}</h2>
+						<p>{{ .Params.excerpt }}</p>
+						<span class="button">Tell me more</span>
+					</div>
+				</a>
+			</article>
+		{{ end }}
+	</div>
+{{ end }}

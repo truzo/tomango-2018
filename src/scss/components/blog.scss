@@ -1,0 +1,108 @@
+.wp-caption {
+	max-width: 100%;
+
+	img {
+		margin-bottom: 0;
+	}
+}
+
+.post-blog {
+	color: #FFF;
+	background-color: $grey;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 20px 20px 40px;
+	margin: 0 0 20px;
+	min-height: 58vw;
+	position: relative;
+
+	h2 {
+		font-size: 1.6em;
+		color: inherit;
+		margin: 0.5em 0 0;
+		line-height: 1.3125em;
+		
+		&:hover {
+			color: inherit;
+		}
+	}
+
+	&__content {
+		position: relative;
+		z-index: 5;
+		pointer-events: none;
+
+		a {
+			pointer-events: auto;
+		}
+	}
+
+	small {
+		font-size: 0.8em;
+
+		a {
+			font-weight: 700;
+			display: inline-block;
+			margin-right: 5px;
+		}
+
+		svg {
+			height: 1.5625em;
+			width: 1.5625em;
+			vertical-align: middle;
+			margin-top: -2px;
+		}
+	}
+
+	&__link {
+		content: '';
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		left: 0;
+		top: 0;
+	}
+
+	&[style] .post-blog__link {
+		background-color: rgba(0,0,0,0.5);
+		transition: 300ms background-color;
+
+		&:hover {
+			background-color: rgba(0,0,0,0.2);
+		}
+	}
+}
+
+@include mq(48em) {
+	.grid-posts {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.post-blog {
+		margin: 0 0 36px;
+		width: calc(50% - 18px);
+		min-height: 29vw;
+
+		&:nth-child(2n) {
+			margin-left: 36px;
+		}
+	}
+}
+
+@include mq(60em) {
+	.post-blog {
+		padding: 42px 36px;
+
+		h2 {
+			margin-top: 0.8em;
+		}
+	}
+}
+
+@include mq(1476px) {
+	.post-blog {
+		min-height: 430px;
+	}
+}

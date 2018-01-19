@@ -1,0 +1,12 @@
+{{ if .Params.stats }}
+	<aside class="stats insulate--mid">
+		<div class="wrap wrap--content">
+			{{ range .Params.stats }}
+				<div class="stat">
+					<h2>{{ .number }}</h2>
+					<div>{{ .text }}</div>
+				</div>
+			{{ end }}
+		</div>
+	</aside>
+{{ end }}

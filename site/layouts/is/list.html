@@ -1,0 +1,17 @@
+{{ define "main" }}
+	<div class="wrap wrap--content content insulate">
+		{{ .Content }}
+	</div>
+	<div class="team">
+		{{ range .Pages }}
+			<a href="{{ .URL }}" class="person {{ if eq .Title "Mark Vaesen" }}person-full{{ end }}">
+				<figure style="background-image: url('{{ .Params.image }}')"></figure>
+				<div>
+					<h2>{{ .Title }}</h2>
+					<h3>{{ .Params.subtitle }}</h3>
+				</div>
+			</a>
+		{{ end }}
+	</div>
+{{ end }}
+

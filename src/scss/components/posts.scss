@@ -1,0 +1,97 @@
+.post {
+	margin-bottom: 72px;
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+
+	h2 {
+		transition: .2s color;
+
+		&:hover {
+			color: $red;
+		}
+	}
+
+	&-image {
+		margin-bottom: 15px;
+	}
+
+	&-preview {
+		overflow: hidden;
+	}
+
+	@include mq(688px) {
+		&-image {
+			margin: 0 0 0 36px;
+			width: calc(50% - 18px);
+			float: right;
+		}
+
+		&-work:nth-child(odd) .post-image {
+			margin: 0 36px 0 0;
+			float: left;
+		}
+	}
+
+	@include mq(900px) {
+		&-work {
+			h2 {
+				max-width: 500px;
+			}
+
+			.post-preview {
+				padding: 3vw 36px 0 0;
+			}
+
+			&:nth-child(odd) {
+				.post-preview {
+					padding-left: 36px;
+					padding-right: 0;
+				}
+			}
+		}
+
+		&:last-child {
+			margin-bottom: 72px;
+
+			&.post-blog {
+				margin-bottom: 36px;
+			}
+		}
+		
+		.three-col + .wrap &-quote:last-child,
+		.content + .wrap &-quote:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	@include mq(1100px) {
+		&-work .post-preview {
+			padding-top: 70px;
+		}
+	}
+}
+
+.v-card {
+	img {
+		margin: 0 26px 30px 0;
+		width: 66px;
+		float: left;
+	}
+
+	h3 {
+		margin-bottom: -4px;
+	}
+
+	time {
+		font-size: 16px;
+	}
+
+	@include mq(40em) {
+		img {
+			margin-bottom: 33px;
+			width: 120px;
+		}
+	}
+}

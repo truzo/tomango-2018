@@ -1,0 +1,26 @@
+{{ define "main" }}
+	{{ if eq .Parent.RelPermalink "/creates/" }}
+
+		<div class="wrap wrap--content content insulate">
+			{{ .Content }}
+		</div>
+
+	{{ else }}
+
+		<div class="wrap three-col three-col--creates insulate">
+			<aside>
+				<h2>Our expertise</h2>
+				{{ range .Parent.Pages }}
+					<p><a href="{{ .URL }}">{{ .Title }}</a></p>
+				{{ end }}
+			</aside>
+			<aside></aside>
+			<div class="content">
+				{{ .Content }}
+			</div>
+		</div>
+
+	{{ end }}
+		
+	{{ partial "related" . }}
+{{ end }}

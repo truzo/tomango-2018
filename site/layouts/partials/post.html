@@ -1,0 +1,10 @@
+<article class="post post-blog" {{ if .Params.image }} style="background-image: url({{ .Params.image }}"{{ end }}>
+	<div class="post-blog__content">
+		<small>
+			{{ partial "tags" . }}
+			<time datetime="{{ .Date }}">{{ partial "date" .Date }}</time>
+		</small>
+		<h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+	</div>
+	<a href="{{ .URL }}" class="post-blog__link"></a>
+</article>

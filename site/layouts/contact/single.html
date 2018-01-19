@@ -1,0 +1,61 @@
+{{ define "main" }}
+	<div class="wrap wrap--content insulate">
+		<div class="content">
+			{{ .Content }}
+		</div>
+
+		<div id="contact">
+			{{ partial "form" . }}
+		</div>
+	</div>
+
+	<div class="find">
+		<div class="content wrap">
+			<h3>Find us</h3>
+			<div class="contact clear">
+				<p>3 Meadow Business Centre<br>
+				Old Uckfield Road, Ringmer<br>
+				East Sussex BN8 5RW</p>
+				<div>
+					<a rel="me" href="mailto:hello@tomango.co.uk">hello@tomango.co.uk</a><br>
+					<a rel="me" href="tel:01273814019">+44 (0)1273 814 019</a><br><br>
+					<a href="https://www.google.co.uk/maps/place/Tomango+Ltd/@50.9004654,0.0374213,17z/data=!3m1!4b1!4m5!3m4!1s0x47df624e751c6351:0x102dd9fb9cb32131!8m2!3d50.900462!4d0.03961" class="button">Get directions</a>
+				</div>
+			</div>
+			<small>
+				Registered address: 7 - 9 The Avenue, Eastbourne, East Sussex, BN21 3YA<br>
+				Registered in England & Wales. Company No. 8234235.  VAT No. 152830914
+			</small>
+		</div>
+		<div class="map"><div id="map"></div></div>
+	</div>
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDhRv0umy_C6q9jtktoGTWm-qrWFeHdJMQ"></script>
+	<script>
+		(function() {
+			var center = new google.maps.LatLng( 50.900217, 0.039475 ),
+				mapOptions = {
+					zoom: 15,
+					center: center,
+					minZoom: 5,
+					maxZoom: 19,
+					mapTypeControl: false,
+					scrollwheel: false,
+					zoomControl: false
+				},
+				map = new google.maps.Map( document.getElementById( 'map' ), mapOptions );
+
+				new google.maps.Marker(
+					{
+						position: center,
+						map: map,
+						visible: true,
+						icon: {
+							url: 'images/pin.png'
+						}
+					}
+				);
+				
+				map.setOptions({styles: [{featureType: 'all',stylers: [{ saturation: -100 }]},{featureType: 'poi.business',elementType: 'labels',stylers: [{ visibility: 'off' }]},{featureType: 'water',stylers: [{ lightness: -20 }]}]});
+		})();
+	</script>
+{{ end }}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8" />
+    <base href="{{ if getenv "URL" }}{{ getenv "URL" }}/{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+    <link rel="stylesheet" href="css/main.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    <meta name="theme-color" content="#000">
+    <style>
+      @font-face {
+        font-family: NeueHaasGrotesk;
+        src: url('webfonts/34C79D_0_0.woff2') format('woff2'),
+             url('webfonts/34C79D_0_0.woff') format('woff');
+        font-weight: 400;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: NeueHaasGrotesk;
+        src: url('webfonts/34C79D_1_0.woff2') format('woff2'),
+             url('webfonts/34C79D_1_0.woff') format('woff');
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      body {
+        font-family: 'Helvetica', sans-serif;
+      }
+      .fonts-loaded body {
+        font-family: 'NeueHaasGrotesk', sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+    </style>
+    <script>
+      (function(h){h.className=h.className.replace(/\bno-js\b/,'js')})(document.documentElement);
+      document.createElement( "picture" );
+      
+      if(sessionStorage.foutFontsLoaded) {
+        document.documentElement.className += " fonts-loaded";
+      }
+    </script>
+    {{ block "head" . }}{{ end }}
+  </head>
+  <body>
+    
+    <header role="banner" class="top bw{{ if eq .RelPermalink "/" }} top--home{{ end }}">
+      <div class="top-contact">
+        <a href="/" class="logo"><strong><span>T</span>omango</strong></a>
+        <a href="#navigation" class="navicon" aria-label="Go To Navigation"><i></i><i></i><i></i></a>
+        <a href="tel:01273814019">+44 (0)1273 814 019</a>
+      </div>
+
+      {{ if eq .RelPermalink "/" }}
+        <div class="top-content top-content--home wrap">
+          <div>
+            <h1>{{ .Title }}</h1>
+            <h3>{{ safeHTML .Params.Subtitle }}</h3>
+          </div>
+        </div>
+      {{ else }}
+        <div class="top-content wrap">
+          {{ block "header_content" . }}
+            <h1>{{ .Title }}</h1>
+            {{ if .Params.subtitle }}<h3>{{ .Params.Subtitle }}</h3>{{ end }}
+          {{ end }}
+        </div>
+      {{ end }}
+
+      <nav id="navigation" role="navigation" aria-label="main navigation" class="top-nav bw">
+        <div class="top-nav-wrapper">
+          <div class="wrap wrap--content">
+            <a href="/created">Our work</a>
+            <a href="/is">About</a>
+            <a href="/creates">What we do</a>
+            <a href="/blog">Blog</a>
+            <a href="/contact">Contact</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+
+    <main class="main" role="main">
+      {{ block "main" . }}
+
+      {{ end }}
+    </main>
+
+    {{ partial "banner" . }}
+
+    {{ partial "cta" . }}
+      
+    {{ partial "footer" }}
+
+    <script src="app.js" async defer></script>
+    {{ block "foot" . }}{{ end }}
+  </body>
+</html>

@@ -1,0 +1,13 @@
+<div class="wrap insulate">
+	<div class="posts grid-posts">
+		{{ range (.Paginator 1).Pages }}
+			{{ partial "post" . }}
+		{{ end }}
+	</div>
+	<footer class="more-posts center">
+		{{ if .Paginator.HasNext }}
+		    <a class="button" href="{{ .Paginator.Next.URL }}">Next page</a>
+		{{ end }}
+	</footer>
+</div>
+<script src="js/blog.js"></script>

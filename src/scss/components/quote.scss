@@ -1,0 +1,19 @@
+.post-quote {
+	margin-bottom: 30px;
+
+	a:hover,
+	&:hover {
+		h2 {
+			color: $black;
+		}
+	}
+
+	@include mq(43em) {
+		margin-top: -20px;
+		margin-bottom: -20px;
+	}
+
+	@include mq(50em) {
+		margin-top: -50px;
+	}
+}
