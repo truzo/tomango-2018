@@ -45,8 +45,8 @@
     {{ block "head" . }}{{ end }}
   </head>
   <body>
-    
-    <header role="banner" class="top bw{{ if eq .RelPermalink "/" }} top--home{{ end }}">
+
+    <header role="banner" class="top bw{{ if eq .RelPermalink "/" }} top--home{{ else if eq .Dir "blog/" }} top--blog{{ end }}">
       <div class="top-contact">
         <a href="/" class="logo"><strong><span>T</span>omango</strong></a>
         <a href="#navigation" class="navicon" aria-label="Go To Navigation"><i></i><i></i><i></i></a>

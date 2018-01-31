@@ -11,13 +11,39 @@
 	position: relative;
 	background-size: cover, auto;
 	background-repeat: no-repeat, repeat;
-	background-image: url('../images/pattern.svg');
+	background-image: url('/images/pattern.svg');
 	background-color: darken($light, 5%);
 	background-position: 60% top, center;
 	margin: -1px 0 0 -1px;
 
 	@include mq(769px) {
-		background-image: url('../images/pattern.svg'), url('../images/brandlines.svg');
+		background-image: url('/images/pattern.svg'), url('/images/brandlines.svg');
+	}
+
+	&--blog {
+		// background-image: url('/images/pattern.svg');
+		background-color: #000;
+		background-image: none;
+
+		@include mq(769px) {
+			background-color: #000;
+			background-image: none;
+		}
+
+		@include mq(1200px) {
+			background-image: url('/images/pattern.svg'), url('/images/brandlines.svg');
+			background-color: darken($light, 5%);
+
+			h1 {
+				font-size: 3em;
+			}
+		}
+
+		h1 {
+			line-height: 1.1;
+			max-width: 900px;
+			margin-bottom: 30px;
+		}
 	}
 
 	&--home {
@@ -44,6 +70,10 @@
 			padding-left: 72px;
 			max-width: 100%;
 		}
+	}
+
+	h3 {
+		font-weight: 400;
 	}
 
 	[href^="tel"] {
@@ -125,8 +155,9 @@
 
 			h3 {
 				color: $grey;
-				font-size: 1.3em;
+				font-size: 1.1em;
 				margin-top: 2em;
+				font-weight: 700;
 
 				a {
 					border-bottom: 1px solid #FFF;
@@ -161,7 +192,7 @@
 				padding-bottom: 110px;
 
 				h3 {
-					font-size: 1.6em;
+					font-size: 1.4em;
 				}
 
 				> div {

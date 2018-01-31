@@ -36,25 +36,25 @@
 		border-bottom: 1px solid $light;
 	}
 	
-	li a,
-	p a {
-		font-weight: 700;
-		transition: .2s color;
+	// li a,
+	// p a {
+	// 	font-weight: 700;
+	// 	transition: .2s color;
 
-		&:hover {
-			color: $red;
-		}
+	// 	&:hover {
+	// 		color: $red;
+	// 	}
 
-		&.button {
-			transition: .2s background;
-			&:hover {
-				color: #FFF;
-			}
-		}
-	}
+	// 	&.button {
+	// 		transition: .2s background;
+	// 		&:hover {
+	// 			color: #FFF;
+	// 		}
+	// 	}
+	// }
 
-	&--blog p a,
-	&--blog li a {
+	p a:not(.button),
+	li a {
 		border-bottom: 2px solid $light;
 		font-weight: 400;
 		transition: 300ms border-bottom-color;
