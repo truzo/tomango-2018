@@ -8,9 +8,9 @@ bannerPosition: 8%
 weight: 10
 ---
 
-Mark is Tomango’s founder and Managing Director.
+Mark is Tomango's Founder and Managing Director.
 
-His main roles are business development, planning of web projects, and to steer the good ship Tomango in a clear direction. Mark was previously founder, owner and Managing Director of Blue Planet.
+His main roles are business development, client strategy, planning of web projects and to steer the good ship Tomango in a clear direction.
 
 ## What’s your perfect breakfast?
 Bacon and egg sandwich with plenty of ketchup.

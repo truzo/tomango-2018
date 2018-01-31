@@ -1,15 +1,22 @@
-</div>
+{{ if .Get "image" }}
+	</div>
 
-<div class="wrap">
-	<article class="post post-quote post-work clear">
-		{{ if .Get "link" }}<a href="{{ .Get "link" }}">{{ end }}
-			<img class="post-image" src="{{ .Get "image" }}" alt="{{ .Get "alt" }}">
-			<blockquote class="post-preview content">
-				<h2>“{{ .Get "body" }}”</h2>
-				<cite>&mdash; {{ .Get "citation" }}</cite>
-			</blockquote>
-		{{ if .Get "link" }}</a>{{ end }}
-	</article>
-</div>
+	<div class="wrap">
+		<article class="post post-quote post-work clear">
+			{{ if .Get "link" }}<a href="{{ .Get "link" }}">{{ end }}
+				<img class="post-image" src="{{ .Get "image" }}" alt="{{ .Get "alt" }}">
+				<blockquote class="post-preview content">
+					<h2>“{{ .Get "body" }}”</h2>
+					<cite>&mdash; {{ .Get "citation" }}</cite>
+				</blockquote>
+			{{ if .Get "link" }}</a>{{ end }}
+		</article>
+	</div>
 
-<div class="wrap wrap--content content insulate">
+	<div class="wrap wrap--content content insulate">
+{{ else }}
+	<blockquote class="post-preview content">
+		<h2>“{{ .Get "body" }}”</h2>
+		<cite>&mdash; {{ .Get "citation" }}</cite>
+	</blockquote>
+{{ end }}

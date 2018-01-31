@@ -1,9 +1,7 @@
 ---
-title: Contact us
+title: Get in touch
 type: contact
 ---
-
-## Get in touch
 
 Call us on [+44 (0)1273 814 019](tel:01273814019) or email [hello@tomango.co.uk](mailto:hello@tomango.co.uk)
 

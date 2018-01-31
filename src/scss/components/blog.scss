@@ -88,6 +88,10 @@
 		&:nth-child(2n) {
 			margin-left: 36px;
 		}
+
+		&:last-child {
+			margin-bottom: 36px;
+		}
 	}
 }
 

@@ -1,6 +1,6 @@
 ---
 title: Web
-excerpt: A good website attracts visitors and turns them into your customers. But it must be easy to find, easy to use and work perfectly – on every device from desktop to mobile.
+excerpt: By designing an effective website, we'll attract your target visitors and turn them into customers.
 image: images/creates/web.jpg
 weight: 20
 ---

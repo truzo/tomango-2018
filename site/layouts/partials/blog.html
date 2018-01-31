@@ -1,6 +1,6 @@
 <div class="wrap insulate">
 	<div class="posts grid-posts">
-		{{ range (.Paginator 1).Pages }}
+		{{ range (.Paginator 10).Pages }}
 			{{ partial "post" . }}
 		{{ end }}
 	</div>

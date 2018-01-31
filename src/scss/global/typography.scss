@@ -21,7 +21,7 @@ h1,
 	letter-spacing: -.02em;
 	font-size: calc( 28px + 44 * (100vw - 320px) / (1200 - 320) );
 	font-weight: 700;
-	line-height: 1.41em;
+	line-height: 1.3em;
 
 	@include mq(1200px) {
 		font-size: 72px;

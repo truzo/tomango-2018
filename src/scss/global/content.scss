@@ -53,6 +53,18 @@
 		}
 	}
 
+	&--blog p a,
+	&--blog li a {
+		border-bottom: 2px solid $light;
+		font-weight: 400;
+		transition: 300ms border-bottom-color;
+		color: $red;
+
+		&:hover {
+			border-bottom-color: $red;
+		}
+	}
+
 	p + h2,
 	p + h3,
 	ul + h2,

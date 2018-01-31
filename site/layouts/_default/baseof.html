@@ -63,7 +63,7 @@
       {{ else }}
         <div class="top-content wrap">
           {{ block "header_content" . }}
-            <h1>{{ .Title }}</h1>
+            <h1>{{ replace .Title "Tips  Advice" "Tips & Advice" }}</h1>
             {{ if .Params.subtitle }}<h3>{{ .Params.Subtitle }}</h3>{{ end }}
           {{ end }}
         </div>

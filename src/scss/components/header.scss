@@ -165,8 +165,14 @@
 				}
 
 				> div {
-					max-width: 870px;
+					max-width: 800px;
 				}
+			}
+		}
+
+		@include mq(1250px) {
+			&--home > div {
+				max-width: 1020px;
 			}
 		}
 	}

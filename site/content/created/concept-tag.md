@@ -16,7 +16,6 @@ stats:
 For years, retailers have been fighting an ongoing battle with shoplifters who are determined to nick their stock. The Concept Tag is a new type of retail security tag that’s set to revolutionise the industry. Our client Agon Systems asked us to design a website to raise the profile of this new product and generate new enquiries from national retailers.
 
 {{< quote
-	image="images/what-we-do/1000/brand.jpg"
 	body="The return on investment on this website has been phenomenal."
 	citation="Sean Welch , CEO, Agon Systems"
 >}}

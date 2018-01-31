@@ -1,6 +1,6 @@
 ---
 title: Brand
-excerpt: A strong brand identity gets you more of the type of business you want, at the price you want to charge.
+excerpt: By creating a strong brand identity, we'll help you get more of the type of customers you want, at the prices you want to charge.
 image: images/creates/brand.jpg
 weight: 10
 related: 
