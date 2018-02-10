@@ -70,7 +70,7 @@ exports.handler = function(event, context, callback) {
     // Create a tree ready to commit
     function create_tree(result, callback){
       const content = `---
-title: Instagram: ${date.toString()}
+title: Instagram - ${date.toString()}
 blog/categories:
 - instagram
 date: ${date.toISOString().slice(0,-14)}
