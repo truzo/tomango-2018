@@ -4,7 +4,7 @@ var githubapi = require('github'),
   secrets = {
     password: '8?zur!zYyg',
     user: 'trys',
-    repo: 'igapitest'
+    repo: 'tomango-2018'
   };
 
 exports.handler = function(event, context, callback) {
