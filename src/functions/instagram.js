@@ -4,7 +4,7 @@ const githubapi = require('github'),
 
 exports.handler = function(event, context, callback) {
   const { caption, url, image, key } = JSON.parse(event.body);
-  const { gitUser: user, gitToken: password, gitRepo: repo, gitKey: secretKey } = process.env
+  const { gitUser: user, gitToken: password, gitRepo: repo, secretKey } = process.env
 
   if (!image || !caption || !url) return callback(null, { statusCode: 400, body: 'Params not supplied' });
   if (key !== secretKey) return callback(null, { statusCode: 401, body: 'Incorrect key supplied' });
