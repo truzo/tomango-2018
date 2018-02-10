@@ -14,7 +14,7 @@ exports.handler = function(event, context, callback) {
   const date = new Date();
 
   github.authenticate({
-    type: 'basic',
+    type: 'token',
     username: user,
     token
   });
