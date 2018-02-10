@@ -1,18 +1,10 @@
 const githubapi = require('github'),
   async = require('async'),
-  https = require('https'),
-  secrets = {
-    password: '8?zur!zYyg',
-    user: 'trys',
-    repo: 'tomango-2018',
-    key: 'Ke?uAzgP*4'
-  };
+  https = require('https');
 
 exports.handler = function(event, context, callback) {
-  console.log(process.env)
-  return callback('123')
   const { caption, url, image, key } = JSON.parse(event.body);
-  const { user: gitUser, password: gitPassword, repo: gitRepo, secretKey: gitKey } = process.env
+  const { user: gitUser, password: gitToken, repo: gitRepo, secretKey: gitKey } = process.env
 
   if (!image || !caption || !url) return callback(null, { statusCode: 400, body: 'Params not supplied' });
   if (key !== secretKey) return callback(null, { statusCode: 401, body: 'Incorrect key supplied' });
@@ -24,7 +16,7 @@ exports.handler = function(event, context, callback) {
   github.authenticate({
     type: 'basic',
     username: user,
-    password: password
+    password: token
   });
 
   async.waterfall([
