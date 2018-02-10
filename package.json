@@ -6,14 +6,16 @@
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
-    "build": "gulp build",
+    "build": "gulp build && netlify-lambda build ./src/functions",
     "build-preview": "gulp build-preview",
     "start": "gulp server",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "lambda": "netlify-lambda serve ./src/functions"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "async": "^2.6.0",
     "autoprefixer": "^7.2.5",
     "babel-core": "^6.26.0",
     "babel-eslint": "^6.1.2",
@@ -31,6 +33,7 @@
     "exports-loader": "^0.6.3",
     "file-loader": "^0.11.1",
     "fontfaceobserver": "^2.0.13",
+    "github": "^13.1.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "gulp-flatten": "^0.3.1",
@@ -41,6 +44,7 @@
     "gulp-watch": "^4.3.11",
     "hugo-bin": "^0.21.0",
     "imports-loader": "^0.7.1",
+    "netlify-lambda": "^0.2.0",
     "url-loader": "^0.5.7",
     "webpack": "3.6.0",
     "whatwg-fetch": "^1.0.0"
