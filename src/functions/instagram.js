@@ -4,15 +4,14 @@ const githubapi = require('github'),
 
 exports.handler = function(event, context, callback) {
   const { caption, url, image, key } = JSON.parse(event.body);
-  const { gitUser: user, gitToken: token, gitRepo: repo, secretKey } = process.env
+  const { IG_GIT_USER: user, IG_GIT_TOKEN: token, IG_GIT_REPO: repo, IG_SECRET_KEY } = process.env;  
 
+  if (key !== IG_SECRET_KEY) return callback(null, { statusCode: 401, body: 'Incorrect key supplied' });
   if (!image || !caption || !url) return callback(null, { statusCode: 400, body: 'Params not supplied' });
-  if (key !== secretKey) return callback(null, { statusCode: 401, body: 'Incorrect key supplied' });
   
-  const github = new githubapi({ version: '3.0.0' });
   const time = Date.now();
   const date = new Date();
-
+  const github = new githubapi({ version: '3.0.0' });
   github.authenticate({
     type: 'token',
     username: user,
