@@ -1,0 +1,22 @@
+<form method="POST" netlify-honeypot="a-postcode" name="discovery" action="thank-you/" class="form form--contact" netlify>
+	<p class="validation-hide">
+		<label>Don’t fill this out: <input name="a-postcode"></label>
+	</p>
+	<p>
+		<label for="full_name">Your name<span class="required">*</span></label>
+		<input type="text" required name="full_name" id="full_name"/>
+	</p>
+	<p>
+		<label for="business">Business<span class="required">*</span></label>
+		<input type="text"  name="business" id="business" required/>
+	</p>
+	<p>
+		<label for="phone">Phone</label>
+		<input type="tel"  name="phone" id="phone"/>
+	</p>
+	<p>
+		<label for="email">Email<span class="required">*</span></label>
+		<input type="email" required name="email" id="email"/>
+	</p>
+	<input type="submit" class="button" value="Send" />
+</form>

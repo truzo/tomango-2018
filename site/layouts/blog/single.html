@@ -1,12 +1,12 @@
 {{ define "header_content" }}
 	<h1>{{ .Title }}</h1>
-	<h3>By Trys Mudford &nbsp; &nbsp; &nbsp; <time datetime="{{ .Date }}">{{ partial "date" .Date }}</time></h3>
+	<h3>By {{ if index $.Site.Data.authors .Params.author }}{{ index $.Site.Data.authors .Params.author }}{{ else }}Guest{{ end }} &nbsp; &nbsp; &nbsp; <time datetime="{{ .Date }}">{{ partial "date" .Date }}</time></h3>
 {{ end }}
 
 {{ define "main" }}
 	<div class="wrap three-col insulate">
 		<aside>
-			[ Image ]
+			<img src="images/team/thumbnail/{{ if index $.Site.Data.authors .Params.author }}{{ .Params.author }}{{ else }}fallback{{ end }}.jpg" alt="{{ index $.Site.Data.authors .Params.author }}">
 		</aside>
 		<aside>
 			{{ if .NextInSection }}

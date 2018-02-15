@@ -20,7 +20,7 @@ const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
 // Development tasks
-gulp.task("hugo", (cb) => buildSite(cb, hugoArgsPreview));
+gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
 // Build/production tasks
@@ -79,7 +79,7 @@ gulp.task("js", (cb) => {
 });
 
 // Development server with browsersync
-gulp.task("server", ["hugo", "css", "js"], () => {
+gulp.task("server", ["css", "js"], () => {
   browserSync.init({
     open: false,
     server: {
@@ -88,7 +88,7 @@ gulp.task("server", ["hugo", "css", "js"], () => {
   });
   watch("./src/js/**/*.js", () => { gulp.start(["js"]) });
   watch("./src/scss/**/*.scss", () => { gulp.start(["css"]) });
-  watch("./site/**/*", () => { gulp.start(["hugo"]) });
+  // watch("./site/**/*", () => { gulp.start(["hugo"]) });
 });
 
 /**

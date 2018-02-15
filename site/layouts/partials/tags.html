@@ -1,5 +1,5 @@
 {{ if index .Params "blog/categories" }}
   {{ range first 1 (index .Params "blog/categories") }}
-    <a href="blog/categories/{{ . | urlize }}/">{{ . }}</a>
+    <a href="blog/categories/{{ . | urlize }}/">{{ . | humanize }}</a>
   {{ end }}
 {{ end }}

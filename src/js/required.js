@@ -4,7 +4,7 @@
   }
 
   if (hasHtml5Validation()) {
-    const form = document.querySelector('form[name="contact"]');
+    const form = document.querySelector('form[netlify]');
     if (!form) return;
     form.addEventListener('submit', function(event) {
       if (!this.checkValidity()) {
