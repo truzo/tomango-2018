@@ -35,10 +35,7 @@ __(This isn't a million miles away from the idea of being a 'T-shaped marketer' 
 - For voice search, context will influence content even more. Conversational query strings are becoming more important, and it's good to bear in mind that, for voice searches, a device such as Google Home doesn't give you a list of ten blue links...but just one result!
 - Mark up your content with schema - and make sure your site is clean, accessible, mobile-friendly, and secure!
 
-
-
 ---
-
 
 ## Stephan Spencer - 'How to Hire an Insanely Great SEO'
 
@@ -77,7 +74,7 @@ Not only that - by 2030, artificial intelligence is predicted to add a total of 
 
 But this doesn't mean you'll expect a seamless and instantaneous experiences just yet - and if your business does decide to use a chatbot for this purpose, make sure a human isn't too far away, just in case things go a bit skeewiff:
 
-[![](images/blog/20170915_152109-e1506503985511-768x1024.jpg "When chatbots go a bit wrong (apologies for potato quality!)")](http://www.tomango.co.uk/wp-content/uploads/2017/09/20170915_152109-e1506503985511.jpg)
+[![](images/blog/20170915_152109-e1506503985511-768x1024.jpg "When chatbots go a bit wrong - apologies for potato quality!")](http://www.tomango.co.uk/wp-content/uploads/2017/09/20170915_152109-e1506503985511.jpg)
 
 ### *Emilie's tips on building a chatbot*
 

@@ -33,7 +33,7 @@ In it, he explores six "weapons of influence" that we're all prone to, and how t
 
 I thought this was a great book, and wanted to share some of the main points so you can consider using them (in an ethical way, of course!) in your own marketing strategy.
 
-*Reciprocation*
+## Reciprocation
 
 The first weapon is that if someone does us a favour, we try to repay them in some way, or feel more obliged to them. In experiments, researchers posing as fellow participants in a survey found people far more likely to buy raffle tickets from them when they'd bought them a can of Coke earlier in the day.
 
@@ -41,7 +41,7 @@ In marketing, the classic example of this is the free sample. In one clever and 
 
 ![](images/blog/shutterstock_437597119.jpg "Cheese anyone?")
 
-*Commitment and Consistency*
+## Commitment and Consistency
 
 A study done by two Canadian psychologists showed that people at the races felt more confident about their horse's chances of winning just after placing a bet than immediately before. This is because once we've made a decision or choice about something, we feel pressure to behave consistently with that commitment. We even start finding reasons to back up why our decision was correct, even when evidence starts to build to the contrary.
 
@@ -49,7 +49,7 @@ Consider the practice of "lowballing" in the car industry, where an apparently g
 
 ![](images/blog/shutterstock_432044770.jpg)
 
-*Social proof*
+## Social proof
 
 Why do comedy shows have canned or "filmed-in-front-of-a-live-audience" laughter over them? Because TV execs know we laugh more (and enjoy the show more) when everyone else is laughing. Advertisers tell us something is "best-selling" or "fastest-growing" because they know we think if everyone else is buying it, it must be good.
 
@@ -57,7 +57,7 @@ With the proliferation of the web, social proof has gone up several notches with
 
 What's interesting is that the strength of the social proof weapon is enhanced if the person we look to for that proof is like us. So a builder or tradesperson is more likely to buy something given good reviews by other builders, than by people in other professions.
 
-*Liking*
+## Liking
 
 It's no great surprise that we're more likely to buy things from people we like. It's also been proven that we're more likely to buy from people who look or dress like us or, sad as it might seem, are better-looking.
 
@@ -65,17 +65,17 @@ However, we're also more likely to be influenced by someone who pays us a compli
 
 An experiment done on men in North Carolina showed how helpless we can be in the face of praise. The men received comments about themselves from another person who needed a favour - some positive, some negative. The ones who got the positive comments nearly always carried out the favour.
 
-*Authority*
+## Authority
 
 A psychologist called Milgram carried out a frankly scary experiment where participants were instructed by a white-coated researcher to apply an electric shock to a fellow participant each time they got the answer to a question wrong. The voltage of the shock increased each time, right up to 300 volts, at which point the recipient was literally screaming and begging them to stop. What the participant didn't know was that a) the shocks weren't real and b) the other participant was just an actor. But they still did it anyway.
 
-Why?
+## Why?
 
 Because of the power of authority. We're programmed from childhood to be heavily influenced by being asked to do something by someone in authority. In marketing, we see this weapon being used when products are endorsed by doctors, dentists and so on. And sometimes it's pretty damn obvious they're not genuine.
 
 ![](images/blog/shutterstock_245557894.jpg "Seems legit...")
 
-*Scarcity*
+## Scarcity
 
 The last of the weapons of influence is scarcity. Experiments have shown we desire something more if it's availability is deliberately limited. We even see this in small children - have you ever noticed how they suddenly want to play with a previously ignored toy when another child's picked it up?
 

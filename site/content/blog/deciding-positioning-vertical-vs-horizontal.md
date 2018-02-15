@@ -47,7 +47,7 @@ In summary, when comparing vertical and horizontal, you could say:
 
 > Vertical is the market, horizontal is the demographic or discipline.
 
-<p style="text-align: right;">[Blain Enns](https://www.winwithoutpitching.com/about/), speaking to [David C Baker](https://www.recourses.com/about) on their [2Bobs podcast "The Business of Expertise - Part 2"](https://2bobs.com/podcast/the-business-of-expertise-part-2)</p>
+[Blain Enns](https://www.winwithoutpitching.com/about/), speaking to [David C Baker](https://www.recourses.com/about) on their [2Bobs podcast "The Business of Expertise - Part 2"](https://2bobs.com/podcast/the-business-of-expertise-part-2)
 
 
 ## The advantages of vertical positioning

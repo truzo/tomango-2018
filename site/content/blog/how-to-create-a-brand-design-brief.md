@@ -15,7 +15,7 @@ Before we start work on any brand project, we need to establish a clear design b
 
 This guide will help you prepare the ideal brief for your own brand project.
 
-Read through the post below, then download our free [brand identity design brief template](http://www.tomango.co.uk/wp-content/uploads/2017/11/Brand-design-brief-template.docx) to get started.
+Read through the post below, then download our free [brand identity design brief template](images/blog/Brand-design-brief-template.docx) to get started.
 
 ### What is a brand design brief?
 
@@ -30,7 +30,7 @@ Most importantly of all, a design brief makes sure all parties involved fully un
 
 ### What do you need to do?
 
-Design briefs can take many forms. We've developed a [free brand identity design brief template](http://www.tomango.co.uk/wp-content/uploads/2017/11/Brand-design-brief-template.docx) you can download, to help you provide the information that we would need.
+Design briefs can take many forms. We've developed a [free brand identity design brief template](images/blog/Brand-design-brief-template.docx) you can download, to help you provide the information that we would need.
 
 By answering the 10 questions, you'll provide us with all the information we'd need to start on your project.
 
@@ -136,7 +136,7 @@ What other plans for the business might need to be considered when creating your
 
 Your completed brand design brief is a vital document to have at the start of your project.
 
-So first off, [download the free design brief template](http://www.tomango.co.uk/wp-content/uploads/2017/11/Brand-design-brief-template.docx) now, and get it completed.
+So first off, [download the free design brief template](images/blog/Brand-design-brief-template.docx) now, and get it completed.
 
 You might have already engaged your chosen agency, in which case once you've completed it, you need to share it with them as soon as possible.
 

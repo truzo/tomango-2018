@@ -31,8 +31,6 @@ And last month alone, they were announced as finalists at the Sussex Business Aw
 
 Their website was awarded first place.
 
-&nbsp;
-
 ![](images/blog/NMA-Digital-Marketing-Rankings-2017-713x504.png)
 
 ## HOP
@@ -48,8 +46,6 @@ In September this year at the Brighton and Hove Business Awards, HOP won the Pro
 They followed this up in October by winning the Legacy Award at the Willmott Dixon: Powered By The Best Awards, in recognition of their ongoing investment in staff training.
 
 ![](images/blog/Awards-A177a-600x410.jpg)
-
-&nbsp;
 
 ## Agon
 

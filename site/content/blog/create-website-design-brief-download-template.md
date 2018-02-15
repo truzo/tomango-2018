@@ -10,7 +10,6 @@ blog/categories:
  - web-design
 ---
 
-
 ### Update - 22nd June 2017
 
 {{% update %}}
@@ -39,7 +38,7 @@ Our guide, "How to create a website design brief" will help you understand the p
 
 We've broken the guide down into sections to make it a bit more manageable. There are 14 sections in total.
 
-Have a read through the guide first, then download our [free website design brief template](http://www.tomango.co.uk/wp-content/uploads/2016/04/Website-design-brief-template.docx) which you can fill in offline.
+Have a read through the guide first, then download our [free website design brief template](images/blog/Website-design-brief-template.docx) which you can fill in offline.
 
 > Creating a brief for a brand project? Read our post [How to create a brand design brief](http://www.tomango.co.uk/thinks/how-to-create-a-brand-design-brief/)
 
@@ -69,16 +68,12 @@ First of all, the agency needs to know a bit about your company to understand th
 1. Annual turnover - this is the quickest way to get an idea of the scale of your operation
 1. The short and long term goals of the business - try and keep this to one or two sentences. For example "We want to increase our sales by 50% in two years, aiming for a 20% increase after the first 12 months."
 
-
-
 ## Aims of the project
 
 A good web agency will design a website that helps you achieve your business goals, so it's important they understand what your aims are. The more specific you can be here, the better.
 
 1. Why do you want a website? Sum up in one sentence what you're hoping the website can do for you
 1. What needs to be achieved for you to consider the project to be a success? This could be a specific volume of sales or an increase in website traffic, or conversely you may be looking to save money through efficiencies. What targets do you want to set?
-
-
 
 ## Target audience/markets
 
@@ -92,10 +87,7 @@ The new website needs to be designed for your customers, so the web company need
 1. Who are your three main competitors? These could be existing competitors or those you would like to become competitors. Give the company name and website address for each
 1. When they land on your website, what do you want your customer to do? What's the end game? Do you want them to buy something through the website, or make an enquiry? Maybe you want them to subscribe to a service. List out the thing(s) you want the customer to do.
 
-
-
 > A good website isn’t going to be designed for you – it’s going to be designed for your target audience
-
 
 ## The current website
 
@@ -109,7 +101,6 @@ If you have a website already, knowing a bit more about it can help the web comp
 1. What's good about the current site? What do you like, what works well?
 1. How well does the existing website reflect your brand? Do you feel it represents you well? If not, why not?
 1. What's being re-used from the current site, and what's being chucked out? Are there bits that absolutely must stay?
-
 
 The more the web company knows about why your existing website isn't working, the better, so include anything else you feel is relevant.
 
@@ -127,8 +118,6 @@ In a previous post, we explored the [different types of website](http://www.toma
 - To move into new markets
 - To attract the best new recruits
 
-
-
 - What's the approximate size of the website? Typically this is expressed as an approximate number of pages
 - What are the key features you want/need to include? Some features we often talk about are:
 
@@ -145,15 +134,11 @@ In a previous post, we explored the [different types of website](http://www.toma
 - Discussion Forum
 - Current Vacancies
 
-
-
 - What content needs to be updated frequently, and who do you see doing it? Do you have the resources and skills in-house for someone to make changes using a Content Management System (CMS) or would you prefer the web agency to look after any changes for you?
 - If you want a CMS, are there any specific requirements (for instance, allowing access to multiple users)?
 - What's the website's Call to Action? (also known as a CTA). This adds more detail to the earlier question about what you want the customer to do when they visit your site. If you want to generate enquiries, do you want them to fill in a contact form, send you an email, or pick up the phone to talk to you?
 - Are there any third party systems you need to integrate with? If you're an Estate Agent, do you need to link in  to RightMove or Zoopla? Do you need to link to a CRM or Accounts software?
 - Does the website need to be available in other languages, and if so, who'll be doing the translations?
-
-
 
 ## Future developments
 
@@ -162,8 +147,6 @@ In order to deliver the best return on your investment, your website should be f
 1. What future plans does the business have that need to be taken into consideration at this point?
 1. Will you want to add ecommerce or one of the other features listed above? Maybe there are some features on your wishlist that you don't have the budget for right now
 1. How does the website need to cope as new content's added? What happens when, in two years' time, you''ve got five times the blog posts you do now?
-
-
 
 ## Content
 
@@ -175,10 +158,7 @@ Start thinking about the content for the new website as early as possible.
 1. What images do you need, and what have you got? Poor images can undermine even the most beautiful website. Consider employing a professional photographer to take the exact pictures you need
 1. Have you got the right quality video clips or other assets that you need, such as graphics or downloadable documents?
 
-
-
 > If there's one thing you can do to help make your web project run smoothly it's to get your content sorted early
-
 
 ## Design brief
 
@@ -189,8 +169,6 @@ The web company needs to have an initial design brief to understand the directio
 1. Provide a bullet list to describe your company values
 1. Provide any other brand collateral you might have - the website needs to fit with the rest of your brand material, so it's useful to provide examples of things like business stationery and any brochures you might have
 1. Reference websites - provide 3-5 examples of websites you either like or those of your competitors. Note any aspects about the sites that you either like or dislike, being careful to be objective and put yourself in your customer's shoes. Remember to [avoid one of the most common mistakes when creating a website design brief](http://www.tomango.co.uk/thinks/how-to-create-website-design-brief-mistakes-to-avoid/); a good website isn't going to be designed for you - it's going to be designed for your target audience
-
-
 
 ## Marketing
 
@@ -204,8 +182,6 @@ To get the most from your new website, it should work alongside your other marke
 - Email marketing - is this something that needs to be included as part of the project?
 - Content marketing
 
-
-
 - Offline marketing - what other traditional marketing are you involved in?
 
 - Direct mail campaigns
@@ -215,11 +191,7 @@ To get the most from your new website, it should work alongside your other marke
 - Sponsorship
 - Vehicle livery
 
-
-
 - Is the website project part of a rebrand? Is the rebrand part of this project - do you need the design agency to quote for this too?
-
-
 
 ## Budget and timescales
 
@@ -237,18 +209,12 @@ Timescales are also important to know from the start - if your deadlines can't b
 - Content population and initial testing - 2-3 weeks
 - Final snagging and pre-launch testing - 2-3 weeks
 
-
-
 - Budget, for:
 
 - Initial site design and development
 - Web hosting
 - Ongoing support and maintenance
 - Ongoing digital marketing
-
-
-
-
 
 
 ## Maintenance
@@ -258,7 +224,6 @@ This is often overlooked in a website design brief, but is actually very importa
 1. Who's going to be responsible for updating the site - will you do it in-house, or would you prefer to outsource it all to the web agency? Consider whether you have the skills and resources to do it properly; oh, and what happens if that person leaves the company?
 1. What needs updating frequently? These might be the updates that it makes sense for you to do yourselves using a CMS. Less frequent changes, or changes requiring creative input might be better carried out by the design agency
 1. How much input will you need from the web agency and how often?
-
 
 
 ## Technical
@@ -272,10 +237,7 @@ Outline the key technical considerations for the project.
 1. If your project's for an ecommerce website, do you have your payment provider set up? This can take several weeks or months to sort out, so if you haven't got started already, now's the time to get the ball rolling
 1. Do you have any special technical requirements? Maybe you require a particularly high level of accessibility or know that your users are likely to be using very slow connections
 
-
-
 > If you haven't got your online payments provider sorted already, now's the time to get the ball rolling
-
 
 ## Contact points
 
@@ -287,8 +249,6 @@ It's a good idea to have worked out who in your organisation needs to be involve
 1. Who needs to be involved in sign off at each stage
 1. Who will be updating the site
 
-
-
 ## Next steps - what you need from the agency
 
 Finish your website design brief with a short summary of what you want to get back from the design agency.
@@ -299,11 +259,9 @@ At Tomango, we usually provide a full written proposal, outlining our intended a
 1. Who they should send it to
 1. How you can be contacted if there are any questions
 
-
-
 ## Write your website design brief
 
-[Download our free website design brief template](http://www.tomango.co.uk/wp-content/uploads/2016/04/Website-design-brief-template.docx)
+[Download our free website design brief template](images/blog/Website-design-brief-template.docx)
 
 Save time creating your website design brief by downloading our template. Our example's based on a fictional company that needs a brochure website, so some sections might not be relevant to your project, but the format's the same and it should save you a lot of thinking time.
 

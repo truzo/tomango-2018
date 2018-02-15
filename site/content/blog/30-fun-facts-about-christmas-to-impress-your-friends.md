@@ -239,7 +239,7 @@ Please, make a difference and [donate £10](https://www.justgiving.com/fundraisi
 
 78. In 1999, residents of the state of Maine in America built the world's biggest ever snowman. He stood at 113ft tall.
 
-![](images/blog/2509755878_e81aab2a4a_b-1024x768.jpg "The world's tallest snowman (and, one assumes, the world's biggest carrot)")
+![](images/blog/2509755878_e81aab2a4a_b-1024x768.jpg "The world's tallest snowman and, one assumes, the world's biggest carrot" )
 
 79. The [largest ever Christmas cracker](http://www.guinnessworldrecords.com/world-records/largest-christmas-cracker-) was 63.1m (207ft) long and 4m (13ft) in diameter and was made by the parents of children at Ley Hill School and Pre-School, Chesham, Buckinghamshire on 20th December 2001. The joke was rubbish.
 

@@ -27,8 +27,6 @@ This points to a wider issue: using images in place of content. There are some p
 - It requires an extra HTTP request per image
 - It's a pain to create each time
 
-
-
 ## The solution
 
 I wanted to see how possible it would be to make a CSS equivalent of this image. After 15 minutes of work in Codepen, I'd come up with the following:
@@ -41,6 +39,6 @@ This works pretty nicely, it scales well, it responds to hover and active intera
 
 It's pretty normal for an agency to dissect and discuss a rebrand/redesign of a large company, it keeps us sharp and gives us an idea of current trends. We're also keen not to [jump on the brandwagon](http://www.tomango.co.uk/thinks/jumping-brandwagon-important-understand-brief-new-brand/) and dismiss someone's work without knowing the brief. For that reason, we rarely express our opinions publicly. However, in this instance, the accessibility impact of these buttons seemed to justify tipping them off to the problem. Hopefully a more accessible solution will be deployed in the near future.
 
-https://twitter.com/MoonpigUK/status/916290097477246976
+{{< tweet 916290097477246976 >}}
 
 

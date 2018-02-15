@@ -31,7 +31,9 @@ For someone that didn't actually have to do a written dissertation for their deg
 And the third module - the Strategic Marketing one - culminated in a *three hour long exam*. A handwritten exam. On the hottest day of the year. In a room where the bloody windows wouldn't open. Absolute nightmare!
 
 Anyway, I was pretty chuffed to find out last Thursday that I had in fact passed my final two modules - including nailing a distinction in the horrible exam - and after tallying up achieved an overall Merit grade!
-<div align="center"><iframe class="giphy-embed" src="//giphy.com/embed/8CSflsMG1IFos" width="480" height="271" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+{{< iframe "//giphy.com/embed/8CSflsMG1IFos" >}}
+
 Studying the CIM Diploma has definitely helped me in a professional marketing capacity and I'd definitely recommend considering studying it if you're looking to take on an account management role in either a general marketing or digitally focused profession.
 
 If anyone has any suggestions for my next challenge, please get in touch!

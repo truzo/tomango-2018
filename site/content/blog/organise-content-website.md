@@ -140,7 +140,7 @@ Make a spreadsheet listing all your products, and put in columns all the data th
 
 Ask your web developer for the column headings they want you to use, or even better, see if they can provide a template spreadsheet for you to fill in.
 
-![](images/blog/product_data__3__csv_13-1024x512-1024x512.png "Sample product spreadsheet (image from www.sellbrite.com)")
+![](images/blog/product_data__3__csv_13-1024x512-1024x512.png "Sample product spreadsheet - image from www.sellbrite.com")
 
 Save your images separately as before and upload them to Dropbox, remembering to name your files carefully so they can be matched with the right product.
 

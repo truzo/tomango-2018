@@ -19,8 +19,7 @@ Our perfect customer would look something like this:
 1. Sees the value of investing in good design
 1. Doesn't have an in-house marketing team, or person
 
-
-*How to identify your perfect customer*
+## How to identify your perfect customer
 
 When you're figuring out what *your* ideal customer looks like, you need to ask yourself questions like:
 
@@ -30,8 +29,7 @@ When you're figuring out what *your* ideal customer looks like, you need to ask 
 1. Who do we enjoy working with? What values/beliefs do they have?
 1. What's their financial status? Can this be identified by things like where they live, what car they drive, or what they spend their money on?
 
-
-*Create a set of Personas*
+## Create a set of Personas
 
 Having established what our perfect customer looks like we created a set of [Personas](http://www.tomango.co.uk/thinks/what-are-personas/), to bring these characteristics to life and have something to easily refer back to when we're designing our own website, or planning marketing campaigns.
 
@@ -39,7 +37,7 @@ When you've created your Personas, don't hide them away in a folder or drawer - 
 
 ![](images/blog/IMG-0174-1024x768.jpg "Share your personas with your team - put them where everyone can see them.")
 
-*The importance of identifying your perfect customer*
+## The importance of identifying your perfect customer
 
 Knowing your ideal customer sets the scene for all your marketing - your positioning, branding, printed collateral, website and digital marketing campaigns.
 

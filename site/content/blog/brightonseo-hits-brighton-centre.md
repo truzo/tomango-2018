@@ -27,11 +27,9 @@ One of the main points Stacey made was that *quantity *still plays a big part 
 Previously, when search algorithms were more rudimentary, you could get away with 'article spinning' - writing a post, then copying it and changing some of the keywords to synonyms. This meant you could end up with dozens of slightly different copies of the same article that you would then submit to a number of article directories, gaining a ton of links!
 
 This obviously doesn't work any more, and *content marketing *is the recommended way to conduct link-building outreach.
-<div align="center">
 
-<iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/3pAAIVTO41iE8t" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe>
+{{< iframe "//www.slideshare.net/slideshow/embed_code/key/3pAAIVTO41iE8t" >}}
 
-</div>
 Where the quantity element comes in though, is through the outreach itself. Once you've produced a killer piece of content for a client, you should be spending time 'playing the numbers game' and contacting a solid number of media contacts in anticipation of them placing it on their website with a back-link.
 
 However, Stacey also warned that you shouldn't put all your eggs in one basket, and you should be trying to use other tactics to supplement content marketing.
@@ -40,7 +38,7 @@ However, Stacey also warned that you shouldn't put all your eggs in one basket, 
 
 Attaining *forward feature* *calendars *from publications relevant to your client's industry can help you produce content that could help ensure is relevant to a feature writer's needs.
 
-And conducting outreach to <b>freelance regional journalists</b> can be useful - especially if they also write for nationals (double link possibilities).
+And conducting outreach to **freelance regional journalists** can be useful - especially if they also write for nationals (double link possibilities).
 
 Stacey's full presentation is above.
 

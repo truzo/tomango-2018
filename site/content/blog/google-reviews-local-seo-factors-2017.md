@@ -30,13 +30,11 @@ Then perhaps spend a few months changing the process and diverting them to anoth
 
 *And* – sorry to say - it’s not just as straightforward as just getting them…there’s some other elements in play as well.
 
-These include: the keywords used in the review, the average you get a year/month/week, the number of reviews not responded to, the number of <u>negative </u>reviews not responded to, and loads more!
+These include: the keywords used in the review, the average you get a year/month/week, the number of reviews not responded to, the number of <u>negative</u> reviews not responded to, and loads more!
 
 The full list is below.
 
 [![](images/blog/Local-Ranking-Factors-Graph-2017-v2.png.jpg)](http://www.localseoguide.com/guides/local-seo-ranking-factors/)
-
-* *
 
 *Having good reviews makes your business more likely to be found by potential customers who are interested in your product or service. *
 
