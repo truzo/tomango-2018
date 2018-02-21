@@ -2,7 +2,7 @@
 title: Fludes Carpets
 image: images/created/created-karndean.jpg
 excerpt: Increasing key product sales through online content creation.
-weight: 10
+weight: 40
 banner: images/created/created-karndean-hero.jpg
 bannerLarge: images/created/created-karndean-hero.jpg
 related:
@@ -10,7 +10,7 @@ related:
 - concept-tag
 stats:
 - number: 45% + 
-  text: Increase in Karndean sales
+  text: Increased product sales
 - number: 136% +
   text: Increased visits from Organic Traffic
 ---
@@ -18,7 +18,6 @@ stats:
 In 2016, Fludes Carpets asked us to increase their sales of Karndean flooring. We put in place a new content strategy over six months that immediately led to a significant jump in sales.
 
 {{< quote
-	link="/created/fludes-carpets"
 	image="images/what-we-do/1000/brand.jpg"
 	body="Almost from day one visits to the Karndean pages increased and the enquiries we had as a result were firm sales opportunities."
 	citation="Andy Laird, Managing Director, Fludes Carpets"

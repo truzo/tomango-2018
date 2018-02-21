@@ -1,4 +1,5 @@
-{{ if and (not (eq .RelPermalink "/")) (not (eq .RelPermalink "/contact/")) }}
+{{ if .Params.lineCta }}<hr class="end-of-page">{{ end }}
+{{ if not .Params.hideCta }}
     <aside class="cta insulate--mid">
         <div class="wrap wrap--content">
             <h3>Ready to get started?</h3>

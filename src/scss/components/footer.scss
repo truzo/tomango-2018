@@ -18,6 +18,12 @@
 	}
 }
 
+.end-of-page {
+	margin: 0;
+	border: none;
+	border-top: 1px solid $light;
+}
+
 [role="contentinfo"] a {
 	transition: .2s color;
 

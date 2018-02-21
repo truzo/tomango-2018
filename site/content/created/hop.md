@@ -1,8 +1,8 @@
 ---
 title: HOP
 image: images/created/created-hop.jpg
-excerpt: New website repositions market-leading engineers at the top of their industry.
-weight: 30
+excerpt: Repositioning market-leading engineers at the top of their industry.
+weight: 20
 related:
 - concept-tag
 - fludes-carpets

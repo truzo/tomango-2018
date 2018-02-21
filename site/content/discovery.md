@@ -1,5 +1,7 @@
 ---
-title: Disovery
+title: The first step
+hideCta: true
+lineCta: true
 ---
 
 If you went to a doctor, a lawyer, or any other expert, you wouldn’t tell them what they should do to help you, would you?
@@ -23,15 +25,15 @@ We do this through a **Discovery Session**.
 
 ## How the session works
 
-In Part 1, we find out as much as we can about your goals. We ask lots of questions and get you thinking about your business in ways you might not have considered. This is run as a half-day workshop and involves all the key decision-makers.
+In Part 1, we find out as much as we can about your goals. We ask lots of questions and get you thinking about your business in ways you might not have considered. This involves all the key decision-makers and is run as a half-day workshop.
 
-In Part 2, we take away what we’ve learnt in the workshop and as a team we have a second session at Tomango HQ. We explore what’s needed to get you from where you are now to where you want to be. 
+In Part 2, we take away what we've learnt in the workshop and, as a team, have a second session at Tomango HQ. We explore what’s needed to get you from where you are now to where you want to be. 
 
-In Part 3, we present our recommendations. We’ll talk you through the three costed options so you can decide which one you’d like to go ahead with.
+In Part 3, we present our recommendations. We'll talk you through three costed options so you can decide which one you’d like to go ahead with.
 
 The Discovery Session takes 3-4 weeks to complete and costs £750 + VAT, payable up front.
 
-## Book a Discovery session
+## Book your Discovery session
 
 Fill in your details and we’ll give you a call to arrange your first session.
 

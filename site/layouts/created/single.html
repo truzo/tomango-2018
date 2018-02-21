@@ -4,16 +4,16 @@
 	<div class="wrap wrap--content content insulate">
 		{{ .Content }}
 	</div>
-
-	<figure class="project-image" style="background: #e9eae9;">
-		<div class="wrap">
-			<img src="images/created/concept-tag/1.png">
-			<img src="images/created/concept-tag/2.png">
-			<img src="images/created/concept-tag/3.png">
-			<img src="images/created/concept-tag/4.png">
-			<img src="images/created/concept-tag/5.png">
-		</div>
-	</figure>
+	
+	{{ if .Params.images }}
+		<figure class="project-image" style="background: #e9eae9;">
+			<div class="wrap">
+				{{ range .Params.images }}
+					<img src="images/created/{{ . }}">
+				{{ end }}
+			</div>
+		</figure>
+	{{ end }}
 
 	{{ partial "related" . }}
 {{ end }}

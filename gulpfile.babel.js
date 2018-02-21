@@ -55,7 +55,7 @@ gulp.task("css", () => (
     )
     .pipe(maps.write("."))
     .pipe(gulp.dest("./dist/css"))
-    .pipe(browserSync.stream())
+    // .pipe(browserSync.stream())
 ));
 
 function onError( err ) {
@@ -73,19 +73,19 @@ gulp.task("js", (cb) => {
       colors: true,
       progress: true
     }));
-    browserSync.reload();
+    // browserSync.reload();
     cb();
   });
 });
 
 // Development server with browsersync
 gulp.task("server", ["css", "js"], () => {
-  browserSync.init({
-    open: false,
-    server: {
-      baseDir: "./dist"
-    }
-  });
+  // browserSync.init({
+  //   open: false,
+  //   server: {
+  //     baseDir: "./dist"
+  //   }
+  // });
   watch("./src/js/**/*.js", () => { gulp.start(["js"]) });
   watch("./src/scss/**/*.scss", () => { gulp.start(["css"]) });
   // watch("./site/**/*", () => { gulp.start(["hugo"]) });
