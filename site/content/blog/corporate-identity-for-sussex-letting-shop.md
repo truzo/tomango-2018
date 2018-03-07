@@ -23,13 +23,9 @@ A lot of Geneva's tenants are - how can we put it nicely - operating at the lowe
 
 The first step in the process was to consider a graphic device the brand - what would commonly be referred to as "the logo".  In some corporate identities, there is no graphic device and the brand is just how the name is styled; think Cadbury, Sky, Samsung or perhaps the best known of all - Coca Cola.
 
-&nbsp;
-
 For Sussex Letting Shop we wanted to include a graphic device and researched some simple symbolic shapes that might work.  The rather obvious one was a simplistic house shape, but this was used quite widely within the industry. However, it did lead us to look at simplifying further, and this developed into a roof shape that could form the lower part of the "x" in "Sussex".
 
 ![](images/blog/graphicdevice.jpg "Deciding on a graphic device")
-
-&nbsp;
 
 ## 2. Typeface
 
@@ -52,8 +48,6 @@ When we discussed the colours with the client, the blue was considered a little 
 Colour can play a huge part in how people percieve your brand.  This article called [A guide to choosing colours for your brand](http://www.usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-brand/) provides an interesting insight into what each colour can mean to your customers.
 
 ![](images/blog/colourssussexletting.jpg "Three colours were put forward. Purple was chosen")
-
-&nbsp;
 
 ## 5. In situ
 

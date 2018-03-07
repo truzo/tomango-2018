@@ -30,9 +30,10 @@ In addition, good planning of the various features and functionality that are ne
 
 Steve Jobs famously said __"Design is not just what it looks like and feels like. Design is how it works."__  The best website design achieves a balance of commercial needs - how the site is going to help an organisation achieve its goals - with the aesthetic, i.e. what it looks like.   Truly great website design combines original creativity with the practicalities of how the site will be managed and other technical considerations.  Designers and developers should work as a team, understanding the needs of the client and how best to meet them.
 
-> "Design isn't just what it looks like and feels like. Design is how it works."
-
-[cite]Steve Jobs[/cite]
+{{< quote
+	body="Design isn't just what it looks like and feels like. Design is how it works."
+	citation="Steve Jobs"
+>}}
 
 Furthermore, cheaper websites often have a great-looking home page, but when you delve deeper into the site, other pages look somewhat "thrown together".  Pay a little more and you'll get bespoke design applied to __all__ the pages throughout the site, ensuring the highest level of quality and real attention to detail.
 

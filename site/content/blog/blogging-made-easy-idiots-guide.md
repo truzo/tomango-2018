@@ -97,8 +97,8 @@ Go for quality over quantity; a useful, interesting blog post about a well-chose
 
 Ideally, your blog posts should have your own style and tone to them but, seeing as this post is supposed to be about making your life easier, we'd love to point you in the direction of our three part blog post about "How to write a good blog post":
 
-[How to write a good blog post - Part 1: Getting started](/blog/write-good-blog-post-part-1-getting-started/)
-[How to write a good blog post - Part 2: Writing good content](/blog/write-good-blog-post-part-2-writing-good-content/)
+[How to write a good blog post - Part 1: Getting started](/blog/write-good-blog-post-part-1-getting-started/)  
+[How to write a good blog post - Part 2: Writing good content](/blog/write-good-blog-post-part-2-writing-good-content/)  
 [How to write a good blog post - Part 3: Finishing touches](/blog/write-good-blog-post-part-3-finishing-touches/)
 
 ## 6. Who should write my blog?  Can't someone do it for me?

@@ -38,7 +38,9 @@ When your website goes live, you’re going to want to know who visits it. Googl
 
 If you’re replacing a website, you’ll want to make sure every ounce of traffic from search engines is taken to the correct page on the new website. Set up page redirects from the page on the old site to the corresponding page on the new website to keep your visitors happy. This can be achieved in the .htaccess file like so:
 
-[code type="markup" src="redirect-301.html"]
+```apacheconf
+Redirect 301 /oldpage.html http://example.com/newpage.html
+```
 
 If redirects aren’t made, page links currently indexed on Google could quite easily end up pointing to an error page losing you vital traffic. It’s also worth checking that an appropriate 404 page has been created to help users that find a page that hasn’t been redirected. Check with your web designer that they’ve set up redirection of old pages before going live.
 

@@ -26,9 +26,10 @@ Their brand identity needed to express quality of service,  combining the highe
 
 The final brand identity fits this brief but also sets them apart from their competition and works in a wide range of scenarios; it looks great on their business stationery, sale boards and [website](http://www.oldfield-smith.co.uk) and works equally well whether large or small, colour or monochrome.
 
-> "Richard and I are delighted with the brand identity and website and we think this is some of your best work.  It really has captured the brief very well and we are tremendously excited about the website going live next week."
-
-[cite]*Bernard Smith*, Oldfield &amp; Smith[/cite]
+{{< quote
+	body="Richard and I are delighted with the brand identity and website and we think this is some of your best work.  It really has captured the brief very well and we are tremendously excited about the website going live next week."
+	citation="Bernard Smith, Oldfield &amp; Smith"
+>}}
 
 [Visit the Oldfield &amp; Smith website](http://www.oldfield-smith.co.uk)
 
@@ -40,11 +41,10 @@ When we met the guys at Geneva the new brand just had a name – there was no br
 
 Our brief was to create a new brand identity for the business, then design and roll out business stationery and a new website to fit.
 
-> "From the initial email that was sent to *Tomango* as a brief tentative outline of what we were looking to achieve to the launching of our brand new site in February, we have had an exceptionally positive experience.
-
-The team at *Tomango* has been a pleasure to work with and we have all learnt so much. We would have no hesitation in recommending their services."
-
-[cite]*Wendy*, Sussex Letting Shop[/cite]
+{{< quote
+	body="From the initial email that was sent to *Tomango* as a brief tentative outline of what we were looking to achieve to the launching of our brand new site in February, we have had an exceptionally positive experience. The team at Tomango has been a pleasure to work with and we have all learnt so much. We would have no hesitation in recommending their services."
+	citation="Wendy, Sussex Letting Shop"
+>}}
 
 [Visit the Sussex Letting Shop website](http://www.sussexlettingshop.co.uk)
 

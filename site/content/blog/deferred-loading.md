@@ -16,13 +16,26 @@ What can be done about this you ask? As with most internet optimisations, there 
 
 One very simple improvement you can make is to load all the JavaScript at the bottom of the document just before the <code class="language-markup">&lt;/body&gt;</code> tag. For a static website, just drag your script elements down the page. Within WordPress, this can be done using the [wp_enqueue_script](http://codex.wordpress.org/Function_Reference/wp_enqueue_script) function and setting the *$in_footer* value. For example:
 
-[code type="php" src="deferred-enqueue.php"]
+```php
+<?php
+wp_deregister_script( 'jquery' );
+wp_register_script( 'jquery', 'js/jquery.min.js', false, null, true);
+wp_enqueue_script( 'jquery' );
+?>
+```
 
 Another great improvement you can make is to defer the loading of certain JavaScript files. Considering the nature of JavaScript is to provide dynamics and interaction for the user once the page has loaded, you can often defer the loading of many JavaScript files and jQuery plugins and grab a performance benefit from it. Your chief aim when optimising a site is to get content loaded on your users screen as quickly as possible. If there isn’t a nice animation on the click event of a button right from the very instant the page loads, is that such a problem? Not really.
 
 Deferring JavaScript is very simple, just place the following code snippet at the bottom of your page, update 'deferred.js' to the JavaScript file you wish to load in and you’re ready to go.
 
-[code type="javascript" src="deferred-defer.js"]
+```javascript
+function deferLoad() {
+  var element = document.createElement("script");
+  element.src = "deferred.js";
+  document.body.appendChild(element);
+}
+window.onload = deferLoad;
+```
 
 This will wait for the window to load and then create a script element linking to your JavaScript file. By running this code and calling in your scripts at the bottom of the document, you're reducing load time for the user and search engines.
 

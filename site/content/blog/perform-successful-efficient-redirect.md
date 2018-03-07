@@ -20,7 +20,9 @@ While there will be users who click through to the new address, adding a link in
 
 So moving on to how to avoid these outcomes! The most organised way to set up redirects is within the htaccess file which can usually be found in the root directory of your site. This file is checked every time the server receives a request and therefore is a very useful and important document. If you were looking to redirect just a single page, the following line would need to be added to the htaccess file.
 
-[code type="markup" src="redirect-301.html"]
+```apacheconf
+Redirect 301 /oldpage.html http://example.com/newpage.html
+```
 
 This simply means any request for ‘oldpage.html’ will redirected to ‘newpage.html’. The ‘301’ part is the code for ‘moved permanently’ which is how search engines will know to transfer the page ranking from the old page to the new. It's important to note that you won’t see the ranking transfer immediately as the search engine crawlers will need some time to check the site again, however the redirect itself will take effect immediately.
 
@@ -28,7 +30,12 @@ This simply means any request for ‘oldpage.html’ will redirected to ‘newpa
 
 The solution above is absolutely perfect when dealing with a single page scenario, however if you plan to redirect an entire site you’ll need something more comprehensive. While it may seem like a good idea at the time, the last thing you want to do is set up a ‘Redirect 301’ (as above) for every single page on your site. Not only is it time consuming and prone to cause errors, it's also inefficient as it makes the htaccess file larger. Redirecting all visits to a whole domain is very straightforward.
 
-[code type="markup" src="redirect-whole.html"]
+```apacheconf
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*)$ http://newsite.com/$1 [R=301,L]
+</IfModule>
+```
 
 Adding the above to the old site’s htaccess file will take any request and redirect it to the same place on the new site. This is a perfect solution if you have changed your domain but kept the page structure in place.
 

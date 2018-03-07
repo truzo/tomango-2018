@@ -2,6 +2,9 @@ baseurl = "/"
 languageCode = "en-gb"
 languageLang = "en"
 title = "Tomango"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
 disableKinds = ["taxonomyTerm"]
 [Taxonomies]
 category = "blog/categories"
