@@ -74,21 +74,20 @@ This presentation dived into the different ways to take advantage of a number of
 Previously, a video marketing strategy involved chucking all videos on YouTube...and that was that!
 
 Nowadays, however, there's much more to bear in mind. The major social networks are all video platforms in their own right, each with their own differences that need to be kept in mind when creating a tailored video strategy.
+
 [![](images/blog/video-platform-two-way.jpg)](images/blog/video-platform-two-way.jpg)
-<div style="text-align: left;" align="center">
 
 For example, *Facebook* videos are automatically played when scrolled past in a news feed - but the audio is muted until clicked. Therefore, the beginning of a video could do with overlaid text to try and grab attention!Another great tip for *YouTube* is to create playlists for keywords you want to try to rank for but you may not have directly created content for.
 
 An example of this that Phil provided was from Jamie Oliver's Drinks Tube channel - a channel that, obviously, has loads of videos of how to make various cocktails etc. Their [Thanksgiving Drinks](https://www.youtube.com/playlist?list=PLlnO2fSQw0mwtYZK3S1HaZG3N_jX8QS6s) playlist cleverly uses this tactic; while none of the drinks themselves specifically Thanksgiving focused, their playlist ranks as one of the top results for that term!
 
 Check out the rest of Phil's slides below.
-<div align="center"><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/a4jnpYb8ewH8qA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></div>
+
+{{< slideshare "a4jnpYb8ewH8qA" >}}
 
 ---
 
 These were just three of the 11 talks I saw in just over 8 hours of Brighton SEO (including a rather long lunch at the local Bill's) - and all for free! You can't knock that one bit!
-
-</div>
 
 If you want to see some of these and many other of the talks that took place on the BrightonSEO mainstage, you can check out the recording of the [YouTube livestream](https://www.youtube.com/watch?v=r_tsFduHnpU).
 

@@ -1,5 +1,5 @@
 ---
-title: "🎄 101 fun facts about Christmas to impress your friends 🎄"
+title: "101 fun facts about Christmas to impress your friends"
 author: "mark"
 date: 2017-12-11 09:00:30
 excerpt: As our little gift to you, we've gathered 80 fun facts about Christmas for you to impress your friends and family over the Brussels Sprouts...

@@ -30,7 +30,8 @@ All are worth a watch, so enjoy.
 The Beeb is famous for their incredible adverts and idents for major sporting events and the high production value that they have. Heck, I still occasionally return to the closing montage from the [2014 World Cup](https://www.youtube.com/watch?v=_vYnEGIcXVY) for a dose of nostalgia!
 
 For Rio the BBC uses the Brazilian rainforests as a backdrop to trail *'The Greatest Show on Earth'*, and it sees an array of athletic Amazonian animals running, jumping, diving and more in this lovely animation.
-<div align="center"><iframe src="https://www.youtube.com/embed/EkRVqn5gZJY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+{{< youtube EkRVqn5gZJY >}}
 
 ---
 
@@ -40,7 +41,9 @@ For Rio the BBC uses the Brazilian rainforests as a backdrop to trail *'The Gre
 Simone Biles was already considered the world's greatest gymnast before she set her sights on Rio.
 
 Aged just 19, her rise to the top of her sport has been remarkably quick; the American has already claimed more World Championship titles than anyone in history, and all have come in the interim since the London Olympics.
-<div align="center"><iframe src="https://www.youtube.com/embed/yqds04bRxQM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+{{< youtube yqds04bRxQM >}}
+
 She's considered far and away the best on both the floor and the vault, and is hot favourite to win an unprecedented five Olympic gold medals. At the time of writing, Biles has already bagged two.
 
 What makes her so great? To gain some insight, check out the above fascinating profile courtesy of the New York Times.
@@ -55,7 +58,9 @@ Strictly speaking, this video came out shortly after the 2012 final of the men's
 In this clip, the New York Times produce a fascinating piece of visualisation that pits the top three from every final since 1896 against each other.
 
 You know Bolt is fast - but how does his advantage over say, Jesse Owens, translate to a lead on the track?
-<div align="center"><iframe src="https://www.youtube.com/embed/85oGVBSZd2k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+{{< youtube 85oGVBSZd2k >}}
+
 The [full article](http://www.nytimes.com/interactive/2012/08/05/sports/olympics/the-100-meter-dash-one-race-every-medalist-ever.html) comes with a neat bit of interactive on-page visualisation as well, and the NYT also did similar pieces with the 100m freestyle swimming and men's long jump.
 
 ---
@@ -63,7 +68,8 @@ The [full article](http://www.nytimes.com/interactive/2012/08/05/sports/olympics
 
 ## Under Armour - 'Rule Yourself'
 
-<div align="center"><iframe src="https://www.youtube.com/embed/Xh9jAD1ofm4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+{{< youtube Xh9jAD1ofm4 >}}
+
 Michael Phelps is a machine. Four gold medals in Rio to add to four in London, EIGHT in Beijing, and six in Athens. I mean, really.
 
 He's literally built for it. His arm span is inches longer than his height, his lungs are two times the size they should be, his ankles hyper-extend (a.k.a natural flippers!), and he's got a long torso and relatively short legs. It's practically cheating.
@@ -82,13 +88,10 @@ Doing something that's nigh on impossible and knocking Phelps off the top spot i
 In fact, 'We're the Superhumans' is so popular that it's the second most-shared Olympic advert ever!
 
 I'll say no more - watch it now.
-<div align="center">
 
-<iframe src="https://www.youtube.com/embed/IocLkk3aYlk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{{< youtube IocLkk3aYlk >}}
 
 ---
-
-</div>
 
 ## Wall Street Journal - Inside the Floor Routine Once Thought Impossible
 
@@ -102,6 +105,5 @@ Whatever it means, she has just over 55 feet of floor to pull it off.
 
 They tumble so bloody fast across that mat this video does a great job of breaking each stage down in slow motion into all its composite flips and twists...which frankly makes it all the more incredible.
 
-<div align="center"><iframe src="https://www.youtube.com/embed/2VX29jEkyhA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+{{< youtube 2VX29jEkyhA >}}
 

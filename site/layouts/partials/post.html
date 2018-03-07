@@ -4,7 +4,23 @@
 			{{ partial "tags" . }}
 			<time datetime="{{ .Date }}">{{ partial "date" .Date }}</time>
 		</small>
-		<h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+		<h2>
+			{{ if index .Params "blog/categories" }}
+				{{ if ne (index (index .Params "blog/categories") 0) "instagram" }}
+					<a href="{{ .URL }}">{{ .Title }}</a>
+				{{ else }}
+					{{ .Content }}
+				{{ end }}
+			{{ else }}
+				<a href="{{ .URL }}">{{ .Title }}</a>
+			{{ end }}
+		</h2>
 	</div>
-	<a href="{{ .URL }}" class="post-blog__link"></a>
+	{{ if index .Params "blog/categories" }}
+		{{ if ne (index (index .Params "blog/categories") 0) "instagram" }}
+			<a href="{{ .URL }}" class="post-blog__link"></a>
+		{{ else }}
+			<a href="{{ .Params.originalURL }}" target="_blank" class="post-blog__link"></a>
+		{{ end }}
+	{{ end }}
 </article>

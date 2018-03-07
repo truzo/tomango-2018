@@ -39,7 +39,9 @@ This is a fantastic example of an integrated marketing effort. Waitrose's new 
 The opening TV advert, which will be filmed and broadcast today, comes from a dairy farm near Newbury that supplies milk to Waitrose. A future advert will show off the source of the free range eggs.
 
 All the assets for these adverts are coming straight from a SEVEN DAY live stream on YouTube - watch below.
-<div style="margin: 0px auto; text-align: center;"><iframe src="https://www.youtube.com/embed/u11d3--O9ww" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+{{< youtube "u11d3--O9ww" >}}
+
 The campaign comes just weeks after rival supermarket Tesco launched a range of meat and produce using [made-up farm names](http://www.theguardian.com/lifeandstyle/wordofmouth/2016/mar/22/tescos-fictional-farms-a-marketing-strategy-past-its-sell-by-date). Some of this packaging was marked as 'exclusive to Tesco' - I wonder how hard it is to get an exclusive distribution agreement with someone who doesn't exist?
 
 As well as being on YouTube, Waitrose's live streaming is being shown at some of the UK's busiest train stations. Train delayed? Why not watch bees making honey for half an hour instead!

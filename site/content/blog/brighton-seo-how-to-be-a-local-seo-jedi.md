@@ -52,7 +52,9 @@ You could interview a local celebrity, preview an upcoming event, or pen a 'top 
 ## Check it out for yourself
 
 The slides from this session - *How to Be A Local SEO Jedi* - are below.
-<div align="center"><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/34CvxlvnS1kkgm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></div>
+
+{{< slideshare "34CvxlvnS1kkgm" >}}
+
 For more from Greg, you can follow him [@GregGifford](http://www,twitter.com/greggifford), see more of his slide decks on [Slideshare](http://www.slideshare.net/GregGifford/), or read more of his writing on [SearchEngineLand](http://searchengineland.com/author/greg-gifford).
 
 

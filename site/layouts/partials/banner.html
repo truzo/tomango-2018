@@ -20,21 +20,21 @@
 
 		@media screen and (min-width: 769px) {
 			[role=banner] {
-				background-image: url('images/pattern.svg'), url('images/brandlines.svg');
+				background-image: var(--pattern), var(--brandlines);
 			}
 
 			[role=banner].top--home {
-				background-image: url('data:image/svg+xml;utf8,{{ safeHTML .Params.banner }}'), url('images/brandlines.svg');
+				background-image: url('data:image/svg+xml;utf8,{{ safeHTML .Params.banner }}'), var(--brandlines);
 			}
 
 			[role=banner].top--blog {
-				background-image: url('images/pattern.svg');
+				background-image: var(--pattern);
 			}
 		}
 
 		@media screen and (min-width: 1025px) {
 			[role=banner] {
-				background-image: url('data:image/svg+xml;utf8,{{ safeHTML .Params.banner }}'), url('images/brandlines.svg');
+				background-image: url('data:image/svg+xml;utf8,{{ safeHTML .Params.banner }}'), var(--brandlines);
 			}
 		}
 	</style>

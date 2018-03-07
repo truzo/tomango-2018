@@ -20,8 +20,28 @@
 		margin-top: 1.5rem;
 	}
 
+	div[style*="56.25"] {
+		margin-bottom: 30px;
+	}
+
+	twitterwidget {
+		width: 100%!important;
+		margin: 30px 0!important;
+	}
+
 	img {
 		margin-bottom: 30px;
+
+		&[title] {
+			margin-bottom: 0;
+
+			& + .caption {
+				display: block;
+				margin: 10px 0 30px;
+				font-size: 0.7em;
+				line-height: 1.5;
+			}
+		}
 	}
 
 	h2 {

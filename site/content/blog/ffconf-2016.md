@@ -25,13 +25,13 @@ The venue was The Duke of York’s in Brighton (Britain’s oldest working cine
 
 1. The [FR fraction unit](https://css-tricks.com/almanac/properties/g/grid-rows-columns/#article-header-id-1) looks pretty neat when combined with CSS Grid.
 1. As does the [minmax() function](https://developer.mozilla.org/en-US/docs/Web/CSS/minmax) - this can be used to great effect when working with CMS-driven content areas. Traditionally one would have to specify fixed values for complex height-matching layouts, then use JavaScript to update when the screen size changes. This function will move all of that into native CSS.
-1. <code class="language-css">grid-auto-fill: dense;</code> provides size-aware masonry layouts in native CSS.
+1. `grid-auto-fill: dense;` provides size-aware masonry layouts in native CSS.
 1. There are some accessibility pitfalls when it comes to using Grid and we must take these seriously.
 1. By mid-2017, Grid will be available in 60-70% of browsers overnight. We can start using it today with [@supports feature queries](https://developer.mozilla.org/en/docs/Web/CSS/@supports).
-1. <code class="language-css">display: contents;</code> moves child elements up to their parent’s level. This could be very useful for creating heavily optimised layouts on different viewports. We’ll be able to put wrappers around some elements, then hide the box-model around them, effectively removing the wrapper from the layout and lifting all child elements up a level.
+1. `display: contents;` moves child elements up to their parent’s level. This could be very useful for creating heavily optimised layouts on different viewports. We’ll be able to put wrappers around some elements, then hide the box-model around them, effectively removing the wrapper from the layout and lifting all child elements up a level.
 1. CSS shapes can use the alpha-channel to mask out an area for content to flow around - perfect for CMS-driven content.
-1. <code class="language-css">initial-letter</code> and <code class="language-css">writing-mode</code> look great for creating print-like layouts, not previously possible on the web.
-1. <code class="language-css">position: sticky;</code> will replace JavaScript sticky headers.
+1. `initial-letter` and `writing-mode` look great for creating print-like layouts, not previously possible on the web.
+1. `position: sticky;` will replace JavaScript sticky headers.
 
 
 I’m really excited to see what we can create with CSS Grid in the next few years - it's got the potential to radically change the way we design our broadly rectangular web. The slides from this talk are available [here](http://www.slideshare.net/rachelandrew/nextlevel-css).
@@ -121,7 +121,7 @@ After a tasty lunch of ‘Hipster chicken’, we took a deep-dive into the histo
 1. As images and text are sent using two separate sockets, the use of a font was the perfect solution for speedy emoji.
 1. Pictograms were first used in the 1964 Japanese Olympic Games to help foreign visitors navigate the Olympic village.
 1. Google suggested using Unicode to standardise the sprawling number of emoji implementations.
-1. The lesser-known <code class="language-markup">&lt;ruby&gt;</code> and <code class="language-markup">&lt;rt&gt;</code> elements can be used to add text to emoji.
+1. The lesser-known `<ruby>` and `<rt>` elements can be used to add text to emoji.
 
 
 

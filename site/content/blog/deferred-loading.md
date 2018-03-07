@@ -14,7 +14,7 @@ A slow website can even harm your search position; in 2010 Google started using 
 
 What can be done about this you ask? As with most internet optimisations, there are a plethora of ways to speed up your website and there’s always room for improvement. To paraphrase a certain Mr da Vinci “The quest for a faster website is never finished, only abandoned!” So, let’s get stuck in:
 
-One very simple improvement you can make is to load all the JavaScript at the bottom of the document just before the <code class="language-markup">&lt;/body&gt;</code> tag. For a static website, just drag your script elements down the page. Within WordPress, this can be done using the [wp_enqueue_script](http://codex.wordpress.org/Function_Reference/wp_enqueue_script) function and setting the *$in_footer* value. For example:
+One very simple improvement you can make is to load all the JavaScript at the bottom of the document just before the `</body>` tag. For a static website, just drag your script elements down the page. Within WordPress, this can be done using the [wp_enqueue_script](http://codex.wordpress.org/Function_Reference/wp_enqueue_script) function and setting the *$in_footer* value. For example:
 
 ```php
 <?php

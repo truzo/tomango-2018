@@ -4,6 +4,10 @@
 	<div class="wrap wrap--content content insulate">
 		{{ .Content }}
 	</div>
+
+	{{ if .Params.fullImage }}
+		<img class="full-image" src="images/created/{{ .Params.fullImage }}">
+	{{ end}}
 	
 	{{ if .Params.images }}
 		<figure class="project-image" style="background: #e9eae9;">
