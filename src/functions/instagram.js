@@ -3,11 +3,12 @@ const githubapi = require('github'),
   https = require('https');
 
 exports.handler = function(event, context, callback) {
-  const { caption, url, image, key } = JSON.parse(event.body);
-  const { IG_GIT_USER: user, IG_GIT_TOKEN: token, IG_GIT_REPO: repo, IG_SECRET_KEY } = process.env;  
+  const { caption: cap, url, image, key } = JSON.parse(event.body);
+  const { IG_GIT_USER: user, IG_GIT_TOKEN: token, IG_GIT_REPO: repo, IG_SECRET_KEY } = process.env;
+  let caption = cap || '';
 
   if (key !== IG_SECRET_KEY) return callback(null, { statusCode: 401, body: 'Incorrect key supplied' });
-  if (!image || !caption || !url) return callback(null, { statusCode: 400, body: 'Params not supplied' });
+  if (!image || !url) return callback(null, { statusCode: 400, body: 'Params not supplied' });
   
   const time = Date.now();
   const date = new Date();
