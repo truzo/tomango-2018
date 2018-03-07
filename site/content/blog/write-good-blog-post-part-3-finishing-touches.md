@@ -10,7 +10,7 @@ blog/categories:
 
 Keeping on top of your blog can be a difficult task (I should know) but there are a number of easy-to-follow tips that can help you beat that blank-page syndrome and ensure a steady flow of well-structured, interesting blog posts over a long period of time.
 
-Previously in this three part series, we have looked at "[Part 1: Getting Started](http://www.tomango.co.uk/thinks/write-good-blog-post-part-1-getting-started/)", which helped set topics and create an outline structure to your article and "[Part 2: Writing good content](http://www.tomango.co.uk/thinks/write-good-blog-post-part-2-writing-good-content/)", which helped get the full post written by breaking it down into bite-sized chunks.  In this last stage, "Part 3: Finishing touches", we look at the little touches that make your blog post work harder for your website or business, and round off with a few last tips.
+Previously in this three part series, we have looked at "[Part 1: Getting Started](/blog/write-good-blog-post-part-1-getting-started/)", which helped set topics and create an outline structure to your article and "[Part 2: Writing good content](/blog/write-good-blog-post-part-2-writing-good-content/)", which helped get the full post written by breaking it down into bite-sized chunks.  In this last stage, "Part 3: Finishing touches", we look at the little touches that make your blog post work harder for your website or business, and round off with a few last tips.
 
 So - you've written the post and added some images and links.  You're ready to publish, right?  Whoa there, cowboy - hold on just a minute.  There's a few last checks and balances you need to do before you hit the big red button...
 
@@ -30,11 +30,11 @@ Put yourself in your reader's shoes.  You've read through a very enjoyable and 
 
 Add a link, or even better a button, that offers them somewhere to go if they want to take their interest further.  Possible destinations could include:
 
-	<li>Sign up for our email newsletter
-	<li>View our products online
-	<li>Book your place/holiday/ticket
-	<li>Find out how we can help you
-	<li>Make an enquiry
+- Sign up for our email newsletter
+- View our products online
+- Book your place/holiday/ticket
+- Find out how we can help you
+- Make an enquiry
 
 
 
@@ -54,7 +54,7 @@ Check your copy, then check it again.  Read it through and if you're unsure of 
 
 ### What sounded right in your head when you wrote it might not look so good now
 
-When trying to strike a conversational tone (see Tip number 1 in "[Part 2: Writing good content](http://www.tomango.co.uk/thinks/write-good-blog-post-part-2-writing-good-content/)") it's easy to get the balance of your paragraphs wrong or use a conflicting tone within a sentence.  That joke that sounded hilarious in your head may not actually read quite right and could do with a little adjusting.  Don't be afraid to make changes; just remember to stick to the bite-sized chunks principle we used before.
+When trying to strike a conversational tone (see Tip number 1 in "[Part 2: Writing good content](/blog/write-good-blog-post-part-2-writing-good-content/)") it's easy to get the balance of your paragraphs wrong or use a conflicting tone within a sentence.  That joke that sounded hilarious in your head may not actually read quite right and could do with a little adjusting.  Don't be afraid to make changes; just remember to stick to the bite-sized chunks principle we used before.
 
 *Top tip*: You'll find it easier to come back for a read-through another time - tackle another task, go and have a cup of tea, do something - anything - else, and then come back to it.
 

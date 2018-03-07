@@ -18,7 +18,7 @@ Canadian Stroll did not seem to be all too comfortable in his new ride...in fact
 
 And thus, [www.hasstrollcrashedyet.com](http://www.hasstrollcrashedyet.com) was born.
 
-[![](images/blog/stroll-site-1024x452.jpg)](http://www.tomango.co.uk/wp-content/uploads/2017/03/stroll-site.jpg)
+![](images/blog/stroll-site-1024x452.jpg)
 
 A few strategic links placed on the [Formula 1 subreddit](http://www.reddit.com/r/formula1) saw the site take off. It spread to a variety of other online fan forums, and it led to a whopping *66,000* visits that week alone.
 
@@ -28,7 +28,7 @@ https://twitter.com/ScarbsTech/status/836989260272189441
 
 As well as a number of likes and shares on Facebook:
 
-[![](images/blog/strollsiteFB3-1024x418.png)](http://www.tomango.co.uk/wp-content/uploads/2017/03/strollsiteFB3.png)
+![](images/blog/strollsiteFB3-1024x418.png)
 
 The beauty of such a site, of course, is that there are plenty of opportunities throughout the 2017 Formula One season for Stroll to have a few more ding-dongs.
 
@@ -36,7 +36,7 @@ Unfortunately for him, it literally happened again in the [very first race meeti
 
 A testament to how far the site immediately permeated the F1 fandom was that we received another another 19,000 visits in the immediate 24 hours following - although Trys has to be a quicker off the mark when it comes to updating it! (We'll let him off though, it was in Australia after all).
 
-[![](images/blog/strollanalytics-1024x283.png)](http://www.tomango.co.uk/wp-content/uploads/2017/03/strollanalytics.png)
+![](images/blog/strollanalytics-1024x283.png)
 
 ---
 
@@ -52,19 +52,21 @@ This site was ready for the second week of pre-season testing in mid-March. Once
 
 To our surprise he gave it a mention.
 
-[![](images/blog/bbcstroll1.png)](images/blog/bbcstroll1.png)
+![](images/blog/bbcstroll1.png)
 
 We sat there watching the live Google Analytics, and the numbers started to tick upwards...
 
-...and then what do you know. Not an hour later, one of the McLaren's broke down![![](images/blog/bbcstroll2-e1490804593533.png)](http://www.tomango.co.uk/wp-content/uploads/2017/03/bbcstroll2.png)
+...and then what do you know. Not an hour later, one of the McLaren's broke down!
+
+![](images/blog/bbcstroll2-e1490804593533.png)
 
 At one point there were over 3,000 people viewing the site simultaneously. For that day alone the page received a mammoth *135,000 *hits, as well as premier BBC F1 journalist Andrew Benson giving it a shout out:
 
-https://twitter.com/andrewbensonf1/status/840150395028680704
+{{< tweet 840150395028680704 >}}
 
 Similar to Stroll, McLaren also found problems at the first race of the season. This meant that, across the race weekend, another *15,000* came back to the site!
 
-[![](images/blog/mclarenanalytics-1024x278.png)](http://www.tomango.co.uk/wp-content/uploads/2017/03/mclarenanalytics.png)
+![](images/blog/mclarenanalytics-1024x278.png)
 
 ---
 

@@ -44,7 +44,7 @@ So what did I do? Well, like any sane, rational and responsible person I decided
 
 For those who don’t know – and that’s practically everyone reading this – [Bishop](http://bit.ly/2pB23yN) is all about world-class bouldering. My plan was to have my adventure, come back to England a few months later and pick up my career.
 
-[![](images/blog/stained-glass-2009-1024x754.jpg)](http://www.tomango.co.uk/wp-content/uploads/2017/05/stained-glass-2009.jpg)
+[![](images/blog/stained-glass-2009-1024x754.jpg)](/images/blog/stained-glass-2009-1024x754.jpg)
 
 Fast forward to 2012 and I’m not back in Yorkshire, but renting a room in Salt Lake City, Utah hanging out with a Chihuahua called Santos.
 

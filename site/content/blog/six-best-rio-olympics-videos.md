@@ -89,7 +89,8 @@ I'll say no more - watch it now.
 ---
 
 </div>
-<h2 style="text-align: left;" align="center">Wall Street Journal - Inside the Floor Routine Once Thought Impossible
+
+## Wall Street Journal - Inside the Floor Routine Once Thought Impossible
 
 It's back to gymnastics for the last video in the list, because it's seriously impressive.
 
@@ -100,11 +101,7 @@ Her floor routine contains moves other competitors won't even attempt. She expla
 Whatever it means, she has just over 55 feet of floor to pull it off.
 
 They tumble so bloody fast across that mat this video does a great job of breaking each stage down in slow motion into all its composite flips and twists...which frankly makes it all the more incredible.
-<div align="center">
 
-## <iframe src="https://www.youtube.com/embed/2VX29jEkyhA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<div></div>
-</div>
+<div align="center"><iframe src="https://www.youtube.com/embed/2VX29jEkyhA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 

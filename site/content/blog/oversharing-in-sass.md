@@ -23,7 +23,7 @@ What it can do is help you write maintainable and scalable code that whole teams
 
 Variables in SASS are much like variables in other programming languages. In their most basic form, they simply store information. Once assigned, they can be used multiple times through the codebase instead of hard-coding values.
 
-A pretty standard use-case would be storing brand colours for a website. If the primary colour is a red with the hex code: <code class="language-scss">#E94E4E</code>, there would be some benefit to storing this value once as <code class="language-scss">$brand-primary</code> (or something to that effect), then referencing the variable name throughout the rest of the SASS.
+A pretty standard use-case would be storing brand colours for a website. If the primary colour is a red with the hex code: `#E94E4E`, there would be some benefit to storing this value once as `$brand-primary` (or something to that effect), then referencing the variable name throughout the rest of the SASS.
 
 This greatly reduces the chances of human-error creeping in and causing hex codes to be slightly different across different files. It’s also a lot easier to remember than a hex code.
 
@@ -45,15 +45,15 @@ Assignment of variables should be considered in the light of the whole CSS archi
 
 It’s easy to overlook a variable name given that the information it holds is the primary reason for its use. However, I would argue that the name is as crucial to the dependability of the variable.
 
-A variable like <code class="language-scss">$brand-primary</code> gives no indication of the colour, but it does suggest that it will be the main colour required for the brand. If the brand changes, so will this variable.
+A variable like `$brand-primary` gives no indication of the colour, but it does suggest that it will be the main colour required for the brand. If the brand changes, so will this variable.
 
-<code class="language-scss">$brand-red</code> could well hold the same hex code as <code class="language-scss">$brand-primary</code>, but the name doesn’t actually tell you that. It just says that you’re going to get a red from the brand palette.
+`$brand-red` could well hold the same hex code as `$brand-primary`, but the name doesn’t actually tell you that. It just says that you’re going to get a red from the brand palette.
 
 Both have very real use-cases, and *as long as their names are interpreted as above*, they can be very dependable.
 
-A potentially poorer variable name would be <code class="language-scss">$grey</code>. It doesn’t say whether it’s part of the brand palette, just that it represents the colour grey. Problems can occur when a developer uses that variable for three separate areas of the website, for example: a call to action background, the colour of a horizontal rule and the border surrounding an input.
+A potentially poorer variable name would be `$grey`. It doesn’t say whether it’s part of the brand palette, just that it represents the colour grey. Problems can occur when a developer uses that variable for three separate areas of the website, for example: a call to action background, the colour of a horizontal rule and the border surrounding an input.
 
-By default, these elements aren't linked in any way - they're totally independant and serve different purposes. However, when we used <code class="language-scss">$grey</code> as a variable on each element, we create a link between them. It’s not unreasonable to think that in 6 months time, a different developer could come along with the task of changing the background colour of the call to action from a light grey to dark grey. They could see the variable <code class="language-scss">$grey</code>, trace it back to where it's assigned, make the change there and in turn unintentionally affect all linked elements.
+By default, these elements aren't linked in any way - they're totally independant and serve different purposes. However, when we used `$grey` as a variable on each element, we create a link between them. It’s not unreasonable to think that in 6 months time, a different developer could come along with the task of changing the background colour of the call to action from a light grey to dark grey. They could see the variable `$grey`, trace it back to where it's assigned, make the change there and in turn unintentionally affect all linked elements.
 
 This is the problem with oversharing variables in SASS; it can increase the chance of unintentional mistakes if left unchecked.
 
@@ -67,24 +67,24 @@ It’s super easy to use the first name that pops into your head as sadly, namin
 
 It’s surprisingly common to see colours defined like this:
 
-- <code class="language-scss">$grey: #666;</code>
-- <code class="language-scss">$grey-light: #EEE;</code>
-- <code class="language-scss">$grey-dark: #333;</code>
-- <code class="language-scss">$grey-darkest: #111</code>
-- <code class="language-scss">$grey-darker: #000</code>
+- `$grey: #666;`
+- `$grey-light: #EEE;`
+- `$grey-dark: #333;`
+- `$grey-darkest: #111`
+- `$grey-darker: #000`
 
 
 Another common candidate for shortsighted variable names is media query definitions. It’ll often start something like this:
 
-- <code class="language-scss">$mq-mobile: 480px;</code>
-- <code class="language-scss">$mq-tablet: 768px;
-</code>
-- <code class="language-scss">$mq-desktop: 1024px;</code>
+- `$mq-mobile: 480px;`
+- `$mq-tablet: 768px;
+`
+- `$mq-desktop: 1024px;`
 
 
-But very quickly, it becomes apparent that the above won’t cut it, so names like <code class="language-scss">$mq-phablet</code> and <code class="language-scss">$mq-large-desktop</code> start to creep in.
+But very quickly, it becomes apparent that the above won’t cut it, so names like `$mq-phablet` and `$mq-large-desktop` start to creep in.
 
-Once you get to <code class="language-scss">$mq-phablet-and-a-bitlet</code> you realise that *specifying media query variable names is ultimately futile* and trying to shoehorn a component to work with a preset breakpoint ends up with a compromised end-product.
+Once you get to `$mq-phablet-and-a-bitlet` you realise that *specifying media query variable names is ultimately futile* and trying to shoehorn a component to work with a preset breakpoint ends up with a compromised end-product.
 
 ## The future of CSS
 

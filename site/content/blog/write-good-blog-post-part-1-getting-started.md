@@ -8,7 +8,7 @@ blog/categories:
  - web-design
 ---
 
-The benefits of having an active blog on your website are well established - in fact, we've written a [blog post about it](http://www.tomango.co.uk/thinks/blogging-why-when-and-how-you-should-do-it/) - but I'm well aware that for many, the prospect of writing a few hundred words once a week brings them out in a cold sweat.  So I've put together a more detailed guide to Writing a Blog Post, to help make the whole process a little more palatable.
+The benefits of having an active blog on your website are well established - in fact, we've written a [blog post about it](/blog/blogging-why-when-and-how-you-should-do-it/) - but I'm well aware that for many, the prospect of writing a few hundred words once a week brings them out in a cold sweat.  So I've put together a more detailed guide to Writing a Blog Post, to help make the whole process a little more palatable.
 
 Initially I was planning on writing a single post on this topic, but soon realised (by following the principles I'm going to tell you about in a minute) that the amount of content lends itself to splitting the post into 3 parts;
 

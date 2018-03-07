@@ -44,7 +44,7 @@ So you need to decide - do you want to invest your hard-earned cash in a website
 
 Park your ego outside and put yourself in your customer's shoes.
 
-What do they want to see, what do they need to do, when they use the website? Take the time to develop [personas](http://www.tomango.co.uk/thinks/what-are-personas/) and keep referring back to them during the design process. Keep your customer at the centre.
+What do they want to see, what do they need to do, when they use the website? Take the time to develop [personas](/blog/what-are-personas/) and keep referring back to them during the design process. Keep your customer at the centre.
 
 ![](images/blog/park-your-ego-outside.jpg "Leave your ego outside and think about what your customers want")
 
@@ -58,7 +58,7 @@ Decisions are made based on their own experience or preferences, and you get a s
 
 Use Google Analytics from your current site to get insights in to how your existing customers behave. What pages are popular? Where do users go from the home page? How many end up converting into an enquiry or sale? Use the data to make informed decisions about what the site should focus on.
 
-Create a series of [Personas](http://www.tomango.co.uk/thinks/what-are-personas/) for your target users. Many truths are uncovered at this stage about how customers need to use the site and what their motivation is. Always refer back to your Personas at any stage of the project where decisions need to be made.
+Create a series of [Personas](/blog/what-are-personas/) for your target users. Many truths are uncovered at this stage about how customers need to use the site and what their motivation is. Always refer back to your Personas at any stage of the project where decisions need to be made.
 
 ![](images/blog/personas-examples.jpg "Personas provide all the insight you need to make good decisions when planning and designing a new website")
 

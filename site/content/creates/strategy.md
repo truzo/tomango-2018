@@ -24,4 +24,4 @@ You’ll have a clear plan of action to follow over the coming months and years.
 
 And you’ll gain insights and ideas about your business that you hadn’t even thought about.
 
-{{< button "/contact/" >}}Let's get started{{</ button >}}
+{{< button "/discovery/" >}}Let's get started{{</ button >}}

@@ -18,7 +18,7 @@ blog/categories:
 
 We’ve been working with [Agon Systems](http://www.agon-systems.com/) for a number of years; creating their brand identity, designing and building their website, leading their digital marketing strategy, creating exhibition stands, stationery and presentation boxes, and most recently, building a single-page website for one of their biggest distribution products: [Concept Tag](http://www.concepttag.com/).
 
-[![](images/blog/concept-tag.jpg "Concept Tags and a releaser unit")](images/blog/concept-tag.jpg)
+![](images/blog/concept-tag.jpg "Concept Tags and a releaser unit")
 
 The Concept Tag is a new type of retail security tag that is revolutionising the industry. Its unique locking mechanism makes it almost impenetrable, and recent extensive trials resulted in losses being reduced by up to 66%.
 
@@ -92,25 +92,25 @@ The pros and cons list looks remarkably different for a PWA:
 
 As a PWA is in essence a website that can be installed and used offline, we were able to approach the project in the same way we would a ‘normal’ responsive website. But we were also able to use some ‘app-like’ design standards to help those viewing the site on a smaller device feel right at home.
 
-[![](images/blog/app-1-home-1024x755.jpg "The opening screen")](http://www.tomango.co.uk/wp-content/uploads/2017/06/app-1-home.jpg)
+![](images/blog/app-1-home-1024x755.jpg "The opening screen")
 
-[![](images/blog/app-2-videos-1024x755.jpg "Browse the training videos")](http://www.tomango.co.uk/wp-content/uploads/2017/06/app-2-videos.jpg)
+![](images/blog/app-2-videos-1024x755.jpg "Browse the training videos")
 
-[![](images/blog/app-5-help-1024x755.jpg "Modal window for immediate contact information")](http://www.tomango.co.uk/wp-content/uploads/2017/06/app-5-help.jpg)
+![](images/blog/app-5-help-1024x755.jpg "Modal window for immediate contact information")
 
 As most of the training content would be provided in a video format, we designed a custom media player to keep the PWA consistently on-brand.
 
-[![](images/blog/app-3-video-1024x755.jpg "Bespoke media player")](http://www.tomango.co.uk/wp-content/uploads/2017/06/app-3-video.jpg)
+![](images/blog/app-3-video-1024x755.jpg "Bespoke media player")
 
-[![](images/blog/app-4-media-1024x755.jpg "Full screen media player")](http://www.tomango.co.uk/wp-content/uploads/2017/06/app-4-media.jpg)
+![](images/blog/app-4-media-1024x755.jpg "Full screen media player")
 
 On larger screens, we were able to shift to a more traditional ‘desktop’ experience with ease. The beauty of a PWA is that this is a single website using responsive design techniques to optimise each device. We don’t have to release separate iPhone, iPad and Android versions.
 
-[![](images/blog/MacBook-Pro-mockup-1024x614.jpg "The PWA on a laptop")](http://www.tomango.co.uk/wp-content/uploads/2017/06/MacBook-Pro-mockup.jpg)
+![](images/blog/MacBook-Pro-mockup-1024x614.jpg "The PWA on a laptop")
 
 ## Developing a PWA
 
-Using a Javascript framework to build a website is not uncommon these days. I [ranted about them](http://www.tomango.co.uk/thinks/right-use-framework-name/) on this blog last year. In that piece, I wrote the following:
+Using a Javascript framework to build a website is not uncommon these days. I [ranted about them](/blog/right-use-framework-name/) on this blog last year. In that piece, I wrote the following:
 
 > The biggest issue however, is the sole reliance on Javascript to serve content. If a framework requires rendering a page with no content just so it can take control, count me out. Although the days of users without Javascript are pretty much over, there’s still no reason not to serve content in the first response from the server. If connection speeds are struggling, I’d rather not wait for 1MB of Javascript to download and parse before requesting the actual page content, thank you very much.
 

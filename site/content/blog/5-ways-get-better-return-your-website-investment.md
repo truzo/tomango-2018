@@ -40,9 +40,9 @@ Furthermore, cheaper websites often have a great-looking home page, but when you
 
 This third point has a very obvious and direct benefit.  If you can manage your site yourself on a day-to-day, week-to-week basis, you won't have to pay your web designer each time something needs updating.  Most websites these days will come with a Content Management System (CMS), but by paying more you'll get a system that:
 
-	<li>Is easy to learn and use - the easier it is to use, the more you'll use it and the better and more up-to-date your site will be
-	<li>Is flexible so you can change anything and everything you need to - often we hear tales of how limited (and frustrating) a system might be
-	<li>Enables you to add new pages or content without breaking the design, so you can grow the site (making it last longer) without compromising the quality of the design
+- Is easy to learn and use - the easier it is to use, the more you'll use it and the better and more up-to-date your site will be
+- Is flexible so you can change anything and everything you need to - often we hear tales of how limited (and frustrating) a system might be
+- Enables you to add new pages or content without breaking the design, so you can grow the site (making it last longer) without compromising the quality of the design
 
 
 

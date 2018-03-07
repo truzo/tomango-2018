@@ -50,26 +50,26 @@ Coming up with suitable topics to blog about seems to be the thing clients find 
 ### A list of 20 ideas for blog post topics
 
 
-	<li>Review a product
-	<li>Opinion on a hot topic within your industry
-	<li>"How to" topics - "How to plan your pension", "How to install a shower tray", "How to choose a good designer"
-	<li>A recent business event - include images and/or video
-	<li>Something about your staff
-	<li>Recent new business or completed projects
-	<li>Share a solution to a problem you recently had
-	<li>Compare products - "Top five microwaves for 2014" or "Apple vs Samsung"
-	<li>Top 5 or Top 10 products for a particular use/market
-	<li>Industry news stories - but don't just copy and paste from elsewhere, you should add your own angle or thoughts
-	<li>Company news - promotions, new staff, new arrivals, significant milestones etc.
-	<li>Recruitment - use your blog to advertise for staff
-	<li>"What we've been up to this month" - round up of company news, new business, completed projects etc.
-	<li>Client case study, including a testimonial
-	<li>PR piece about your business - have you appeared in the local or national press?
-	<li>A question you've been asked by a client/customer, and the solution
-	<li>Change of rules or regulations in your industry
-	<li>Involved with food? Write or share recipes
-	<li>Christmas or Summer Holiday opening hours
-	<li>Seasonal promotions for Christmas, Valentines, Mothers Day, Easter, Summer Holiday, Back to School, Halloween and Bonfire Night
+- Review a product
+- Opinion on a hot topic within your industry
+- "How to" topics - "How to plan your pension", "How to install a shower tray", "How to choose a good designer"
+- A recent business event - include images and/or video
+- Something about your staff
+- Recent new business or completed projects
+- Share a solution to a problem you recently had
+- Compare products - "Top five microwaves for 2014" or "Apple vs Samsung"
+- Top 5 or Top 10 products for a particular use/market
+- Industry news stories - but don't just copy and paste from elsewhere, you should add your own angle or thoughts
+- Company news - promotions, new staff, new arrivals, significant milestones etc.
+- Recruitment - use your blog to advertise for staff
+- "What we've been up to this month" - round up of company news, new business, completed projects etc.
+- Client case study, including a testimonial
+- PR piece about your business - have you appeared in the local or national press?
+- A question you've been asked by a client/customer, and the solution
+- Change of rules or regulations in your industry
+- Involved with food? Write or share recipes
+- Christmas or Summer Holiday opening hours
+- Seasonal promotions for Christmas, Valentines, Mothers Day, Easter, Summer Holiday, Back to School, Halloween and Bonfire Night
 
 
 
@@ -97,9 +97,9 @@ Go for quality over quantity; a useful, interesting blog post about a well-chose
 
 Ideally, your blog posts should have your own style and tone to them but, seeing as this post is supposed to be about making your life easier, we'd love to point you in the direction of our three part blog post about "How to write a good blog post":
 
-[How to write a good blog post - Part 1: Getting started](http://www.tomango.co.uk/thinks/write-good-blog-post-part-1-getting-started/)
-[How to write a good blog post - Part 2: Writing good content](http://www.tomango.co.uk/thinks/write-good-blog-post-part-2-writing-good-content/)
-[How to write a good blog post - Part 3: Finishing touches](http://www.tomango.co.uk/thinks/write-good-blog-post-part-3-finishing-touches/)
+[How to write a good blog post - Part 1: Getting started](/blog/write-good-blog-post-part-1-getting-started/)
+[How to write a good blog post - Part 2: Writing good content](/blog/write-good-blog-post-part-2-writing-good-content/)
+[How to write a good blog post - Part 3: Finishing touches](/blog/write-good-blog-post-part-3-finishing-touches/)
 
 ## 6. Who should write my blog?  Can't someone do it for me?
 

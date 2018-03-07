@@ -30,6 +30,7 @@ This points to a wider issue: using images in place of content. There are some p
 ## The solution
 
 I wanted to see how possible it would be to make a CSS equivalent of this image. After 15 minutes of work in Codepen, I'd come up with the following:
+
 <p class="codepen" data-height="400" data-theme-id="1323" data-slug-hash="EwQPKw" data-default-tab="css,result" data-user="trys" data-embed-version="2" data-pen-title="Moonpig - how to do buttons">See the Pen [Moonpig - how to do buttons](https://codepen.io/trys/pen/EwQPKw/) by Trys Mudford ([@trys](https://codepen.io/trys)) on [CodePen](https://codepen.io).</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
@@ -37,7 +38,7 @@ This works pretty nicely, it scales well, it responds to hover and active intera
 
 ## Sharing the code
 
-It's pretty normal for an agency to dissect and discuss a rebrand/redesign of a large company, it keeps us sharp and gives us an idea of current trends. We're also keen not to [jump on the brandwagon](http://www.tomango.co.uk/thinks/jumping-brandwagon-important-understand-brief-new-brand/) and dismiss someone's work without knowing the brief. For that reason, we rarely express our opinions publicly. However, in this instance, the accessibility impact of these buttons seemed to justify tipping them off to the problem. Hopefully a more accessible solution will be deployed in the near future.
+It's pretty normal for an agency to dissect and discuss a rebrand/redesign of a large company, it keeps us sharp and gives us an idea of current trends. We're also keen not to [jump on the brandwagon](/blog/jumping-brandwagon-important-understand-brief-new-brand/) and dismiss someone's work without knowing the brief. For that reason, we rarely express our opinions publicly. However, in this instance, the accessibility impact of these buttons seemed to justify tipping them off to the problem. Hopefully a more accessible solution will be deployed in the near future.
 
 {{< tweet 916290097477246976 >}}
 

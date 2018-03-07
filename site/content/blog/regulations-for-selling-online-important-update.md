@@ -24,9 +24,9 @@ In this article, we'll be concentrating on the parts of the regulations that rel
 
 > 
 
-	<li>An online seller can no longer charge a customer for additional items added by a pre-ticked box
-	<li>A customer can cancel a service contract online, such as a gym membership, 14 days after they enter it
-	<li>Customers should get a refund within 14 days of cancelling goods or services online or within 14 days of returning the goods to the seller
+- An online seller can no longer charge a customer for additional items added by a pre-ticked box
+- A customer can cancel a service contract online, such as a gym membership, 14 days after they enter it
+- Customers should get a refund within 14 days of cancelling goods or services online or within 14 days of returning the goods to the seller
 
 
 
@@ -36,12 +36,12 @@ In this article, we'll be concentrating on the parts of the regulations that rel
 
 The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 - as they're known in full - require you as an online seller to provide your customer with certain information:
 
-	<li>a description of the goods or service, including how long any commitment will last on the part of the consumer/customer
-	<li>the total price of the goods or service, or the manner in which the price will be calculated if this can’t be determined
-	<li>cost of delivery and details of who pays for the cost of returning items if the customer has the right to cancel and change their mind
-	<li>details of any right to cancel - the seller also needs to provide, or make available, a standard cancellation form to make cancelling easy (although the customer isn't under any obligation to use it)
-	<li>information about you, the seller, including your geographical address and phone number
-	<li>information on the compatibility of digital content with hardware and other software is also part of the information online traders are obliged to provide
+- a description of the goods or service, including how long any commitment will last on the part of the consumer/customer
+- the total price of the goods or service, or the manner in which the price will be calculated if this can’t be determined
+- cost of delivery and details of who pays for the cost of returning items if the customer has the right to cancel and change their mind
+- details of any right to cancel - the seller also needs to provide, or make available, a standard cancellation form to make cancelling easy (although the customer isn't under any obligation to use it)
+- information about you, the seller, including your geographical address and phone number
+- information on the compatibility of digital content with hardware and other software is also part of the information online traders are obliged to provide
 
 
 It's worth making sure you comply with providing this information correctly, as "failure to provide the required information, or to provide it in the way set out in the regulations, could result in cancellation rights being extended by up to a year."  Yikes.
@@ -50,9 +50,9 @@ It's worth making sure you comply with providing this information correctly, as 
 
 For more details and the small print on these regulations, we suggest you take a look at these articles:
 
-	<li>[Which? website covers the regulations from the customer's point of view](http://www.which.co.uk/consumer-rights/regulation/consumer-contracts-regulations)
-	<li>[Gov.uk has produced a lengthy PDF with all the info you might need](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/310044/bis-13-1368-consumer-contracts-information-cancellation-and-additional-payments-regulations-guidance.pdf)
-	<li>[Trading Standards has a detailed guide and an example of a cancellation form](http://www.businesscompanion.info/quick-guides/distance-sales/distance-sales-from-13-june-2014)
+- [Which? website covers the regulations from the customer's point of view](http://www.which.co.uk/consumer-rights/regulation/consumer-contracts-regulations)
+- [Gov.uk has produced a lengthy PDF with all the info you might need](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/310044/bis-13-1368-consumer-contracts-information-cancellation-and-additional-payments-regulations-guidance.pdf)
+- [Trading Standards has a detailed guide and an example of a cancellation form](http://www.businesscompanion.info/quick-guides/distance-sales/distance-sales-from-13-june-2014)
 
 
 

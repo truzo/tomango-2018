@@ -9,7 +9,7 @@ blog/categories:
  - web-design
 ---
 
-Following on from my recent post on [How to organise content for your website](http://www.tomango.co.uk/thinks/organise-content-website/), I've noticed something that's kept cropping up for discussion over recent projects - how best to organise a portfolio of projects.
+Following on from my recent post on [How to organise content for your website](/blog/organise-content-website/), I've noticed something that's kept cropping up for discussion over recent projects - how best to organise a portfolio of projects.
 
 The best option to take usually depends on the content available, and in particular the spread of different projects across different categories or sectors.
 

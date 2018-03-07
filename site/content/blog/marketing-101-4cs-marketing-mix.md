@@ -56,7 +56,7 @@ If you can make the tangible product and meet the needs of the consumer by impro
 
 One of the most important aspects of a product - tangible or intangible - is the brand. <span style="line-height: 1.5;">A [strong brand](http://www.tomango.co.uk/creates/brand/) can help differentiate within the market and be a useful marketing asset in itself. </span>
 
-Not sure if your business' brand is up to scratch? Read our previous post on [how to write an effective brand design brief](http://www.tomango.co.uk/thinks/how-to-create-a-brand-design-brief/).
+Not sure if your business' brand is up to scratch? Read our previous post on [how to write an effective brand design brief](/blog/how-to-create-a-brand-design-brief/).
 
 ---
 
@@ -83,13 +83,9 @@ Setting a price shouldn't be seen as an easy task. It should depend on your busi
 
 Your price point can also depend on the type of market you're trading in.
 
- 	<li style="list-style-type: none;">
-
 - If you're in a *monopoly*, congratulations! You're the only company, so you can set whatever price you want. In the real world, however, you'll probably find there's some sort of governmental department that legislates on monopolistic markets. The UK, for instance, has the [Competition and Markets Authority](https://www.gov.uk/government/organisations/competition-and-markets-authority) (previously the Competitions Commission).
 - An *oligopoly* is a market with a few strong competitors, each with a big market share. If you're in these markets you'll probably be very careful about your pricing strategy, as any change can lead to repercussions in terms of competitive responses.
 - A *monopolistic competition* market is where the barriers for entry to the market are quite low and there are many suppliers. Suppliers try to differentiate their product as being better so that they can justify higher prices or to have a larger market share than the competition. This could involve putting a spotlight on the augmented product to give you a competitive edge (e.g. you give a longer warranty on your tech product).
-
-
 
 
 
@@ -118,7 +114,7 @@ Tools for communicating with your audience should be used in an effective manne
 
 You don't want to go too generic and force your message onto unwilling people - think of U2 and their collaboration with Apple to automatically download their album __Songs of Innocence__ onto every iPhone...[didn't go down too well, did it](http://www.cnet.com/uk/how-to/how-to-hide-the-u2-album-from-your-ios-device/)?
 
-For some cool examples of how to use one of those new promotional channels, see '[3 ridiculously cool things you can do with targeted Facebook Ads](http://www.tomango.co.uk/thinks/cool-facebook-ad-experiments/)'.
+For some cool examples of how to use one of those new promotional channels, see '[3 ridiculously cool things you can do with targeted Facebook Ads](/blog/cool-facebook-ad-experiments/)'.
 
 ---
 

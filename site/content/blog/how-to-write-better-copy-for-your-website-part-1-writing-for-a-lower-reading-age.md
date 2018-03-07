@@ -33,7 +33,7 @@ I'd like to share with you *my* understanding of the analysis and how I've appli
 
 The Flesch-Kincaid test is a formula that calculates very quickly the "reading level" of any piece of written work, whether it's a short chapter in a book or a 1000-word report.
 
-[![](images/blog/29a1072-1024x625.jpg "Reading level of bestselling authors books (Copyright Shane Snow)")](http://www.tomango.co.uk/wp-content/uploads/2015/04/29a1072.jpg)
+![](images/blog/29a1072-1024x625.jpg "Reading level of bestselling authors books - Copyright Shane Snow")
 
 It works this out from the number of syllables in the words, the length of sentences and lots of other stuff including how complicated the vocabulary is and gives it a score in line with the school reading age that would be able to understand it.
 

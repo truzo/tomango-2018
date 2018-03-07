@@ -19,9 +19,9 @@ The problem Kelsey had was that, over the previous few years, various online mar
 
 In the first phase of the project we carefully went through all the costs they were paying for their [online marketing](http://www.tomango.co.uk/creates/online-marketing/) and created a joined-up strategy that;
 
-	<li>Eliminated any unnecessary expenditure
-	<li>Focused on the target market
-	<li>Provided the best return on investment (ROI)
+- Eliminated any unnecessary expenditure
+- Focused on the target market
+- Provided the best return on investment (ROI)
 
 
 ![](images/blog/kelsey-slider1.jpg "Since launching the fully-responsive website in February 2013, web traffic has increased by 83%.")
@@ -59,7 +59,7 @@ Write down your plan.  This might sound daft, but by writing it down you can re
 
 We've written a couple of blog posts about the challenges of putting together a joined up online marketing campaign that you might find useful to read:
 
-[What's your tipple? Finding the right online marketing mix](http://www.tomango.co.uk/thinks/whats-tipple-finding-right-online-marketing-mix/)
+[What's your tipple? Finding the right online marketing mix](/blog/whats-tipple-finding-right-online-marketing-mix/)
 An online marketing campaign is not a one-size-fits-all kind of deal - what works for one business might not work for you.  In this post we explore some of the more common ingredients that make up the perfect marketing cocktail for your business.
 
 

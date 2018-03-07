@@ -3,6 +3,9 @@ title: Web
 excerpt: By designing an effective website, we'll attract your target visitors and turn them into customers.
 image: images/creates/web.jpg
 weight: 20
+related: 
+  - concept-tag
+  - hop
 ---
 
 **A strong web presence attracts your target visitors and turns them into your new customers.**
@@ -16,10 +19,10 @@ It must be easy to find, easy to use, easy to update and must work perfectly –
 We've been developing websites for over 15 years. Our hige experience in planning, designing and building website and web applications will give you the edge over your competitors.
 
 {{< quote
-	link="/created/fludes-carpets"
+	link="/created/hop/"
 	image="images/what-we-do/1000/brand.jpg"
-	body="Almost from day one visits to the Karndean pages increased and the enquiries we had as a result were firm sales opportunities."
-	citation="Andy Laird, Managing Director, Fludes Carpets"
+	body="Our new site’s repositioned us at the top of our industry and is definitely helping us attract more of the projects we want to win."
+	citation="Adam Humphrey, Director, HOP"
 >}}
 
 ## Our process

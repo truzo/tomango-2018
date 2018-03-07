@@ -82,7 +82,7 @@ And it worked! One dealer attributed fifteen sets of tyres to that campaign alo
 
 Greg calls these *Facebook Local Awareness Ads* "[the most kick-ass thing in the history of marketing ever](https://youtu.be/Pj-ovFUalXs?t=21m57s)." He might be right!
 
-You can read more about what I gleaned from Greg's Local SEO training on a [previous blog](http://www.tomango.co.uk/thinks/brighton-seo-how-to-be-a-local-seo-jedi/).
+You can read more about what I gleaned from Greg's Local SEO training on a [previous blog](/blog/brighton-seo-how-to-be-a-local-seo-jedi/).
 
 ---
 

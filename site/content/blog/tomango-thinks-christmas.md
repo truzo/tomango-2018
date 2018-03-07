@@ -44,7 +44,7 @@ Nikki: "Home Alone."
 
 Mark: "It's a Wonderful Life."
 
-__ And, just to make everyone feel old...did you know that Macauley Culkin is now the same age his mother was when Home Alone was filmed?__
+__And, just to make everyone feel old...did you know that Macauley Culkin is now the same age his mother was when Home Alone was filmed?__
 
 ## Best thing about Christmas?
 
@@ -75,7 +75,7 @@ Mike: "The 19th of December."
 Trys: "Given I start listening to Christmas songs in June/July, sometime around then? Maybe September at a push."
 <div align="center">
 
-[![](images/blog/487781-300x184.gif "Basically Trys as soon as Easter's done with")](http://www.tomango.co.uk/wp-content/uploads/2016/12/487781.gif)
+![](images/blog/487781-300x184.gif "Basically Trys as soon as Easter's done with")
 
 </div>
 &nbsp;
@@ -150,7 +150,7 @@ Steve - "Peace on Earth."
 Mike: "My Christmas wish would have to be that the Monopoly board stays in the cupboard!"
 <div align="center">
 
-[![](images/blog/Daniel-Craig-Knocking-Over-Monopoly-Board-SNL.gif "What Mike's trying to avoid this Christmas")](images/blog/Daniel-Craig-Knocking-Over-Monopoly-Board-SNL.gif)
+![](images/blog/Daniel-Craig-Knocking-Over-Monopoly-Board-SNL.gif "What Mike's trying to avoid this Christmas")
 
 </div>
 Nikki: "That no-one's ill at Christmas..."
@@ -161,6 +161,6 @@ Tom: "That my undefeated Monopoly run that stretches back to 2012 remains intact
 
 ---
 
-Merry Christmas from all at Tomango! For full information on our opening hours over the festive period we've listed them [here](http://www.tomango.co.uk/thinks/christmas-2016-opening-hours/).
+Merry Christmas from all at Tomango! For full information on our opening hours over the festive period we've listed them [here](/blog/christmas-2016-opening-hours/).
 
 

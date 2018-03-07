@@ -9,7 +9,7 @@ blog/categories:
  - web-design
 ---
 
-So you've decided [you need a new website](http://www.tomango.co.uk/thinks/do-i-need-a-new-website/), settled on [the type of website you need](http://www.tomango.co.uk/thinks/what-sort-of-website-do-i-need/), and [created a website design brief](http://www.tomango.co.uk/thinks/create-website-design-brief-download-template/). You're ready to put the feelers out so you can choose a web design agency.
+So you've decided [you need a new website](/blog/do-i-need-a-new-website/), settled on [the type of website you need](/blog/what-sort-of-website-do-i-need/), and [created a website design brief](/blog/create-website-design-brief-download-template/). You're ready to put the feelers out so you can choose a web design agency.
 
 But how do you choose the right agency for your project?
 
@@ -71,7 +71,7 @@ But most businesses and organisations need a website that delivers an impressive
 
 > Ask about how they'll approach your project
 
-A good web agency will work with you to develop your online strategy, help you pinpoint your target audiences, develop [personas](http://www.tomango.co.uk/thinks/what-are-personas/) to improve usability of the site, and create user journeys to deliver the highest conversion rates.
+A good web agency will work with you to develop your online strategy, help you pinpoint your target audiences, develop [personas](/blog/what-are-personas/) to improve usability of the site, and create user journeys to deliver the highest conversion rates.
 
 ![](images/blog/personas-examples.jpg "Personas bring your site's users to life")
 
@@ -180,7 +180,7 @@ Give them your phone number *and* email address to make communication easier. So
 
 *No response* – Hmmm, not very polite. If they can't be bothered to reply, you probably won't want to work with them.
 *A polite no* – Sometimes an agency won't be that interested in the project. Maybe it's not the type of project they really want to be doing, or they're just too busy. Don't be offended; no-one got hurt. Move on
-*An email back* – If they're interested and what to find out more, they might ask you for a full [website design brief](http://www.tomango.co.uk/thinks/create-website-design-brief-download-template/) so they can give the project some thought before getting back to you with a quote.
+*An email back* – If they're interested and what to find out more, they might ask you for a full [website design brief](/blog/create-website-design-brief-download-template/) so they can give the project some thought before getting back to you with a quote.
 *A phone call* – Good agencies often like to phone to have an initial chat about your project. If the phone goes the same day you send your email, you know they’re really interested.
 
 So how quickly should you expect a reply?

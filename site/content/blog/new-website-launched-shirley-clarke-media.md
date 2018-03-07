@@ -47,9 +47,10 @@ After several more discussions with the client, we settled on a first draft for 
 
 Creative Director [Mike Vine](http://www.tomango.co.uk/is/mike-vine/) used two key tools to create concepts for the key pages of the site. Here he describes his approach to the design of the site;
 
-> "I use Sketch and InVision together for rapid prototyping."
-
-[cite]Mike Vine, Creative Director at Tomango[/cite]
+{{< quote
+	body="I use Sketch and InVision together for rapid prototyping."
+	citation="Mike Vine, Creative Director at Tomango"
+>}}
 
 "As with most projects, I used [Sketch](https://www.sketchapp.com) for my initial designs, before importing them into [InVision](https://www.invisionapp.com). I use these two tools together for rapid prototyping, so I can present designs the client can quickly get their heads round.
 
@@ -85,7 +86,7 @@ The job of populating the site, including adding just under 100 video clips and 
 
 "The Action Research section of the site probably presented the biggest challenge, as this section of the current site - where I was taking it from - was in a bit of a mess. It took me about three days to get all the content in place.
 
-[![](images/blog/Videos-section-border-1024x602.png "Great care was taken over selecting individual thumbnail images, and making sure clips were in strict correct order")](http://www.tomango.co.uk/wp-content/uploads/2016/07/Videos-section-border.png)
+![](images/blog/Videos-section-border-1024x602.png "Great care was taken over selecting individual thumbnail images, and making sure clips were in strict correct order")
 
 "After I'd added the content and tested it, we decided the "Filter by age" feature was too broad and difficult for users to understand, so we changed it. Having the content already in place made this easier as we could see what filtering worked; we decided that combining age groups was the way forward.
 

@@ -12,7 +12,7 @@ Writing the content for your new website can be a daunting task.
 
 In this post you'll find out how to get content together in a way that suits both you and your web designer and makes the process that little bit easier.
 
-We're going to assume you've already decided [what pages and features to include on your website](http://www.tomango.co.uk/thinks/features-good-website/), and will concentrate here on what content you need to create and how to organise it.
+We're going to assume you've already decided [what pages and features to include on your website](/blog/features-good-website/), and will concentrate here on what content you need to create and how to organise it.
 
 We'll start with the first - and possibly most important - thing you need to consider...
 
@@ -86,9 +86,9 @@ Keep all your documents organised when you deliver them to the designer by using
 
 Good copywriting is a whole different topic on its own. We've written two blog posts for you to refer to about how to write better copy for your website;
 
-[How to write better copy for your website - Part 1: Writing for a lower reading age](http://www.tomango.co.uk/thinks/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/)
+[How to write better copy for your website - Part 1: Writing for a lower reading age](/blog/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/)
 
-[How to write better copy for your website - Part 2: Make it all about your reader](http://www.tomango.co.uk/thinks/how-to-write-better-copy-for-your-website-part-2-make-it-all-about-your-reader/)
+[How to write better copy for your website - Part 2: Make it all about your reader](/blog/how-to-write-better-copy-for-your-website-part-2-make-it-all-about-your-reader/)
 
 ## How much is the right amount?
 

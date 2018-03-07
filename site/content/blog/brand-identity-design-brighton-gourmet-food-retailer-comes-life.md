@@ -28,7 +28,9 @@ The first step was for us to produce a name that captured their brand values and
 
 Under the guidance of our Creative Director [Mike Vine](http://www.tomango.co.uk/is/mike-vine/), we created a brand identity that captured the personality of the business. The strong and confident typography reflects how Stefanos and Angeliki run their business, and the potential for using the brand identity across packaging, signage and online material fits the brief perfectly.
 
-[gallery ids="2866,2865"]
+![](images/blog/sageandrelish2.jpg)
+
+![](images/blog/sageandrelish1.jpg)
 
 ## Taster evening
 

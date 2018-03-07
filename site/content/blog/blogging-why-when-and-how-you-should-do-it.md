@@ -21,10 +21,10 @@ A blog is also a great way of letting customers know what you’ve been up to, a
 
 My advice would be to choose your subject matter carefully and plan ahead.
 
-	<li>Start by making a list of say 12 topics you want to cover in the next few months
-	<li>Create a framework for each of the blog posts by writing half a dozen headings - this can help to keep the post focused and on-topic
-	<li>Depending on the subject matter, write between 250-750 words on each
-	<li>If you write your posts in batches and you might find it easier to manage and can get through more once you're "in the groove"
+- Start by making a list of say 12 topics you want to cover in the next few months
+- Create a framework for each of the blog posts by writing half a dozen headings - this can help to keep the post focused and on-topic
+- Depending on the subject matter, write between 250-750 words on each
+- If you write your posts in batches and you might find it easier to manage and can get through more once you're "in the groove"
 
 
 Most good blog software will allow you to create a draft and then publish it at a future time and date of your choosing.  You can mix these up with more informal opinion pieces or news updates.

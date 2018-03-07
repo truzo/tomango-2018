@@ -19,9 +19,9 @@ Every month I write a couple of blog posts for the Tomango website, usually abou
 
 Towards the end of the month, I put together our regular marketing email that typically contains:
 
-	<li>A short version of one of the blog posts, with a link to the full article
-	<li>A couple of projects we've recently started or won
-	<li>A recently completed project from our portfolio
+- A short version of one of the blog posts, with a link to the full article
+- A couple of projects we've recently started or won
+- A recently completed project from our portfolio
 
 
 Using our beautifully designed HTML email template and the [MailChimp](http://www.mailchimp.com) email platform, I put together [this marketing email](http://us6.campaign-archive2.com/?u=794f167815307066804ef6873&amp;id=a1a1cbe3dd&amp;e=e4c48256cd) at the end of June.
@@ -34,9 +34,9 @@ I imported a list of our client's email addresses from our CRM system, did a cou
 
 As well as receiving a few polite thank yous and how-are-you-old-chaps, we also had orders for:
 
-	<li>2 requests for website updates
-	<li>1 client wanting us to take on their online marketing for six months
-	<li>1 request for an HTML email template ("just like yours please")
+- 2 requests for website updates
+- 1 client wanting us to take on their online marketing for six months
+- 1 request for an HTML email template ("just like yours please")
 
 
 

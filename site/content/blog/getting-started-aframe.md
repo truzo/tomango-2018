@@ -23,7 +23,6 @@ A-Frame shapes are made up of custom HTML elements referred to as ‘primitives�
 1. `a-box`
 1. `a-torus`
 
-
 The `a-scene` element is the global container for the page but we don’t need to worry about that too much.
 
 `a-box` is the simplest of primitives. It creates a cube or rectangle with a size dictated by the width and height attributes. The beauty of A-Frame’s HTML-based design is that elements can be nested just like any other HTML element. This means we can use our `a-box` primitive as a `div`. We can then perform group-based changes to this element, rather than making the changes on all child elements individually.
@@ -32,7 +31,37 @@ But back to the task in hand, we’re making Olympic rings so we’ll need a rin
 
 With that in mind, we can build our first ring.
 
-[code type="markup" src="aframe/1.html"]
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Olympic Rings</title>
+    <script src="../aframe.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      
+      <a-box
+        position="-8 4 -15"
+        opacity="0"
+      >
+        
+        <a-torus
+          color="#383838"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          position="7 0 0"
+        >
+        </a-torus>
+
+      </a-box>
+
+    </a-scene>
+  </body>
+</html>
+```
 
 ![](images/blog/1.jpg)
 
@@ -44,13 +73,150 @@ Right, let’s step it up a notch:
 
 We’ll duplicate the current torus five times, change their backgrounds and put them into position:
 
-[code type="markup" src="aframe/2.html"]
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Olympic Rings</title>
+    <script src="../aframe.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      
+      <a-box
+        position="-8 4 -15"
+        opacity="0"
+      >
+        
+        <a-torus
+          color="#19B5FE"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          position="0 0 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#F7CA18"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          position="3.5 -3 0"
+        >
+        </a-torus>
+        
+        <a-torus
+          color="#383838"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          position="7 0 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#26A65B"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          position="10.75 -3 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#F22613"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          position="14.25 0 0"
+        >
+        </a-torus>
+
+      </a-box>
+
+    </a-scene>
+  </body>
+</html>
+```
 
 ![](images/blog/2.jpg)
 
 Not bad, although we could do with interlinking the rings a bit. This can be achieved using the rotation property. By alternating 10deg and -10deg rotations, we can get a pretty accurate representation of the rings.
 
-[code type="markup" src="aframe/3.html"]
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Olympic Rings</title>
+    <script src="../aframe.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      
+      <a-box
+        position="-8 4 -15"
+        opacity="0"
+      >
+        
+        <a-torus
+          color="#19B5FE"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 -10 0"
+          position="0 0 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#F7CA18"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 10 0"
+          position="3.5 -3 0"
+        >
+        </a-torus>
+        
+        <a-torus
+          color="#383838"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 -10 0"
+          position="7 0 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#26A65B"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 10 0"
+          position="10.75 -3 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#F22613"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 -10 0"
+          position="14.25 0 0"
+        >
+        </a-torus>
+
+      </a-box>
+
+    </a-scene>
+  </body>
+</html>
+```
 
 ![](images/blog/3.jpg)
 
@@ -66,7 +232,87 @@ The final touch is to add a panoramic background of Rio de Janeiro to really set
 
 Enter the `a-assets` primitive. This element lets us preload assets required for a page and it won’t load the page without them. For our use-case, we’ll nest an `img` tag with our background image and then reference it by ID on our `a-sky` element.
 
-[code type="markup" src="aframe/4.html"]
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Olympic Rings</title>
+    <script src="../aframe.js"></script>
+  </head>
+  <body>
+    <a-scene>
+
+      <a-assets>
+        <img id="brazil" src="brazil.jpg">
+      </a-assets>
+      
+      <a-box
+        position="-8 4 -15"
+        opacity="0"
+      >
+        
+        <a-torus
+          color="#19B5FE"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 -10 0"
+          position="0 0 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#F7CA18"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 10 0"
+          position="3.5 -3 0"
+        >
+        </a-torus>
+        
+        <a-torus
+          color="#383838"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 -10 0"
+          position="7 0 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#26A65B"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 10 0"
+          position="10.75 -3 0"
+        >
+        </a-torus>
+
+        <a-torus
+          color="#F22613"
+          segments-tubular="100"
+          radius="3"
+          radius-tubular="0.2"
+          rotation="0 -10 0"
+          position="14.25 0 0"
+        >
+        </a-torus>
+
+      </a-box>
+
+      <a-sky
+        src="#brazil"
+        rotation="0 -130 0"
+      ></a-sky>
+
+    </a-scene>
+  </body>
+</html>
+```
 
 ![](images/blog/4.jpg)
 

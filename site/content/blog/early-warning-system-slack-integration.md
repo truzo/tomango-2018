@@ -31,7 +31,23 @@ The server POSTs to our channel endpoint with a message outlining which IP needs
 
 Writing a Slack integration is actually pretty straightforward in PHP, a single CURL request with a JSON encoded array will suffice. Below is the snippet that sends the request:
 
-[code type="php" src="slack.txt"]
+```php
+$data = array(
+	'username' => 'We got problems',
+	'channel' =>  '#general',
+	'text' =>  'IP to block! @kierankarn @trys - ' . $ip_to_block,
+	'icon_emoji' =>  ':confounded:'
+);
+
+$ch = curl_init();
+curl_setopt( $ch, CURLOPT_URL, 'https://hooks.slack.com/services/[ YOUR SLACK WEBHOOK URL ]' );
+curl_setopt( $ch, CURLOPT_POSTFIELDS, 'payload=' . json_encode( $data ) );
+curl_setopt( $ch, CURLOPT_SSL_VERIFYPEER, false );
+curl_setopt( $ch, CURLOPT_CUSTOMREQUEST, 'POST' );
+curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
+curl_exec($ch);
+curl_close($ch);
+```
 
 You can find your WebHook URL by:
 

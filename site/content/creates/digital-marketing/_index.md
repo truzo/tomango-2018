@@ -13,10 +13,8 @@ It can be intimidating to even know where to start.
 We have the experience of helping a variety of business across all sectors improve their digital footprint and get a good return on their investment.
 
 {{< quote
-	link="/created/fludes-carpets"
-	image="images/what-we-do/1000/brand.jpg"
-	body="Almost from day one visits to the Karndean pages increased and the enquiries we had as a result were firm sales opportunities."
-	citation="Andy Laird, Managing Director, Fludes Carpets"
+	body="When we started, our average cost-per-lead was £70. In four months, the cost had come down to just £7."
+	citation="Martin Roots, Managing Director, Resin Bonded"
 >}}
 
 Tomango works closely with you to identify your business goals and focus on the right marketing mix to reach your customers.

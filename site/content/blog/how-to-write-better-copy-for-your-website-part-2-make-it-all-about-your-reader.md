@@ -37,7 +37,7 @@ As a way of marketing his business, it's pure gold magic fairy dust. And I tell 
 
 ## Make your website copy all about the reader
 
-In this second post of a series on [How To Write Better Copy For Your Website](http://www.tomango.co.uk/thinks/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/), we look at why you have to make your copy all about your reader.
+In this second post of a series on [How To Write Better Copy For Your Website](/blog/how-to-write-better-copy-for-your-website-part-1-writing-for-a-lower-reading-age/), we look at why you have to make your copy all about your reader.
 
 In the last couple of years I've been doing a lot of research into web copy, and recently came across this gem of a post from the always-excellent DTelepathy:
 
@@ -57,8 +57,8 @@ You have to make it easy for him to *get it*.
 
 Consider and compare the following messages and consider how you would react to them as a customer:
 
-	<li>"Our software enables you to combine your tasks and email management to improve productivity"
-	<li>"Software for you to get more done at work"
+- "Our software enables you to combine your tasks and email management to improve productivity"
+- "Software for you to get more done at work"
 
 
 They both get to the same point, but which one gets your attention?
@@ -69,9 +69,9 @@ When you're reviewing your copy, take your business hat off and - to mix my clot
 
 Make it all about them:
 
-	<li>What's the single, "distilled" benefit to them?
-	<li>What's the pain they feel that you can make go away?
-	<li>What's the solution you provide to them?
+- What's the single, "distilled" benefit to them?
+- What's the pain they feel that you can make go away?
+- What's the solution you provide to them?
 
 
 *Don't *make it all about what you do, or how clever you are.
@@ -82,9 +82,9 @@ Start by making a list of the benefits of your product/service/whatever. Not the
 
 Steve's list of benefits for his lawn-cutting service might have looked something like this:
 
-	<li>You get a nice looking lawn
-	<li>It's regularly looked after
-	<li>Someone else does it for you
+- You get a nice looking lawn
+- It's regularly looked after
+- Someone else does it for you
 
 
 
@@ -137,9 +137,9 @@ Then try and make it better still. Make a list of possible versions and pick the
 ## Checklist: How to make your copy better
 
 
-	<li>Look throughout your copy for instances where you've said "we" and change it for a "you".
-	<li>Look for where you've used "our" and change it for "your".
-	<li>Drill down to the real benefit and distill it into a single, *strong* marketing message.
+- Look throughout your copy for instances where you've said "we" and change it for a "you".
+- Look for where you've used "our" and change it for "your".
+- Drill down to the real benefit and distill it into a single, *strong* marketing message.
 
 
 

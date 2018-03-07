@@ -63,9 +63,9 @@ Here's the rub; get yourself a strong brand identity and
 
 > 
 
-	<li>You'll start getting more business and more of the sort of business you want
-	<li>Larger organisations will take you seriously
-	<li>A strong brand makes it easier to build your business to be the shape you want
+- You'll start getting more business and more of the sort of business you want
+- Larger organisations will take you seriously
+- A strong brand makes it easier to build your business to be the shape you want
 
 
 

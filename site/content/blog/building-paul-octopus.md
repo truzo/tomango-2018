@@ -3,16 +3,13 @@ title: "Building Paul the Octopus"
 author: "trys"
 date: 2016-06-08 16:06:25
 excerpt: I’ll be covering how I went about building a micro social-network/game, what worked well and what pitfalls I fell into.
-image: images/blog/shutterstock_409620022.jpg
 blog/categories: 
  - web-design
 ---
 
-![](images/blog/shutterstock_409620022.jpg)
-
 As you will no doubt have seen, Euro 2016 is almost upon us and football fever is beginning to take over conversations - certainly in our office anyway! If you’re a keen reader of this blog, you may have also seen that we launched [Paul the Octopus](https://www.paultheoctop.us/), our predictions game built for this very event.
 
-Tom has already announced the launch and explained the key features, so if you’re looking for rules, tips or information about the mystic mollusc, check out [his article](http://www.tomango.co.uk/thinks/paul-the-octopus-euro-2016/).
+Tom has already announced the launch and explained the key features, so if you’re looking for rules, tips or information about the mystic mollusc, check out [his article](/blog/paul-the-octopus-euro-2016/).
 
 I’ll be covering how I went about building a micro social-network/game, what worked well and what pitfalls I fell into.
 

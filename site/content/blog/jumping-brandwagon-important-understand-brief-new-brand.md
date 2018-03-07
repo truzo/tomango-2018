@@ -30,10 +30,10 @@ Over 20,000 people signed an online petition within 24 hours of the announcement
 
 Here's the new design that was met with such vitriol.  Alongside it is the previous crest that was used between 2000 and this year.  Criticism appeared to focus on a few particular points:
 
-	<li>The "fattened arse" of the shield
-	<li>The inclusion of the word "Everton" - which probably resulted in point 1
-	<li>The fattened and distorted Prince Rupert's Tower in the middle - a symbol used by the club as far back as 1938
-	<li>The removal of the club motto "Nil Satis Nisi Optimum", which translates as "Nothing but the best is good enough"
+- The "fattened arse" of the shield
+- The inclusion of the word "Everton" - which probably resulted in point 1
+- The fattened and distorted Prince Rupert's Tower in the middle - a symbol used by the club as far back as 1938
+- The removal of the club motto "Nil Satis Nisi Optimum", which translates as "Nothing but the best is good enough"
 
 
 
@@ -45,12 +45,12 @@ The main problem Everton created with the whole process was in not explaining to
 
 Today was the first time that I saw the key points of the brief spelt out - unfortunately not by the club but by an in-the-know fan - who pointed out why a new crest was needed and what it had to achieve:
 
-	<li>It's about how/where it can be used and how easy it is for people to get it wrong
-	<li>Once you accept that your brand needs to be consistent, the obvious way to go is to have a consistent logo
-	<li>The previous (old) one was unnecessarily complex - many elements were easy to remove, people could stress different elements of it and it didn't contain the name of the brand
-	<li>Everton aren't at the level of Nike, Pepsi, Apple etc and the marketing team wanted to push the name
-	<li>The main issue with the complexity is what happens when it's resized.  The logo has to work at all sorts of sizes, from [on the side of the stadium](http://uk.eurosport.yahoo.com/29012011/8/photo/view-welcome-sign-outside-goodison-park.html) right down to [tiny little website badges](http://www.premierleague.com/en-gb/clubs.html).  The old crest would have looked poor in that context - see the likes of Newcastle, Liverpool, Hull or Southampton as evidence
-	<li>For merchandise, it's far easier to reproduce a simple integrated design that something with a raft of floating elements
+- It's about how/where it can be used and how easy it is for people to get it wrong
+- Once you accept that your brand needs to be consistent, the obvious way to go is to have a consistent logo
+- The previous (old) one was unnecessarily complex - many elements were easy to remove, people could stress different elements of it and it didn't contain the name of the brand
+- Everton aren't at the level of Nike, Pepsi, Apple etc and the marketing team wanted to push the name
+- The main issue with the complexity is what happens when it's resized.  The logo has to work at all sorts of sizes, from [on the side of the stadium](http://uk.eurosport.yahoo.com/29012011/8/photo/view-welcome-sign-outside-goodison-park.html) right down to [tiny little website badges](http://www.premierleague.com/en-gb/clubs.html).  The old crest would have looked poor in that context - see the likes of Newcastle, Liverpool, Hull or Southampton as evidence
+- For merchandise, it's far easier to reproduce a simple integrated design that something with a raft of floating elements
 
 
 
@@ -64,9 +64,9 @@ Here's the redesigned crest that was unveiled today.  Most fans seem to be happ
 
 Why is this relevant to our clients?  Because it highlights the importance of creating a well-considered brief that:
 
-	<li>* Fits your brand values* - it conveys the message about you that you want to portray
-	<li>*Works for your target markets* - if your customers are wealthy individuals, your brand should appeal to them
-	<li>*Fits your business model* - if you pile 'em high and sell 'em cheap, your brand shouldn't be like Aston Martin
+- * Fits your brand values* - it conveys the message about you that you want to portray
+- *Works for your target markets* - if your customers are wealthy individuals, your brand should appeal to them
+- *Fits your business model* - if you pile 'em high and sell 'em cheap, your brand shouldn't be like Aston Martin
 
 
 

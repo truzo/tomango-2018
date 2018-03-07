@@ -7,7 +7,7 @@ blog/categories:
  - web-design
 ---
 
-After starting strongly a [fortnight ago](http://www.tomango.co.uk/thinks/things-tomango-likes-week-15-april-2016/), this supposedly weekly round-up blog had a week off last Friday as I was attending the awesome [Brighton SEO](http://www.brightonseo.com/) conference. You can read about a lot of the bits I learned on Local SEO [here](http://www.tomango.co.uk/thinks/brighton-seo-how-to-be-a-local-seo-jedi/).
+After starting strongly a [fortnight ago](/blog/things-tomango-likes-week-15-april-2016/), this supposedly weekly round-up blog had a week off last Friday as I was attending the awesome [Brighton SEO](http://www.brightonseo.com/) conference. You can read about a lot of the bits I learned on Local SEO [here](/blog/brighton-seo-how-to-be-a-local-seo-jedi/).
 
 Anyway, here's a quick blast through the week and some of the more interesting things we've noticed this week in the worlds of [Brand](http://www.tomango.co.uk/creates/brand/), [Web](http://www.tomango.co.uk/creates/web/), and [Online Marketing](http://www.tomango.co.uk/creates/online-marketing/).
 

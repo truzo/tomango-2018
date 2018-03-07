@@ -47,11 +47,11 @@ The brief clearly stated that the brand should be obviously, instantly-recognisa
 
 The new brand identity fits the brief perfectly, and captures the brand values of the company:
 
-	<li>High quality
-	<li>Knowledgeable
-	<li>Swiss-made
-	<li>Professional
-	<li>Confident
+- High quality
+- Knowledgeable
+- Swiss-made
+- Professional
+- Confident
 
 
 

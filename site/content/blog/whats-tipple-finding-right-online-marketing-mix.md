@@ -26,8 +26,8 @@ The real key to making an SEO campaign effective is researching what search term
 
 *Tasting tips:*
 
-	<li>Well suited for specialist and niche markets
-	<li>Offers solid return on investment, even for smaller budgets
+- Well suited for specialist and niche markets
+- Offers solid return on investment, even for smaller budgets
 
 
 
@@ -39,9 +39,9 @@ Often we find a one-off campaign can be very effective for a small business that
 
 **Tasting tips*:*
 
-	<li>Ideal for small businesses working in a local marketplace
-	<li>Suits small budgets
-	<li>Can be a good starting point for further SEO
+- Ideal for small businesses working in a local marketplace
+- Suits small budgets
+- Can be a good starting point for further SEO
 
 
 
@@ -55,9 +55,9 @@ You can get an Adwords campaign up and running within hours, so it's a great way
 
 **Tasting tips*:*
 
-	<li>Good for [ecommerce](http://www.tomango.co.uk/creates/web/ecommerce/) sites and for more competitive search terms
-	<li>Get started immediately for an instant boost of traffic
-	<li>If you've got the budget, this is well worth a look
+- Good for [ecommerce](http://www.tomango.co.uk/creates/web/ecommerce/) sites and for more competitive search terms
+- Get started immediately for an instant boost of traffic
+- If you've got the budget, this is well worth a look
 
 
 
@@ -69,10 +69,10 @@ It's not the easiest thing in the world to set up without a bit of knowledge, bu
 
 **Tasting tips*:*
 
-	<li>Great for ecommerce sites, especially "visually appealing" products
-	<li>Get started immediately for instant traffic
-	<li>Not that widely used amongst smaller businesses, so you could get ahead of your competitors
-	<li>Social Media
+- Great for ecommerce sites, especially "visually appealing" products
+- Get started immediately for instant traffic
+- Not that widely used amongst smaller businesses, so you could get ahead of your competitors
+- Social Media
 
 
 We all know about the hype surrounding social media, but how can it help your business? Well, if you've got a new product and you want to spread the word quickly and cheaply, it could be a vital part of your marketing strategy.  Most businesses use it to engage with their followers; by sharing useful information to demonstrate knowledge and experience, showing off the work they've been doing, or putting themselves forward as experts in their field.
@@ -94,9 +94,9 @@ Still confused?  Here's a more [detailed comparison table showing a summary of 
 
 **Tasting tips*:*
 
-	<li>Can be a quick and cheap way of spreading the word about a new product, service or business
-	<li>Requires regular attention - make sure you have the resources to keep on top of it
-	<li>Have a clear policy about what you will and won't post/tweet/update about
+- Can be a quick and cheap way of spreading the word about a new product, service or business
+- Requires regular attention - make sure you have the resources to keep on top of it
+- Have a clear policy about what you will and won't post/tweet/update about
 
 
 
@@ -108,9 +108,9 @@ If you're going to do it, do it well; think about your content carefully and mak
 
 **Tasting tips*:*
 
-	<li>If you're after repeat business, email marketing could work well
-	<li>Make it targeted and useful - lazy email marketing will just get binned
-	<li>When a subscriber signs up, be clear about what they'll be getting.  Is it offers, news, information?
+- If you're after repeat business, email marketing could work well
+- Make it targeted and useful - lazy email marketing will just get binned
+- When a subscriber signs up, be clear about what they'll be getting.  Is it offers, news, information?
 
 
 

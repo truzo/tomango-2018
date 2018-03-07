@@ -11,16 +11,15 @@ blog/categories:
 
 [#ffconf](https://2016.ffconf.org/) is an annual JavaScript and frontend development conference held in Brighton. In its eighth incarnation, this year’s event was set out as a one day conference run twice. I headed down on the first day ready to be inspired and challenged.
 
-[![](images/blog/TRM_0130-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0130.jpg)
+![](images/blog/TRM_0130-1024x684.jpg)
 
 The venue was The Duke of York’s in Brighton (Britain’s oldest working cinema) and the whole event was organised brilliantly. The seating was supremely comfortable, free tea, coffee, pastries and ice creams were provided and the diverse range of talks made for a really great conference.
 
 ---
 
-
 ## Session 1 - Next Level CSS
 
-[![](images/blog/TRM_0146-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0146.jpg)
+![](images/blog/TRM_0146-1024x684.jpg)
 
 [Rachel Andrew](https://twitter.com/rachelandrew) kicked things off with a great run-through of what we can expect from CSS in the future, and specifically the changes coming with CSS Modules. There were so many great takeaways from this talk, including the following highlights:
 
@@ -42,7 +41,7 @@ I’m really excited to see what we can create with CSS Grid in the next few yea
 
 ## Session 2 - Progressive Web
 
-[![](images/blog/TRM_0150-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0150.jpg)
+![](images/blog/TRM_0150-1024x684.jpg)
 
 [Ada Rose Edwards](https://twitter.com/Lady_Ada_King) then gave a tremendously inspirational talk on one of the key new parts of the web; ‘Progressive Web Apps’.
 
@@ -68,7 +67,7 @@ Here are some of the highlights:
 
 ## Session 3 - Technologic
 
-[![](images/blog/TRM_0160-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0160.jpg)
+![](images/blog/TRM_0160-1024x684.jpg)
 
 Using Daft Punk’s ‘Technologic’ as a framework, [Léonie Watson](https://twitter.com/LeonieWatson) broke down web accessibility into applicable chunks that we can implement right-away. She also delved into the Accessibility tree; a subset of the DOM, explaining how our websites are interpreted by the browser and assistive technology.
 
@@ -92,7 +91,7 @@ The slides from Léonie’s talk are available [here](http://ljwatson.github.io/
 
 ## Session 4 - All things continuous
 
-[![](images/blog/TRM_0163-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0163.jpg)
+![](images/blog/TRM_0163-1024x684.jpg)
 
 [Andrew Martin](https://twitter.com/sublimino) then gave us a breakdown of the options available for our devops workflows. Although some of the items seemed more suited to larger organisations, teams and projects, there was some great advice for the sorts of projects we build at Tomango.
 
@@ -112,7 +111,7 @@ The slides from Andrew’s talk are available [here](https://www.binarysludge.co
 
 ## Session 5 - Power of Emoji
 
-[![](images/blog/TRM_0170-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0170.jpg)
+![](images/blog/TRM_0170-1024x684.jpg)
 
 After a tasty lunch of ‘Hipster chicken’, we took a deep-dive into the history of Emoji with [Mariko Kosaka](https://twitter.com/kosamari). It was a truly fascinating talk with great anecdotes on the history of the mobile pictograms we take for granted. Mariko’s passion for communication through Emoji was incredible and hearing about the small forward-thinking team that devised the original set was very inspiring.
 
@@ -131,7 +130,7 @@ After a tasty lunch of ‘Hipster chicken’, we took a deep-dive into the histo
 
 ## Session 6 - Dev Tools
 
-[![](images/blog/TRM_0173-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0173.jpg)
+![](images/blog/TRM_0173-1024x684.jpg)
 
 There is so much to DevTools.
 
@@ -155,7 +154,7 @@ Even when you think you’ve got a grip on the headline features, there are so m
 
 ## Session 7 - Modularity
 
-[![](images/blog/TRM_0177-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0177.jpg)
+![](images/blog/TRM_0177-1024x684.jpg)
 
 [Ashley Williams](http://twitter.com/ag_dubs) then led a philosophical talk on modularity, challenging our preconceptions and assumptions around a subject that’s regularly accepted as the perfect solution. With incredible space-turtle references and deep quotes from some of history’s greatest minds, this was a talk not to miss - check out the brilliant slides [here](https://ashleygwilliams.github.io/ffconf-2016/#1).
 
@@ -175,7 +174,7 @@ Even when you think you’ve got a grip on the headline features, there are so m
 
 ## Session 8 - Art.JS
 
-[![](images/blog/TRM_0179-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0179.jpg)
+![](images/blog/TRM_0179-1024x684.jpg)
 
 The final session of the day was simply incredible.
 
@@ -194,6 +193,6 @@ The final session of the day was simply incredible.
 
 A huge thanks to Remy, Julie and the #ffconf team for organising such a brilliant conference. It was inspiring and challenging throughout.
 
-[![](images/blog/TRM_0145-1024x684.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/11/TRM_0145.jpg)
+![](images/blog/TRM_0145-1024x684.jpg)
 
 

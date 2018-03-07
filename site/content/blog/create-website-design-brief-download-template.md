@@ -28,7 +28,7 @@ So if you've been asked to put together a brief for your company's new website, 
 
 But if you want to do things the most up-to-date way, get the best results and receive envious looks from your colleagues as plaudits come your way, don't bother - pick up the [phone](http://www.tomango.co.uk/contact/) or drop us an [email](mailto:hello@tomango.co.uk) and let's talk.
 
-*Mark Vaesen*
+*Mark Vaesen*  
 22nd June 2017
 {{%/ update %}}
 
@@ -40,12 +40,12 @@ We've broken the guide down into sections to make it a bit more manageable. Ther
 
 Have a read through the guide first, then download our [free website design brief template](images/blog/Website-design-brief-template.docx) which you can fill in offline.
 
-> Creating a brief for a brand project? Read our post [How to create a brand design brief](http://www.tomango.co.uk/thinks/how-to-create-a-brand-design-brief/)
+> Creating a brief for a brand project? Read our post [How to create a brand design brief](/blog/how-to-create-a-brand-design-brief/)
 
 
 ## Why a good website design brief is important
 
-If you've got to this point, you've already established that [you need a new website](http://www.tomango.co.uk/thinks/do-i-need-a-new-website/), and given some thought as to [what sort of website you need](http://www.tomango.co.uk/thinks/what-sort-of-website-do-i-need/).
+If you've got to this point, you've already established that [you need a new website](/blog/do-i-need-a-new-website/), and given some thought as to [what sort of website you need](/blog/what-sort-of-website-do-i-need/).
 
 The next step is to make contact with the right people to work with you on the project to design and build the website you need. These people might come in all sorts of shapes and sizes; from freelancers and one-man-bands to small or large creative agencies.
 
@@ -108,7 +108,7 @@ The more the web company knows about why your existing website isn't working, th
 
 Now you need to focus on what you need from the new website.
 
-In a previous post, we explored the [different types of website](http://www.tomango.co.uk/thinks/what-sort-of-website-do-i-need/), and the list of potential features is too long to include again here, but you should consider the following:
+In a previous post, we explored the [different types of website](/blog/what-sort-of-website-do-i-need/), and the list of potential features is too long to include again here, but you should consider the following:
 
 1. What are the aims of the new site? This provides more detail on the earlier question of the Aims of the Project. Some aims we often discuss with our clients are:
 
@@ -118,8 +118,9 @@ In a previous post, we explored the [different types of website](http://www.toma
 - To move into new markets
 - To attract the best new recruits
 
-- What's the approximate size of the website? Typically this is expressed as an approximate number of pages
-- What are the key features you want/need to include? Some features we often talk about are:
+What's the approximate size of the website? Typically this is expressed as an approximate number of pages
+
+What are the key features you want/need to include? Some features we often talk about are:
 
 - Portfolio/Case Studies/Gallery of previous work
 - Ecommerce (include an approximate number of products, and any ecommerce-specific features you want to include)
@@ -134,7 +135,8 @@ In a previous post, we explored the [different types of website](http://www.toma
 - Discussion Forum
 - Current Vacancies
 
-- What content needs to be updated frequently, and who do you see doing it? Do you have the resources and skills in-house for someone to make changes using a Content Management System (CMS) or would you prefer the web agency to look after any changes for you?
+What content needs to be updated frequently, and who do you see doing it? Do you have the resources and skills in-house for someone to make changes using a Content Management System (CMS) or would you prefer the web agency to look after any changes for you?
+
 - If you want a CMS, are there any specific requirements (for instance, allowing access to multiple users)?
 - What's the website's Call to Action? (also known as a CTA). This adds more detail to the earlier question about what you want the customer to do when they visit your site. If you want to generate enquiries, do you want them to fill in a contact form, send you an email, or pick up the phone to talk to you?
 - Are there any third party systems you need to integrate with? If you're an Estate Agent, do you need to link in  to RightMove or Zoopla? Do you need to link to a CRM or Accounts software?
@@ -168,13 +170,13 @@ The web company needs to have an initial design brief to understand the directio
 1. What are your USPs? What sets you part from the competition? Why should a customer come to you instead of someone else?
 1. Provide a bullet list to describe your company values
 1. Provide any other brand collateral you might have - the website needs to fit with the rest of your brand material, so it's useful to provide examples of things like business stationery and any brochures you might have
-1. Reference websites - provide 3-5 examples of websites you either like or those of your competitors. Note any aspects about the sites that you either like or dislike, being careful to be objective and put yourself in your customer's shoes. Remember to [avoid one of the most common mistakes when creating a website design brief](http://www.tomango.co.uk/thinks/how-to-create-website-design-brief-mistakes-to-avoid/); a good website isn't going to be designed for you - it's going to be designed for your target audience
+1. Reference websites - provide 3-5 examples of websites you either like or those of your competitors. Note any aspects about the sites that you either like or dislike, being careful to be objective and put yourself in your customer's shoes. Remember to [avoid one of the most common mistakes when creating a website design brief](/blog/how-to-create-website-design-brief-mistakes-to-avoid/); a good website isn't going to be designed for you - it's going to be designed for your target audience
 
 ## Marketing
 
 To get the most from your new website, it should work alongside your other marketing activities, both online and offline. To deliver a website as part of a properly joined-up campaign, your web agency needs to know what else you've got going on. Tell them about:
 
-1. Online marketing - what other online activity will you be doing?
+Online marketing - what other online activity will you be doing?
 
 - SEO (Search Engine Optimisation)
 - PPC/Adwords
@@ -182,7 +184,7 @@ To get the most from your new website, it should work alongside your other marke
 - Email marketing - is this something that needs to be included as part of the project?
 - Content marketing
 
-- Offline marketing - what other traditional marketing are you involved in?
+Offline marketing - what other traditional marketing are you involved in?
 
 - Direct mail campaigns
 - Brochures, flyers, leaflets
@@ -201,7 +203,7 @@ Agencies can propose the right solutions for your circumstances, and you'll be a
 
 Timescales are also important to know from the start - if your deadlines can't be met by the agency, it saves everyone time if they know up front. In your website design brief, be sure to include:
 
-1. Timescales - provide both your ideal start and finish date. Have you got a specific deadline to work to (perhaps a product launch or another marketing commitment)? If you're not sure how to work out timescales, or don't know what's realistic, here's a rough guide as to what to allow for each stage:
+Timescales - provide both your ideal start and finish date. Have you got a specific deadline to work to (perhaps a product launch or another marketing commitment)? If you're not sure how to work out timescales, or don't know what's realistic, here's a rough guide as to what to allow for each stage:
 
 - Planning and specification - 2-3 weeks
 - Design phase - 3-4 weeks
@@ -209,7 +211,7 @@ Timescales are also important to know from the start - if your deadlines can't b
 - Content population and initial testing - 2-3 weeks
 - Final snagging and pre-launch testing - 2-3 weeks
 
-- Budget, for:
+Budget, for:
 
 - Initial site design and development
 - Web hosting

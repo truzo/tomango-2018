@@ -119,12 +119,12 @@ If customers expect to be able to get an online quote, or calculate costs in som
 
 *Need more help planning your website? Read the other posts in our series "Planning your Website Project":*
 
-[Do I need a new website?](http://www.tomango.co.uk/thinks/do-i-need-a-new-website/)  
-[What sort of website do I need?](http://www.tomango.co.uk/thinks/what-sort-of-website-do-i-need/)  
-[The 6 things a good website must do](http://www.tomango.co.uk/thinks/the-6-things-a-good-website-must-do/)  
-[What are personas?](http://www.tomango.co.uk/thinks/what-are-personas/)  
-[What is a User Journey?](http://www.tomango.co.uk/thinks/what-is-user-journey/)  
-[How to create a website design brief – download our template](http://www.tomango.co.uk/thinks/create-website-design-brief-download-template/)  
-[How to choose a web design agency](http://www.tomango.co.uk/thinks/choose-web-design-agency/)  
+[Do I need a new website?](/blog/do-i-need-a-new-website/)  
+[What sort of website do I need?](/blog/what-sort-of-website-do-i-need/)  
+[The 6 things a good website must do](/blog/the-6-things-a-good-website-must-do/)  
+[What are personas?](/blog/what-are-personas/)  
+[What is a User Journey?](/blog/what-is-user-journey/)  
+[How to create a website design brief – download our template](/blog/create-website-design-brief-download-template/)  
+[How to choose a web design agency](/blog/choose-web-design-agency/)  
 
 

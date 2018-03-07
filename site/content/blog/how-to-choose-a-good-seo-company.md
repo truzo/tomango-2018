@@ -67,18 +67,18 @@ This point ties in very closely with the previous one. A good SEO company will p
 ### Useful updates should include regular, easy-to-follow reports that show as a minimum:
 
 
-	<li>How your site is ranking on the agreed search terms
-	<li>What traffic those rankings are generating - how many people are coming to the site as a result?
-	<li>Which pages on your site are being visited the most
+- How your site is ranking on the agreed search terms
+- What traffic those rankings are generating - how many people are coming to the site as a result?
+- Which pages on your site are being visited the most
 
 
 
 ### In addition, you should expect an update that confirms:
 
 
-	<li>What work's been completed since the last update
-	<li>How that work ties in with the results seen in the reports
-	<li>What work's lined up to be done next
+- What work's been completed since the last update
+- How that work ties in with the results seen in the reports
+- What work's lined up to be done next
 
 
 Ideally, look for a company that offers a regular meeting, either face-to-face or by phone. This gives you the opportunity to talk through any changes to your business that they should know about and means everyone's on the same page/rowing in the same direction/singing from the same hymn sheet or whatever management-speak cliche you wish to use.
@@ -127,11 +127,11 @@ As with a lot of business services, you could do a lot worse than getting in tou
 
 Make sure you ask them:
 
-	<li>What were these guys like to work with?
-	<li>Were you happy with what was proposed?
-	<li>Was the work carried out as described?
-	<li>Did they keep you updated and provide reports?
-	<li>What were the results? Not just the search rankings, but the actual-bottom-line impact on the business?
+- What were these guys like to work with?
+- Were you happy with what was proposed?
+- Was the work carried out as described?
+- Did they keep you updated and provide reports?
+- What were the results? Not just the search rankings, but the actual-bottom-line impact on the business?
 
 
 

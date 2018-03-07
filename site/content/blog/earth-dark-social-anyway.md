@@ -30,9 +30,9 @@ Here's a quick run-down of the main ways that you can get dark social traffic:
 
 Here's an example from our very own site, based on one of the last blog posts I wrote.
 
-I mean, you don't really think someone's gone into their browser and typed in "http://www.tomango.co.uk/thinks/cool-facebook-ad-experiments/", do you?
+I mean, you don't really think someone's gone into their browser and typed in "/blog/cool-facebook-ad-experiments/", do you?
 
-Of course they haven't! But, at the time of writing, [that post](http://www.tomango.co.uk/thinks/cool-facebook-ad-experiments/) is showing 131 direct hits on Google Analytics.
+Of course they haven't! But, at the time of writing, [that post](/blog/cool-facebook-ad-experiments/) is showing 131 direct hits on Google Analytics.
 
 ![](images/blog/Dark-social-GA-screenshot-1-1024x361.png)
 

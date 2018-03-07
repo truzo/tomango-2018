@@ -19,10 +19,10 @@ During the brilliant [Responsive Day Out 2015](http://responsiveconf.com/2015/),
 
 Quantity Queries are a way of reacting to differing levels of content with pure vanilla, [well supported](http://caniuse.com/#search=nth-last-child) <abbr title="Cascading Style Sheets">CSS</abbr>. They are comprised of the following:
 
-	<li>A shift in the way you think about <abbr title="Cascading Style Sheets">CSS</abbr> selectors
-	<li>The <code class="language-css">:nth-last-child</code> selector
-	<li>The <code class="language-css">:first-child</code> selector
-	<li>The <code class="language-css">~ *</code> selector
+- A shift in the way you think about <abbr title="Cascading Style Sheets">CSS</abbr> selectors
+- The `:nth-last-child` selector
+- The `:first-child` selector
+- The `~ *` selector
 
 
 
@@ -32,23 +32,28 @@ To get the most out of Quantity Queries, you have to view the <abbr title="Casca
 
 ### The :nth-last-child selector
 
-The <code class="language-css">:nth-last-child</code> selector was added in <abbr title="Cascading Style Sheets">CSS3</abbr> but it hasn't had a great deal of publicity in comparison to its cool-kid siblings <code class="language-css">nth-child</code> and <code class="language-css">:first-of-type</code>. Their benefits are immediately obvious, hence the amount of air-time they received. <code class="language-css">:nth-last-child</code> has a more subtle set of benefits that have taken longer to discover.
+The `:nth-last-child` selector was added in <abbr title="Cascading Style Sheets">CSS3</abbr> but it hasn't had a great deal of publicity in comparison to its cool-kid siblings `nth-child` and `:first-of-type`. Their benefits are immediately obvious, hence the amount of air-time they received. `:nth-last-child` has a more subtle set of benefits that have taken longer to discover.
 
 This selector will select the element(s) that meet the criteria passed into the brackets of the selector, working from the bottom of the element stack and counting up.
 
-In its simplest form, a single number can be passed into the brackets to ask the question, __'Is this element the nth-last element that I'm working on?'__. The <code class="language-css">:nth-last-child(2)</code> selector will select the penultimate element, the <code class="language-css">:nth-last-child(4)</code> selector will select the fourth-last element. Although this is handy, it's not going to be useful on every project. That is, until it is teamed with a number of other selectors.
+In its simplest form, a single number can be passed into the brackets to ask the question, __'Is this element the nth-last element that I'm working on?'__. The `:nth-last-child(2)` selector will select the penultimate element, the `:nth-last-child(4)` selector will select the fourth-last element. Although this is handy, it's not going to be useful on every project. That is, until it is teamed with a number of other selectors.
 
 ### The :first-child selector
 
-We all know and love the <code class="language-css">:first-child</code> selector. It's great for making our opening paragraphs a little larger or hiding borders for the first element in a list. However, this quaint selector becomes a pretty powerful anchor when combined with <code class="language-css">:nth-last-child</code>. Remember, our selectors are <var>IF</var> statements and by using <code class="language-css">:first-child</code> as the first selector (imagine this as the first parameter in an <var>IF</var> statement), we're able to filter out all elements that are not the first element.
+We all know and love the `:first-child` selector. It's great for making our opening paragraphs a little larger or hiding borders for the first element in a list. However, this quaint selector becomes a pretty powerful anchor when combined with `:nth-last-child`. Remember, our selectors are <var>IF</var> statements and by using `:first-child` as the first selector (imagine this as the first parameter in an <var>IF</var> statement), we're able to filter out all elements that are not the first element.
 
-Now our humble <code class="language-css">:nth-last-child(4)</code> selector can be combined to create <code class="language-css">:first-child:nth-last-child(4)</code> to create a much more specific selector asking the question __'Is this element the first-child and the fourth-last element that I'm working on?'__. This is getting pretty close to something that could be very useful but it needs one final ingredient to take it to the next level.
+Now our humble `:nth-last-child(4)` selector can be combined to create `:first-child:nth-last-child(4)` to create a much more specific selector asking the question __'Is this element the first-child and the fourth-last element that I'm working on?'__. This is getting pretty close to something that could be very useful but it needs one final ingredient to take it to the next level.
 
 ### The ~ * selector
 
 This rather bizarre selector uses two less common elements in <abbr title="Cascading Style Sheets">CSS</abbr>: the general sibling combinator and the universal selector. It asks the question __'Does this element come after the current selected element'__, effectively selecting all elements after the current element without traversing up an element level, something not currently possible in <abbr title="Cascading Style Sheets">CSS</abbr> - very cool! Combined with the previous code, we can write the following:
 
-[code type="css" src="quantity-selector.css"]
+```css
+:first-child:nth-last-child(4),
+:first-child:nth-last-child(4) ~ * {
+	/* Styles here */
+}
+```
 
 This asks the question __'Is this element the first-child and the fourth-last element that I'm working on OR does this element come after the first-child and the fourth-last element that I'm working on?'.__
 
@@ -59,7 +64,7 @@ We have a <abbr title="Cascading Style Sheets">CSS</abbr> selector that can chec
 
 #### Added bonus
 
-As the <code class="language-css">:nth-last-child</code> selector works in a similar way to the famous <code class="language-css">:nth-child</code> selector, you can pass more than just a single number into the selector. For example, if you pass in n+5, you are able to test whether the container holds five or more elements and style all of the elements accordingly!
+As the `:nth-last-child` selector works in a similar way to the famous `:nth-child` selector, you can pass more than just a single number into the selector. For example, if you pass in n+5, you are able to test whether the container holds five or more elements and style all of the elements accordingly!
 
 ## Why use Quantity Queries?
 
@@ -74,7 +79,16 @@ In a world of Content Management Systems, the challenge to web developers is to 
 
 I used Quantity Queries on a recent build to change the way that tags would display depending on the total number. This subtle enhancement only kicked in if there was five or more tags and it neatened up what would've been a long list. Using the following simple Quantity Query, I was able to swap from a list to a brickwork-like structure with ease:
 
-[code type="css" src="quantity-tags.css"]
+```css
+.tag {
+	display: block;
+}
+
+.tag:first-child:nth-last-child(n+5),
+.tag:first-child:nth-last-child(n+5) ~ * {
+	display: inline-block;
+}
+```
 
 ![](images/blog/query.gif "The finished result")
 
@@ -82,7 +96,24 @@ I used Quantity Queries on a recent build to change the way that tags would disp
 
 I put Quantity Queries to use on a template that required a flexible grid system to display a list of projects and news items. My aim to was to ensure that no orphaned elements would be left at the end of the list, regardless of how many items were in the system. Using a more complex set of selectors, I was able to create an effective grid system.
 
-[code type="css" src="quantity-system.css"]
+```css
+.panel:nth-child(3n),
+.panel:nth-child(3n+1):last-child,
+.panel:nth-child(6n+1):nth-last-child(4),
+.panel:nth-child(6n+1):nth-last-child(4) ~ .panel,
+.panel:nth-child(6n+4):nth-last-child(4),
+.panel:nth-child(6n+4):nth-last-child(4) ~ .panel {
+	width: 25%;
+}
+
+.panel:nth-child(6n+1),
+.panel:nth-child(6n+6),
+.panel:nth-child(6n+2):last-child,
+.panel:nth-child(6n+4):nth-last-child(2),
+.panel:nth-child(6n+4):nth-last-child(2) ~ .panel {
+	width: 50%;
+}
+```
 
 ![](images/blog/grid.gif)
 

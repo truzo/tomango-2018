@@ -10,7 +10,7 @@ blog/categories:
 
 In my second installment of looking at the cunning and irritating emails we call spam, I'm going to be looking into why you could be receiving so much spam, and (hopefully) how to reduce it.
 
-If you haven't already read my first article; '[how to spot spam emails'](http://www.tomango.co.uk/thinks/how-to-spot-spam-emails/), you might want to go ahead and check that out, so you're clued up on spam emails.
+If you haven't already read my first article; '[how to spot spam emails'](/blog/how-to-spot-spam-emails/), you might want to go ahead and check that out, so you're clued up on spam emails.
 
 ## How do they get my email address?
 

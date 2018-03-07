@@ -7,7 +7,7 @@ blog/categories:
  - online-marketing
 ---
 
-In a previous blog post I explained [what digital disruption is](http://www.tomango.co.uk/thinks/what-is-digital-disruption/), and how the landscape for marketers has been under a rapid evolution in recent times with the advent of new technology.
+In a previous blog post I explained [what digital disruption is](/blog/what-is-digital-disruption/), and how the landscape for marketers has been under a rapid evolution in recent times with the advent of new technology.
 
 With this in mind, it's a great idea for your company to have a proper digital strategy documented.
 

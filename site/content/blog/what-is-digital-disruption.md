@@ -33,9 +33,11 @@ How have these companies achieved this?
 
 Digital disruption is seeing new, innovative companies enter existing markets and offer products and services that are of better quality and can be delivered at a faster rate.
 
-> "The digital age has eroded traditional barriers, but it can be turned into an advantage by savvy firms"
-
-[cite][Samuel Bodily](http://www.emeraldinsight.com/doi/abs/10.1108/02756660410536964)[/cite]
+{{< quote
+	link="http://www.emeraldinsight.com/doi/abs/10.1108/02756660410536964"
+	body="The digital age has eroded traditional barriers, but it can be turned into an advantage by savvy firms"
+	citation="Samuel Bodily"
+>}}
 
 And it's great from a customer's perspective.
 
@@ -58,7 +60,7 @@ Here's two examples of companies that dealt with digital disruption in vastly di
 
 ## Domino's
 
-Pizza somehow always seems to be a great way of explaining [some facet of digital marketing](http://www.tomango.co.uk/thinks/local-seo-a-brief-guide/), and in this case, Domino's is a prime example of a company noticing its shortcomings, embracing a digital disruptive mindset, and seeing massive growth as a result.
+Pizza somehow always seems to be a great way of explaining [some facet of digital marketing](/blog/local-seo-a-brief-guide/), and in this case, Domino's is a prime example of a company noticing its shortcomings, embracing a digital disruptive mindset, and seeing massive growth as a result.
 
 Going back to November 2008, the share price of Domino's was a mere *$3.03*.
 
@@ -92,7 +94,7 @@ When the question was asked of Kodak in the 1980s if there should be a concern a
 
 Except...they never took the initiative at all.
 
-[![](images/blog/shutterstock_92281837-1024x1024.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/07/shutterstock_92281837.jpg)
+![](images/blog/shutterstock_92281837-1024x1024.jpg)
 
 Kodak's market share and financial performance started to decline in the 1990s as digital photography grew in prominence.
 

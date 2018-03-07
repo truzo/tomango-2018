@@ -7,7 +7,7 @@ blog/categories:
  - online-marketing
 ---
 
-Last Friday saw another Brighton SEO conference take place, and I was lucky to once again attend after [my first visit in April](http://www.tomango.co.uk/thinks/brighton-seo-how-to-be-a-local-seo-jedi/).
+Last Friday saw another Brighton SEO conference take place, and I was lucky to once again attend after [my first visit in April](/blog/brighton-seo-how-to-be-a-local-seo-jedi/).
 
 This time it was held at its new home at the Brighton Centre - a testament to how popular the event has gotten since 2011, and a far cry from the back room of a pub where the first one was held!
 
@@ -51,7 +51,7 @@ Seeing as how practically all my clients are local SEO clients I attended this s
 
 Christian works for Yext, an American company that enables businesses to update location-related information on multiple websites from one place.
 
-Correct data and information is critical to ranking well in local SEO, so this talk was useful and helped me build a bit more onto what I learned from my day-long local SEO training session from [the last Brighton SEO](http://www.tomango.co.uk/thinks/brighton-seo-how-to-be-a-local-seo-jedi/).
+Correct data and information is critical to ranking well in local SEO, so this talk was useful and helped me build a bit more onto what I learned from my day-long local SEO training session from [the last Brighton SEO](/blog/brighton-seo-how-to-be-a-local-seo-jedi/).
 
 Anyway, diving in to some of the takeaways from this session - there are *three things* that determine how well a website ranks for a local search:
 

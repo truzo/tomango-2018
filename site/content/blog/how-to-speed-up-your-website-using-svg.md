@@ -8,7 +8,7 @@ blog/categories:
  - web-design
 ---
 
-Continuing in the '[How to speed up your website](http://www.tomango.co.uk/thinks/tag/htsuyw/)' series, I'm going to outline the benefits of using SVG to display images. SVG stands for *Scalable Vector Graphics* and they're used to display vector-based images via code.
+Continuing in the '[How to speed up your website](/blog/tag/htsuyw/)' series, I'm going to outline the benefits of using SVG to display images. SVG stands for *Scalable Vector Graphics* and they're used to display vector-based images via code.
 
 ## Images via code? What is this black magic?
 
@@ -42,11 +42,17 @@ This file can then be used just like any other image. For example:
 
 #### HTML
 
-[code type="markup" src="svg-html.html"]
+```html
+<img src="logo.svg" />
+```
 
 #### CSS
 
-[code type="css" src="svg-css.css"]
+```css
+.logo {
+    background: url( logo.svg );
+}
+```
 
 ## Optimising your SVG file
 

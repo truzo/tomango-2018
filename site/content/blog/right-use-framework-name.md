@@ -42,10 +42,9 @@ On this project, it felt absolutely right to use React for the calculator. It di
 
 For many agency projects and budgets, you have to be realistic about what is both achievable and beneficial for the client. I tend to ask myself a few questions before trying a new technology:
 
-	<li>What happens if this feature fails. Will the site/feature become unusable and worthless?
-	<li>What happens if your knowledge of the framework fails? Will you be left with an impossible task of re-coding the whole site/feature.
-	<li>Is the file size worth it?
-
+- What happens if this feature fails. Will the site/feature become unusable and worthless?
+- What happens if your knowledge of the framework fails? Will you be left with an impossible task of re-coding the whole site/feature.
+- Is the file size worth it?
 
 For the most part, I'd suggest erring on the side of caution and stick to Vanilla Javascript and jQuery. However, when the project is right and each question is returning a positive answer, take the opportunity to put a new technology into practice.
 

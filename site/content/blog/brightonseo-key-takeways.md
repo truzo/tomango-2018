@@ -28,7 +28,7 @@ Here are some of my key takeaways/interesting nuggets from the day:
 - The days of being Director of SEO or Director of PPC are dying. Instead, you need to be the one who ties it all together. Enter...the Digital Knowledge Manager:
 
 
-[![](images/blog/Duane-Forrester-Brighton-SEO-Digital-Knowledge-Manager-Slide-e1506073159241-1024x768.jpg)](http://www.tomango.co.uk/wp-content/uploads/2017/09/Duane-Forrester-Brighton-SEO-Digital-Knowledge-Manager-Slide.jpg)
+![](images/blog/Duane-Forrester-Brighton-SEO-Digital-Knowledge-Manager-Slide-e1506073159241-1024x768.jpg)
 
 __(This isn't a million miles away from the idea of being a 'T-shaped marketer' - one that's a jack-of-all-trades, but a master of one)__
 
@@ -48,7 +48,7 @@ Here's the rundown:
 - *Get the garden to weed itself.* Essentially, use the job posting to filter out any candidates that might not be suitable by being smart with the application process. Some of Stephan's ideas for this included: adding to the application an assignment or riddle, asking them to apply via voicemail, or asking for a particular keyword in the email subject line of their application to show they've read the job description thoroughly. All of these throw up barriers to the potential applicant, and you'll likely remove some of those that aren't enthused enough about the role to do them.
 
 
-[![](images/blog/DJwrUMRU8AATktU-1024x512.jpg)](http://www.tomango.co.uk/wp-content/uploads/2017/09/DJwrUMRU8AATktU.jpg)
+[![](images/blog/DJwrUMRU8AATktU-1024x512.jpg)](/images/blog/DJwrUMRU8AATktU.jpg)
 
 - *Ask for their social media profiles and do some digging. *Are they posting about SEO, answering people's questions, or interacting with key industry figures? What kind of content are they sharing? Do they have good spelling and grammar? And, of course, are they racist, sexist, homophobic, abuse drugs or alcohol, or are overtly political?
 - *Split test the job advert. *We all love optimisation in this game, so why not do the same with your job posting? You could do two ads with different job titles, use different language, have one with the salary and one without...keep experimenting and see what gets the right people applying for your company!
@@ -74,7 +74,7 @@ Not only that - by 2030, artificial intelligence is predicted to add a total of 
 
 But this doesn't mean you'll expect a seamless and instantaneous experiences just yet - and if your business does decide to use a chatbot for this purpose, make sure a human isn't too far away, just in case things go a bit skeewiff:
 
-[![](images/blog/20170915_152109-e1506503985511-768x1024.jpg "When chatbots go a bit wrong - apologies for potato quality!")](http://www.tomango.co.uk/wp-content/uploads/2017/09/20170915_152109-e1506503985511.jpg)
+[![](images/blog/20170915_152109-e1506503985511-768x1024.jpg "When chatbots go a bit wrong - apologies for potato quality!")](/images/blog/20170915_152109-e1506503985511.jpg)
 
 ### *Emilie's tips on building a chatbot*
 

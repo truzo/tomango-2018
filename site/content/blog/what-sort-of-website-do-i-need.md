@@ -10,7 +10,7 @@ blog/categories:
  - web-design
 ---
 
-So you've [decided you need a new website](http://www.tomango.co.uk/thinks/do-i-need-a-new-website/).
+So you've [decided you need a new website](/blog/do-i-need-a-new-website/).
 
 Your next step is to create a brief for the project. But before you do that, you need to work out a framework of the functionality; in other words, what sort of website you need.
 
@@ -28,20 +28,18 @@ This question helps frame the whole project, and establishes the reason you're g
 
 You might be aiming to:
 
-	<li>Raise your brand profile
-	<li>Increase sales by getting more customers
-	<li>Sell more to existing customers
-	<li>Sell more of a new product or service
-	<li>Get more customers or orders of a particular type
-
+- Raise your brand profile
+- Increase sales by getting more customers
+- Sell more to existing customers
+- Sell more of a new product or service
+- Get more customers or orders of a particular type
 
 Or maybe you want to:
 
-	<li>Improve communication with your customers
-	<li>Make your service quicker by taking it online
-	<li>Reduce costs by being more efficient
-	<li>Save money on postage
-
+- Improve communication with your customers
+- Make your service quicker by taking it online
+- Reduce costs by being more efficient
+- Save money on postage
 
 These are some of the more common aims we discuss with our clients. Some come to us with a completely new idea, or something very niche to their market, but your website should be doing *something* to improve your bottom line.
 
@@ -63,7 +61,7 @@ But you also need to look beyond this to the actual *person* using the site.
 
 How old are they? How tech-savvy are they? Do you think they'll be using a desktop machine (a PC or Mac, or a laptop) or a tablet or phone? Is your website going to be used by them at work? Or at home, on the sofa with a glass of wine in their hand?
 
-It's worth putting in a bit of time and effort to create [Personas](http://www.tomango.co.uk/thinks/what-are-personas/) - it really helps everyone involved in the project visualise the people who'll be using the site (and it's quite good fun, too).
+It's worth putting in a bit of time and effort to create [Personas](/blog/what-are-personas/) - it really helps everyone involved in the project visualise the people who'll be using the site (and it's quite good fun, too).
 
 ![](images/blog/personas-examples.jpg "Personas bring your site's users to life")
 
@@ -89,10 +87,9 @@ The order of their questions, and the answers you need to give them, can help yo
 
 Here's an example of a typical thought-process:
 
-	<li>*Do they do what I want?* Show your full range of services clearly, with links to details
-	<li>*What's their track record?* Show examples of work you've done for other customers
-	<li>*How will they go about it - will I like working with these people?* Describe your processes and get across your personality
-
+- *Do they do what I want?* Show your full range of services clearly, with links to details
+- *What's their track record?* Show examples of work you've done for other customers
+- *How will they go about it - will I like working with these people?* Describe your processes and get across your personality
 
 If you work out how to help your user through the site, answering their questions along the way, you'll turn more of your visitors into customers.
 
@@ -127,7 +124,6 @@ This type of site helps your business raise or position your brand profile and t
 Brochure sites range in size from just a handful of pages to several dozen, but functionality is at the basic end of the scale. A good brochure site positions a business correctly within its marketplace, helping it win more of the right type of business.
 
 > Brochure websites aren't complex; but done well they present a business properly, helping it win more of the right customers
-
 
 ## Portfolio site
 

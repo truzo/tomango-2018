@@ -25,14 +25,19 @@ The cause of this problem is in the upgrade. In the process of upgrading to Wind
 
 The fix is a simple one, although it may look rather daunting to the less experienced computer user.
 
-	<li>Open Command Prompt as an admin – Right Click on the Start Button and select ‘Command Prompt (Admin)’.
+Open Command Prompt as an admin – Right Click on the Start Button and select ‘Command Prompt (Admin)’.
+
 ![](images/blog/command-prompt-start-menu.jpg)
-	<li>Now this is the part that looks a bit unfriendly and technical, but don’t worry, we’re only going to enter one thing in here. Simply type
-<b>‘sfc /scannow’</b> into the window, and then hit enter (note the space in between the two words).
+
+Now this is the part that looks a bit unfriendly and technical, but don’t worry, we’re only going to enter one thing in here. Simply type **‘sfc /scannow’** into the window, and then hit enter (note the space in between the two words).
+
 ![](images/blog/command-prompt-start.jpg)
-	<li>The window will now say that it’s scanning. This took around 10 minutes for me, however it may take longer if you have a lot stored on your computer.
+
+The window will now say that it’s scanning. This took around 10 minutes for me, however it may take longer if you have a lot stored on your computer.
+
 ![](images/blog/command-prompt-running1.jpg)
-	<li>Once the scan is complete you'll need to restart your computer. Once you've logged back in again you should be able to open Outlook and send emails again – Voila!
+
+Once the scan is complete you'll need to restart your computer. Once you've logged back in again you should be able to open Outlook and send emails again – Voila!
 
 
 Over time Windows will iron out these little problems so you won’t have to go through this process when you upgrade. There are likely be plenty more bugs on Windows 10, that I haven’t encountered yet, so if that hasn’t solved your problem you might have to go searching the forums like I did.

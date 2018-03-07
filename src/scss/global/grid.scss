@@ -86,6 +86,10 @@
 		.content {
 			max-width: 648px;
 			width: 65%;
+
+			.content {
+				width: 100%;
+			}
 		}
 	}
 

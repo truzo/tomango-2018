@@ -51,9 +51,9 @@ After all that negativity, it's only fair to give you some sound advice about wh
 
 Unfortunately, internet success stories like Twitter, Facebook and earlier Amazon and Google have left some people with the expectation that making squillions of pounds from a website is easy.  As with most things in life, the more you put in the more you get out and the internet is not really any different.
 
-	<li>Expect to have to provide some input into the creation of your website.
-	<li>Expect to have to at least take an interest in keeping it up to date and current.
-	<li>Expect to have to put in some time, effort and money to market your website and get people to come to it.
+- Expect to have to provide some input into the creation of your website.
+- Expect to have to at least take an interest in keeping it up to date and current.
+- Expect to have to put in some time, effort and money to market your website and get people to come to it.
 
 
 Be sure to have measurable goals, so that you can gauge whether your website has been "a success".  What do you want to achieve in the first year?  Perhaps a certain number of sales or enquiries, or maybe a certain number of visitors?  A good website designer should understand your goals from the first meeting and work out how they can help to make it happen.

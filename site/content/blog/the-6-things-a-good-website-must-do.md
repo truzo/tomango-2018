@@ -36,9 +36,9 @@ Do you get the majority of your work through word-of-mouth? Then make damn sure 
 
 If you want your website to work hard for your business, you need to know who it's for.
 
-One of the best ways to do this is to create [Personas](http://www.tomango.co.uk/thinks/what-are-personas/) for your users.
+One of the best ways to do this is to create [Personas](/blog/what-are-personas/) for your users.
 
-__Read our blog post: [What are Personas?](http://www.tomango.co.uk/thinks/what-are-personas/)__
+__Read our blog post: [What are Personas?](/blog/what-are-personas/)__
 
 Personas are life-like personalities that outline a user's background and reasons for using the website. It helps everyone understand (and refer back to) the real-life needs of your customers and how the site needs to work to meet those needs.
 
@@ -60,13 +60,11 @@ Everyone who comes to your website will have certain questions they want to answ
 
 Let's say you're an architect and your user is a property developer looking to build a development of 5 or 6 highly-distinctive executive homes. Her questions might be something like this:
 
-	<li>Is this architect big enough to take on my project?
-	<li>Are they creatively capable?
-	<li>How big is the practice?
-	<li>How much experience and knowledge do they have?
-	<li>Could I work with these guys?
-
-
+- Is this architect big enough to take on my project?
+- Are they creatively capable?
+- How big is the practice?
+- How much experience and knowledge do they have?
+- Could I work with these guys?
 
 ## 4. It must be their guide.
 
@@ -78,17 +76,16 @@ This helps form the User Journey, which is a fancy name for how they might move 
 
 Using the same set of questions, our Property Developer might have the following User Journey:
 
-	<li>*Is this architect big enough to take on my project?
+- *Is this architect big enough to take on my project?
 *She may want to look at previous work you've done of a similar size to her project, by looking at your *Portfolio*
-	<li>*Are they creatively capable?
+- *Are they creatively capable?
 *She may want to look at other projects in the *Portfolio* for the private housing sector, to see how you approach design
-	<li>*How big is the practice?
+- *How big is the practice?
 *She might want to look at information about the size of the Team and where you work, in an *About Us* section
-	<li>*How much experience and knowledge do they have?
+- *How much experience and knowledge do they have?
 *She might want to check out some *Blog* posts to find opinion pieces that establish your knowledge and expertise
-	<li>*Could I work with these guys?
+- *Could I work with these guys?
 *She may want to find out about your work ethic and the personality of your business, perhaps by checking out your *Processes*
-
 
 You can document the User Journey for each of your Personas like this:
 

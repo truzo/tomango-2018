@@ -64,9 +64,9 @@ Every business, industry and organisation will have topics that can provide good
 
 To get your creative juices flowing, ask yourself:
 
-	<li>What questions do your customers always ask?
-	<li>What are the "silly questions" that customers want to ask, if only they weren't so shy?
-	<li>What underlying principles haven't changed in your field of work, and remain as relevant today as they did years ago?
+- What questions do your customers always ask?
+- What are the "silly questions" that customers want to ask, if only they weren't so shy?
+- What underlying principles haven't changed in your field of work, and remain as relevant today as they did years ago?
 
 
 

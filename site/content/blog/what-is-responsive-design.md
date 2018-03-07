@@ -20,7 +20,7 @@ The simple answer is usability. If the user has to zoom, scroll horizontally, or
 
 The statistics speak for themselves. John Lewis recently announced that “42% of their online traffic now comes from smartphones and tablets” and they have “seen mobile orders more than double on a year ago” <cite>[BBC Article](http://www.bbc.co.uk/news/business-25175755).</cite> Below is a comparison of the [John Lewis](http://johnlewis.com) website on a mobile device - one with mobile-friendly styling, one as fixed-width.
 
-[![](images/blog/john_lewis_comparison-719x630.png)](http://www.tomango.co.uk/wp-content/uploads/2014/02/john_lewis_comparison.png)
+![](images/blog/john_lewis_comparison-719x630.png)
 
 It’s easy to see why there has been such a jump in mobile orders and traffic when you compare the sites side-by-side. The mobile site looks like real care has been put into the way it looks and works and it’s a joy to use. The fixed-width site on the mobile screen looks like a real hassle to navigate, let alone buy products through it.
 

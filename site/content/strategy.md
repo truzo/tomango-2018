@@ -4,7 +4,7 @@ hideCta: true
 lineCta: true
 ---
 
-Imagine it’s three years from today.
+Imagine it’s the {{< date >}}
 
 We’re meeting for a coffee, and you’re very happy with how things have gone over the last three years. 
 
@@ -24,7 +24,7 @@ But a lot of people say they do that.
 
 What **we** do is get you from here to where you want to get to - as quickly as possible.
 
-We look at what you want to do, what you’ve got going for you, and what’s in your way. We figure out what needs to be done to get the biggest return on your investment.
+We look at what you want to do, what you’ve got going for you, and what’s in your way. We decide what needs to be done to get the biggest return on your investment.
 
 If we just took your order as if you were picking from a menu in a restaurant, frankly we wouldn’t be doing our job properly.
 

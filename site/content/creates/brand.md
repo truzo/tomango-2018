@@ -5,7 +5,7 @@ image: images/creates/brand.jpg
 weight: 10
 related: 
   - agon-systems
-  - agon-systems
+  - concept-tag
 ---
 
 **A strong brand identity gets you more of the type of business you want, at the price you want to charge.**
@@ -15,10 +15,10 @@ Get it right, and your marketing material, website and digital marketing strateg
 Get it wrong, and you’ll always be swimming against the tide.
 
 {{< quote
-	link="/created/fludes-carpets"
+	link="/created/agon-systems/"
 	image="images/what-we-do/1000/brand.jpg"
-	body="Almost from day one visits to the Karndean pages increased and the enquiries we had as a result were firm sales opportunities."
-	citation="Andy Laird, Managing Director, Fludes Carpets"
+	body="Investing in our brand has helped us triple our turnover in three years to £5 million."
+	citation="Sean Welch , CEO, Agon Systems"
 >}}
 
 ## Our process

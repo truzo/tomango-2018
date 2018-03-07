@@ -8,7 +8,7 @@ blog/categories:
  - web-design
 ---
 
-As I've mentioned [before,](http://www.tomango.co.uk/thinks/tag/htsuyw/) website speed is incredibly important. Search engines are beginning to penalise slow websites, but more importantly, users are voting with their feet when it comes to slow websites. Check out this [awesome infographic](https://blog.kissmetrics.com/loading-time/?wide=1) from KISSmetrics on how loading times affect your bottom line, it's quite an eye-opener.
+As I've mentioned [before,](/blog/tag/htsuyw/) website speed is incredibly important. Search engines are beginning to penalise slow websites, but more importantly, users are voting with their feet when it comes to slow websites. Check out this [awesome infographic](https://blog.kissmetrics.com/loading-time/?wide=1) from KISSmetrics on how loading times affect your bottom line, it's quite an eye-opener.
 
 When it came to building our new website, performance was at the front of my mind. It wasn't that performance was an issue for our previous site, rather due to changing technologies and a design involving a heavier emphasis on images and graphical content I knew that prioritising performance would be key.
 
@@ -18,9 +18,9 @@ This is going to be a technically-heavy article that will give you some practica
 
 Before making any performance changes, getting a benchmark time in place is crucial. There's no point making numerous changes without knowing the original time to beat. I use the following services to benchmark performance:
 
-	<li>[Firefox](https://www.mozilla.org/en-US/firefox/developer/) (Developer edition) in-built network tab – This is great for quick A/B checking as well as more in depth analysis.
-	<li>[Pingdom](http://tools.pingdom.com/fpt/) – This service runs a number of performance tests on the website before giving you suggestions on how to improve the load time.
-	<li>[Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) – Google's performance tester is very handy. Although it doesn't give the same level of detail that Pingdom and Firefox network tools do, it provides a great checklist of useful tweaks you can make to hit the 100/100 target they set.
+- [Firefox](https://www.mozilla.org/en-US/firefox/developer/) (Developer edition) in-built network tab – This is great for quick A/B checking as well as more in depth analysis.
+- [Pingdom](http://tools.pingdom.com/fpt/) – This service runs a number of performance tests on the website before giving you suggestions on how to improve the load time.
+- [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) – Google's performance tester is very handy. Although it doesn't give the same level of detail that Pingdom and Firefox network tools do, it provides a great checklist of useful tweaks you can make to hit the 100/100 target they set.
 
 
 The other key to performance updates is exercising control. Like any experiment, be it scientific or not, to gather any useful data from your updates, you need to maintain a control. Don't make ten different tweaks before testing them, work through a list of updates systematically, testing them as you go. You're far more likely to see sizeable performance gains if you fully understand each update. Equally, some of the updates require pretty fundamental changes to your site code – if you upload the changes and hit a major problem, Ctrl-z'ing back through multiple changes will not be fun.
@@ -51,11 +51,11 @@ Used well, plugins can help you abstract your site into a quick and maintainable
 
 Much like themes, plugins are often far too tempting to install, too easy to forget about and too confusing to debug. Using a choice few plugins will make a big difference to your site speed. The publicly installable plugins used on this site are:
 
-	<li>[Advanced Custom Fields](http://www.advancedcustomfields.com)
-	<li>[Gravity Forms](http://www.gravityforms.com/)
-	<li>[WordPress SEO](https://wordpress.org/plugins/wordpress-seo/)
-	<li>[Disable Comments](https://wordpress.org/plugins/disable-comments/)
-	<li>[oAuth Twitter Feed for Developers](https://wordpress.org/plugins/oauth-twitter-feed-for-developers/)
+- [Advanced Custom Fields](http://www.advancedcustomfields.com)
+- [Gravity Forms](http://www.gravityforms.com/)
+- [WordPress SEO](https://wordpress.org/plugins/wordpress-seo/)
+- [Disable Comments](https://wordpress.org/plugins/disable-comments/)
+- [oAuth Twitter Feed for Developers](https://wordpress.org/plugins/oauth-twitter-feed-for-developers/)
 
 
 They all have specific roles and they make my life as a developer far easier. This is how plugins should work: they should be lean, reliable and not cause you headaches. By keeping this list of plugins to a minimum, you are able to spend time getting to know how they work, how they can help you best and, importantly, how they can speed up your site.
@@ -78,14 +78,14 @@ I have found the best way to use ACF is to let it deal with all of the data entr
 
 [Included in v5](http://www.advancedcustomfields.com/resources/local-json/), the addition of local JSON field groups gives you the option to significantly cut down on the number of database queries on every page load. ACF is inefficient when it comes to saving data in the options table and this is what causes unnecessary database queries. By following these simple steps, you can cut that right back:
 
-	<li>Back up your database (as always).
-	<li>Create a folder named 'acf-json' in your theme.
-	<li>Go through each existing field group in the admin area, load up the edit page and click 'Update'.
-	<li>Each group save will create a JSON file in the newly created acf-json folder. Ensure that the number of files matches the number of existing field groups.
-	<li>Save all of the JSON files locally (you'll need them again in a minute).
-	<li>Delete the JSON files from the server (make sure you've still got the backup versions locally).
-	<li>Delete all the field groups from the site (trash them and then empty the trash).
-	<li>Re-upload the JSON files to the 'acf-json' folder.
+- Back up your database (as always).
+- Create a folder named 'acf-json' in your theme.
+- Go through each existing field group in the admin area, load up the edit page and click 'Update'.
+- Each group save will create a JSON file in the newly created acf-json folder. Ensure that the number of files matches the number of existing field groups.
+- Save all of the JSON files locally (you'll need them again in a minute).
+- Delete the JSON files from the server (make sure you've still got the backup versions locally).
+- Delete all the field groups from the site (trash them and then empty the trash).
+- Re-upload the JSON files to the 'acf-json' folder.
 
 
 Check out the [JSON documentation](http://www.advancedcustomfields.com/resources/local-json/) on the ACF website to get a better understanding of how it works and how it can speed up your site load time.
@@ -120,7 +120,10 @@ By specifying expiry dates in our .htaccess file, we can tell the browser to sto
 
 The following snippet tells browsers to cache CSS and JavaScript for a month:
 
-[code type="markup" src="performance-expires.txt"]
+```
+ExpiresByType text/css        "access plus 1 month"
+ExpiresByType text/javascript "access plus 1 month"
+```
 
 ## Front-end
 
@@ -142,7 +145,7 @@ Once you've concatenated your JavaScript, do the same for CSS files. If you're f
 
 ### SVG
 
-Check out our article on [using SVG to speed up your website](http://www.tomango.co.uk/thinks/how-to-speed-up-your-website-using-svg/) to get top tips on serving images efficiently.
+Check out our article on [using SVG to speed up your website](/blog/how-to-speed-up-your-website-using-svg/) to get top tips on serving images efficiently.
 
 ### Icon fonts
 
@@ -160,7 +163,26 @@ Our site uses three fonts from Google Web Fonts but, crucially, the design requi
 
 #### Using the WebFont Loader
 
-[code type="javascript" src="performance-fonts.js"]
+```ja
+WebFontConfig = {
+    google: {
+        families: [
+            'Open+Sans:300,400:latin',
+            'Roboto+Slab:300:latin',
+            'Roboto:400,500:latin'
+        ]
+    }
+};
+
+(function() {
+    var wf = document.createElement('script');
+    wf.src = 'http://ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+})();
+```
 
 #### Subsetting
 
@@ -180,11 +202,35 @@ Choosing an appropriate method for displaying responsive images is not easy, all
 
 By tailoring this [great snippet from Jeremy Keith](https://adactio.com/journal/8504), we're able to separate load-critical CSS and nice-to-have CSS and load them at different points, one inline within the header and the other asynchronously. Using cookies, this only affects the first load for a user once the main CSS file has been loaded, it gets cached and we don't need to worry about inlining the critical CSS. There's also a rather handy cache buster built in:
 
-[code type="php" src="performance-critical.txt"]
+```php
+<?php $v = '20150314';
+if ( ! empty( $_COOKIE[ 'csscached' ] ) &amp;&amp; $_COOKIE[ 'csscached' ] === $v ) :?>
+
+    <link rel="stylesheet" href="/wp-content/themes/tomango/style.<?php echo $v;?>.css" media="all" />
+
+<?php else:?>
+
+    <style>
+        <?php include( 'assets/css/critical.css' );?>
+    </style>
+    <script>
+        // loadCSS - @see https://github.com/filamentgroup/loadCSS
+        loadCSS( '/wp-content/themes/tomango/style.<?php echo $v;?>.css' );
+        document.cookie = 'csscached=<?php echo $v;?>;expires="Wed, 20 Jan 2040 10:20:10 GMT";path=/';
+    </script>
+    <noscript>
+        <link rel="stylesheet" href="/wp-content/themes/tomango/style.<?php echo $v;?>.css" media="all" />
+    </noscript>
+
+<?php endif;?>
+```
 
 Teamed up with this .htaccess rewrite, we can version control our assets without query strings – just ensure that this goes above the initial WordPress Rewrite rules:
 
-[code type="markup" src="performance-version.txt"]
+```
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)\.([0-9]*)\.(js|css)$ $1.$3 [L]
+```
 
 ### Grunt &amp; automation
 
@@ -192,13 +238,13 @@ Many front-end updates can be automated using task runners such as [Grunt](http:
 
 I've opted for Grunt on this project and I'm using the following extensions:
 
-	<li>[jshint](https://github.com/gruntjs/grunt-contrib-jshint) – JavaScript linting
-	<li>[concat](https://github.com/gruntjs/grunt-contrib-concat) – for concatenating JavaScript and CSS files
-	<li>[uglify](https://github.com/gruntjs/grunt-contrib-uglify) – JavaScript compression
-	<li>[cssmin](https://github.com/gruntjs/grunt-contrib-cssmin) – CSS minification
-	<li>[criticalcss](https://github.com/filamentgroup/grunt-criticalcss) – calculating the load-critical CSS
-	<li>[browserSync](https://github.com/BrowserSync/grunt-browser-sync) – live reloading and screen syncing
-	<li>[watch](https://github.com/gruntjs/grunt-contrib-watch) – live grunt reloading
+- [jshint](https://github.com/gruntjs/grunt-contrib-jshint) – JavaScript linting
+- [concat](https://github.com/gruntjs/grunt-contrib-concat) – for concatenating JavaScript and CSS files
+- [uglify](https://github.com/gruntjs/grunt-contrib-uglify) – JavaScript compression
+- [cssmin](https://github.com/gruntjs/grunt-contrib-cssmin) – CSS minification
+- [criticalcss](https://github.com/filamentgroup/grunt-criticalcss) – calculating the load-critical CSS
+- [browserSync](https://github.com/BrowserSync/grunt-browser-sync) – live reloading and screen syncing
+- [watch](https://github.com/gruntjs/grunt-contrib-watch) – live grunt reloading
 
 
 Check out our [Gruntfile](http://www.tomango.co.uk/Gruntfile.js) to see how they are used on the site.

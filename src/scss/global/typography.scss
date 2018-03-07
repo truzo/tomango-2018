@@ -89,6 +89,10 @@ blockquote {
 		line-height: 1.3125;
 		font-size: 1.6em;
 		margin-bottom: 1.1625em;
+
+		.content & a:not(.button) {
+			font-weight: 700;
+		}
 	}
 
 	cite {

@@ -2,11 +2,13 @@
 title: Careers
 ---
 
-## What’s so great about Tomango, anyway?
+**We're always interested in hearing from brilliant people looking to carve out their career with us.**
+
 Tomango works with a wide range of business across the UK, creating beautiful, hard-working brands, developing and managing websites and implementing killer online marketing campaigns.
+
 Based in a converted farm building in a rural location about 5 minutes from Lewes and 20 minutes from Brighton, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a kick from seeing our clients succeed.
 
-## Working for Tomango, you get:
+As part of the team, you'll benefit from:
 
 - A competitive salary + regular reviews
 - 28.5 days holiday + bank holidays
@@ -19,4 +21,4 @@ Based in a converted farm building in a rural location about 5 minutes from Lewe
 - All the tea and coffee you can drink, plus regular cake
 
 ## Current vacancies
-There are currently no vacancies at Tomango.
+There are currently no vacancies, but we're always on the look out for talented people. [Email your CV](jobs@tomango.co.uk).

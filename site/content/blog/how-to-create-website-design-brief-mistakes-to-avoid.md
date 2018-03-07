@@ -50,7 +50,11 @@ There is a Danish man called [Jakob Nielsen](http://en.wikipedia.org/wiki/Jakob_
 
 *Jakob's Law of the Web User Experience* states that "users spend most of their time on other websites."  What he means is that your users form their expectations for your site based on what's commonly done on most other sites and if you deviate, your site will be harder to use.
 
-> "Consistency is one of the most powerful usability principles" [cite][Jakob Nielsen](http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant))[/cite]
+{{< quote
+	body="Consistency is one of the most powerful usability principles"
+	citation="Jakob Nielsen"
+	link="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)"
+>}}
 
 You see, *consistency is good*.  It's one of the most powerful usability principles; when things always behave the same, users don't have to worry about what will happen.  This increases their confidence in using your site, which means they'll like it more.
 

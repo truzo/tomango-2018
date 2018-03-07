@@ -66,7 +66,7 @@ While you may see some results after three months, achieving domination in SERPs
 
 But, if you plan on quitting after three months because you're not ranked #1 on Google, you're wasting your time and your money.
 
-And if you're a company looking to hire an SEO agency, don't be taken in by the promise of guaranteed results. In a [previous post](http://www.tomango.co.uk/thinks/how-to-choose-a-good-seo-company/) we laid this out, and it's true:
+And if you're a company looking to hire an SEO agency, don't be taken in by the promise of guaranteed results. In a [previous post](/blog/how-to-choose-a-good-seo-company/) we laid this out, and it's true:
 
 > No-one can guarantee search results on Google.
 

@@ -10,7 +10,7 @@ blog/categories:
  - web-design
 ---
 
-With the [Tomango summer party](http://www.tomango.co.uk/thinks/tomangos-summer-party-with-photos/) just over two weeks away, we reflect on the different backgrounds and businesses of our guests and the wide range of services we now provide for them.
+With the [Tomango summer party](/blog/tomangos-summer-party-with-photos/) just over two weeks away, we reflect on the different backgrounds and businesses of our guests and the wide range of services we now provide for them.
 
 Before we merged to become *Tomango*, both Blue Planet and Jupiter Colour were formed as [website design](http://www.tomango.co.uk/creates/web/design/) companies, but now we're about so much more than that.  Our "vision" for Tomango was to be the best [brand identity design](http://www.tomango.co.uk/creates/brand/), [website design](http://www.tomango.co.uk/creates/web/design/) and [online marketing company](http://www.tomango.co.uk/creates/online-marketing/) in Sussex.
 

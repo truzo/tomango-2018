@@ -11,7 +11,7 @@ blog/categories:
 
 ![](images/blog/shutterstock_12633685.jpg)
 
-In a [previous post](http://www.tomango.co.uk/thinks/local-seo-a-brief-guide/) I dropped an analogy at the end likening the practice of search engine optimisation to that of top-level cycling.
+In a [previous post](/blog/local-seo-a-brief-guide/) I dropped an analogy at the end likening the practice of search engine optimisation to that of top-level cycling.
 
 No, not that those who do it do so with a helping hand from a range of performance enhancing drugs...it was actually to do with the philosophy of David Brailsford, former performance director of British Cycling and now manager of the very successful Team Sky:
 
@@ -25,7 +25,7 @@ Well, search engines sort their results using algorithms that have hundreds of
 
 So if you've given yourself a pat on the back because you've written one blog post this month, don't be so sure of yourself. There's *plenty* more you could be doing.
 
-[![](images/blog/SearchEngineLand-Periodic-Table-of-SEO-2015-medium.png)](http://www.tomango.co.uk/wp-content/uploads/2016/04/SearchEngineLand-Periodic-Table-of-SEO-2015.pdf)
+[![](images/blog/SearchEngineLand-Periodic-Table-of-SEO-2015-medium.png)](/images/blog/SearchEngineLand-Periodic-Table-of-SEO-2015.pdf)
 
 The above 'Periodic Table Of SEO Success Factors' from [Search Engine Land](http://searchengineland.com/) gives you some of key ranking factors for both on-page and off-page search engine.
 

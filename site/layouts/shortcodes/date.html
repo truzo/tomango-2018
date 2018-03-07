@@ -1,0 +1,16 @@
+<span class="the-day-today">{{ partial "date" (now.AddDate 3 0 0) }}.</span>
+<script>
+  (function(d) {
+    function os(i) {
+      var j = i % 10;
+      var k = i % 100;
+      if (j === 1 && k !== 11) return i + 'st';
+      if (j === 2 && k !== 12) return i + 'nd';
+      if (j === 3 && k !== 13) return i + 'rd';
+      return i + 'th';
+    }
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    d.setFullYear(d.getFullYear() + 3);
+    document.querySelector('.the-day-today').innerText = os(d.getDate()) + ' ' + months[d.getMonth()] + ' ' + d.getFullYear() + '.';
+  })(new Date());
+</script>

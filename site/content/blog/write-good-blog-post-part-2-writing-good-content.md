@@ -10,7 +10,7 @@ blog/categories:
 
 I know all too well that maintaining a blog is hard work and often share some tips with our clients that help me keep things going.  I eventually decided that it might be useful for others if I shared these online, so I'm writing this short sequence of articles to help you become a better blogger.
 
-In the second of this 3-part series, we build on the framework for our blog post that we put together in "[How to write a blog post - Part 1: Getting started](http://www.tomango.co.uk/thinks/write-good-blog-post-part-1-getting-started/)".  By the end of this article, you'll have done all the writing you need to and be well on the way to having your blog post completed.
+In the second of this 3-part series, we build on the framework for our blog post that we put together in "[How to write a blog post - Part 1: Getting started](/blog/write-good-blog-post-part-1-getting-started/)".  By the end of this article, you'll have done all the writing you need to and be well on the way to having your blog post completed.
 
 In our previous post, we created the structure for our blog post with six headings, each having three items we wanted to cover.  The next step is to fill out the blog post using this structure.
 

@@ -49,9 +49,9 @@ Before flicking the switch to the new website, make sure you have a working copy
 ## Other useful checkpoints
 
 
-	<li>*Favicon:* A website without a favicon looks unfinished – make sure there’s one ready to go when the site is made live.
-	<li>*Code Validation:* Like cross-browser testing this should be completed when the development of the site is completed but it’s worth double-checking before the website is live – it could save you some downtime and embarrassment.
-	<li>*Sitemap:* Not necessarily a sitemap to help users get around your website, but an XML sitemap to help search engines crawl through your website.
+- *Favicon:* A website without a favicon looks unfinished – make sure there’s one ready to go when the site is made live.
+- *Code Validation:* Like cross-browser testing this should be completed when the development of the site is completed but it’s worth double-checking before the website is live – it could save you some downtime and embarrassment.
+- *Sitemap:* Not necessarily a sitemap to help users get around your website, but an XML sitemap to help search engines crawl through your website.
 
 
 
@@ -59,11 +59,11 @@ Before flicking the switch to the new website, make sure you have a working copy
 
 When you refresh the domain and see your sparkly new website go-live, the understandable reaction is to tell the world about it! Feel free to do that – but don’t shout about it too early, there are a couple of other checks you’ll want to make first:
 
-	<li>Check both the *www* and *non www* version of the domain. For example, we would check that Tomango.co.uk and www.tomango.co.uk both went to the live site.
-	<li>Use a global propagation tool such as [whatsmydns.net](http://whatsmydns.net/) to check your website is resolving to the right IP all around the world. Wait for the site to propagate around the world; if it’s fluctuating a lot, your users could see a mix of both the new and old site in one bizarre amalgamation!
-	<li>Check that all links and images work on the new domain, if you’ve been using a staging domain you’ll want to make sure that the links and images point to the new domain.
-	<li>Does your site have ecommerce or online payments? Make a test order on the new domain and check that you get redirected back to the live domain without any hiccups.
-	<li>Get a friend on a different network to check the website over. It’s reasonably unlikely but if an ISP has aggressively cached the website, you may find that the old site hangs around a bit. Checking on several networks will confirm this for you.
+- Check both the *www* and *non www* version of the domain. For example, we would check that Tomango.co.uk and www.tomango.co.uk both went to the live site.
+- Use a global propagation tool such as [whatsmydns.net](http://whatsmydns.net/) to check your website is resolving to the right IP all around the world. Wait for the site to propagate around the world; if it’s fluctuating a lot, your users could see a mix of both the new and old site in one bizarre amalgamation!
+- Check that all links and images work on the new domain, if you’ve been using a staging domain you’ll want to make sure that the links and images point to the new domain.
+- Does your site have ecommerce or online payments? Make a test order on the new domain and check that you get redirected back to the live domain without any hiccups.
+- Get a friend on a different network to check the website over. It’s reasonably unlikely but if an ISP has aggressively cached the website, you may find that the old site hangs around a bit. Checking on several networks will confirm this for you.
 
 
 

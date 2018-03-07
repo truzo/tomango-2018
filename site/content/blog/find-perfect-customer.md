@@ -31,7 +31,7 @@ When you're figuring out what *your* ideal customer looks like, you need to ask 
 
 ## Create a set of Personas
 
-Having established what our perfect customer looks like we created a set of [Personas](http://www.tomango.co.uk/thinks/what-are-personas/), to bring these characteristics to life and have something to easily refer back to when we're designing our own website, or planning marketing campaigns.
+Having established what our perfect customer looks like we created a set of [Personas](/blog/what-are-personas/), to bring these characteristics to life and have something to easily refer back to when we're designing our own website, or planning marketing campaigns.
 
 When you've created your Personas, don't hide them away in a folder or drawer - display them, share them and above all USE THEM!
 

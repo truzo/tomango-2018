@@ -19,31 +19,14 @@ And, on a worldwide scale, this massive dose of 90's nostalgia is seeing more ac
 Pokemon Go has also surpassed Candy Crush as the most popular mobile game in history.
 
 It's tricking people into exercising AND socialising, and brand marketing teams are busy trying to jump on the bandwagon and shoehorn Pokemon tweets into their feeds - as per the following examples:
-<div align="center">
-<blockquote class="twitter-tweet" data-lang="en">
-<p dir="ltr" lang="en">We think Pokemon are like trains you've gotta catch 'em all! We've got Psyduck in the office.... [#pokemongo](https://twitter.com/hashtag/pokemongo?src=hash) [pic.twitter.com/4DebN8Pqzz](https://t.co/4DebN8Pqzz)</p>
-— trainline (@thetrainline) [July 11, 2016](https://twitter.com/thetrainline/status/752456715996725248)
 
-<script src="//platform.twitter.com/widgets.js" async=" charset="utf-8"></script>
+{{< tweet 752456715996725248 >}}
 
-<blockquote class="twitter-tweet" data-lang="en">
-If you find any Pokemon in our restaurants we can confirm they absolutely are a health and safety risk &amp; you should catch them immediately.
+{{< tweet 752784714486935552 >}}
 
-— PizzaExpress (@PizzaExpress) [July 12, 2016](https://twitter.com/PizzaExpress/status/752784714486935552)
-
-
-
-<script src="//platform.twitter.com/widgets.js" async=" charset="utf-8"></script>
-
-</div>
 Or how about US soccer team Vancouver Whitecaps, who used it to help unveil their latest summer signings:
-<div align="center">
-<blockquote class="twitter-tweet" data-lang="en">
-<p dir="ltr" lang="en">de Jong and Edgar: captured ✔️ [#VWFC](https://twitter.com/hashtag/VWFC?src=hash) [#PokemonGo](https://twitter.com/hashtag/PokemonGo?src=hash) [pic.twitter.com/QbZKxwPOJC](https://t.co/QbZKxwPOJC)</p>
-— Vancouver Whitecaps (@WhitecapsFC) [July 13, 2016](https://twitter.com/WhitecapsFC/status/753069274344808448)
 
-<script src="//platform.twitter.com/widgets.js" async=" charset="utf-8"></script>
-</div>
+{{< tweet 753069274344808448 >}}
 
 But it seems that the best uses for Pokemon Go as a marketing tool comes courtesy of small businesses, and the best example we've seen so far comes from India courtesy of the [Muncie Animal Shelter](https://www.facebook.com/MuncieAnimalShelter/photos/a.223109177771509.54516.220023711413389/1050999401649145/?type=3&amp;theater).
 
@@ -70,18 +53,6 @@ Got a gym near your business? Why not offer a discount to members of the team th
 There's examples of some cafes using this to good effect, and the fact that the offer is a 'living' one that changes as the game is played makes it more engaging for customers.
 
 Or, if you're an employee who's already allied to a certain team, why not offer teammates discounts...while punishing others!
-
-<div align="center">
-<blockquote class="twitter-tweet" data-lang="en">
-The owner said I could put up a sign about pokemon go players so I did what had to be done [#TeamValor](https://twitter.com/hashtag/TeamValor?src=hash) [#TeamMystic](https://twitter.com/hashtag/TeamMystic?src=hash) [pic.twitter.com/eilbIwAS6k](https://t.co/eilbIwAS6k)
-
-— XL ⚓ Navel Warfare (@Exxeldono) [July 11, 2016](https://twitter.com/Exxeldono/status/752624324339642369)
-
-
-
-<script src="//platform.twitter.com/widgets.js" async=" charset="utf-8"></script>
-
-</div>
 
 ### Become a charging station
 

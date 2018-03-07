@@ -25,7 +25,7 @@ You can use it as a tool to clarify the direction of your project and how its su
 
 Most importantly of all, a design brief makes sure all parties involved fully understand the objectives, target audience and expected results of the project, right from the start.
 
-> Creating a brief for a website project? Read our post [How to create a website design brief](http://www.tomango.co.uk/thinks/create-website-design-brief-download-template/) and download our template
+> Creating a brief for a website project? Read our post [How to create a website design brief](/blog/create-website-design-brief-download-template/) and download our template
 
 
 ### What do you need to do?
@@ -122,7 +122,7 @@ We want to establish who your perfect customer is.
 
 There may be a few types, but the more specific we can be, the better, so try and be as detailed as possible. Your description could include typical age, sex, background etc.
 
-For more ideas, read our post on how to create [Personas](http://www.tomango.co.uk/thinks/what-are-personas/).
+For more ideas, read our post on how to create [Personas](/blog/what-are-personas/).
 
 ### 10.  What does the brand need to be used on, and what other issues do we need to consider that relate to this project?
 

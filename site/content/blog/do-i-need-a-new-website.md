@@ -80,13 +80,11 @@ Growing your business usually means getting more customers. To get more customer
 
 To achieve *that*, you need to:
 
-	<li>Identify who your target market is
-	<li>Work out how they go about finding what you sell
-	<li>Research how you need to structure your site to get good visibility on search, social media or whatever channels you worked out in step 2
-	<li>Write content to fit
-	<li>Go get a new website designed
-
-
+- Identify who your target market is
+- Work out how they go about finding what you sell
+- Research how you need to structure your site to get good visibility on search, social media or whatever channels you worked out in step 2
+- Write content to fit
+- Go get a new website designed
 
 ## You want to move into new markets
 
@@ -122,12 +120,10 @@ Now you've made the decision, the next step is to start planning your new site, 
 
 For more hints and tips, read our other blog posts about planning a website project:
 
-[The 6 things a good website must do](http://www.tomango.co.uk/thinks/the-6-things-a-good-website-must-do/)
-
-[5 ways to get a better return on your website investment](http://www.tomango.co.uk/thinks/5-ways-get-better-return-your-website-investment/)
-<p class="post-title">[How to plan a website](http://www.tomango.co.uk/thinks/planning-a-website-the-8-most-important-questions/)</p>
-[How to create a website design brief – common mistakes to avoid](http://www.tomango.co.uk/thinks/how-to-create-website-design-brief-mistakes-to-avoid/)
-
-[What are personas?](http://www.tomango.co.uk/thinks/what-are-personas/)
+[The 6 things a good website must do](/blog/the-6-things-a-good-website-must-do/)  
+[5 ways to get a better return on your website investment](/blog/5-ways-get-better-return-your-website-investment/)  
+[How to plan a website](/blog/planning-a-website-the-8-most-important-questions/)  
+[How to create a website design brief – common mistakes to avoid](/blog/how-to-create-website-design-brief-mistakes-to-avoid/)  
+[What are personas?](/blog/what-are-personas/)
 
 

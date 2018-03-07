@@ -28,21 +28,21 @@ User Journeys are used for a wide range of creative projects - not just websites
 
 This famous User Journey from Lego tells the story, in steps, of an executive's experience of visiting Lego's headquarters. Icons have been used to show the executives emotions at each stage:
 
-[![](images/blog/Lego-journey-example-1024x768.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/06/Lego-journey-example.jpg)
+[![](images/blog/Lego-journey-example-1024x768.jpg)](/images/blog/Lego-journey-example-1024x768.jpg)
 
 This next User Journey shows how a customer might interact with a health game app. You'll notice in this example that "before" stages are also included, so we can see how the customer arrives, and where from. This helps put the whole project into a real-world context:
 
-[![](images/blog/hr_journey-high-res-1024x661.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/06/hr_journey-high-res.jpg)
+[![](images/blog/hr_journey-high-res-1024x661.jpg)](/images/blog/hr_journey-high-res-1024x661.jpg)
 
 And in this third example, the user's emotions are indicated by a graph running the width of the diagram. Key points are plotted on the x-axis:
 
-[![](images/blog/broadband-provider-user-journey-1024x663.jpg)](http://www.tomango.co.uk/wp-content/uploads/2016/06/broadband-provider-user-journey.jpg)
+[![](images/blog/broadband-provider-user-journey-1024x663.jpg)](/images/blog/broadband-provider-user-journey-1024x663.jpg)
 
 ## Why do I need a User Journey for my website project?
 
 There are several key benefits to creating User Journeys for your website project:
 
-- *Helping to understand user behaviour* - User Journeys can help you work out how your [Personas](http://www.tomango.co.uk/thinks/what-are-personas/) (your typical users) are going to travel through the site to complete their goal
+- *Helping to understand user behaviour* - User Journeys can help you work out how your [Personas](/blog/what-are-personas/) (your typical users) are going to travel through the site to complete their goal
 - *Beginning to form the basis for the site structure* - once you understand the way the user interacts with the site, you can start to think about what sections and pages you need, and how they'll link together
 - *Creating a vision for the project* - User Journeys are an excellent way to visually communicate the overall aims of the site with everyone involved in the project, from the MD to the designer to the copywriter
 
@@ -52,26 +52,30 @@ There are several key benefits to creating User Journeys for your website projec
 
 As you can see from these examples, there's no right or wrong way to present your User Journey...
 
-[gallery columns="2" size="medium" ids="3722,3720,3721,3723"]
+![](images/blog/User-journey-example-2.jpg)
+
+![](images/blog/Web-persona-example-2-600x262.png)
+
+![](images/blog/User-journey-example-4.jpg)
+
+![](images/blog/Web-user-journey-example.png)
 
 ...but you should try to include:
 
-- A picture of the [Persona](http://www.tomango.co.uk/thinks/what-are-personas/) the User Journey relates to
+- A picture of the [Persona](/blog/what-are-personas/) the User Journey relates to
 - A title that sums the User Journey up, e.g. "Making an enquiry about a new kitchen"
 - A series of briefly described steps
 - An illustration to reinforce what's happening (if it helps)
 - Benefits to the user that happen along the way
 - Any functionality being used
 
-
-
 ## Further reading
 
 If you're after more detail about How To Create a User Journey, check these out:
 
-[User Journeys - The Beginner's Guide, by UX Review](http://theuxreview.co.uk/user-journeys-beginners-guide/)
-[Example UX docs and deliverables](http://www.uxforthemasses.com/resources/example-ux-docs/)
-[All you need to know about Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/)
-[A Step By Step Guide to Building Customer Journey Maps](http://conversionxl.com/customer-journey-maps-better-website-retention/)
+[User Journeys - The Beginner's Guide, by UX Review](http://theuxreview.co.uk/user-journeys-beginners-guide/)  
+[Example UX docs and deliverables](http://www.uxforthemasses.com/resources/example-ux-docs/)  
+[All you need to know about Customer Journey Mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/)  
+[A Step By Step Guide to Building Customer Journey Maps](http://conversionxl.com/customer-journey-maps-better-website-retention/)  
 
 
