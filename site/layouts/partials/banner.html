@@ -11,31 +11,20 @@
 				background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.bannerLarge }}');
 			}
 		}
+
+		{{ if .Params.bannerHuge }}
+		@media screen and (min-width: 1200px) {
+			[role=banner] {
+				background-image: -webkit-linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.bannerHuge }}');
+				background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.bannerHuge }}');
+			}
+		}
+		{{ end }}
 	</style>
 {{ else if .Params.banner }}
 	<style>
 		[role=banner] {
-			background-image: url('data:image/svg+xml;utf8,{{ .Params.banner }}');
-		}
-
-		@media screen and (min-width: 769px) {
-			[role=banner] {
-				background-image: var(--pattern), var(--brandlines);
-			}
-
-			[role=banner].top--home {
-				background-image: url('data:image/svg+xml;utf8,{{ safeHTML .Params.banner }}'), var(--brandlines);
-			}
-
-			[role=banner].top--blog {
-				background-image: var(--pattern);
-			}
-		}
-
-		@media screen and (min-width: 1025px) {
-			[role=banner] {
-				background-image: url('data:image/svg+xml;utf8,{{ safeHTML .Params.banner }}'), var(--brandlines);
-			}
+			--pattern:  url('data:image/svg+xml;utf8,{{ .Params.banner }}');
 		}
 	</style>
 {{ end }}

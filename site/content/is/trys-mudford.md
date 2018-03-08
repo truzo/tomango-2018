@@ -4,6 +4,7 @@ subtitle: Lead Web Developer
 image: images/team/1000/trys.jpg
 banner: images/team/trys.jpg
 bannerLarge: images/team/1000/trys.jpg
+bannerHuge: images/team/huge/trys.jpg
 bannerPosition: 8%
 weight: 30
 ---
