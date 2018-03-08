@@ -1,7 +1,7 @@
 ---
 title: PPC & Paid Social
 excerpt: Want to increase traffic and engagement immediately? Using paid digital marketing channels can be a great way to get quick results.
-image: images/creates/brand.jpg
+image: images/creates/ppc.jpg
 weight: 30
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Web
 excerpt: By designing an effective website, we'll attract your target visitors and turn them into customers.
-image: images/creates/web.jpg
+image: images/creates/web-2.jpg
 weight: 20
 related: 
   - concept-tag
@@ -20,7 +20,7 @@ We've been developing websites for over 15 years. Our hige experience in plannin
 
 {{< quote
 	link="/created/hop/"
-	image="images/what-we-do/1000/brand.jpg"
+	image="images/creates/brand.jpg"
 	body="Our new site’s repositioned us at the top of our industry and is definitely helping us attract more of the projects we want to win."
 	citation="Adam Humphrey, Director, HOP"
 >}}

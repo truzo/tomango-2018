@@ -1,7 +1,7 @@
 ---
 title: SEO
 excerpt: Search Engine Optimisation remains one of the key pillars of digital marketing. Our expertise will help your business be found for the right searches by the right people.
-image: images/creates/brand.jpg
+image: images/creates/seo-3.jpg
 weight: 10
 ---
 

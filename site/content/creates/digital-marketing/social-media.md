@@ -1,7 +1,7 @@
 ---
 title: Social Media
 excerpt: Now a vital part of any digital marketing strategy, having a strong social media presence gives your business the chance to build, engage, and interact with audiences on a number of different platforms.
-image: images/creates/brand.jpg
+image: images/creates/social.jpg
 weight: 20
 ---
 
