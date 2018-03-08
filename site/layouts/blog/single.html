@@ -1,6 +1,8 @@
 {{ define "header_content" }}
 	<h1>{{ .Title }}</h1>
-	<h3>By {{ if index $.Site.Data.authors .Params.author }}{{ index $.Site.Data.authors .Params.author }}{{ else }}Guest{{ end }} &nbsp; &nbsp; &nbsp; <time datetime="{{ .Date }}">{{ partial "date" .Date }}</time></h3>
+	{{ if .Params.author }}
+		<h3>By {{ if index $.Site.Data.authors .Params.author }}{{ index $.Site.Data.authors .Params.author }}{{ else }}Guest{{ end }} &nbsp; &nbsp; &nbsp; <time datetime="{{ .Date }}">{{ partial "date" .Date }}</time></h3>
+	{{ end }}
 {{ end }}
 
 {{ define "main" }}
