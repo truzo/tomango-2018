@@ -17,9 +17,13 @@
 	background-size: cover, auto;
 	background-repeat: no-repeat, repeat;
 	background-image: var(--pattern);
-	background-color: darken($light, 5%);
+	background-color: $black;
 	background-position: 60% top, center;
 	margin: -1px 0 0 -1px;
+
+	@supports ( (--a: 0)) {
+		background-color: darken($light, 5%);
+	}
 
 	@include mq(769px) {
 		background-image: var(--pattern), var(--brandlines);
