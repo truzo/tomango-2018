@@ -4,6 +4,7 @@ subtitle: Digital Marketing Manager
 image: images/team/1000/tom.jpg
 banner: images/team/tom.jpg
 bannerLarge: images/team/1000/tom.jpg
+bannerHuge: images/team/huge/tom.jpg
 bannerPosition: 8%
 weight: 40
 ---

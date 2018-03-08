@@ -4,6 +4,7 @@ subtitle: Junior Web Developer
 image: images/team/1000/steve.jpg
 banner: images/team/steve.jpg
 bannerLarge: images/team/1000/steve.jpg
+bannerHuge: images/team/huge/steve.jpg
 bannerPosition: 8%
 weight: 50
 ---

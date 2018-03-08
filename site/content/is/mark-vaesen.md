@@ -4,6 +4,7 @@ subtitle: Founder & Managing Director
 image: images/team/1000/mark.jpg
 banner: images/team/mark.jpg
 bannerLarge: images/team/1000/mark.jpg
+bannerHuge: images/team/huge/mark.jpg
 bannerPosition: 8%
 weight: 10
 ---

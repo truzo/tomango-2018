@@ -4,6 +4,7 @@ subtitle: Creative Director
 image: images/team/1000/mike.jpg
 banner: images/team/mike.jpg
 bannerLarge: images/team/1000/mike.jpg
+bannerHuge: images/team/huge/mike.jpg
 bannerPosition: 8%
 weight: 20
 ---
