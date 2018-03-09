@@ -1,8 +1,8 @@
 ---
 title: Need some quick advice?
-banner: images/team/mark-matilda.jpg
-bannerLarge: images/team/1000/mark-matilda.jpg
-bannerHuge: images/team/huge/mark-matilda.jpg
+banner: images/team/mark.jpg
+bannerLarge: images/team/1000/mark.jpg
+bannerHuge: images/team/huge/mark.jpg
 bannerPosition: 8%
 ---
 
