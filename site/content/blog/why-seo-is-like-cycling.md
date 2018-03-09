@@ -25,7 +25,7 @@ Well, search engines sort their results using algorithms that have hundreds of
 
 So if you've given yourself a pat on the back because you've written one blog post this month, don't be so sure of yourself. There's *plenty* more you could be doing.
 
-[![](images/blog/SearchEngineLand-Periodic-Table-of-SEO-2015-medium.png)](/images/blog/SearchEngineLand-Periodic-Table-of-SEO-2015.pdf)
+[![](images/blog/SearchEngineLand-Periodic-Table-of-SEO-2015-medium.png)](images/blog/SearchEngineLand-Periodic-Table-of-SEO-2015.pdf)
 
 The above 'Periodic Table Of SEO Success Factors' from [Search Engine Land](http://searchengineland.com/) gives you some of key ranking factors for both on-page and off-page search engine.
 

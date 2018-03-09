@@ -108,7 +108,8 @@ gulp.task("server", ["scss", "js", "css"], () => {
   //   }
   // });
   watch("./src/js/**/*.js", () => { gulp.start(["js"]) });
-  watch("./src/scss/**/*.scss", () => { gulp.start(["scss", "css"]) });
+  watch("./src/scss/**/*.scss", () => { gulp.start(["scss"]) });
+  watch("./src/css/**/*.css", () => { gulp.start(["css"]) });
   // watch("./site/**/*", () => { gulp.start(["hugo"]) });
 });
 

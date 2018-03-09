@@ -28,15 +28,15 @@ User Journeys are used for a wide range of creative projects - not just websites
 
 This famous User Journey from Lego tells the story, in steps, of an executive's experience of visiting Lego's headquarters. Icons have been used to show the executives emotions at each stage:
 
-[![](images/blog/Lego-journey-example-1024x768.jpg)](/images/blog/Lego-journey-example-1024x768.jpg)
+[![](images/blog/Lego-journey-example-1024x768.jpg)](images/blog/Lego-journey-example-1024x768.jpg)
 
 This next User Journey shows how a customer might interact with a health game app. You'll notice in this example that "before" stages are also included, so we can see how the customer arrives, and where from. This helps put the whole project into a real-world context:
 
-[![](images/blog/hr_journey-high-res-1024x661.jpg)](/images/blog/hr_journey-high-res-1024x661.jpg)
+[![](images/blog/hr_journey-high-res-1024x661.jpg)](images/blog/hr_journey-high-res-1024x661.jpg)
 
 And in this third example, the user's emotions are indicated by a graph running the width of the diagram. Key points are plotted on the x-axis:
 
-[![](images/blog/broadband-provider-user-journey-1024x663.jpg)](/images/blog/broadband-provider-user-journey-1024x663.jpg)
+[![](images/blog/broadband-provider-user-journey-1024x663.jpg)](images/blog/broadband-provider-user-journey-1024x663.jpg)
 
 ## Why do I need a User Journey for my website project?
 

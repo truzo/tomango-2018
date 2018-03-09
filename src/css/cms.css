@@ -1,1 +1,6 @@
-@import "netlify-cms/dist/cms.css"
+@import "netlify-cms/dist/cms.css";
+
+html,
+body {
+	background: #FFF;
+}
