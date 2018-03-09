@@ -8,7 +8,11 @@
 {{ define "main" }}
 	<div class="wrap three-col insulate">
 		<aside>
-			<img src="images/team/thumbnail/{{ if and (.Params.author) (index $.Site.Data.authors .Params.author) }}{{ .Params.author }}{{ else }}fallback{{ end }}.jpg" alt="{{ index $.Site.Data.authors .Params.author }}">
+			{{ if .Params.author }}
+				<img src="images/team/thumbnail/{{ .Params.author }}.jpg" alt="{{ index $.Site.Data.authors .Params.author }}">
+			{{ else }}
+				<img src="images/team/thumbnail/fallback.jpg">
+			{{ end }}
 		</aside>
 		<aside>
 			{{ if .NextInSection }}
