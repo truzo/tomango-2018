@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
 
-    <base href="{{ if getenv "URL" }}{{ if eq "production" getenv "CONTEXT" }}{{ getenv "URL" }}/{{ else }}{{ getenv "DEPLOY_PRIME_URL" }}/{{ end }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+    <base href="{{ if getenv "URL" }}{{ if eq ("production") (getenv "CONTEXT") }}{{ getenv "URL" }}/{{ else }}{{ getenv "DEPLOY_PRIME_URL" }}/{{ end }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
     <link rel="stylesheet" href="css/main.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="format-detection" content="telephone=no" />
