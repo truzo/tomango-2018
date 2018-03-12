@@ -16,7 +16,7 @@ stats:
 fullImage: fludes/fludes-hero.jpg
 ---
 
-In 2016, Fludes Carpets asked us to increase their sales of Karndean flooring. We put in place a new content strategy over six months that immediately led to a significant jump in sales.
+Fludes Carpets asked us to increase their sales of Karndean flooring. We put in place a new content strategy over six months that immediately led to a significant jump in sales.
 
 {{< quote
 	image="images/created/fludes/fludes-small-image.jpg"
