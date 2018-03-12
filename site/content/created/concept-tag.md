@@ -23,7 +23,7 @@ For years, retailers have been fighting an ongoing battle with shoplifters who a
 
 {{< quote
 	body="The return on investment on this website has been phenomenal."
-	citation="Sean Welch , CEO, Agon Systems"
+	citation="Sean Welch, CEO, Agon Systems"
 >}}
 
 We created a single page site that tells the story of the product and contains a costs-versus-ROI calculator, so customers can see for themselves how much money the Concept Tag will save them.

@@ -18,7 +18,7 @@ Get it wrong, and you’ll always be swimming against the tide.
 	link="/created/agon-systems/"
 	image="images/creates/brand.jpg"
 	body="Investing in our brand has helped us triple our turnover in three years to £5 million."
-	citation="Sean Welch , CEO, Agon Systems"
+	citation="Sean Welch, CEO, Agon Systems"
 >}}
 
 ## Our process
