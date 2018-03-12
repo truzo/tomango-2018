@@ -5,7 +5,6 @@
 	width: 100%;
 
 	a {
-		margin-bottom: 30px;
 		background: #000;
 		width: 100%;
 		display: block;
@@ -34,7 +33,6 @@
 	@include mq(42em) {
 		a {
 			position: relative;
-			margin: 0;
 			width: 50%;
 		}
 

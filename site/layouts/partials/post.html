@@ -22,5 +22,7 @@
 		{{ else }}
 			<a href="{{ .Params.originalURL }}" target="_blank" class="post-blog__link"></a>
 		{{ end }}
+	{{ else }}
+		<a href="{{ .URL }}" class="post-blog__link"></a>
 	{{ end }}
 </article>

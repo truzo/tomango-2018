@@ -12,10 +12,10 @@
 	display: inline-block;
 	padding: 14px 35px 13px;
 	outline: none;
-	margin: 3px 12px 24px 0;
+	margin: 3px 0 24px;
 	cursor: pointer;
 	border: none;
-	width: auto;
+	width: 100%;
 	color: #FFF;
 
 	&:hover {
@@ -30,5 +30,10 @@
 
 	.content &:not(:last-child) {
 		margin-bottom: 50px;
+	}
+
+	@include mq(30em) {
+		margin-right: 12px;
+		width: auto;
 	}
 }

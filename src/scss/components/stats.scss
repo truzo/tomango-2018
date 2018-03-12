@@ -12,7 +12,13 @@
 	}
 
 	div {
-		font-size: 16px;
+		font-size: 14px;
+	}
+
+	em {
+		font-style: normal;
+		color: $red;
+		font-size: 0.6em;
 	}
 
 	+ .stat {
@@ -22,6 +28,10 @@
 	@include mq(40em) {
 		width: 50%;
 		float: left;
+
+		div {
+			font-size: 16px;
+		}
 
 		+ .stat {
 			margin-top: 0;

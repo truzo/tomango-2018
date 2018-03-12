@@ -28,12 +28,22 @@
 		padding-top: 30px;
 	}
 
+	&--thin {
+		padding-bottom: 20px;
+		padding-top: 20px;
+	}
+
 	@include mq(40em) {
 		padding-bottom: calc( 20px + 61 * (100vw - 320px) / (960 - 320) );
 
 		&--mid {
 			padding-top: 50px;
 			padding-bottom: 50px;
+		}
+
+		&--thin {
+			padding-top: 40px;
+			padding-bottom: 40px;
 		}
 	}
 

@@ -3,7 +3,6 @@
 
 	@include mq(49em, true) {
 		.wrap--content {
-			// max-width: 788px;
 			margin-right: 0;
 			margin-left: 0;
 		}
@@ -36,6 +35,24 @@
 	border-bottom: 1px solid $light;
 	font-size: 14px;
 	padding: 30px 0;
+
+	a {
+		color: inherit;
+	}
+
+	&-social {
+		a + a {
+			margin-left: 5px;
+		}
+
+		svg {
+			transition: 200ms fill;
+		}
+
+		a:hover svg {
+			fill: $red;
+		}
+	}
 
 	@include mq(49em) {
 		font-size: 16px;
