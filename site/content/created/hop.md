@@ -12,7 +12,6 @@ related:
 HOP came to us in the autumn of 2016 having seen the work we did for ECE Architecture. Their website no longer reflected their position in the marketplace and they asked us to redesign the site to put them back on top and ahead of their competitors.
 
 {{< quote
-	image="images/creates/brand.jpg"
 	body="Our new site’s repositioned us at the top of our industry and is definitely helping us attract more of the projects we want to win."
 	citation="Adam Humphrey, Director, HOP"
 >}}

@@ -1,7 +1,16 @@
 # Tomango 2018
 
 ```
-npm run start
+npm start
+
+OR
 
 npm run build
+
+OR
+
+npm start
+
+cd site
+hugo server -D -d '../dist'
 ```
