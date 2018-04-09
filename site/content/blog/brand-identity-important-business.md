@@ -5,6 +5,7 @@ description: >-
   How you can get more of the business that you want by investing in a strong
   brand identity.
 image: /images/blog/brand-banner.jpg
+banner: /images/blog/brand-banner.jpg
 blog/categories:
   - brand
 author: mark
