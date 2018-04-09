@@ -14,5 +14,27 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Excerpt", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Banner Image", name: "banner", widget: "image", required: false}
+      - label: "Categories"
+        name: "blog/categories"
+        widget: "checkbox"
+        allow_add: true
+        options:
+          - { label: "News", value: "latest-news" }
+          - { label: "Web", value: "web-design" }
+          - { label: "Brand", value: "brand" }
+          - { label: "Marketing", value: "online-marketing" }
+          - { label: "Tips", value: "tips-and-advice" }
+      - label: "Author"
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "Mark", value: "mark" }
+          - { label: "Mike", value: "mike" }
+          - { label: "Trys", value: "trys" }
+          - { label: "Tom", value: "tom" }
+          - { label: "Steve", value: "steve" }
+          - { label: "Liam", value: "liam" }
+          - { label: "Guest", value: "guest" }
       - {label: "Body", name: "body", widget: "markdown"}
