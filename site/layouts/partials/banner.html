@@ -22,9 +22,18 @@
 		{{ end }}
 	</style>
 {{ else if .Params.banner }}
-	<style>
-		[role=banner] {
-			--pattern:  url('data:image/svg+xml;utf8,{{ .Params.banner }}');
-		}
-	</style>
+	{{ if .Params.banner "<svg" }}
+		<style>
+			[role=banner] {
+				--pattern:  url('data:image/svg+xml;utf8,{{ .Params.banner }}');
+			}
+		</style>
+	{{ else }}
+		<style>
+			[role=banner] {
+				background: -webkit-linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.banner }}') center {{ if .Params.bannerPosition }}{{ .Params.bannerPosition }}{{ else }}50%{{ end }} /cover no-repeat;
+				background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url('{{ safeHTML .Params.banner }}') center {{ if .Params.bannerPosition }}{{ .Params.bannerPosition }}{{ else }}50%{{ end }} /cover no-repeat;
+			}
+		</style>
+	{{ endif }}
 {{ end }}
