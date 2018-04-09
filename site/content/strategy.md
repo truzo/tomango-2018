@@ -10,7 +10,7 @@ We’re meeting for a coffee, and you’re very happy with how things have gone 
 
 What’s happened in that time to make you so happy?
 
-If you run a business, what will your business look like? What are your financial goals? What size and shape will it be? What will your own personal involvement look like?
+What will your business look like? What size and shape will it be? How much profit will you be making? How much involvement will you have personally?
 
 Maybe you don’t run your own business (yet). Maybe you’re the person in charge of running a project for your boss. What does your own future look like?
 
@@ -18,7 +18,7 @@ Maybe you don’t run your own business (yet). Maybe you’re the person in char
 
 This is what we make happen.
 
-Yes, we create beautiful, hard-working [brands](/creates/brand/) that position you properly in your marketplace. Yes, we build astonishing [websites](/creates/web/) and web apps that turn more of your visitors into customers. And yes, we deliver [digital marketing](/creates/digital-marketing/) strategies that attract lots of the right people.
+Yes, we create beautiful, hard-working [brands](/creates/brand/) that position you properly in your marketplace. Yes, we build astonishing [websites](/creates/web/) and web apps that turn more of your visitors into customers. And yes, we deliver [digital marketing](/creates/digital-marketing/) strategies that make sure you're found by more of the customers you want.
 
 But a lot of people say they do that.
 

@@ -7,10 +7,10 @@ related:
 - agon-systems
 - hop
 stats:
-- number: 20,000%
-  text: Return On Investment
 - number: £1,200,000
   text: In sales directly from the website
+- number: 20,000%
+  text: Return On Investment
 images:
 - concept-tag/1.png
 - concept-tag/2.png
@@ -19,7 +19,9 @@ images:
 - concept-tag/5.png
 ---
 
-For years, retailers have been fighting an ongoing battle with shoplifters who are determined to nick their stock. The Concept Tag is a new type of retail security tag that’s set to revolutionise the industry. Our client Agon Systems asked us to design a website to raise the profile of this new product and generate new enquiries from national retailers.
+For years, retailers have been fighting an ongoing battle with shoplifters who are determined to nick their stock. The Concept Tag is a new type of retail security tag that’s set to revolutionise the industry.
+
+Our client Agon Systems asked us to design printed literature and a website to raise the profile of this new product and generate new enquiries from national retailers.
 
 {{< quote
 	body="The return on investment on this website has been phenomenal."

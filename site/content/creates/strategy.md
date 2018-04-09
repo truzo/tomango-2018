@@ -11,12 +11,12 @@ A well-defined strategy gives context to all your brand and marketing. Without t
 
 We shape your strategy by going through a [Discovery Session](/discovery/).
 
-What comes out of the session is a clear understanding of your business objectives and what needs to be put in place to achieve them.
-
 {{< quote
 	body="The sessions uncovered ideas I hadn't even thought of. The value I got from it is massive."
 	citation="Andy Harmer, Flexitreks"
 >}}
+
+What comes out of the session is a clear understanding of your business objectives and what needs to be put in place to achieve them.
 
 You’ll know what you need to do and why you need to do it.
 

@@ -1,7 +1,7 @@
 ---
 title: Agon Systems
 image: images/created/created-agon.jpg
-excerpt: Tripling turnover in three years to £5 million by investing in brand design.
+excerpt: Tripling turnover to £5 million by investing in brand design.
 weight: 30
 related:
 - concept-tag

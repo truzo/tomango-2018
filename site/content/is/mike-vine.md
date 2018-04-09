@@ -11,7 +11,7 @@ weight: 20
 
 Mike is our Creative Director and is responsible for leading all Tomango’s creative output – both online and offline.
 
-His vast experience working in the industry leaves him well-placed to produce incredibly effective work of the highest quality. Mike previously worked with Mark at Blue Planet.
+His vast experience working in the industry leaves him well-placed to produce incredibly effective work of the highest quality.
 
 ## What’s your perfect breakfast?
 Coffee &amp; croissants.

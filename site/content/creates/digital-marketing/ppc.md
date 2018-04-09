@@ -23,9 +23,9 @@ Of course, all this is pointless without an adequate website. We’ll also revie
 
 ## Paid Social
 
-Creating paid campaigns on social can be a fantastic way of increasing brand awareness and interacting with your customers and supercharging your existing [social media work.](/creates/digital-marketing/social-media/)
+Creating paid campaigns on social can be a fantastic way of increasing brand awareness and interacting with your customers and supercharging your existing [social media work](/creates/digital-marketing/social-media/).
 
-Whether it's on Facebook, Instagram or Twitter, Tomango can help you create engaging content that taps into the right audiences
+Whether it's on Facebook, Instagram or Twitter, Tomango can help you create engaging content that taps into the right audiences.
 
 From improving sales or signups, extending the reach of content, or remarketing to website visitors - we'll find the right tactics to get you the best return from your investment.
 

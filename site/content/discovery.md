@@ -38,3 +38,5 @@ The Discovery Session takes 3-4 weeks to complete and costs £750 + VAT, payable
 Fill in your details and we’ll give you a call to arrange your first session.
 
 {{< discovery >}}
+
+Not ready to book a Discovery session, but want to find out more? No problem. Just [get in touch](/contact/) and we can have a chat over the phone.

@@ -11,7 +11,7 @@ weight: 30
 
 Trys is our Lead Web Developer and is responsible for the majority of our website development. He also implements Tomango’s technical strategy and product development and oversees our hosting infrastructure.
 
-A fantastic logical thinker, Trys (and if you’re wondering, it’s pronounced like “Chris”) previously worked at Blue Planet, joining the company in October 2012.
+A fantastic logical thinker, Trys (and if you’re wondering, it's pronounced like "Chris") has been at Tomango since 2012.
 
 ## What’s your perfect breakfast?
 Eggs Royale and a latte.

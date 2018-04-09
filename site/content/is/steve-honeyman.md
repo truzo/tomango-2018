@@ -9,29 +9,30 @@ bannerPosition: 8%
 weight: 50
 ---
 
-Mark is Tomango’s founder and Managing Director.
-His main roles are business development, planning of web projects, and to steer the good ship Tomango in a clear direction. Mark was previously founder, owner and Managing Director of Blue Planet.
+Steve is our Junior Web Developer and has been with Tomango since August 2016.
+
+He’s responsible for technical support, website development and amendments to existing websites. He assists with the management of several key client accounts where we’re retained each month to take care of and promote their websites.
 
 ## What’s your perfect breakfast?
-Bacon and egg sandwich with plenty of ketchup.
+Ideally an omlette from the Blue Plate Diner in Salt Lake City. The Utahn is especially good; smoked ham, bell peppers, havarati cheese, homefries and toast. Failing that, scrambled eggs, toast and lots of coffee.
 
 ## Favourite sandwich filling?
-Cheese, ham and mayo please. On brown.
+Chicken, avocado, cheese and spinach on brown.
 
 ## Favourite film, tv programme, book?
-Film: The Day of the Jackal, or The Odd Couple. TV programme: HIGNFY or something voiced by David Attenborough. Book: The Book Thief by Markus Zusak.
+Too many favourite films, though Fight Club and Helvetica are perennial faves. I don’t own a TV, though I loved River (detective drama by the beeb on iPlayer last year). Favourite books would be ‘The Cover Art of Blue Note Records’, ‘Where The Wild Things Are’ and ‘Yorkshire Gritstone Bouldering, Volume 1’, of course…
 
 ## Favourite superhero?
-Danger Mouse.
+Does Ole Gunnar Solskjaer count?
 
 ## Marmite – love it or hate it?
-Love it.
+Love the thought of it, like the smell of it, hate the taste of it.
 
 ## Cats or Dogs?
-Dogs, without question.
+Dogs. I love dogs.
 
 ## What did you want to be when you grew up?
-When I was really little, like most of my friends I wanted to be a professional footballist, but when I realised this wasn’t ever going to happen, I actually wanted to be a Graphic Designer. So I got pretty close.
+I’m a guitar player and like most teenagers dreamt of making a living playing music. I got close doing a bit of session in my late twenties, though I’m very happy building websites now.
 
 ## What would be your dream holiday?
-A month exploring France and Italy in a campervan with a Vespa on the back.
+So many places I’d love to go. Nepal, India and Thailand are high on my list. Cuba and Iceland too. Oh, and Patagonia…
