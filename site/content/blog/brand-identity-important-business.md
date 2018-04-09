@@ -6,7 +6,6 @@ description: >-
   brand identity.
 image: /images/blog/brand-banner.jpg
 blog/categories:
-  - ''
   - brand
 author: mark
 ---
