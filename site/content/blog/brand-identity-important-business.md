@@ -1,6 +1,6 @@
 ---
 title: What is Brand Identity and why is it important to my business?
-date: 2014-04-29T09:32:52.000Z
+date: '2018-03-15T10:32:52+00:00'
 description: >-
   How you can get more of the business that you want by investing in a strong
   brand identity.
