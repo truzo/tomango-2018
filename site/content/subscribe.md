@@ -1,5 +1,5 @@
 ---
-title: Need some quick advice?
+title: Get tips and advice straight to your inbox
 banner: images/team/mark.jpg
 bannerLarge: images/team/1000/mark.jpg
 bannerHuge: images/team/huge/mark.jpg
