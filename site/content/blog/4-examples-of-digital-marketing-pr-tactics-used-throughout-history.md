@@ -5,6 +5,7 @@ description: >-
   Biblical PR? Victorian PPC? Medieval Social Media? Here are some cool
   occurrences of digital marketing & PR tactics reflected in the past, plus key
   lessons from each of them.
+image: /images/blog/Luther-Twitter-1024x534.png
 blog/categories:
   - online-marketing
 author: tom
@@ -27,11 +28,7 @@ Here are four occurrences throughout human history that I think reflect some key
 
 The vast majority of people in the UK are aware of that place in Anglesey, Wales that has the most mind-bogglingly Welsh name in creation.
 
-<div id="attachment_4274" class="wp-caption aligncenter">\[![](http://www.tomango.co.uk/wp-content/uploads/2018/01/shutterstock_247435390-1024x525.jpg)](http://www.tomango.co.uk/wp-content/uploads/2018/01/shutterstock_247435390.jpg)
-
-110 points in Scrabble before we even talk about triple world scores
-
-</div>
+![110 points in Scrabble before we even talk about triple world scores](/images/blog/shutterstock_247435390-1024x525.jpg)
 
 It’s got 59 letters — with approximately half of them being L — and is impossible to pronounce (let alone spell) unless you’re born on the west side of the Severn Bridge.
 
@@ -63,7 +60,7 @@ These days, Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch is known 
 
 Welsh celebrities are regularly asked to pronounce it on US chat shows because it’s so quirky….it even gets 15 million views on YouTube and makes [national news](http://www.dailymail.co.uk/news/article-3227722/The-weatherman-didn-t-tongue-tied-warmest-place-Wales-Llanfairpwllgwyngyllgogerychwyrndrobwll-llantysiliogogogoch.html) when a weatherman nails it!
 
-<div align="center"><iframe src="https://www.youtube.com/embed/fHxO0UdpoxM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+{{< youtube fHxO0UdpoxM >}}
 
 All that exposure, all thanks to a simple idea from a not-so-simple shoemaker.
 
@@ -85,9 +82,7 @@ While SEO concerns building for the long-term, its more agile counterpart Pay-Pe
 
 With that in mind, I couldn’t think of a more perfect example from the pre-Internet age than the **Berners Street Hoax**.
 
-[![](http://www.tomango.co.uk/wp-content/uploads/2018/01/berners-st-hoax.png)](http://www.tomango.co.uk/wp-content/uploads/2018/01/berners-st-hoax.png)
-
-<div class="slate-resizable-image-embed slate-image-embed__resize-full-width" data-imgsrc="https://media.licdn.com/mpr/mpr/AAMABADGAAgAAQAAAAAAABBfAAAAJDRiMjE1OTZkLWNiYjAtNDdjZi05MmMwLWEzOWQyYzc2ODRkYw.png">!\[](https://media.licdn.com/mpr/mpr/AAMABADGAAgAAQAAAAAAABBfAAAAJDRiMjE1OTZkLWNiYjAtNDdjZi05MmMwLWEzOWQyYzc2ODRkYw.png)</div>
+![](/images/blog/berners-st-hoax.png)
 
 This tale takes place in Georgian London in late 1810.
 
@@ -125,11 +120,7 @@ Not only that, several supposed appointments had been arranged that also saw ser
 
 Police were scrambled to try and keep order on Berners Street.
 
-<div id="attachment_4276" class="wp-caption aligncenter">\[![](http://www.tomango.co.uk/wp-content/uploads/2018/01/berners-st-hoax-clipping-1024x676.png)](http://www.tomango.co.uk/wp-content/uploads/2018/01/berners-st-hoax-clipping.png)
-
-Extract from the Morning Post’s report on the Berners Street ‘uproar’
-
-</div>
+![Extract from the Morning Post’s report on the Berners Street ‘uproar’](/images/blog/berners-st-hoax-clipping-1024x676.png)
 
 As well as all of those summoned by Hook’s letters, the police also had to control a growing crowd that were fascinated by the disruption and were watching inquisitively.
 
@@ -156,11 +147,7 @@ After the chaos subsided the authorities put out an appeal for information for t
 
 One of the most important inventions in human history is without question the movable type printing press.
 
-<div id="attachment_4338" class="wp-caption aligncenter">!\[](http://www.tomango.co.uk/wp-content/uploads/2018/02/shutterstock_586275236.jpg)
-
-A statue of Martin Luther
-
-</div>
+![](/images/blog/shutterstock_586275236.jpg)
 
 Introduced to Europe in the 1400s, the ability to produce multiple copies of literature both at greater speed and at a much lower cost led to an information revolution in the following decades.
 
@@ -188,7 +175,7 @@ But his work struck a nerve.
 
 Before long, and akin to **a post on Twitter getting thousands of retweets**, the 95 Theses were quickly copied onto pamphlets, translated, and distributed all over Europe.
 
-[![](http://www.tomango.co.uk/wp-content/uploads/2018/01/Luther-Twitter-1024x534.png)](http://www.tomango.co.uk/wp-content/uploads/2018/01/Luther-Twitter.png)
+![](/images/blog/Luther-Twitter-1024x534.png)
 
 Friedrich Myconius, a fellow German theologian and a friend of Luther wrote that “hardly 14 days had passed when these propositions were known throughout Germany and within four weeks almost all of Christendom was familiar with them.”
 
@@ -219,7 +206,7 @@ Continuing the religious theme, let’s go right to the top of the tree.
 
 Jesus was the master of PR. He had succinct messaging, used the **human interest angle**incredibly effectively in his storytelling, and built a massive community that prevails to this day.
 
-[![](http://www.tomango.co.uk/wp-content/uploads/2018/02/shutterstock_588424427.jpg)](http://www.tomango.co.uk/wp-content/uploads/2018/02/shutterstock_588424427.jpg)
+![](/images/blog/shutterstock_588424427.jpg)
 
 He **created a buzz and courted controversy** — a well-established PR tactic for getting engagement and results — and garnered huge reactions that pushed his messages even further.
 
