@@ -1,11 +1,13 @@
 ---
-title: "How to create a website design brief - common mistakes to avoid"
-author: "mark"
-date: 2014-10-17 10:09:19
-excerpt: How to avoid the most common (and costly) mistakes when creating a website brief.
-blog/categories: 
- - tips-and-advice
- - web-design
+title: How to create a website design brief - common mistakes to avoid
+date: 2014-10-17T10:09:19.000Z
+description: >-
+  How to avoid the most common (and costly) mistakes when creating a website
+  brief.
+blog/categories:
+  - tips-and-advice
+  - web-design
+author: mark
 ---
 
 Creating a [website design](http://www.tomango.co.uk/creates/web/design/) brief is a vital part of any web project.  By focusing on the aims of the project and who your target audience is, you make sure you stay on track and get an end product that provides a much bigger return on investment (ROI).
@@ -50,11 +52,7 @@ There is a Danish man called [Jakob Nielsen](http://en.wikipedia.org/wiki/Jakob_
 
 *Jakob's Law of the Web User Experience* states that "users spend most of their time on other websites."  What he means is that your users form their expectations for your site based on what's commonly done on most other sites and if you deviate, your site will be harder to use.
 
-{{< quote
-	body="Consistency is one of the most powerful usability principles"
-	citation="Jakob Nielsen"
-	link="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)"
->}}
+{{< quote body="Consistency is one of the most powerful usability principles" citation="Jakob Nielsen" link="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">}}
 
 You see, *consistency is good*.  It's one of the most powerful usability principles; when things always behave the same, users don't have to worry about what will happen.  This increases their confidence in using your site, which means they'll like it more.
 
