@@ -1,6 +1,6 @@
 ---
 title: How to create a website design brief - download our template
-date: '2016-04-27 04:57pm'
+date: '2016-04-27T04:57:00+01:00'
 description: >-
   Tomango’s comprehensive guide on how to create a website design brief, with a
   free template to download and edit.
