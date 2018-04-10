@@ -1,13 +1,15 @@
 ---
-title: "How to create a website design brief - download our template"
-author: "mark"
-date: 2016-04-27 15:57:16
-excerpt: Tomango's comprehensive guide on how to create a website design brief, with a free template to download and edit.
+title: How to create a website design brief - download our template
+date: 2016-04-27T15:57:16.000Z
+description: >-
+  Tomango’s comprehensive guide on how to create a website design brief, with a
+  free template to download and edit.
+image: /images/blog/about-slider4.jpg
 banner: images/blog/about-slider4.jpg
-bannerLarge: images/blog/about-slider4.jpg
-blog/categories: 
- - tips-and-advice
- - web-design
+blog/categories:
+  - tips-and-advice
+  - web-design
+author: mark
 ---
 
 ### Update - 22nd June 2017
@@ -34,7 +36,7 @@ But if you want to do things the most up-to-date way, get the best results and r
 
 So you've been asked to create a brief for a new website.
 
-Our guide, "How to create a website design brief" will help you understand the process from the point of view of the agency or web designer, so you know what to include and how much detail to provide.
+Our guide, "How to create a [website design](/creates/web) brief" will help you understand the process from the point of view of the agency or web designer, so you know what to include and how much detail to provide.
 
 We've broken the guide down into sections to make it a bit more manageable. There are 14 sections in total.
 
