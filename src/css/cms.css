@@ -1,6 +1,31 @@
-@import "netlify-cms/dist/cms.css";
+@import 'netlify-cms/dist/cms.css';
 
 html,
 body {
 	background: #FFF;
+	font-family: 'NeueHaasGrotesk', 'Helvetica Neue', 'Helvetica', sans-serif;
 }
+
+h1,
+h2,
+h3 {
+	font-weight: 700;
+}
+
+.cms-content {
+	padding: 20px 20px 20px 10px;
+}
+
+.cms-content h1 {
+	font-size: 2em;
+	line-height: 1.3;
+}
+
+.content blockquote {
+	max-width: 100%;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+
+

@@ -5,13 +5,9 @@ export default class PostPreview extends React.Component {
     const {entry, widgetFor, getAsset} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
 
-    return <div>
+    return <div className="cms-content">
       <h1>{ entry.getIn(["data", "title"])}</h1>
       <div className="cms content">
-        <p>{ entry.getIn(["data", "description"]) }</p>
-        <br />
-        { image && <img src={ image } /> }
-        <br />
         { widgetFor("body") }
       </div>
     </div>;

@@ -3,7 +3,10 @@ import CMS from 'netlify-cms'
 
 import PostPreview from './templates/post'
 import Checkbox from './fields/checkbox'
+import Youtube from './components/youtube'
 
 CMS.registerPreviewStyle('/css/main.css')
-CMS.registerPreviewTemplate('post', PostPreview)
+CMS.registerPreviewStyle('/css/cms.css')
+CMS.registerEditorComponent(Youtube);
+CMS.registerPreviewTemplate('blog', PostPreview)
 CMS.registerWidget('checkbox', Checkbox)

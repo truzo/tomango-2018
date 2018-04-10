@@ -17,8 +17,28 @@
     <meta name="application-name" content="Tomango">
     <meta name="msapplication-TileColor" content="#000000">
     <meta name="theme-color" content="#000000">
-    <title>{{ .Title }} - {{ .Site.Title }}</title>
-    <meta name="theme-color" content="#000">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    
+    {{ if (.IsPage) and eq .Section "blog" }}<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }} | {{ .Site.Title }} | Web Design Sussex" />{{ end }}
+    <meta property="og:url" content="{{ getenv "URL" }}{{ .URL }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }} | {{ .Site.Title }} | Web Design Sussex" />
+    <meta property="og:image" content="{{ if getenv "URL" }}{{ getenv "URL" }}/{{ else }}{{ $.Site.BaseURL }}{{ end }}images/og.jpg" />
+    <meta property="og:image:alt" content="{{ .Site.Title }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }} | {{ .Site.Title }} | Web Design Sussex" />
+    <meta name="twitter:image" content="{{ if getenv "URL" }}{{ getenv "URL" }}/{{ else }}{{ $.Site.BaseURL }}{{ end }}images/og.jpg" />
+    {{ if (.IsPage) and eq .Section "blog" }}
+    {{ if .Params.author }}
+    <meta name="twitter:label1" value="Written by" />
+    <meta name="twitter:data1" value="{{ if index $.Site.Data.authors .Params.author }}{{ index $.Site.Data.authors .Params.author }}{{ else }}Guest{{ end }}" />
+    {{ end }}
+    <meta name="twitter:label2" value="Reading time" />
+    <meta name="twitter:data2" value="{{ .ReadingTime }} minute{{ if not (eq .ReadingTime 1) }}s{{ end }}" />
+    {{ end }}
+
     <style>
       @font-face {
         font-family: NeueHaasGrotesk;
