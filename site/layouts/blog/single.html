@@ -36,6 +36,7 @@
 	
 	{{ $url := getenv (cond (eq "production" (getenv "CONTEXT")) "URL" "DEPLOY_PRIME_URL" ) | default (cond (eq "//localhost:1313/" (printf "%s" $.Site.BaseURL)) "//localhost:1313" $.Site.BaseURL) }}
 	{{ $logo := printf "%s%s" $url "/images/og.jpg" | safeJS }}
+	{{ $image := printf "%s%s" $url (.Params.image | default "images/og.jpg" | relURL) }}
 	<script type='application/ld+json'>
 		{
 			"@context":"http:\/\/schema.org",
@@ -62,7 +63,8 @@
 					"@type": "ImageObject",
 					"url": "{{ $logo }}"
 				}
-			}
+			},
+			"image": "{{ $image }}"
 		}
 	</script>
 {{ end }}
