@@ -62,6 +62,8 @@ Welsh celebrities are regularly asked to pronounce it on US chat shows because i
 
 {{< youtube fHxO0UdpoxM >}}
 
+youtube fHxO0UdpoxM
+
 All that exposure, all thanks to a simple idea from a not-so-simple shoemaker.
 
 Not bad at all.
@@ -82,7 +84,7 @@ While SEO concerns building for the long-term, its more agile counterpart Pay-Pe
 
 With that in mind, I couldn’t think of a more perfect example from the pre-Internet age than the **Berners Street Hoax**.
 
-![](/images/blog/berners-st-hoax.png)
+![null](/images/blog/berners-st-hoax.png)
 
 This tale takes place in Georgian London in late 1810.
 
@@ -147,7 +149,7 @@ After the chaos subsided the authorities put out an appeal for information for t
 
 One of the most important inventions in human history is without question the movable type printing press.
 
-![](/images/blog/shutterstock_586275236.jpg)
+![null](/images/blog/shutterstock_586275236.jpg)
 
 Introduced to Europe in the 1400s, the ability to produce multiple copies of literature both at greater speed and at a much lower cost led to an information revolution in the following decades.
 
@@ -175,7 +177,7 @@ But his work struck a nerve.
 
 Before long, and akin to **a post on Twitter getting thousands of retweets**, the 95 Theses were quickly copied onto pamphlets, translated, and distributed all over Europe.
 
-![](/images/blog/Luther-Twitter-1024x534.png)
+![null](/images/blog/Luther-Twitter-1024x534.png)
 
 Friedrich Myconius, a fellow German theologian and a friend of Luther wrote that “hardly 14 days had passed when these propositions were known throughout Germany and within four weeks almost all of Christendom was familiar with them.”
 
@@ -206,7 +208,7 @@ Continuing the religious theme, let’s go right to the top of the tree.
 
 Jesus was the master of PR. He had succinct messaging, used the **human interest angle**incredibly effectively in his storytelling, and built a massive community that prevails to this day.
 
-![](/images/blog/shutterstock_588424427.jpg)
+![null](/images/blog/shutterstock_588424427.jpg)
 
 He **created a buzz and courted controversy** — a well-established PR tactic for getting engagement and results — and garnered huge reactions that pushed his messages even further.
 
