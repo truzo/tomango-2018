@@ -1,19 +1,19 @@
 ---
-title: "How to create a brand design brief - download our template"
-author: "mark"
-date: 2017-11-22 15:52:21
-excerpt: Our updated guide to creating a design brief for your brand project, complete with a downloadable template.
+title: How to create a brand design brief - download our template
+date: 2017-11-22T15:52:21.000Z
+description: >-
+  Our updated guide to creating a design brief for your brand project, complete
+  with a downloadable template.
 image: images/blog/mike-researching.jpg
 banner: images/blog/mike-researching.jpg
-bannerLarge: images/blog/mike-researching.jpg
-blog/categories: 
- - brand
- - tips-and-advice
+blog/categories:
+  - brand
+  - tips-and-advice
+author: mark
 ---
-
 Before we start work on any brand project, we need to establish a clear design brief with the client.
 
-This guide will help you prepare the ideal brief for your own brand project.
+This guide will help you prepare the ideal brief for your own [brand design](/creates/brand/) project.
 
 Read through the post below, then download our free [brand identity design brief template](images/blog/Brand-design-brief-template.docx) to get started.
 
@@ -26,7 +26,6 @@ You can use it as a tool to clarify the direction of your project and how its su
 Most importantly of all, a design brief makes sure all parties involved fully understand the objectives, target audience and expected results of the project, right from the start.
 
 > Creating a brief for a website project? Read our post [How to create a website design brief](/blog/create-website-design-brief-download-template/) and download our template
-
 
 ### What do you need to do?
 
@@ -54,7 +53,7 @@ Provide us with your business name in full.
 
 Give us a brief explanation of what your business does. Try to be specific. Can you frame what you do using this statement?
 
-We do ________ __(the thing you do)__ for ________ __(your target customer)__.
+We do **\_\_\_\_** **(the thing you do)** for **\_\_\_\_** **(your target customer)**.
 
 ### 3.    Where are your customers based?
 
@@ -64,37 +63,31 @@ Where are you based? Where are your customers based? Do you have areas or region
 
 Use bullet points, and be as objective as possible.
 
-- How are you seen at present?
-- If you ranked your competitors in order from best to worst, where would you put yourselves?
-- Where do you think your customers would put you, based on your current brand and reputation?
-- Is your brand in line with where you want to be on that list?
-
-
+* How are you seen at present?
+* If you ranked your competitors in order from best to worst, where would you put yourselves?
+* Where do you think your customers would put you, based on your current brand and reputation?
+* Is your brand in line with where you want to be on that list?
 
 ### 5.    Where do you want to go?
 
 What are the mid- and long-term goals for the business, and how will you achieve them?  For example:
 
-- What are your growth targets for the next three years? (turnover and profit)
-- What will the business look like when you get there? How many staff will there be, how much business will you be doing?
-- Will this be achieved by attracting new customers?
-- Maybe you want to do it by attracting a different type of customer
-- Or by selling something new
-- Or simply selling more to existing clients
-- Do you need to improve efficiency to help you get there?
-
-
+* What are your growth targets for the next three years? (turnover and profit)
+* What will the business look like when you get there? How many staff will there be, how much business will you be doing?
+* Will this be achieved by attracting new customers?
+* Maybe you want to do it by attracting a different type of customer
+* Or by selling something new
+* Or simply selling more to existing clients
+* Do you need to improve efficiency to help you get there?
 
 ### 6.    What's the personality of your company?
 
 Again, use bullet points if you want to, and try to put yourself in your customer's shoes.
 
-- What image do you have at the moment, do you think?
-- What's the image you want the business to portray?
-- Are you friendly and approachable? Professional and efficient? Big or small?
-- What sets you apart from your competitors?
-
-
+* What image do you have at the moment, do you think?
+* What's the image you want the business to portray?
+* Are you friendly and approachable? Professional and efficient? Big or small?
+* What sets you apart from your competitors?
 
 ### 7.    Who are your competitors?
 
@@ -102,8 +95,8 @@ Give us a list of maybe 3-6 competitors.
 
 The name of the competitor company and their website address would be useful. Tell us in a couple of sentences what they're like, and how you compare to them. For instance:
 
-*ABC Consultants*
-Website: __www.abc-consultants.co.uk__
+_ABC Consultants_
+Website: **www.abc-consultants.co.uk**
 Well-established local company, quite good knowledge but poor customer service. Invest quite a lot in their brand and marketing, but we think we offer a better service than they do, and we have more knowledge and experience in X.
 
 ## Project objectives
@@ -142,7 +135,7 @@ You might have already engaged your chosen agency, in which case once you've com
 
 If you're still choosing, share the document with the agencies you're talking to - it'll help them understand the project better and be able to talk to you more clearly about budgets.
 
-And if you want to get our take on it, why not [get in touch](http://www.tomango.co.uk/contact/) - just email your brand brief to [hello@tomango.co.uk](mailto:hello@tomango.co.uk).
+And if you want to get our take on it, why not [get in touch](http://www.tomango.co.uk/contact/) - just email your brand brief to <mailto:hello@tomango.co.uk>.
 
 {{% update %}}
 
@@ -150,5 +143,3 @@ And if you want to get our take on it, why not [get in touch](http://www.tomango
 
 Get ideas, techniques and tips to position and grow your business, straight to your inbox. [Join the mailing list](http://www.tomango.co.uk/subscribe/).
 {{%/ update %}}
-
-
