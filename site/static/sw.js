@@ -124,22 +124,19 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
       return;
     }
 
-    // For non-HTML requests, look in the cache first, fall back to the network
     event.respondWith(
-      caches.match(request)
+      fetch(request)
         .then(response => {
-          // CACHE
-          return response || fetch(request)
-            .then( response => {
-              // NETWORK
-              // If the request is for an image, stash a copy of this image in the images cache
-              if (request.headers.get('Accept').includes('image')) {
-                let copy = response.clone();
-                stashInCache(imagesCacheName, request, copy);
-              }
-              return response;
-            })
-            .catch();
+          if (request.headers.get('Accept').includes('image')) {
+            let copy = response.clone();
+            stashInCache(imagesCacheName, request, copy);
+          }
+          return response;
+        })
+        .catch( () => {
+          return caches.match(request)
+            .then(response => response)
+            .catch()
         })
     );
 
