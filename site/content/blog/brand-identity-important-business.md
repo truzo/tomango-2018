@@ -10,6 +10,7 @@ blog/categories:
   - brand
 author: mark
 ---
+
 ## What is brand identity?
 
 Your **brand identity** is how you want to portray your business to your customers, and includes how you choose your business name, the design of your logo, the colours and shapes or graphics you use, and the type of language you use (your “tone of voice”).
@@ -34,7 +35,7 @@ You could make the same argument for Apple products (whilst running the risk of 
 
 For smaller businesses, a strong brand identity positions you in the mind of your customer as providing quality worth paying for. If you want to attract more customers prepared to spend more money, getting your brand identity right gets them through the door, primed and ready to splash the cash.
 
-_In short_: If you look the part, you can charge more
+_In short:_ If you look the part, you can charge more
 
 ![](/images/blog/banner-1024x495.jpg)
 
@@ -48,7 +49,7 @@ There are plenty of lower-cost, high-quality vehicles available, yet people stil
 
 The same principle applies to smaller businesses. There may not be that much difference between what you offer and what your competitors offer, but with a good brand identity, in the **customer’s mind** you’re positioned as better quality.
 
-_In short_: Look better than your competitors and they’ll think you **are** better
+_In short:_ Look better than your competitors and they’ll think you **are** better
 
 ### Recognition and loyalty
 
@@ -58,7 +59,7 @@ If a customer’s happy with your products or services, a solid brand identity h
 
 People like to be associated with “good” brands. Customers are more likely to refer you to others if they have a positive feeling about your brand.
 
-_In short_: A good brand sticks in customers’ minds
+_In short:_ A good brand sticks in customers’ minds
 
 ### Experience and reliability
 
@@ -68,7 +69,7 @@ By extension, a professionally developed brand identity also positions your comp
 
 If you want to get noticed by – and work with – the big boys, you need to get your brand identity into shape.
 
-_In short_: A good brand identity makes you look more established and can help position you to work with bigger organisations
+_In short:_ A good brand identity makes you look more established and can help position you to work with bigger organisations
 
 ### Differentiation
 
@@ -78,7 +79,7 @@ Perceived quality can be used to differentiate, and by doing so, you can loop ba
 
 For smaller businesses, investing in your brand identity can help you leapfrog other, bigger competitors and start winning more of the business you want.
 
-_In short_: A good brand makes you stand out from the competition
+_In short:_ A good brand makes you stand out from the competition
 
 ## Still need convincing?
 
