@@ -5,7 +5,7 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
 */
 
 (function() {
-  const version = 'v2';
+  const version = 'v3';
   const cacheName = version + '::tomango-2018:';
 
   const staticCacheName = cacheName + 'static';
@@ -118,7 +118,7 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
           .catch( () => {
             // CACHE or FALLBACK
             return caches.match(request)
-              .then( response => response || caches.match('/offline') );
+              .then( response => response || caches.match('/offline/') );
           })
       );
       return;
