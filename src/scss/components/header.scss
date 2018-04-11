@@ -103,7 +103,8 @@
 	&-nav {
 		transition: .25s all;
 		visibility: hidden;
-		overflow: auto;
+		overflow-y: scroll;
+		overflow-x: visible;
 		position: fixed;
 		padding: 100px 0 20px;
 		z-index: 500;
