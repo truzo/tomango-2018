@@ -5,11 +5,12 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
 */
 
 (function() {
-  const version = 'v1';
+  const version = 'v2';
   const cacheName = version + '::tomango-2018:';
 
   const staticCacheName = cacheName + 'static';
   const pagesCacheName = cacheName + 'pages';
+  const imagesCacheName = cacheName + 'images';
 
   const staticAssets = [
     '/',
@@ -66,6 +67,7 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
   self.addEventListener('message', event => {
     if (event.data.command === 'trimCaches') {
       trimCache(pagesCacheName, 35);
+      trimCache(imagesCacheName, 20);
     }
   });
 
@@ -81,12 +83,6 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
      );
   });
 
-  self.addEventListener('message', event => {
-    if (event.data.command === 'trimCaches') {
-      trimCache(pagesCacheName, 35);
-    }
-  });
-
   self.addEventListener('fetch', event => {
     const request = event.request;
     const url = new URL(request.url);
@@ -95,37 +91,57 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
       return;
     }
 
-    // Ignore non-GET requests
+    if (url.href.includes('/admin')) {
+      return;
+    }
+
     if (request.method !== 'GET') {
       return;
     }
 
-    // Ignore query-stringâ€™d requests
     if (url.href.indexOf('?') !== -1) {
       return;
     }
 
-    // Try the network first, fall back to the cache, finally the offline page (for HTML requests)
+    if (request.headers.get('Accept').includes('text/html')) {
+      event.respondWith(
+        fetch(request)
+          .then( response => {
+            let copy = response.clone();
+            if (staticAssets.includes(url.pathname) || staticAssets.includes(url.pathname + '/')) {
+              stashInCache(staticCacheName, request, copy);
+            } else {
+              stashInCache(pagesCacheName, request, copy);
+            }
+            return response;
+          })
+          .catch( () => {
+            // CACHE or FALLBACK
+            return caches.match(request)
+              .then( response => response || caches.match('/offline') );
+          })
+      );
+      return;
+    }
+
+    // For non-HTML requests, look in the cache first, fall back to the network
     event.respondWith(
-      fetch(request)
-      .then(response => {
-        // NETWORK
-        // Stash a copy of this page in the pages cache
-        const copy = response.clone();
-        stashInCache(staticCacheName, request, copy);
-        return response;
-      })
-      .catch(() => {
-        // CACHE or FALLBACK
-        if (request.headers.get('Accept').indexOf('text/html') !== -1) {
-          return caches.match(request)
-            .then(response => response || caches.match('/offline/'));
-        } else {
-          return caches.match(request).then(response => response);
-        }
-      })
+      caches.match(request)
+        .then(response => {
+          // CACHE
+          return response || fetch(request)
+            .then( response => {
+              // NETWORK
+              // If the request is for an image, stash a copy of this image in the images cache
+              if (request.headers.get('Accept').includes('image')) {
+                let copy = response.clone();
+                stashInCache(imagesCacheName, request, copy);
+              }
+              return response;
+            })
+            .catch();
+        })
     );
-    return;
 
   });
 })();
