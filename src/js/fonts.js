@@ -1,3 +1,4 @@
+import './promise';
 import FontFaceObserver from 'fontfaceobserver';
 (function() {
   if (sessionStorage.foutFontsLoaded) {
