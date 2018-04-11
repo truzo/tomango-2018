@@ -1,4 +1,11 @@
+/blog/category/graphic-design/ /blog/categories/web-design/ 302
+/blog/category/latest-news/ /blog/categories/latest-news/ 302
+/blog/category/online-marketing/ /blog/categories/online-marketing/ 302
+/blog/category/tips-and-advice/ /blog/categories/tips-and-advice/ 302
+/blog/category/web-design/ /blog/categories/web-design/ 302
+
 /thinks/* /blog/:splat 302
+
 /created/selling-karndean-with-fludes-carpets/ /created/fludes-carpets/ 302
 /created/the-concept-tag/ /created/concept-tag/ 302
 /our-process/ /strategy/ 302
@@ -9,7 +16,43 @@
 /creates/online-marketing/content-creation-copywriting/ /creates/digital-marketing/ 302
 /creates/online-marketing/ /creates/digital-marketing/ 302
 /creates/web/website-design/ /creates/web/ 302
-
-
 /is/hiring/ /careers/ 302
+/vacancies/ /careers/ 302
 /cookies/ /privacy/ 302
+/privacy-policy/ /privacy/ 302
+/porfolio/ /created/ 302
+/about/ /is/ 302
+/about/team/ /is/ 302
+/about/process/ /strategy/ 302
+
+/create/brand/brand-naming/ /creates/brand/ 302
+/create/brand/brand-identity/ /creates/brand/ 302
+/create/brand/graphic-design/ /creates/brand/ 302
+/create/web/website-design/ /creates/web/ 302
+/create/web/web-development/ /creates/web/ 302
+/create/web/mobile/ /creates/web/ /creates/digital-marketing/ppc/ 302
+/create/online-marketing/search-engine-optimisation/ /creates/digital-marketing/seo/ 302
+/create/online-marketing/pay-per-click/ 302
+/create/online-marketing/social-media/ /creates/digital-marketing/social-media/ 302
+/create/online-marketing/email-marketing/ /creates/digital-marketing/ 302
+/create/online-marketing/copywriting/ /creates/digital-marketing/ 302
+/create/online-marketing/local-seo/ /creates/digital-marketing/seo/ 302
+/create/online-marketing/ /creates/digital-marketing/ 302
+/create/brand/ /creates/brand/ 302
+/create/web/ /creates/web/ 302
+/create/ /creates/ 302
+
+/about/team/mark-vaesen/ /is/mark-vaesen/ 302
+/about/team/mike-vine/ /is/mike-vine/ 302
+/about/team/trys-mudford/ /is/trys-mudford/ 302
+/about/team/nikki-carrick/ /is/nikki-carrick/ 302
+
+/web-design-in-uckfield/ /creates/web/ 302
+/web-design-in-lewes/ /creates/web/ 302
+/web-design-in-east-sussex/ /creates/web/ 302
+/web-design-in-west-sussex/ /creates/web/ 302
+/web-design-in-crowborough-east-sussex/ /creates/web/ 302
+/web-design-in-heathfield/ /creates/web/ 302
+/web-design-in-eastbourne/ /creates/web/ 302
+/web-design-in-brighton/ /creates/web/ 302
+/seo-services-east-sussex/ /creates/digital-marketing/seo/ 302
