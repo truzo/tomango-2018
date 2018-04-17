@@ -1,5 +1,6 @@
 ---
 title: Digital Marketing
+image: images/creates/marketing.jpg
 ---
 
 **A good digital marketing strategy gets your business found online by the right people.**
