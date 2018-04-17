@@ -2,7 +2,7 @@
 title: "When is it right to use [framework name here]?"
 author: "trys"
 date: 2016-02-17 14:54:49
-excerpt: Resisting the urge to jump on the latest framework bandwagon is hard. How do you decide which one is appropriate and when it should be used?
+description: Resisting the urge to jump on the latest framework bandwagon is hard. How do you decide which one is appropriate and when it should be used?
 blog/categories: 
  - tips-and-advice
  - web-design

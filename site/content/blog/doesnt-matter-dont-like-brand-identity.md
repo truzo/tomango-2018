@@ -2,7 +2,7 @@
 title: "Why it doesn't matter if you don't like your own brand identity"
 author: "mark"
 date: 2017-09-29 11:54:23
-excerpt: A good design team challenges its client, and understands the most important person is the one identified in the brief.
+description: A good design team challenges its client, and understands the most important person is the one identified in the brief.
 banner: images/blog/shutterstock_241430023.jpg
 bannerLarge: images/blog/shutterstock_241430023.jpg
 blog/categories: 

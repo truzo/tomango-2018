@@ -2,7 +2,7 @@
 title: "Stuart & Partners: developing a modern letting agents website"
 author: "trys"
 date: 2016-07-01 10:35:08
-excerpt: How we went about planning, designing and developing a modern letting agents website.
+description: How we went about planning, designing and developing a modern letting agents website.
 image: images/blog/stuart-alert.jpg
 blog/categories: 
  - web-design

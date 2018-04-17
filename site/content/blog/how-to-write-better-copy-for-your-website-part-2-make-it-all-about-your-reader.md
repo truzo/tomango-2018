@@ -2,7 +2,7 @@
 title: "How to write better copy for your website, Part 2 - make it all about your reader"
 author: "mark"
 date: 2015-05-14 15:10:01
-excerpt: In the second part of this series, we look at how you can grab your reader's attention by making it all about them.
+description: In the second part of this series, we look at how you can grab your reader's attention by making it all about them.
 blog/categories: 
  - online-marketing
  - tips-and-advice

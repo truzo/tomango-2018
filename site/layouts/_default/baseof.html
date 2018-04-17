@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     {{ $url := getenv (cond (eq "production" (getenv "CONTEXT")) "URL" "DEPLOY_PRIME_URL" ) | default (cond (eq "//localhost:1313/" (printf "%s" $.Site.BaseURL)) "//localhost:1313" $.Site.BaseURL) }}
     {{ $title := .Params.seo_title | default (printf "%s | %s" .Title .Site.Title) }}
-    {{ $desc := .Params.Description | default (printf "%s | %s | Web Design Sussex" .Title .Site.Title) }}
+    {{ $desc := .Params.seo_description | default .Params.Description | default (printf "%s | %s | Web Design Sussex" .Title .Site.Title) }}
     {{ $image := printf "%s%s" $url (.Params.image | default "images/og.jpg" | relURL) }}
     <base href="{{ $url }}">
     <link rel="stylesheet" href="css/main.css"/>
@@ -46,12 +46,8 @@
     <meta property="article:published_time" content="{{ .Date }}" />
     <meta property="article:modified_time" content="{{ .Lastmod }}" />
     <meta property="og:updated_time" content="{{ .Lastmod }}" />
-    {{ if index .Params "blog/categories" }}
-      {{ range first 1 (index .Params "blog/categories") }}
-        <meta property="article:section" content="{{ . | humanize }}" />
-      {{ end }}
-    {{ end }}
-
+    
+    {{ if index .Params "blog/categories" }}{{ range first 1 (index .Params "blog/categories") }}<meta property="article:section" content="{{ . | humanize }}" />{{ end }}{{ end }}
     {{ if .Params.author }}
     <meta name="twitter:label1" value="Written by" />
     <meta name="twitter:data1" value="{{ if index $.Site.Data.authors .Params.author }}{{ index $.Site.Data.authors .Params.author }}{{ else }}Guest{{ end }}" />

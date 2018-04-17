@@ -2,7 +2,7 @@
 title: "Deciding on your positioning: vertical vs. horizontal"
 author: "mark"
 date: 2017-11-10 16:44:35
-excerpt: Strong positioning will make your business stand out from the crowd, establish you as experts, and enable you to win more business at the prices you want.
+description: Strong positioning will make your business stand out from the crowd, establish you as experts, and enable you to win more business at the prices you want.
 banner: images/blog/Journey-banner.jpg
 bannerLarge: images/blog/Journey-banner.jpg
 blog/categories: 

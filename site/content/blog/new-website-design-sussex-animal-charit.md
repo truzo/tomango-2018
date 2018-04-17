@@ -2,7 +2,7 @@
 title: "Website design for Sussex animal charity (revisited)"
 author: "mark"
 date: 2013-02-05 10:15:04
-excerpt: Today we revisit the launch of the new Raystede animal welfare charity website.
+description: Today we revisit the launch of the new Raystede animal welfare charity website.
 blog/categories: 
  - latest-news
  - web-design

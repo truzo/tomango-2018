@@ -2,7 +2,7 @@
 title: "How a new brand identity positioned Agon Systems ahead of its competitors"
 author: "mark"
 date: 2014-05-27 10:35:45
-excerpt: How a strong brand identity can set you apart from your competitors and win you more business.
+description: How a strong brand identity can set you apart from your competitors and win you more business.
 blog/categories: 
  - brand
 ---

@@ -2,7 +2,7 @@
 title: "#ffconf 2016"
 author: "trys"
 date: 2016-11-14 11:35:39
-excerpt: A write-up of the excellent #ffconf 2016.
+description: A write-up of the excellent #ffconf 2016.
 banner: images/blog/TRM_0156.jpg
 bannerLarge: images/blog/TRM_0156.jpg
 blog/categories: 

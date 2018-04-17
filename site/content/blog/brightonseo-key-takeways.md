@@ -2,7 +2,7 @@
 title: "BrightonSEO key takeaways"
 author: "tom"
 date: 2017-09-27 09:58:40
-excerpt: I went to BrightonSEO earlier this month - here's a rundown of some of my favourite presentations!
+description: I went to BrightonSEO earlier this month - here's a rundown of some of my favourite presentations!
 image: images/blog/shutterstock_535662184.jpg
 banner: images/blog/shutterstock_535662184.jpg
 bannerLarge: images/blog/shutterstock_535662184.jpg

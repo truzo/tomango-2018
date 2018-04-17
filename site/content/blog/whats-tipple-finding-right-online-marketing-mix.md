@@ -2,7 +2,7 @@
 title: "What's your tipple?  Finding the right online marketing mix"
 author: "mark"
 date: 2014-03-19 13:40:16
-excerpt: Make sure you get the right ingredients, in the right quantities, for your perfect online marketing cocktail.
+description: Make sure you get the right ingredients, in the right quantities, for your perfect online marketing cocktail.
 blog/categories: 
  - online-marketing
  - tips-and-advice

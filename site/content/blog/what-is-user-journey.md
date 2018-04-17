@@ -2,7 +2,7 @@
 title: "What is a User Journey?"
 author: "mark"
 date: 2016-06-29 10:22:58
-excerpt: In the latest in my series covering the planning of your website project, we take a look at User Journeys.
+description: In the latest in my series covering the planning of your website project, we take a look at User Journeys.
 image: images/blog/shutterstock_387555961.jpg
 banner: images/blog/Journey-banner.jpg
 bannerLarge: images/blog/Journey-banner.jpg

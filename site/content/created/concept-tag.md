@@ -1,7 +1,7 @@
 ---
 title: The Concept Tag
 image: images/created/created-concept-tag.jpg
-excerpt: Website and digital marketing strategy that's changing an entire industry.
+description: Website and digital marketing strategy that's changing an entire industry.
 weight: 10
 related:
 - agon-systems

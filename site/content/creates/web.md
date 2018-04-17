@@ -1,6 +1,6 @@
 ---
 title: Web
-excerpt: By designing an effective website, we'll attract your target visitors and turn them into customers.
+description: By designing an effective website, we'll attract your target visitors and turn them into customers.
 image: images/creates/web-2.jpg
 weight: 20
 related: 

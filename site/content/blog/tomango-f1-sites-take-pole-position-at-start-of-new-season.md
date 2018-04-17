@@ -2,7 +2,7 @@
 title: "Tomango F1 sites take pole position at start of new season"
 author: "tom"
 date: 2017-03-30 15:00:40
-excerpt: Much excitement was had at Tomango HQ in early March with a couple of side projects that absolutely took off!
+description: Much excitement was had at Tomango HQ in early March with a couple of side projects that absolutely took off!
 image: images/blog/shutterstock_571520698.jpg
 banner: images/blog/shutterstock_571520698.jpg
 bannerLarge: images/blog/shutterstock_571520698.jpg

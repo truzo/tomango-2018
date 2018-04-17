@@ -2,7 +2,7 @@
 title: "Introducing our new Digital Marketing Executive: Tom Ruzyllo"
 author: "mark"
 date: 2016-04-08 13:05:52
-excerpt: Meet our newest (and tallest) team member…Tom Ruzyllo!
+description: Meet our newest (and tallest) team member…Tom Ruzyllo!
 blog/categories: 
  - latest-news
 ---

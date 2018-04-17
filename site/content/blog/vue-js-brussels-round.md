@@ -2,7 +2,7 @@
 title: "Vue.js in Brussels - the round-up"
 author: "trys"
 date: 2017-10-25 10:20:46
-excerpt: A round-up of blog posts from the 'Building scalable web apps with Vue.js by Evan You' workshop
+description: A round-up of blog posts from the 'Building scalable web apps with Vue.js by Evan You' workshop
 blog/categories: 
  - web-design
 ---

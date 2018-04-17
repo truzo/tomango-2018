@@ -2,7 +2,7 @@
 title: "How to speed up your website - SVG"
 author: "trys"
 date: 2015-03-02 09:41:45
-excerpt: By using SVG instead of bitmaps, you can make an improvement on your website load time AND image quality.
+description: By using SVG instead of bitmaps, you can make an improvement on your website load time AND image quality.
 blog/categories: 
  - tips-and-advice
  - web-design

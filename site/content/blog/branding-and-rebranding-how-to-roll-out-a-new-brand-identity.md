@@ -2,7 +2,7 @@
 title: "Branding and rebranding - how to roll out a new brand identity"
 author: "mark"
 date: 2013-06-21 10:07:40
-excerpt: How to effectively manage rolling out a new brand identity
+description: How to effectively manage rolling out a new brand identity
 blog/categories: 
  - latest-news
 ---

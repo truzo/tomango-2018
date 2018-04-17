@@ -2,7 +2,7 @@
 title: "When is the best time to send your marketing emails?"
 author: "mark"
 date: 2013-02-08 10:32:30
-excerpt: The mid-morning coffee break?  Lunchtime? Read the research on when to send your marketing emails to get the best open-rate
+description: The mid-morning coffee break?  Lunchtime? Read the research on when to send your marketing emails to get the best open-rate
 blog/categories: 
  - online-marketing
  - tips-and-advice

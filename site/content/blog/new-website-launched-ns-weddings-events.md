@@ -2,7 +2,7 @@
 title: "New website launched for NS Weddings & Events"
 author: "mark"
 date: 2014-10-23 16:15:35
-excerpt: Website for wedding and events planners in Hampshire.
+description: Website for wedding and events planners in Hampshire.
 blog/categories: 
  - latest-news
 ---

@@ -2,7 +2,7 @@
 title: "How to find your perfect customer"
 author: "mark"
 date: 2017-09-22 15:49:40
-excerpt: If I gave you a magic wand and said you could wish for your perfect customer, what would you wish for?
+description: If I gave you a magic wand and said you could wish for your perfect customer, what would you wish for?
 banner: images/blog/shutterstock_459296227.jpg
 bannerLarge: images/blog/shutterstock_459296227.jpg
 blog/categories: 

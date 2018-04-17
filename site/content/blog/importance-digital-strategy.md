@@ -2,7 +2,7 @@
 title: "The importance of having a digital strategy"
 author: "tom"
 date: 2016-08-26 08:37:16
-excerpt: According to a 2016 survey, just 35% of businesses have integrated digital into their overall strategy, and a further 47% are doing digital marketing with no defined strategy!
+description: According to a 2016 survey, just 35% of businesses have integrated digital into their overall strategy, and a further 47% are doing digital marketing with no defined strategy!
 blog/categories: 
  - online-marketing
 ---

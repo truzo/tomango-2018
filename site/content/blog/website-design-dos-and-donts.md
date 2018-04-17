@@ -2,7 +2,7 @@
 title: "Website design dos and don'ts"
 author: "mark"
 date: 2013-01-28 10:03:32
-excerpt: Time for a rant.  Here are some of the things that really get our goat about website design.  Make sure you don't fall into these traps...
+description: Time for a rant.  Here are some of the things that really get our goat about website design.  Make sure you don't fall into these traps...
 blog/categories: 
  - tips-and-advice
  - web-design

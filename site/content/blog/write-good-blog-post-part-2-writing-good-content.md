@@ -2,7 +2,7 @@
 title: "How to write a good blog post - Part 2: Writing good content"
 author: "mark"
 date: 2014-01-14 10:46:24
-excerpt: Part 2 in our three part series on writing brilliant blog posts
+description: Part 2 in our three part series on writing brilliant blog posts
 blog/categories: 
  - tips-and-advice
  - web-design

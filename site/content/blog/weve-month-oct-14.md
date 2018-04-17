@@ -2,7 +2,7 @@
 title: "What we've been up to this month - Oct '14"
 author: "mark"
 date: 2014-10-31 16:43:55
-excerpt: Goodbye lazy summer evenings and hello to driving home in the dark. Here's what we've been up to in October...
+description: Goodbye lazy summer evenings and hello to driving home in the dark. Here's what we've been up to in October...
 blog/categories: 
  - latest-news
 ---

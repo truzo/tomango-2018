@@ -2,7 +2,7 @@
 title: "How to choose a good SEO company (and what to avoid)"
 author: "mark"
 date: 2014-12-22 17:50:39
-excerpt: How do you choose a good SEO company? And how do you avoid a bad one? We share our experience and some of the common warning signs
+description: How do you choose a good SEO company? And how do you avoid a bad one? We share our experience and some of the common warning signs
 blog/categories: 
  - online-marketing
  - tips-and-advice

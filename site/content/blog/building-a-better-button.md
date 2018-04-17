@@ -2,7 +2,7 @@
 title: "Building a better button"
 author: "trys"
 date: 2017-10-09 08:28:33
-excerpt: Why you shouldn't use images in place of text.
+description: Why you shouldn't use images in place of text.
 image: images/blog/old-button.jpg
 blog/categories: 
  - web-design

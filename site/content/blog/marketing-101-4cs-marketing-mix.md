@@ -2,7 +2,7 @@
 title: "Marketing 101 - the 4Cs of the Marketing Mix"
 author: "tom"
 date: 2016-05-31 10:23:25
-excerpt: Let's get right back to basics. What is 'marketing' anyway?
+description: Let's get right back to basics. What is 'marketing' anyway?
 blog/categories: 
  - online-marketing
  - tips-and-advice

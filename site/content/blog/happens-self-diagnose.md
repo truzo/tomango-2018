@@ -2,7 +2,7 @@
 title: "What happens when you self-diagnose"
 author: "mark"
 date: 2018-01-11 14:50:59
-excerpt: Why you need to listen to (and pay for) advice from experts.
+description: Why you need to listen to (and pay for) advice from experts.
 banner: images/blog/shutterstock_623839130.jpg
 bannerLarge: images/blog/shutterstock_623839130.jpg
 blog/categories: 

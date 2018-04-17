@@ -2,7 +2,7 @@
 title: "503 valid RCPT command must precede DATA error message in Outlook and how to fix it"
 author: "mark"
 date: 2012-04-19 15:34:36
-excerpt: How to fix this irritating email error message.
+description: How to fix this irritating email error message.
 blog/categories: 
  - tips-and-advice
 ---

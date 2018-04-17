@@ -2,7 +2,7 @@
 title: "How to choose a web design agency"
 author: "mark"
 date: 2016-06-01 13:49:08
-excerpt: So you've decided you need a new website, settled on the type of website you need, and created a website design brief. You're ready to put the feelers out so you can choose a web design agency. But how do you choose the right agency for your project?
+description: So you've decided you need a new website, settled on the type of website you need, and created a website design brief. You're ready to put the feelers out so you can choose a web design agency. But how do you choose the right agency for your project?
 image: images/blog/shutterstock_284519087.jpg
 blog/categories: 
  - tips-and-advice

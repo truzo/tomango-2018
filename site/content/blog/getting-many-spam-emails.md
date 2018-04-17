@@ -2,7 +2,7 @@
 title: "Why am I getting so many spam emails?"
 author: "kieran"
 date: 2016-06-23 09:44:51
-excerpt: In my second installment of looking at the cunning and irritating emails we call spam, I'm going to be looking into why you could be receiving so much spam.
+description: In my second installment of looking at the cunning and irritating emails we call spam, I'm going to be looking into why you could be receiving so much spam.
 blog/categories: 
  - tips-and-advice
  - web-design

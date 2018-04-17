@@ -2,7 +2,7 @@
 title: "View Source 2017"
 author: "trys"
 date: 2017-10-30 10:03:21
-excerpt: Reflecting on View Source on the train journey home.
+description: Reflecting on View Source on the train journey home.
 blog/categories: 
  - web-design
 ---

@@ -2,7 +2,7 @@
 title: "This one special trick will get you more customers!"
 author: "tom"
 date: 2017-11-27 11:26:52
-excerpt: Terrible clickbait title aside, it will actually help.
+description: Terrible clickbait title aside, it will actually help.
 blog/categories: 
  - online-marketing
  - tips-and-advice

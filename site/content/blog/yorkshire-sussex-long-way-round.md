@@ -2,7 +2,7 @@
 title: "From Yorkshire to the Sussex– the long way round"
 author: "steve"
 date: 2017-05-05 16:08:54
-excerpt: Hi there, I’m Steve. I’m from Yorkshire and I started working at Tomango in August 2016 as a Junior Web Developer. This is my story.
+description: Hi there, I’m Steve. I’m from Yorkshire and I started working at Tomango in August 2016 as a Junior Web Developer. This is my story.
 blog/categories: 
  - latest-news
  - web-design

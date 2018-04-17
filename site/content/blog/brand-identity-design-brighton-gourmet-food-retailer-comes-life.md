@@ -2,7 +2,7 @@
 title: "Brand identity design for Brighton gourmet food retailer comes to life"
 author: "mark"
 date: 2014-11-10 16:13:06
-excerpt: See how the new brand identity Tomango created for Sage & Relish came to life when we visited their new shop in Brighton
+description: See how the new brand identity Tomango created for Sage & Relish came to life when we visited their new shop in Brighton
 blog/categories: 
  - brand
  - latest-news

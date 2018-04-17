@@ -1,7 +1,7 @@
 ---
 title: HOP
 image: images/created/created-hop.jpg
-excerpt: Repositioning market-leading engineers at the top of their industry.
+description: Repositioning market-leading engineers at the top of their industry.
 weight: 20
 related:
 - concept-tag

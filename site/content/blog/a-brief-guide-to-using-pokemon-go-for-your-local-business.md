@@ -2,7 +2,7 @@
 title: "A brief guide to using Pokemon Go for your local business"
 author: "tom"
 date: 2016-07-15 13:33:49
-excerpt: Worldwide sensation Pokemon Go brings with it some brilliant opportunities for small local businesses. Find out how you could be taking advantage.
+description: Worldwide sensation Pokemon Go brings with it some brilliant opportunities for small local businesses. Find out how you could be taking advantage.
 image: images/blog/shutterstock_452401399.jpg
 blog/categories: 
  - online-marketing

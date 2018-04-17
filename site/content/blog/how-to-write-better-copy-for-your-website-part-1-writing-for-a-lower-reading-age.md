@@ -2,7 +2,7 @@
 title: "How to write better copy for your website, Part 1 - writing for a lower reading age"
 author: "mark"
 date: 2015-04-16 16:09:58
-excerpt: Writing copy for your website is hard. Writing good copy is even harder. Find out how to make your copy more readable and widely shared by writing for a lower reading age.
+description: Writing copy for your website is hard. Writing good copy is even harder. Find out how to make your copy more readable and widely shared by writing for a lower reading age.
 blog/categories: 
  - online-marketing
  - tips-and-advice

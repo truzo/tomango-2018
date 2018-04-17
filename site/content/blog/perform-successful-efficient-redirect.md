@@ -2,7 +2,7 @@
 title: "How to perform a successful and efficient redirect"
 author: "elliot"
 date: 2014-04-17 14:09:45
-excerpt: Whether you've simply renamed a page or moved your entire website, it's impossible to deny the importance of a redirect.
+description: Whether you've simply renamed a page or moved your entire website, it's impossible to deny the importance of a redirect.
 blog/categories: 
  - tips-and-advice
  - web-design

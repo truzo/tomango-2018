@@ -2,7 +2,7 @@
 title: "New website launched for Shirley Clarke Media"
 author: "mark"
 date: 2016-08-02 09:20:16
-excerpt: Read about the process Tomango took to build a new website for Shirley Clarke, a leading expert in the practical application of formative assessment.
+description: Read about the process Tomango took to build a new website for Shirley Clarke, a leading expert in the practical application of formative assessment.
 banner: images/blog/shirley-clarke-banner.jpg
 bannerLarge: images/blog/shirley-clarke-banner.jpg
 blog/categories: 

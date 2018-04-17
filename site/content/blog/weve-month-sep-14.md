@@ -2,7 +2,7 @@
 title: "What we’ve been up to this month – Sep ’14"
 author: "mark"
 date: 2014-09-29 11:20:30
-excerpt: We're all back from our holidays and raring to go - here's what we've been up to this month
+description: We're all back from our holidays and raring to go - here's what we've been up to this month
 blog/categories: 
  - latest-news
 ---

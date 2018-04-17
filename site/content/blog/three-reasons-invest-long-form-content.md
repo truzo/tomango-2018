@@ -2,7 +2,7 @@
 title: "Three reasons to invest in long form content"
 author: "elliot"
 date: 2014-12-11 17:33:20
-excerpt: Long form content is certainly a worthwhile investment of your time and effort, so let’s examine more closely why you might want to create some.
+description: Long form content is certainly a worthwhile investment of your time and effort, so let’s examine more closely why you might want to create some.
 blog/categories: 
  - tips-and-advice
 ---

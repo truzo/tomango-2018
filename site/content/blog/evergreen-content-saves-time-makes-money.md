@@ -2,7 +2,7 @@
 title: "Evergreen content saves you time and makes you money"
 author: "mark"
 date: 2015-02-11 08:27:44
-excerpt: Discover this magic ingredient to your online marketing mix that will save you time and make you money.
+description: Discover this magic ingredient to your online marketing mix that will save you time and make you money.
 image: images/blog/about-teaser-image3.jpg
 blog/categories: 
  - online-marketing

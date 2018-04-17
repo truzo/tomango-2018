@@ -2,7 +2,7 @@
 title: "What is Digital Disruption?"
 author: "tom"
 date: 2016-07-29 08:46:26
-excerpt: Many markets are being turned on their heads by digital disruption, allowing new entrants to make huge strides. But what is digital disruption all about?
+description: Many markets are being turned on their heads by digital disruption, allowing new entrants to make huge strides. But what is digital disruption all about?
 banner: images/blog/shutterstock_320213201.jpg
 bannerLarge: images/blog/shutterstock_320213201.jpg
 blog/categories: 

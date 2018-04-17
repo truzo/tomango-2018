@@ -2,7 +2,7 @@
 title: "Blogging for business - why, when and how you should do it"
 author: "mark"
 date: 2013-10-17 14:27:05
-excerpt: No-one wants to read updates about your cats.  Learn about what people DO want to know and how to use blogging as an effective tool for your business.
+description: No-one wants to read updates about your cats.  Learn about what people DO want to know and how to use blogging as an effective tool for your business.
 blog/categories: 
  - web-design
 ---

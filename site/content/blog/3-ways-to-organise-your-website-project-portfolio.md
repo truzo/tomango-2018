@@ -2,7 +2,7 @@
 title: "3 ways to organise your website's project portfolio"
 author: "mark"
 date: 2016-12-05 10:50:57
-excerpt: Inspiration and ideas for ways to display your projects portfolio on your website.
+description: Inspiration and ideas for ways to display your projects portfolio on your website.
 banner: images/blog/ECE-banner.jpg
 bannerLarge: images/blog/ECE-banner.jpg
 blog/categories: 

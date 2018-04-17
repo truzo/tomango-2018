@@ -2,7 +2,7 @@
 title: "How dealing with changes helped us adopt a better approach to project delivery"
 author: "mark"
 date: 2016-02-26 10:34:50
-excerpt: Sometimes you have to work through a bit of pain to achieve something better. Find out how recent changes accelerated a new approach to delivering projects.
+description: Sometimes you have to work through a bit of pain to achieve something better. Find out how recent changes accelerated a new approach to delivering projects.
 banner: images/blog/about-slider3.jpg
 bannerLarge: images/blog/about-slider3.jpg
 blog/categories: 

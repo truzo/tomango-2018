@@ -2,7 +2,7 @@
 title: "Why WordPress is the right solution for you"
 author: "trys"
 date: 2013-09-19 11:39:00
-excerpt: When it comes to choosing a content management platform for your website, there are a good number to choose from. We think Wordpress – here’s why
+description: When it comes to choosing a content management platform for your website, there are a good number to choose from. We think Wordpress – here’s why
 
 blog/categories: 
  - tips-and-advice

@@ -2,7 +2,7 @@
 title: "How to speed up your website - Deferred loading"
 author: "trys"
 date: 2014-01-16 13:39:25
-excerpt: No one likes a slow website. Here's how you can speed up your site by deferring the loading of scripts.
+description: No one likes a slow website. Here's how you can speed up your site by deferring the loading of scripts.
 blog/categories: 
  - tips-and-advice
  - web-design

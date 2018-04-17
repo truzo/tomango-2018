@@ -2,7 +2,7 @@
 title: "Brand identity for Sussex payroll specialist"
 author: "mark"
 date: 2015-03-10 08:54:14
-excerpt: An example of the difference between a logo and a brand identity, and why you need the latter.
+description: An example of the difference between a logo and a brand identity, and why you need the latter.
 banner: images/blog/brand-banner.jpg
 bannerLarge: images/blog/brand-banner.jpg
 blog/categories: 

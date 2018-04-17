@@ -2,7 +2,7 @@
 title: "Using Quantity Queries to write content-aware CSS"
 author: "trys"
 date: 2015-08-25 14:29:11
-excerpt: Quantity Queries are an exciting new concept that can be used to create content-aware styles on your website.
+description: Quantity Queries are an exciting new concept that can be used to create content-aware styles on your website.
 blog/categories: 
  - web-design
 ---

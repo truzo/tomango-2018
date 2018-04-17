@@ -2,7 +2,7 @@
 title: "Website launch checklist"
 author: "trys"
 date: 2013-10-29 12:22:39
-excerpt: The prospect of making a new website live can be daunting but if you’re prepared, there’s nothing to be worried about. Here are our top tips.
+description: The prospect of making a new website live can be daunting but if you’re prepared, there’s nothing to be worried about. Here are our top tips.
 blog/categories: 
  - tips-and-advice
  - web-design

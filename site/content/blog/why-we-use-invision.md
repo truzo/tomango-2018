@@ -2,7 +2,7 @@
 title: "Why we use InVision"
 author: "mike"
 date: 2016-05-18 14:57:59
-excerpt: For the past six months we’ve been using a website called InVision - a prototyping and collaboration tool. The concept is simple - upload the designs, share with the client and they then leave feedback.
+description: For the past six months we’ve been using a website called InVision - a prototyping and collaboration tool. The concept is simple - upload the designs, share with the client and they then leave feedback.
 image: images/blog/invision-logo.jpg
 blog/categories: 
  - web-design

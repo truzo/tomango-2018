@@ -2,7 +2,7 @@
 title: "What are personas?"
 author: "mark"
 date: 2015-08-07 16:43:37
-excerpt: One of the most important steps in planning a new website is understanding who's going to be using it. And the best way to work this out is to create Personas.
+description: One of the most important steps in planning a new website is understanding who's going to be using it. And the best way to work this out is to create Personas.
 banner: images/blog/personas-featured.jpg
 bannerLarge: images/blog/personas-featured.jpg
 blog/categories: 

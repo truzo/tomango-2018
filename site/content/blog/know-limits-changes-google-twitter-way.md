@@ -2,7 +2,7 @@
 title: "Know your limits! Changes to Google & Twitter imminent"
 author: "tom"
 date: 2016-05-20 13:22:53
-excerpt: Twitter not counting links & pics, and Google changing limits on page titles & meta descriptions.
+description: Twitter not counting links & pics, and Google changing limits on page titles & meta descriptions.
 image: images/blog/shutterstock_204352345.jpg
 blog/categories: 
  - online-marketing

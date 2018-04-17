@@ -2,7 +2,7 @@
 title: "Building Paul the Octopus"
 author: "trys"
 date: 2016-06-08 16:06:25
-excerpt: I’ll be covering how I went about building a micro social-network/game, what worked well and what pitfalls I fell into.
+description: I’ll be covering how I went about building a micro social-network/game, what worked well and what pitfalls I fell into.
 blog/categories: 
  - web-design
 ---

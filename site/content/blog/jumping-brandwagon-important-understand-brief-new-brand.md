@@ -2,7 +2,7 @@
 title: "Jumping on the brandwagon - don't slag off a new brand when you don't know the brief"
 author: "mark"
 date: 2013-10-03 18:15:39
-excerpt: It's easy to be critical of a high-profile rebrand, but how can you judge its success if you don't know what it's trying to achieve?
+description: It's easy to be critical of a high-profile rebrand, but how can you judge its success if you don't know what it's trying to achieve?
 blog/categories: 
  - brand
  - latest-news

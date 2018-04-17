@@ -2,7 +2,7 @@
 title: "New website launched for Fludes Carpets"
 author: "mike"
 date: 2013-12-04 16:06:57
-excerpt: We’ve recently launched a new website for one of the region’s top specialist carpet and flooring retailers that has been trading for over 80 years.
+description: We’ve recently launched a new website for one of the region’s top specialist carpet and flooring retailers that has been trading for over 80 years.
 blog/categories: 
  - latest-news
  - web-design

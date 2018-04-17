@@ -2,7 +2,7 @@
 title: "More than just a digital marketing agency"
 author: "mark"
 date: 2013-06-11 16:24:28
-excerpt: With our summer party just over two weeks away, we reflect on the wide range of services we provide for our guests
+description: With our summer party just over two weeks away, we reflect on the wide range of services we provide for our guests
 blog/categories: 
  - brand
  - latest-news

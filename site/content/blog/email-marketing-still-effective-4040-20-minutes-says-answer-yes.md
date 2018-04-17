@@ -2,7 +2,7 @@
 title: "Is email marketing still effective? £4,040 in 20 minutes says the answer is yes"
 author: "mark"
 date: 2014-07-22 10:16:05
-excerpt: £4,040 in sales for just 20 minutes work? Here's how I did it...
+description: £4,040 in sales for just 20 minutes work? Here's how I did it...
 blog/categories: 
  - latest-news
  - online-marketing

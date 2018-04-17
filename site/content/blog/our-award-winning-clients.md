@@ -2,7 +2,7 @@
 title: "Our award-winning clients"
 author: "mark"
 date: 2017-11-07 08:42:35
-excerpt: There's something many of our clients have in common - they're always winning things!
+description: There's something many of our clients have in common - they're always winning things!
 banner: images/blog/shutterstock_352812770.jpg
 bannerLarge: images/blog/shutterstock_352812770.jpg
 blog/categories: 

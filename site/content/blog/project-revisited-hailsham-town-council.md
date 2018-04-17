@@ -2,7 +2,7 @@
 title: "Project Revisited: Hailsham Town Council"
 author: "mark"
 date: 2016-10-12 14:08:41
-excerpt: A look back at a website project we competed last year for Hailsham Town Council, including a brief interview with their Communications Officer Terry Hall.
+description: A look back at a website project we competed last year for Hailsham Town Council, including a brief interview with their Communications Officer Terry Hall.
 blog/categories: 
  - latest-news
  - web-design

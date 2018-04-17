@@ -2,7 +2,7 @@
 title: "How to write a good blog post - Part 3: Finishing touches"
 author: "mark"
 date: 2014-01-21 10:53:22
-excerpt: The last in our 3-part series on how to become a numero uno blogger.
+description: The last in our 3-part series on how to become a numero uno blogger.
 blog/categories: 
  - tips-and-advice
  - web-design

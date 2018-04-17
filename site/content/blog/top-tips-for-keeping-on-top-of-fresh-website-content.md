@@ -2,7 +2,7 @@
 title: "Top Tips for keeping on top of fresh website content"
 author: "mark"
 date: 2013-03-06 10:00:36
-excerpt: Updating your website is important but we know what it's like when you're busy running a business - so how can you keep on top of it?
+description: Updating your website is important but we know what it's like when you're busy running a business - so how can you keep on top of it?
 blog/categories: 
  - tips-and-advice
  - web-design

@@ -2,7 +2,7 @@
 title: "Regulations for selling online - important update"
 author: "mark"
 date: 2014-07-14 16:30:35
-excerpt: There's been an important change to the rules for selling online with the introduction of the Consumer Contracts Regulations.
+description: There's been an important change to the rules for selling online with the introduction of the Consumer Contracts Regulations.
 blog/categories: 
  - latest-news
  - tips-and-advice

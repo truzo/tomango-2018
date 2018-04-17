@@ -2,7 +2,7 @@
 title: "Why asking us to do a creative pitch or speculative design is wrong"
 author: "mark"
 date: 2013-11-26 17:40:29
-excerpt: We won't do free design work to win your business - here's why.
+description: We won't do free design work to win your business - here's why.
 blog/categories: 
  - brand
  - latest-news

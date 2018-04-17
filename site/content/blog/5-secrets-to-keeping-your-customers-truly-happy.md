@@ -2,7 +2,7 @@
 title: "The 5 secrets to keeping your customers truly happy"
 author: "mark"
 date: 2014-12-01 15:22:40
-excerpt: Discover how the secrets of Happy Money can keep your customers and your employees truly happy.
+description: Discover how the secrets of Happy Money can keep your customers and your employees truly happy.
 blog/categories: 
  - brand
  - online-marketing

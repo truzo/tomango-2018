@@ -2,7 +2,7 @@
 title: "Getting started with A-Frame"
 author: "trys"
 date: 2016-08-17 16:37:30
-excerpt: A-Frame is a brilliant new framework bringing Virtual Reality (VR) to the web.
+description: A-Frame is a brilliant new framework bringing Virtual Reality (VR) to the web.
 blog/categories: 
  - web-design
 ---

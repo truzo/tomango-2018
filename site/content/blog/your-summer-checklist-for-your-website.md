@@ -2,7 +2,7 @@
 title: "Your summer checklist for your website"
 author: "mark"
 date: 2015-07-27 10:20:46
-excerpt: Make the most of the quiet summer period and get your website into shape for the new school year with our summer checklist.
+description: Make the most of the quiet summer period and get your website into shape for the new school year with our summer checklist.
 banner: images/blog/summer-checklist.jpg
 bannerLarge: images/blog/summer-checklist.jpg
 blog/categories: 

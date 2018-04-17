@@ -2,7 +2,7 @@
 title: "Seven Clever Logos with Hidden Meaning"
 author: "tom"
 date: 2017-01-16 10:41:54
-excerpt: The biggest and best companies in the world can spend millions of pounds trying to find that perfect image to represent their brand. There's thousands of examples out there, but some stand out thanks to small factors behind their design that elevate them from a standard logo to something a bit special.
+description: The biggest and best companies in the world can spend millions of pounds trying to find that perfect image to represent their brand. There's thousands of examples out there, but some stand out thanks to small factors behind their design that elevate them from a standard logo to something a bit special.
 image: images/blog/tour-de-france-logo.jpg
 blog/categories: 
  - brand

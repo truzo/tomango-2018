@@ -2,7 +2,7 @@
 title: "Things Tomango likes this week - 29 April 2016"
 author: "tom"
 date: 2016-04-29 15:37:48
-excerpt: The best things from the past 7 days in Brand, Web, and Marketing. This week – an update to a truly iconic brand design, and Twitter goes mental for the 5th incarnation of the infamous 'Ed Balls Day'.
+description: The best things from the past 7 days in Brand, Web, and Marketing. This week – an update to a truly iconic brand design, and Twitter goes mental for the 5th incarnation of the infamous 'Ed Balls Day'.
 blog/categories: 
  - web-design
 ---

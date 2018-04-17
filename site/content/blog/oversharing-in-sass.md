@@ -2,7 +2,7 @@
 title: "Oversharing in SASS"
 author: "trys"
 date: 2016-11-23 14:13:22
-excerpt: Exploring the dangers of unintentionally oversharing variables in SASS
+description: Exploring the dangers of unintentionally oversharing variables in SASS
 blog/categories: 
  - web-design
 ---

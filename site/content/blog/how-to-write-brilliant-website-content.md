@@ -2,7 +2,7 @@
 title: "How to write brilliant website content"
 author: "mark"
 date: 2013-03-14 11:10:54
-excerpt: Well-crafted website content is the key to increasing web traffic and more importantly, getting enquiries and making sales.
+description: Well-crafted website content is the key to increasing web traffic and more importantly, getting enquiries and making sales.
 blog/categories: 
  - online-marketing
  - tips-and-advice

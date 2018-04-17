@@ -2,7 +2,7 @@
 title: "Can't send emails in Outlook on Windows 10?"
 author: "kieran"
 date: 2015-12-03 09:24:43
-excerpt: Having problems sending email from Outlook since upgrading to Windows 10? Here's how to fix it.
+description: Having problems sending email from Outlook since upgrading to Windows 10? Here's how to fix it.
 blog/categories: 
  - tips-and-advice
  - web-design

@@ -2,7 +2,7 @@
 title: "3 ridiculously cool things you can do with targeted Facebook Ads"
 author: "tom"
 date: 2016-05-13 15:26:39
-excerpt: Freak out your room-mate, advertise at your competitors' locations, or find the love of your life. For marketeers, Facebook Ads are here to stay.
+description: Freak out your room-mate, advertise at your competitors' locations, or find the love of your life. For marketeers, Facebook Ads are here to stay.
 image: images/blog/shutterstock_330654698.jpg
 blog/categories: 
  - online-marketing

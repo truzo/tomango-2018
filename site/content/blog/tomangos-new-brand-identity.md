@@ -2,7 +2,7 @@
 title: "Tomango's new brand identity"
 author: "mike"
 date: 2012-12-11 17:02:46
-excerpt: Revealed - the brand identity for Tomango
+description: Revealed - the brand identity for Tomango
 blog/categories: 
  - brand
  - latest-news

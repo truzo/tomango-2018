@@ -2,7 +2,7 @@
 title: "Local SEO @ Tomango's local SEO conference - BrightonSEO"
 author: "tom"
 date: 2016-04-25 14:16:10
-excerpt: A few miles down the road from Tomango HQ last week was one of the most popular and respected natural search conferences in the UK - BrightonSEO. Tom learned how to do Local SEO like a Jedi...more inside.
+description: A few miles down the road from Tomango HQ last week was one of the most popular and respected natural search conferences in the UK - BrightonSEO. Tom learned how to do Local SEO like a Jedi...more inside.
 image: images/blog/shutterstock_153195977.jpg
 blog/categories: 
  - online-marketing

@@ -2,7 +2,7 @@
 title: "An interview with...Trys Mudford, Lead Developer at Tomango"
 author: "mark"
 date: 2015-09-25 15:28:20
-excerpt: In the first of a series, I interview our Lead Developer Trys, and hear his views on responsive design, crayons, and why he likes letting his coffee go cold...
+description: In the first of a series, I interview our Lead Developer Trys, and hear his views on responsive design, crayons, and why he likes letting his coffee go cold...
 banner: images/blog/trys-mudford.jpg
 bannerLarge: images/blog/trys-mudford.jpg
 blog/categories: 

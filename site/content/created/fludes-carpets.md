@@ -1,7 +1,7 @@
 ---
 title: Fludes Carpets
 image: images/created/created-karndean.jpg
-excerpt: Increasing sales of key product through online content creation.
+description: Increasing sales of key product through online content creation.
 weight: 40
 banner: images/created/created-karndean-hero.jpg
 bannerLarge: images/created/created-karndean-hero.jpg

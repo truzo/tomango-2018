@@ -2,7 +2,7 @@
 title: "How to spot spam emails"
 author: "kieran"
 date: 2016-05-26 08:24:08
-excerpt: No matter how careful you are with handing out your email address, no one can avoid getting the odd spam email once in a while.
+description: No matter how careful you are with handing out your email address, no one can avoid getting the odd spam email once in a while.
 image: images/blog/whos-the-email-from.png
 blog/categories: 
  - tips-and-advice

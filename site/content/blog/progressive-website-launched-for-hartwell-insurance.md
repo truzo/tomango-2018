@@ -2,7 +2,7 @@
 title: "Progressive Website launched for Hartwell Insurance"
 author: "trys"
 date: 2018-01-29 09:37:47
-excerpt: We’re proud to announce the launch of a rapid new website for Hartwell Insurance.
+description: We’re proud to announce the launch of a rapid new website for Hartwell Insurance.
 image: images/blog/hartwell.jpg
 blog/categories: 
  - web-design

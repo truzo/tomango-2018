@@ -2,7 +2,7 @@
 title: "Blogging made easy - an idiot's guide"
 author: "mark"
 date: 2014-08-19 11:24:31
-excerpt: An introduction to blogging for your business, answers to the questions everyone asks and tips for getting the most from your blog with the minimum effort.
+description: An introduction to blogging for your business, answers to the questions everyone asks and tips for getting the most from your blog with the minimum effort.
 blog/categories: 
  - online-marketing
  - tips-and-advice

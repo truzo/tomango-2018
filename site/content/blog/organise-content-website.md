@@ -2,7 +2,7 @@
 title: "How to organise content for your website"
 author: "mark"
 date: 2016-10-31 15:58:38
-excerpt: Writing the content for your new website can be a daunting task; find out how to get content together in a way that makes the process that little bit easier.
+description: Writing the content for your new website can be a daunting task; find out how to get content together in a way that makes the process that little bit easier.
 blog/categories: 
  - tips-and-advice
  - web-design

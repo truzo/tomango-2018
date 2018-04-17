@@ -2,7 +2,7 @@
 title: "CIM Marketing Diploma...complete!"
 author: "tom"
 date: 2016-09-26 16:08:19
-excerpt: There's a reason why a few of my blog posts for Tomango have been rather theory-based bits and pieces regarding marketing...
+description: There's a reason why a few of my blog posts for Tomango have been rather theory-based bits and pieces regarding marketing...
 blog/categories: 
  - latest-news
 ---

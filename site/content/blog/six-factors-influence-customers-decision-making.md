@@ -2,7 +2,7 @@
 title: "The six factors that influence your customer's decision-making"
 author: "mark"
 date: 2017-10-19 13:05:25
-excerpt: Finding out why people, including your customers, make the decisions they do.
+description: Finding out why people, including your customers, make the decisions they do.
 banner: images/blog/shutterstock_654479191.jpg
 bannerLarge: images/blog/shutterstock_654479191.jpg
 blog/categories: 

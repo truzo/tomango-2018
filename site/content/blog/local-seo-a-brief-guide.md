@@ -2,7 +2,7 @@
 title: "Local SEO: a 10-minute guide to help your business"
 author: "tom"
 date: 2016-04-13 10:28:33
-excerpt: Not sure how to get your business started with optimising for local search? We've put together a handy guide to get you up and running.
+description: Not sure how to get your business started with optimising for local search? We've put together a handy guide to get you up and running.
 image: images/blog/shutterstock_53095825.jpg
 banner: images/blog/shutterstock_53095825.jpg
 bannerLarge: images/blog/shutterstock_53095825.jpg

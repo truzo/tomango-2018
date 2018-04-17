@@ -2,7 +2,7 @@
 title: "How to plan a website"
 author: "mark"
 date: 2013-01-17 10:55:44
-excerpt: If you don't take the time to plan what your website is for and what you are trying to achieve, there's an excellent chance of messing it up.
+description: If you don't take the time to plan what your website is for and what you are trying to achieve, there's an excellent chance of messing it up.
 blog/categories: 
  - tips-and-advice
  - web-design

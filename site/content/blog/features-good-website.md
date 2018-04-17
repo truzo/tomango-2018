@@ -2,7 +2,7 @@
 title: "What are the features of a good website?"
 author: "mark"
 date: 2016-09-28 08:43:41
-excerpt: How to plan what features and pages you need on your website.
+description: How to plan what features and pages you need on your website.
 blog/categories: 
  - web-design
 ---

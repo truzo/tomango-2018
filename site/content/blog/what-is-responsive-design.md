@@ -2,7 +2,7 @@
 title: "What is Responsive Design and why do I need it?"
 author: "trys"
 date: 2014-02-17 14:15:25
-excerpt: Responsive Design has become a buzzword in the industry as of late. What is it and why do you need it? All will be revealed...
+description: Responsive Design has become a buzzword in the industry as of late. What is it and why do you need it? All will be revealed...
 blog/categories: 
  - tips-and-advice
  - web-design

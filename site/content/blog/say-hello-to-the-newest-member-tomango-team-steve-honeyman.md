@@ -2,7 +2,7 @@
 title: "Say hello to the newest member of the Tomango team - Steve Honeyman"
 author: "mark"
 date: 2016-08-31 10:48:25
-excerpt: Tomango has added to its growing team... Please meet our new Junior Web Developer, Steve Honeyman.
+description: Tomango has added to its growing team... Please meet our new Junior Web Developer, Steve Honeyman.
 blog/categories: 
  - latest-news
  - web-design

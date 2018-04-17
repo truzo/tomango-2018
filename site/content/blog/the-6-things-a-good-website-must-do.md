@@ -2,7 +2,7 @@
 title: "The 6 things a good website must do"
 author: "mark"
 date: 2015-07-31 15:41:30
-excerpt: This excellent summary of what a good website must do deserved a little explanation...
+description: This excellent summary of what a good website must do deserved a little explanation...
 blog/categories: 
  - tips-and-advice
  - web-design

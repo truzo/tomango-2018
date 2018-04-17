@@ -2,7 +2,7 @@
 title: "Six of the Best - Rio Olympics Videos"
 author: "tom"
 date: 2016-08-12 15:15:55
-excerpt: The Rio Olympics is in full swing, so it's only right I put together an Olympic-themed blog!
+description: The Rio Olympics is in full swing, so it's only right I put together an Olympic-themed blog!
 image: images/blog/shutterstock_345986648.jpg
 banner: images/blog/shutterstock_345986648.jpg
 bannerLarge: images/blog/shutterstock_345986648.jpg

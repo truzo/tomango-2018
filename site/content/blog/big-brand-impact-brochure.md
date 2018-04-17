@@ -2,7 +2,7 @@
 title: "Big brand impact from a brochure"
 author: "mike"
 date: 2016-06-16 13:36:34
-excerpt: With the new website now live, we continued the brand rollout for the Concept Tag with the creation of a new brochure. 
+description: With the new website now live, we continued the brand rollout for the Concept Tag with the creation of a new brochure. 
 blog/categories: 
  - brand
 ---

@@ -1,6 +1,6 @@
 ---
 title: Social Media
-excerpt: Now a vital part of any digital marketing strategy, having a strong social media presence gives your business the chance to build, engage, and interact with audiences on a number of different platforms.
+description: Now a vital part of any digital marketing strategy, having a strong social media presence gives your business the chance to build, engage, and interact with audiences on a number of different platforms.
 image: images/creates/social.jpg
 weight: 20
 ---
@@ -21,10 +21,6 @@ Once we’ve decided which platforms are best, we'll create a social strategy su
 
 If you don’t have the capacity to manage this in-house, we'll take the reins and produce relevant, interesting content that keeps people coming back.
 
-## Social media advertising
-
-If we think your company could benefit from an extra push, we might advise integrating paid social media advertising into your social campaign.
-
-Highly targeted and cost-effective, paid social like Facebook Ads can be a valuable means of increasing brand awareness to people in your target demographics that aren’t yet familiar with your business.
+If we think your company could benefit from an extra push, we might advise integrating [paid social media advertising](/creates/digital-marketing/ppc/) into your social campaign.
 
 {{< contact >}}

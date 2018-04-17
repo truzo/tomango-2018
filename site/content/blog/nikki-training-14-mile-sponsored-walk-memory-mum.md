@@ -2,7 +2,7 @@
 title: "Nikki in training for 14 mile sponsored walk in memory of her Mum"
 author: "mark"
 date: 2016-08-30 09:37:48
-excerpt: Can you support Nikki and help her raise money for the Stroke Association?
+description: Can you support Nikki and help her raise money for the Stroke Association?
 banner: images/blog/sponsored-walk-banner.jpg
 bannerLarge: images/blog/sponsored-walk-banner.jpg
 blog/categories: 

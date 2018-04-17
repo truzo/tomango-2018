@@ -2,7 +2,7 @@
 title: "Introducing 'Paul the Octopus' - the Euro 2016 prediction game from Tomango"
 author: "tom"
 date: 2016-06-03 11:59:00
-excerpt: Unless you've been living in a cave the last month or so you'll know that next week sees the start of Euro 2016! With it will inevitably come England's exit in the last 16 - but here at Tomango we want the fun to go on all tournament, so for the last month we've been working on a way to ensure that that's the case.
+description: Unless you've been living in a cave the last month or so you'll know that next week sees the start of Euro 2016! With it will inevitably come England's exit in the last 16 - but here at Tomango we want the fun to go on all tournament, so for the last month we've been working on a way to ensure that that's the case.
 image: images/blog/PTO-logo.jpg
 blog/categories: 
  - web-design

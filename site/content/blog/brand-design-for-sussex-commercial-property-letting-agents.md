@@ -2,7 +2,7 @@
 title: "Brand design for Sussex commercial property letting agents"
 author: "mark"
 date: 2013-07-31 15:56:16
-excerpt: Brand identity design for new commercial letting agents in Sussex, Oldfield Smith
+description: Brand identity design for new commercial letting agents in Sussex, Oldfield Smith
 blog/categories: 
  - brand
  - web-design

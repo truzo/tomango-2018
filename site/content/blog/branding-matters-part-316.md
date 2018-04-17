@@ -2,7 +2,7 @@
 title: "When branding matters - part #316"
 author: "mark"
 date: 2018-01-26 09:15:38
-excerpt: Here's one of my favourite stories about how your branding's very important to customers - and often in ways you wouldn't expect...
+description: Here's one of my favourite stories about how your branding's very important to customers - and often in ways you wouldn't expect...
 banner: images/blog/he6p3r2wovh9ohnux63x.jpg
 bannerLarge: images/blog/he6p3r2wovh9ohnux63x.jpg
 blog/categories: 

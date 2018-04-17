@@ -2,7 +2,7 @@
 title: "Managing customer expectations"
 author: "mark"
 date: 2016-12-22 15:18:12
-excerpt: Follow these 14 steps to make sure you manage your customer's expectations brilliantly.
+description: Follow these 14 steps to make sure you manage your customer's expectations brilliantly.
 blog/categories: 
  - tips-and-advice
  - web-design

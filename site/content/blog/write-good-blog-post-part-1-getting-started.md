@@ -2,7 +2,7 @@
 title: "How to write a good blog post - Part 1: Getting Started"
 author: "mark"
 date: 2014-01-09 17:18:26
-excerpt: Follow our step-by-step guide and become a champion blog writer
+description: Follow our step-by-step guide and become a champion blog writer
 blog/categories: 
  - tips-and-advice
  - web-design

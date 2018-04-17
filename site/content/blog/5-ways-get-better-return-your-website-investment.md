@@ -2,7 +2,7 @@
 title: "5 ways to get a better return on your website investment"
 author: "mark"
 date: 2014-04-09 14:27:30
-excerpt: The differences you get from an excellent website project - and why you should make sure you get them
+description: The differences you get from an excellent website project - and why you should make sure you get them
 blog/categories: 
  - tips-and-advice
  - web-design

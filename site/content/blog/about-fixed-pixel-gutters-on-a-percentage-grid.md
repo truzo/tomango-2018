@@ -2,7 +2,7 @@
 title: "Fixed pixel gutters on a percentage grid"
 author: "trys"
 date: 2017-09-18 15:12:21
-excerpt: Percentage margins are dead, long live consistent pixel margins!
+description: Percentage margins are dead, long live consistent pixel margins!
 blog/categories: 
  - tips-and-advice
  - web-design

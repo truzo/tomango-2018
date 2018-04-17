@@ -2,7 +2,7 @@
 title: "Things Tomango likes this week - 15 April 2016"
 author: "tom"
 date: 2016-04-15 14:26:58
-excerpt: The best things from the past 7 days in Brand, Web, and Marketing. This week - awesome looking pizza boxes, Go-Pros on cows, and a surprising use of a government EU leaflet.
+description: The best things from the past 7 days in Brand, Web, and Marketing. This week - awesome looking pizza boxes, Go-Pros on cows, and a surprising use of a government EU leaflet.
 image: images/blog/shutterstock_347866958.jpg
 blog/categories: 
  - brand

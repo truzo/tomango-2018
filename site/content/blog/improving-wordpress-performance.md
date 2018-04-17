@@ -1,8 +1,9 @@
 ---
 title: "How to significantly improve the performance of your WordPress site"
+seo_title: "24 ways you can improve WordPress site speed performance | Tomango"
 author: "trys"
-date: 2015-03-19 08:32:55
-excerpt: Read how we enhanced the performance of our website using an array of back-end and front-end techniques.
+date: 2018-04-04 08:32:55
+description: Read how we enhanced the performance of our website using an array of back-end and front-end techniques.
 blog/categories: 
  - tips-and-advice
  - web-design

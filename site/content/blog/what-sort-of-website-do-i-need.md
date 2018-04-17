@@ -2,7 +2,7 @@
 title: "What sort of website do I need?"
 author: "mark"
 date: 2016-01-14 15:10:57
-excerpt: So you’ve decided you need a new website. Your next step is to create a brief for the project. But before you do that, you need to work out what sort of website you need.
+description: So you’ve decided you need a new website. Your next step is to create a brief for the project. But before you do that, you need to work out what sort of website you need.
 banner: images/blog/hailsham-town-council-banner.jpg
 bannerLarge: images/blog/hailsham-town-council-banner.jpg
 blog/categories: 

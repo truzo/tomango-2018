@@ -2,7 +2,7 @@
 title: "Photography at Goodwood Revival"
 author: "trys"
 date: 2016-09-12 16:36:09
-excerpt: A photographic rundown of Goodwood Revival 2016, the largest period historic race event in the world.
+description: A photographic rundown of Goodwood Revival 2016, the largest period historic race event in the world.
 banner: images/blog/TRM_9247.jpg
 bannerLarge: images/blog/TRM_9247.jpg
 blog/categories: 

@@ -2,7 +2,7 @@
 title: "Moving from .dev to .test - OSX dnsmasq"
 author: "trys"
 date: 2017-12-14 14:20:56
-excerpt: How to move from .dev to .test on OSX
+description: How to move from .dev to .test on OSX
 blog/categories: 
  - tips-and-advice
  - web-design

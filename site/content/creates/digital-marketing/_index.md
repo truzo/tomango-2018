@@ -4,9 +4,7 @@ title: Digital Marketing
 
 **A good digital marketing strategy gets your business found online by the right people.**
 
-You might have the perfect brand and website, but getting it seen by your target audience can be a challenge.
-
-Not only that, if you’re a business owner focused on day-to-day operations you probably won’t have the time to keep up to date with the constant changes to search algorithms or social media platforms.
+However, if you’re a business owner focused on day-to-day operations you probably won’t have the time to keep up to date with the constant changes to search algorithms or social media platforms.
 
 It can be intimidating to even know where to start.
 

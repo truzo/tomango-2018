@@ -2,7 +2,7 @@
 title: "BBC News website redesign"
 author: "trys"
 date: 2014-04-24 09:15:34
-excerpt: The BBC news website has rolled out a new mobile-friendly design into beta this month.
+description: The BBC news website has rolled out a new mobile-friendly design into beta this month.
 blog/categories: 
  - web-design
 ---

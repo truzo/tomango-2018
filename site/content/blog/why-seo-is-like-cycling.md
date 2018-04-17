@@ -2,7 +2,7 @@
 title: "Why SEO is a bit like cycling"
 author: "tom"
 date: 2016-04-20 15:48:08
-excerpt: This analogy works, I promise. It's all about tiny improvements building up to a huge jump in performance.
+description: This analogy works, I promise. It's all about tiny improvements building up to a huge jump in performance.
 image: images/blog/shutterstock_12633685.jpg
 blog/categories: 
  - online-marketing

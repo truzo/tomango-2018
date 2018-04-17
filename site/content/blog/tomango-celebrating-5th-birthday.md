@@ -2,7 +2,7 @@
 title: "Tomango is celebrating its 5th birthday!"
 author: "mark"
 date: 2018-01-31 11:57:39
-excerpt: It's hard to believe, I know. It seemed like only yesterday we were being welcomed into the world and taking our first tentative steps. But yes, it's true...
+description: It's hard to believe, I know. It seemed like only yesterday we were being welcomed into the world and taking our first tentative steps. But yes, it's true...
 banner: images/blog/TRM_7851x2000.jpg
 bannerLarge: images/blog/TRM_7851x2000.jpg
 image: images/blog/TRM_7847x2000-1024x684.jpg

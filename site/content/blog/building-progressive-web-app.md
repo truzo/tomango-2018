@@ -1,9 +1,10 @@
 ---
 title: "Building a Progressive Web App"
 author: "trys"
-date: 2017-06-13 09:00:49
-excerpt: How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially?
+date: 2018-04-13 09:00:49
+description: How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially?
 banner: images/blog/mockup.jpg
+image: images/blog/mockup.jpg
 bannerLarge: images/blog/mockup.jpg
 blog/categories: 
  - tips-and-advice

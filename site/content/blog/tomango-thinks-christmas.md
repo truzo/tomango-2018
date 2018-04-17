@@ -2,7 +2,7 @@
 title: "What Tomango thinks about Christmas"
 author: "tom"
 date: 2016-12-20 09:58:34
-excerpt: Which Tomango employee starts Christmas in June? What exactly is candied peel? Who's the best at Monopoly? Answers to some of these questions are right here!
+description: Which Tomango employee starts Christmas in June? What exactly is candied peel? Who's the best at Monopoly? Answers to some of these questions are right here!
 banner: images/blog/shutterstock_539456221.jpg
 bannerLarge: images/blog/shutterstock_539456221.jpg
 blog/categories: 

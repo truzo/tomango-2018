@@ -2,7 +2,7 @@
 title: "Do I need a new website?"
 author: "mark"
 date: 2015-12-11 16:16:01
-excerpt: The clear signs to look out for that tell you it's time to get a new website.
+description: The clear signs to look out for that tell you it's time to get a new website.
 blog/categories: 
  - tips-and-advice
  - web-design

@@ -2,7 +2,7 @@
 title: "Top 5 mistakes people make when designing a website"
 author: "mark"
 date: 2017-02-07 15:56:06
-excerpt: It amazes me how often I see clients repeatedly making the same mistakes and bad decisions when it comes to designing a new website. Here's my top 5. Make sure you're not making these mistakes too...
+description: It amazes me how often I see clients repeatedly making the same mistakes and bad decisions when it comes to designing a new website. Here's my top 5. Make sure you're not making these mistakes too...
 banner: images/blog/banner.jpg
 bannerLarge: images/blog/banner.jpg
 blog/categories: 

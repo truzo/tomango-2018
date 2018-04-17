@@ -2,7 +2,7 @@
 title: "Early warning system with Slack integration"
 author: "trys"
 date: 2016-05-06 14:41:20
-excerpt: We created a cheery early warning system for our server with a Slack integration.
+description: We created a cheery early warning system for our server with a Slack integration.
 blog/categories: 
  - tips-and-advice
 ---

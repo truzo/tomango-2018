@@ -2,7 +2,7 @@
 title: "Corporate identity for Sussex Letting Shop"
 author: "mark"
 date: 2013-05-22 09:40:20
-excerpt: When we got a call from Wendy at Geneva Investment Group in Hove asking about designing a new website, little did we know that we would be helping them shape their corporate identity as well...
+description: When we got a call from Wendy at Geneva Investment Group in Hove asking about designing a new website, little did we know that we would be helping them shape their corporate identity as well...
 blog/categories: 
  - brand
 ---
