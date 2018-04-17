@@ -8,7 +8,7 @@ blog/categories:
  - latest-news
 ---
 
-There's little in my professional life that gives me greater satisfaction than seeing a [brand identity](http://www.tomango.co.uk/creates/brand/) that we've created come to life. Seeing Tomango's work in print or on the high street gives me a lovely little warm glow inside. Last week I was fortunate enough to see our client's brand hard at work in a newly opened gourmet food deli in Brighton; the new home of Sage &amp; Relish.
+There's little in my professional life that gives me greater satisfaction than seeing a [brand identity](/creates/brand/) that we've created come to life. Seeing Tomango's work in print or on the high street gives me a lovely little warm glow inside. Last week I was fortunate enough to see our client's brand hard at work in a newly opened gourmet food deli in Brighton; the new home of Sage &amp; Relish.
 
 ## What is Sage &amp; Relish?
 
@@ -26,7 +26,7 @@ The first step was for us to produce a name that captured their brand values and
 
 ### Creating the brand identity
 
-Under the guidance of our Creative Director [Mike Vine](http://www.tomango.co.uk/is/mike-vine/), we created a brand identity that captured the personality of the business. The strong and confident typography reflects how Stefanos and Angeliki run their business, and the potential for using the brand identity across packaging, signage and online material fits the brief perfectly.
+Under the guidance of our Creative Director [Mike Vine](/is/mike-vine/), we created a brand identity that captured the personality of the business. The strong and confident typography reflects how Stefanos and Angeliki run their business, and the potential for using the brand identity across packaging, signage and online material fits the brief perfectly.
 
 ![](images/blog/sageandrelish2.jpg)
 

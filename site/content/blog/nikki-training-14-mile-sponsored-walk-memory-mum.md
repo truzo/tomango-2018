@@ -9,7 +9,7 @@ blog/categories:
  - latest-news
 ---
 
-On 10th September, our [Head of Finance Nikki Carrick](http://www.tomango.co.uk/is/nikki-carrick/) will be walking 14 miles across London in memory of her Mum Cathy, and to raise money for the Stroke Assocation.
+On 10th September, our [Head of Finance Nikki Carrick](/is/nikki-carrick/) will be walking 14 miles across London in memory of her Mum Cathy, and to raise money for the Stroke Assocation.
 
 ![](images/blog/nikki-fran-sponsored-walk.jpg "Nikki (right) and her sister Fran before one of their training sessions")
 

@@ -8,7 +8,7 @@ blog/categories:
  - web-design
 ---
 
-Time for a rant.  Here are some of the things that really gets our goat about [website design](http://www.tomango.co.uk/creates/web/design/).  Make sure you don't fall into these traps...
+Time for a rant.  Here are some of the things that really gets our goat about [website design](/creates/web/).  Make sure you don't fall into these traps...
 
 We're often asked to take a look at websites and give our views on what could be improved.  Whilst we don't like to put other web designers down (it's really not our style), there are some examples of really bad design that really wind us up.  Don't let yourself get caught out by these (and if you have, fix them quick).
 

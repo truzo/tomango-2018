@@ -28,7 +28,7 @@ I thought about deleting this post entirely, but I know people still find it use
 
 So if you've been asked to put together a brief for your company's new website, and there's no way out of it, go ahead - knock yourself out, and feel free to use this post and the download to help you out.
 
-But if you want to do things the most up-to-date way, get the best results and receive envious looks from your colleagues as plaudits come your way, don't bother - pick up the [phone](http://www.tomango.co.uk/contact/) or drop us an [email](mailto:hello@tomango.co.uk) and let's talk.
+But if you want to do things the most up-to-date way, get the best results and receive envious looks from your colleagues as plaudits come your way, don't bother - pick up the [phone](/contact/) or drop us an [email](mailto:hello@tomango.co.uk) and let's talk.
 
 *Mark Vaesen*  
 22nd June 2017

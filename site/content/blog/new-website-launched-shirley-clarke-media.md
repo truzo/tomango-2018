@@ -33,7 +33,7 @@ In turn, this made them feel more involved right the way through the project.
 
 ## Planning
 
-The project kicked off with a meeting with the client, [Creative Director Mike](http://www.tomango.co.uk/is/mike-vine/), [Lead Developer Trys](http://www.tomango.co.uk/is/trys-mudford/) and [me](http://www.tomango.co.uk/is/mark-vaesen/) discussing in lots of detail who would be using the site and how they'd find their way around. We also talked about what content would be on the site - both now and in the future - and how it would need to be managed.
+The project kicked off with a meeting with the client, [Creative Director Mike](/is/mike-vine/), [Lead Developer Trys](/is/trys-mudford/) and [me](/is/mark-vaesen/) discussing in lots of detail who would be using the site and how they'd find their way around. We also talked about what content would be on the site - both now and in the future - and how it would need to be managed.
 
 From this meeting I worked on a site structure. I started out with a bunch of hand-written page names on post-its, stuck to our meeting room table. This low-tech starting point enables me to easily move things around, sticking and re-sticking, to find the best overall structure. I took shots on my phone to record my thought process.
 
@@ -45,7 +45,7 @@ After several more discussions with the client, we settled on a first draft for 
 
 ## Design
 
-Creative Director [Mike Vine](http://www.tomango.co.uk/is/mike-vine/) used two key tools to create concepts for the key pages of the site. Here he describes his approach to the design of the site;
+Creative Director [Mike Vine](/is/mike-vine/) used two key tools to create concepts for the key pages of the site. Here he describes his approach to the design of the site;
 
 {{< quote
 	body="I use Sketch and InVision together for rapid prototyping."
@@ -82,7 +82,7 @@ By the same process, we slimmed the checkout process down in order to speed up a
 
 ## Populating the site, and the testing/feedback loop
 
-The job of populating the site, including adding just under 100 video clips and seven years of research, fell to Junior Developer [Kieran Karn](http://www.tomango.co.uk/is/kieran-karn/).
+The job of populating the site, including adding just under 100 video clips and seven years of research, fell to Junior Developer [Kieran Karn](/is/kieran-karn/).
 
 "The Action Research section of the site probably presented the biggest challenge, as this section of the current site - where I was taking it from - was in a bit of a mess. It took me about three days to get all the content in place.
 

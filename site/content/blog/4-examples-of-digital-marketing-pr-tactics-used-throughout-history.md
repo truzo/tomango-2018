@@ -36,7 +36,7 @@ Previously Llanfair Pwllgwyngyll**,** the story of how the town of
 
 > **Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch**
 
-got its name is an excellent parable for demonstrating the effectiveness of [search engine optimisation](http://www.tomango.co.uk/creates/online-marketing/search-engine-optimisation/)…and why it can take some time to get results!
+got its name is an excellent parable for demonstrating the effectiveness of [search engine optimisation](/creates/digital-marketing/seo/)…and why it can take some time to get results!
 
 According to the village’s [website](http://www.llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.co.uk/), it all started in the mid-18th Century with the construction of a railway between Chester and Holyhead.
 

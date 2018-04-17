@@ -78,6 +78,6 @@ The localised nature of playing Pokemon Go makes it perfect for small businesses
 
 It remains to be seen how the makers of the game will look to increase revenue streams from the game besides in-app purchases (there aren't currently any ads running). It could yet bring more opportunities for marketers - think sponsored locations, or paying to have the rarest Pokemon appear in your store - but until then, the above tactics should be enough to get you started.
 
-If you're a small business operating in a local area and think Pokemon Go is one step too far, why not see if Tomango's [local SEO services](http://www.tomango.co.uk/creates/online-marketing/search-engine-optimisation/) might be a better fit?
+If you're a small business operating in a local area and think Pokemon Go is one step too far, why not see if Tomango's [local SEO services](/creates/digital-marketing/seo/) might be a better fit?
 
 

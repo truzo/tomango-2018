@@ -44,7 +44,7 @@ If you get the theme choice wrong, none of the tips below can help you, really. 
 
 A bespoke theme will not have this problem, you can pick and choose elements and features that meet your requirements then tweak them to work specifically for you. We write all of our own themes in-house; this gives us the best control for both visual elements and site performance. I would strongly recommend writing your own theme if you are able.
 
-So in summary, write your own theme. Don't know how to do that? We build [bespoke WordPress websites](http://www.tomango.co.uk/creates/web/development/) – [contact us](http://www.tomango.co.uk/contact/) to see how we can help you.
+So in summary, write your own theme. Don't know how to do that? We build [bespoke WordPress websites](/creates/web/development/) – [contact us](/contact/) to see how we can help you.
 
 ### Plugins
 
@@ -195,7 +195,7 @@ The balance between quality images and performance is a difficult one. On the on
 
 For compression, I ran all images through [TinyJPG](http://tinyjpg.com/) before uploading them. Although this wasn't an automated option, it did give me the control to edit the image compression to suit.
 
-We're also using a handy plugin written by [Alex](http://www.tomango.co.uk/is/alex-southan/) that stops WordPress creating an image for every single registered [image_size](http://codex.wordpress.org/Function_Reference/add_image_size) and only creates the image when it is requested. This way, we can register a number of image sizes without being worried about the server space ramping up.
+We're also using a handy plugin written by [Alex](https://southan.me/) that stops WordPress creating an image for every single registered [image_size](http://codex.wordpress.org/Function_Reference/add_image_size) and only creates the image when it is requested. This way, we can register a number of image sizes without being worried about the server space ramping up.
 
 Choosing an appropriate method for displaying responsive images is not easy, all have their advantages and disadvantages. I opted for a pretty straightforward JavaScript implementation that loads in a larger image if the user's screen is large enough to warrant it. By default, everybody gets a smaller (but usable) image served via the image src attribute, no JavaScript required.
 

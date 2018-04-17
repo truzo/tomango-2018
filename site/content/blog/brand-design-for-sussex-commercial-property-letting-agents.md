@@ -54,7 +54,7 @@ Business stationery, including letterhead, business card and comp slip, was mock
 
 For Oldfield Smith, the design of their agent boards was vital, and we looked at several different layouts and colour schemes before presenting our preferred concept to the client for approval.
 
-Finally, once the [brand identity](http://www.tomango.co.uk/creates/brand/) was pretty much agreed, we moved on to the website design where the brand was used again in conjunction with the complementary colours that had been explored earlier in the process.
+Finally, once the [brand identity](/creates/brand/) was pretty much agreed, we moved on to the website design where the brand was used again in conjunction with the complementary colours that had been explored earlier in the process.
 
 ![](images/blog/business-cards.jpg "Concepts for business cards")
 

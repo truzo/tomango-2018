@@ -10,7 +10,7 @@ blog/categories:
 author: mark
 ---
 
-Creating a [website design](http://www.tomango.co.uk/creates/web/design/) brief is a vital part of any web project.  By focusing on the aims of the project and who your target audience is, you make sure you stay on track and get an end product that provides a much bigger return on investment (ROI).
+Creating a [website design](/creates/web/) brief is a vital part of any web project.  By focusing on the aims of the project and who your target audience is, you make sure you stay on track and get an end product that provides a much bigger return on investment (ROI).
 
 But...
 
@@ -28,7 +28,7 @@ You must be brave.  You must put your own personal tastes to one side and put y
 
 ### My own difficult experience
 
-I can speak from first hand experience about how hard this can be.  When I was first shown the concept for the [Tomango brand identity](http://www.tomango.co.uk/Tomangos-new-brand-identity), we encountered a potential flashpoint about colours.  The fact is - for childish reasons relating to the football team I support - I HATE RED.  Always have, probably always will.  My initial reaction to the colours being put forward for Tomango was one of complete revulsion, but I quickly realise that this was, frankly, pathetic.  The logic and rationale for using these colours was completely sound and I decided to put my personal feelings to one side and put faith in the design.  It was what our customers would want to see - my tastes didn't matter.  Because I managed to get over myself and put our customers first, we got a much better end result.  The same applies to the design of your website.
+I can speak from first hand experience about how hard this can be.  When I was first shown the concept for the [Tomango brand identity](/blog/tomangos-new-brand-identity), we encountered a potential flashpoint about colours.  The fact is - for childish reasons relating to the football team I support - I HATE RED.  Always have, probably always will.  My initial reaction to the colours being put forward for Tomango was one of complete revulsion, but I quickly realise that this was, frankly, pathetic.  The logic and rationale for using these colours was completely sound and I decided to put my personal feelings to one side and put faith in the design.  It was what our customers would want to see - my tastes didn't matter.  Because I managed to get over myself and put our customers first, we got a much better end result.  The same applies to the design of your website.
 
 ## 2. Trying to be like Amazon/Facebook/Google
 
@@ -116,7 +116,7 @@ Listing some competitors' websites can be useful - together with some notes as t
 
 ### 5. Budget
 
-Outlining your budget is important.  You'll get better and more accurate quotes from everyone if they're all working to the same brief and know what the budget is.  What's the budget for the design and development of the website?  Do you have a budget for ongoing [online marketing](http://www.tomango.co.uk/creates/online-marketing/)?  What about ongoing support and maintenance?
+Outlining your budget is important.  You'll get better and more accurate quotes from everyone if they're all working to the same brief and know what the budget is.  What's the budget for the design and development of the website?  Do you have a budget for ongoing [online marketing](/creates/digital-marketing/)?  What about ongoing support and maintenance?
 
 ### 6. Website content
 

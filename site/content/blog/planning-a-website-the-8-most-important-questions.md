@@ -34,7 +34,7 @@ Decide what you need to tell your visitors, and which bits are more important th
 
 ## 5. What is your brand?  What sort of impression do you want to get across?
 
-Someone once said "Your brand is what people say about you when you''re not in the room". So, are you warm and friendly?  Efficient and cutting edge?  Or maybe fun and quirky?  Don't forget that [a brand is more than just your logo](http://www.tomango.co.uk/creates/brand/), letterhead and website.  It's about who you are and how you operate; it should come across consistently through all your marketing, website included.
+Someone once said "Your brand is what people say about you when you''re not in the room". So, are you warm and friendly?  Efficient and cutting edge?  Or maybe fun and quirky?  Don't forget that [a brand is more than just your logo](/creates/brand/), letterhead and website.  It's about who you are and how you operate; it should come across consistently through all your marketing, website included.
 
 ## 6. What makes you different?  What's your USP?
 

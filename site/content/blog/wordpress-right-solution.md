@@ -31,7 +31,7 @@ Furthermore, it’s fully open-source and always expanding with a strong, growin
 
 ## Marketability
 
-We love Wordpress for [marketing](http://www.tomango.co.uk/creates/online-marketing/). It’s a brilliant platform to optimise for search engines and offers us unrivalled customisation to ensure that your website is found and appreciated by search engines and users alike.
+We love Wordpress for [marketing](/creates/digital-marketing/). It’s a brilliant platform to optimise for search engines and offers us unrivalled customisation to ensure that your website is found and appreciated by search engines and users alike.
 
 The key to marketing a site well is to get quality optimisation in all areas of the website from the opening line of code to the final lines of copy you add to the website. Wordpress offers a great structure to work with whether we’ve built the website or we’ve taken on an existing website that needs to be marketed.
 

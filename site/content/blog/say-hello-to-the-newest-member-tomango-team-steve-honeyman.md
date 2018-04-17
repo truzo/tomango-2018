@@ -16,7 +16,7 @@ Please meet our new Junior Web Developer, Steve Honeyman.
 
 Steve joined us on 15th August and comes from the University of Leeds, where he'd worked as a WordPress Developer for the last couple of years.
 
-He's got a real passion for [web development](http://www.tomango.co.uk/creates/web/development/), and brings with him valuable experience in technical support, customer service and project management. He's keen to learn more about developing websites, online marketing and brand design - and I think it's fair to say he's looking forward to it:
+He's got a real passion for [web development](/creates/web/development/), and brings with him valuable experience in technical support, customer service and project management. He's keen to learn more about developing websites, online marketing and brand design - and I think it's fair to say he's looking forward to it:
 
 ![](images/blog/steve-honeyman-twitter-1.jpg)
 

@@ -10,7 +10,7 @@ blog/categories:
 
 Today we revisit the launch of the new Raystede animal welfare charity website.
 
-Back in 2011, we were commissioned to undertake a complete [website design](http://www.tomango.co.uk/creates/web/design/) and development for Raystede, a Sussex-based animal welfare charity.  In June of that year the website design was signed off, and here we revisit that key stage of the project, which was completed later that year.
+Back in 2011, we were commissioned to undertake a complete [website design](/creates/web/) and development for Raystede, a Sussex-based animal welfare charity.  In June of that year the website design was signed off, and here we revisit that key stage of the project, which was completed later that year.
 
 ## The final design
 
@@ -34,7 +34,7 @@ Raystede puts all its efforts into giving animals a better life and the Sussex c
 
 Our copywriter’s brief is to prepare content as if written by the animals and we're all looking forward to seeing the end result.
 
-Writing copy for your website is never as easy as it sounds.  If you're having difficulty completing your website design project because of writers block, *Tomango* can provide [copywriting](http://www.tomango.co.uk/creates/online-marketing/content-creation-copywriting/) as part of our service; give us a call to find out how we can help.
+Writing copy for your website is never as easy as it sounds.  If you're having difficulty completing your website design project because of writers block, *Tomango* can provide [copywriting](/creates/digital-marketing/content-creation-copywriting/) as part of our service; give us a call to find out how we can help.
 
 ## Getting the right fit for the client
 

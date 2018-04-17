@@ -10,7 +10,7 @@ blog/categories:
  - web-design
 ---
 
-I'm going to let you in on a little secret that will help your [online marketing](http://www.tomango.co.uk/creates/online-marketing/) campaign be successful AND save you time into the bargain.
+I'm going to let you in on a little secret that will help your [online marketing](/creates/digital-marketing/) campaign be successful AND save you time into the bargain.
 
 I'm going to tell you all about Evergreen Content.
 
@@ -30,13 +30,13 @@ However, a topic "Website design trends for 2015" has a very definite - and rela
 
 You should care about having evergreen content on your website for one very good reason. People will look for this content again and again and again - driving traffic to your website month after month without you having to do anything.
 
-Just take a look at this graphic. It shows the number of visitors that have landed on our most popular blog post, "[How to create a brand design brief](http://www.tomango.co.uk/blog/how-to-create-a-brand-design-brief)" over the last two years. The post was published on 4th January 2013.
+Just take a look at this graphic. It shows the number of visitors that have landed on our most popular blog post, "[How to create a brand design brief](/blog/how-to-create-a-brand-design-brief)" over the last two years. The post was published on 4th January 2013.
 
 ![](images/blog/google-analytics-how-to-create-a-brand-design-brief-719x391.jpg "Google Analytics shows the number of visitors landing on our most popular blog post, “How to create a brand design brief”")
 
 As you can see, the post generates between 150-200 visits every month. Let me just repeat - that's EVERY MONTH.
 
-And here's a similar graphic showing the number of visits to our second most popular post, called "[Branding and rebranding - how to roll out a new brand identity](http://www.tomango.co.uk/blog/branding-and-rebranding-how-to-roll-out-a-new-brand-identity)". This post was published on 21st June 2013. You can see where it was published and started receiving visitors on the graph.
+And here's a similar graphic showing the number of visits to our second most popular post, called "[Branding and rebranding - how to roll out a new brand identity](/blog/branding-and-rebranding-how-to-roll-out-a-new-brand-identity)". This post was published on 21st June 2013. You can see where it was published and started receiving visitors on the graph.
 
 ![](images/blog/google-analytics-branding-and-rebranding-719x391.jpg "Our second most popular blog post receives on average around 100 visitors each and every month")
 

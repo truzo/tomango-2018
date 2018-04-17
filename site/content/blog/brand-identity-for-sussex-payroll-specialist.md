@@ -9,7 +9,7 @@ blog/categories:
  - brand
 ---
 
-Ever wondered what the difference is between a logo and a [brand identity](http://www.tomango.co.uk/creates/brand/)?
+Ever wondered what the difference is between a logo and a [brand identity](/creates/brand/)?
 
 Last week we completed a new brand identity for a Sussex payroll specialist based just up the road in nearby Uckfield.
 
@@ -73,7 +73,7 @@ Another example of the importance of a well-thought out approach to a brand iden
 
 Here's where attention to detail really makes the difference.
 
-There were three elements of the evolving brand identity that [Mike](http://www.tomango.co.uk/is/mike-vine/) felt needed attention.
+There were three elements of the evolving brand identity that [Mike](/is/mike-vine/) felt needed attention.
 
 ![](images/blog/pay-assist-brand-identity3.jpg "The three areas that needed attention. Can you spot the problems?")
 

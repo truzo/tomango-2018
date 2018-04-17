@@ -66,6 +66,6 @@ From new requirements popping up to last minute changes, the overall approach ha
 
 We're very appreciative of your creative efforts and absolutely delighted with the new site.”
 
-Terry Hall, Communications Officer at Hailsham Town Council, was talking to Tomango's Managing Director [Mark Vaesen](http://www.tomango.co.uk/is/mark-vaesen/).
+Terry Hall, Communications Officer at Hailsham Town Council, was talking to Tomango's Managing Director [Mark Vaesen](/is/mark-vaesen/).
 
 

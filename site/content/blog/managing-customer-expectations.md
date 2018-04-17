@@ -18,7 +18,7 @@ Allow me to explain...
 
 Last Friday we had our Christmas meal. For the last four years or so, we've gone to [Pelham House](http://www.pelhamhouse.com/) in Lewes, and been very happy indeed with the food and service.
 
-But last year there was some confusion about whether we were having their Christmas menu or their standard lunch menu. All was sorted out, but to avoid the chance of something similar happening again, and knowing that a lot of the team wanted a traditional Christmas lunch, organiser-in-chief [Nikki](http://www.tomango.co.uk/is/nikki-carrick/) checked when she booked in October that turkey would be on the menu and that it was clear we were going for our *Christmas meal*, not just a "normal" lunch. She was reassured that it would be.
+But last year there was some confusion about whether we were having their Christmas menu or their standard lunch menu. All was sorted out, but to avoid the chance of something similar happening again, and knowing that a lot of the team wanted a traditional Christmas lunch, organiser-in-chief [Nikki](/is/nikki-carrick/) checked when she booked in October that turkey would be on the menu and that it was clear we were going for our *Christmas meal*, not just a "normal" lunch. She was reassured that it would be.
 
 You can probably see where this is heading...
 

@@ -29,6 +29,6 @@ To ensure the best possible finish was achieved we not only designed the brochur
 
 This is just one of the items of marketing collateral we’ve created for Agon Systems. Other items include stationery, product sheets, leaflets, signage, artwork for exhibition stands just to name a few.
 
-If you like what we've done with this brochure and would like us to help you with yours, call Mike or Mark on *01273 814019* or get in touch using our [contact form](http://www.tomango.co.uk/contact/).
+If you like what we've done with this brochure and would like us to help you with yours, call Mike or Mark on *01273 814019* or get in touch using our [contact form](/contact/).
 
 

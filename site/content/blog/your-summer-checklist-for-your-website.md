@@ -54,7 +54,7 @@ Set aside 20 minutes, get logged in and have a little explore.
 
 If it's been a while, look back over a longer period of time than the default one month. Look at 6 months or even a year. Delve into where your traffic has come from, which keywords were used and which pages were viewed most frequently. You might uncover a couple of gems of info that will get you thinking about how you could get more out of your site...
 
-Don't have Google Analytics set up?  [Ask us and we'll do it for you](http://www.tomango.co.uk/contact/).
+Don't have Google Analytics set up?  [Ask us and we'll do it for you](/contact/).
 
 ## 5. Make sure you're mobile-friendly
 

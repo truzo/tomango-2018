@@ -71,7 +71,7 @@ At some stage you want to meet these agencies so you can decide who you might wa
 
 You set aside a day to see everybody, and schedule 30 minutes for each. That should be enough.
 
-You might ask them to “present some initial ideas”. This is called a Creative Pitch, and [drives designers round the bend](http://www.tomango.co.uk/thinks/asking-us-creative-pitch-speculative-design-wrong/).
+You might ask them to “present some initial ideas”. This is called a Creative Pitch, and [drives designers round the bend](/blog/asking-us-creative-pitch-speculative-design-wrong/).
 
 **The problem**
 

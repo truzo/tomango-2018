@@ -14,7 +14,7 @@ Increasingly we're being invited by prospective clients to "pitch" for their pro
 
 ## A first hand story of creative pitching
 
-Earlier this year, shortly after we had re-branded as Tomango, we were approached by a medium-sized, high-profile insurance/healthcare company and asked to pitch for a big project; it included a new [brand identity](http://www.tomango.co.uk/creates/brand/), extensive range of marketing material and suite of several websites.  It looked like just the sort of client and project we were after, so we agreed to meet with them to present our design ideas.
+Earlier this year, shortly after we had re-branded as Tomango, we were approached by a medium-sized, high-profile insurance/healthcare company and asked to pitch for a big project; it included a new [brand identity](/creates/brand/), extensive range of marketing material and suite of several websites.  It looked like just the sort of client and project we were after, so we agreed to meet with them to present our design ideas.
 
 We spent nearly two days doing research, developing concepts, finalising artwork and organising the presentation.  The day of the presentation arrived and we rocked up all ready to wow the client with our ideas, which were well thought out, innovative and exciting.  Within ten minutes of the presentation, the client casually informed us that they'd "been thinking about it" and that the brief had changed.  Radically.
 

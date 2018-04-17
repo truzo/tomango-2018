@@ -67,6 +67,6 @@ We often think about our brand identity influencing a sale - attractive packagin
 
 Are you creating the right impression to your customers, and their friends and neighbours?
 
-Is it time to review how your brand's working for your business? [Get in touch](http://www.tomango.co.uk/contact/) to book a Discovery session, and find out how to reposition your brand and make your business more profitable.
+Is it time to review how your brand's working for your business? [Get in touch](/contact/) to book a Discovery session, and find out how to reposition your brand and make your business more profitable.
 
 

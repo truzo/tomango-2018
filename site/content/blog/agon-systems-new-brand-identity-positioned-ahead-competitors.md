@@ -7,11 +7,11 @@ blog/categories:
  - brand
 ---
 
-How can a strong [brand identity](http://www.tomango.co.uk/creates/brand/) set you apart from your competitors and win you more business?  Take a look at the work we've recently done for Agon Systems and see for yourself.
+How can a strong [brand identity](/creates/brand/) set you apart from your competitors and win you more business?  Take a look at the work we've recently done for Agon Systems and see for yourself.
 
 ## Background &amp; history
 
-[Agon Systems](http://www.tomango.co.uk/created/agon-systems/) is a manufacturer of Electronic Article Surveillance (EAS) equipment based near Biel, in Switzerland.
+[Agon Systems](/created/agon-systems/) is a manufacturer of Electronic Article Surveillance (EAS) equipment based near Biel, in Switzerland.
 
 You've probably seen and walked past EAS equipment hundreds of times in your life; thousands if you're a keen shopper.
 

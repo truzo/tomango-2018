@@ -92,7 +92,7 @@ The first thing you can do to make your writing easier to read is to make your s
 
 Let's look at an example of how I did this on the new Tomango site.
 
-Here's the original copy from the [Brand](http://www.tomango.co.uk/creates/brand/) page;
+Here's the original copy from the [Brand](/creates/brand/) page;
 
 ![](images/blog/Brand-copy-version-1.jpg "Original copy")
 
@@ -110,7 +110,7 @@ Much shorter sentences. Much less work.
 
 The next thing I did was to see where I could replace a word with something simpler that meant the same thing, and didn't negatively impact on the overall tone.
 
-For example, this original paragraph was taken from the [Web design](http://www.tomango.co.uk/creates/web/design/) page:
+For example, this original paragraph was taken from the [Web design](/creates/web/) page:
 
 ![](images/blog/Web-design-copy-version-1.jpg "Original copy")
 
@@ -118,7 +118,7 @@ I changed this to:
 
 ![](images/blog/Web-design-copy-version-2.jpg "Edited copy - much simpler...")
 
-And this passage, taken from the [Ecommerce](http://www.tomango.co.uk/creates/web/ecommerce/) page:
+And this passage, taken from the [Ecommerce](/creates/web/) page:
 
 ![](images/blog/Ecommerce-copy-version-1.jpg "Original copy")
 

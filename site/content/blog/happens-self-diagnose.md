@@ -64,6 +64,6 @@ The result was they were much better positioned to attract the type of customers
 
 So if you're planning on getting a new website, or rebranding, or want to improve your digital marketing, make sure you're looking at the whole picture, and not just one piece of the puzzle.
 
-And if you need some expert help looking at the bigger picture, why not [get in touch](http://www.tomango.co.uk/contact/) and book yourself on a Discovery session?
+And if you need some expert help looking at the bigger picture, why not [get in touch](/contact/) and book yourself on a Discovery session?
 
 

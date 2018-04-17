@@ -12,7 +12,7 @@ Following on from the announcement of the arrival of Tomango in our previous blo
 
 ![](images/blog/brand-identity.jpg "The final brand identity design.")
 
-In this post, we wanted to take the opportunity to not only show you the final brand identity design, but also to describe in detail the process we followed to achieve the end result. This is the same process that we follow for our clients, so we thought it might be interesting for you to see behind the scenes of how a new [brand identity](http://www.tomango.co.uk/creates/brand/) is developed.
+In this post, we wanted to take the opportunity to not only show you the final brand identity design, but also to describe in detail the process we followed to achieve the end result. This is the same process that we follow for our clients, so we thought it might be interesting for you to see behind the scenes of how a new [brand identity](/creates/brand/) is developed.
 
 ## The brief
 

@@ -8,7 +8,7 @@ blog/categories:
  - web-design
 ---
 
-We’ve recently launched a new website for one of the region’s top specialist carpet and flooring retailers that has been trading for over 80 years. [Fludes Carpets](http://www.tomango.co.uk/created/fludes-carpets/) offers quality but affordable flooring solutions for customers throughout the South of England.
+We’ve recently launched a new website for one of the region’s top specialist carpet and flooring retailers that has been trading for over 80 years. [Fludes Carpets](/created/fludes-carpets/) offers quality but affordable flooring solutions for customers throughout the South of England.
 
 Fludes’ existing website had several issues; it was outdated and not in keeping with their brand values, there was a need to review the content on the site, and thought was required as to how to display everything users might want to see in the simplest way possible.
 

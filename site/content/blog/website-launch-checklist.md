@@ -32,7 +32,7 @@ Equally, it's worth checking that no test images slip through to the live websit
 
 ## Google Analytics
 
-When your website goes live, you’re going to want to know who visits it. Google Analytics accounts are free and easy to use and give you really detailed analytics of your website and how it’s performing. If you need more information on, check out our post on [setting up Google Analytics](http://www.tomango.co.uk/blog/how-to-set-up-google-analytics).
+When your website goes live, you’re going to want to know who visits it. Google Analytics accounts are free and easy to use and give you really detailed analytics of your website and how it’s performing. If you need more information on, check out our post on [setting up Google Analytics](/blog/how-to-set-up-google-analytics).
 
 ## Redirection
 

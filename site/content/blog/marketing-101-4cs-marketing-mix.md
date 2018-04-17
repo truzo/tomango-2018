@@ -54,7 +54,7 @@ Generally speaking, there are three 'levels' a product has:
 
 If you can make the tangible product and meet the needs of the consumer by improving the augmented product, then you're well on the way to meeting the needs of the consumer.
 
-One of the most important aspects of a product - tangible or intangible - is the brand. <span style="line-height: 1.5;">A [strong brand](http://www.tomango.co.uk/creates/brand/) can help differentiate within the market and be a useful marketing asset in itself. </span>
+One of the most important aspects of a product - tangible or intangible - is the brand. <span style="line-height: 1.5;">A [strong brand](/creates/brand/) can help differentiate within the market and be a useful marketing asset in itself. </span>
 
 Not sure if your business' brand is up to scratch? Read our previous post on [how to write an effective brand design brief](/blog/how-to-create-a-brand-design-brief/).
 

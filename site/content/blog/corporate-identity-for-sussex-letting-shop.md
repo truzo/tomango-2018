@@ -13,7 +13,7 @@ In October 2012, we received an email from Wendy at Geneva Investment Group aski
 
 ## Choosing a name
 
-We arranged to meet and during our discussions it soon became apparent that they also needed our help in establishing a corporate identity or [brand](http://www.tomango.co.uk/creates/brand/).  It was apparent that they needed to be able to present a more traditional high street estate agent image that could then be rolled out across their online marketing and website.
+We arranged to meet and during our discussions it soon became apparent that they also needed our help in establishing a corporate identity or [brand](/creates/brand/).  It was apparent that they needed to be able to present a more traditional high street estate agent image that could then be rolled out across their online marketing and website.
 
 > "Having approached Tomango for web site design we realised from our first meeting that they were very capable of offering an extremely broad and full spectrum of services which we have taken full advantage of including branding, stationery design, web hosting, PDF document designs for downloads and the launching of our first web site."
 

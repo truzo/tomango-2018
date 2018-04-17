@@ -27,7 +27,7 @@ We've listed here all the things that you might need to think about when rebrand
 - If you have a new website, consider whether you will be retaining the old site and, if so you could consider putting an announcement on your old site inviting users to click through to the new one
 - If you're changing your existing site, remember to update all your Page Titles and Descriptions
 - Add a blog post or news item to your website to announce the new brand
-- Update your keywords for [SEO](http://www.tomango.co.uk/creates/online-marketing/search-engine-optimisation/)
+- Update your keywords for [SEO](/creates/digital-marketing/seo/)
 - Update your listings in online directories
 - Send your updated brand to any other websites that mention you and link to your site
 

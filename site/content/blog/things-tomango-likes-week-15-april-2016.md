@@ -9,7 +9,7 @@ blog/categories:
  - online-marketing
 ---
 
-A quick round-up of the week as we pick out some of the highlights from the world of [Brand](http://www.tomango.co.uk/creates/brand/), [Web](http://www.tomango.co.uk/creates/web/), and [Online Marketing](http://www.tomango.co.uk/creates/online-marketing/).
+A quick round-up of the week as we pick out some of the highlights from the world of [Brand](/creates/brand/), [Web](/creates/web/), and [Online Marketing](/creates/digital-marketing/).
 
 ## BRAND AND DESIGN: Domino's unveil new packaging design
 

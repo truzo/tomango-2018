@@ -120,7 +120,7 @@ You might have discovered that using the words "you" or "your" help boost your s
 
 Let me show you how I applied this to some of the headings on the new Tomango site.
 
-Here's the original sub-headline idea I had for the [Web Development](http://www.tomango.co.uk/creates/web/development/) page:
+Here's the original sub-headline idea I had for the [Web Development](/creates/web/) page:
 
 ![](images/blog/web-development-headline-original.jpeg "The original heading was rather self-centred and all about me, me, me...")
 

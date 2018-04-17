@@ -8,11 +8,11 @@ blog/categories:
  - tips-and-advice
 ---
 
-In the same way that Del Boy isn't likely to settle for a Vodka Martini and you won't see James Bond diving into a Pina Colada, there's no such thing as a one-size-fits-all [online marketing](http://www.tomango.co.uk/creates/online-marketing/) campaign.
+In the same way that Del Boy isn't likely to settle for a Vodka Martini and you won't see James Bond diving into a Pina Colada, there's no such thing as a one-size-fits-all [online marketing](/creates/digital-marketing/) campaign.
 
 There are lots of different ingredients that can make up your online marketing cocktail and you need to judge the quantities of each to get something that's just right for you.
 
-For some, pay-per-click and good ol' [search engine optimisation](http://www.tomango.co.uk/creates/online-marketing/search-engine-optimisation/) (SEO) might be the dominant flavours. For others, the right blend of social media could be the most palatable (and successful) combination.
+For some, pay-per-click and good ol' [search engine optimisation](/creates/digital-marketing/seo/) (SEO) might be the dominant flavours. For others, the right blend of social media could be the most palatable (and successful) combination.
 
 In this post, we look at some of the more popular online marketing channels and examine which businesses and campaigns they might suit best.
 
@@ -55,7 +55,7 @@ You can get an Adwords campaign up and running within hours, so it's a great way
 
 **Tasting tips*:*
 
-- Good for [ecommerce](http://www.tomango.co.uk/creates/web/ecommerce/) sites and for more competitive search terms
+- Good for [ecommerce](/creates/web/ecommerce/) sites and for more competitive search terms
 - Get started immediately for an instant boost of traffic
 - If you've got the budget, this is well worth a look
 
@@ -104,7 +104,7 @@ Still confused?  Here's a more [detailed comparison table showing a summary of 
 
 Email marketing probably isn't seen as being particularly cool any more, and it's certainly not the silver bullet that will make all your marketing dreams come true, but it could still prove to be an ingredient to consider in your mix.  The secret is to make your marketing campaigns very targeted.  Much better to contact 100 quality recipients you know are interested in your product/service/business rather than 10,000 random strangers who are going to bin your email without a second look.
 
-If you're going to do it, do it well; think about your content carefully and make it valuable and relevant to your targets.  Think about your subject line - there's some very [interesting research about the most successful ones](http://kb.mailchimp.com/article/best-practices-in-writing-email-subject-lines) - and the [best time to send it out](http://www.tomango.co.uk/the-best-times-to-send-your-marketing-emails).
+If you're going to do it, do it well; think about your content carefully and make it valuable and relevant to your targets.  Think about your subject line - there's some very [interesting research about the most successful ones](http://kb.mailchimp.com/article/best-practices-in-writing-email-subject-lines) - and the [best time to send it out](/blog/the-best-times-to-send-your-marketing-emails).
 
 **Tasting tips*:*
 

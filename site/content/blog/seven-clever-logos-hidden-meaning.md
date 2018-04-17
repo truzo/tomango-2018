@@ -70,6 +70,6 @@ Possibly my favourite one of the entire list. This logo, designed in 2002, conta
 
 Remember - a strong brand identity's about more than a clever logo; it positions you correctly in your marketplace, makes you stand out from your competitors, and ultimately helps you make the sale.
 
-If you're in the market for a new brand identity for your business, [find out more](http://www.tomango.co.uk/creates/brand/) about what Tomango can offer you in this regard.
+If you're in the market for a new brand identity for your business, [find out more](/creates/brand/) about what Tomango can offer you in this regard.
 
 

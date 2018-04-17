@@ -29,7 +29,7 @@ In some ways this helped push us towards the new way of working. Because we need
 
 We started the new approach at the end of last year and so far, the results have been very good - beyond our expectations, even. Getting more people involved earlier in the project has produced more cohesive results, and project delivery time has been reduced. And perhaps most importantly, we're all happier with how the feeling we have when a project's finished.
 
-Looking to the future, we're actively recruiting to build the Online Marketing part of the business, which is growing rapidly. We're looking for a talented and driven [Digital Marketing Manager](http://www.tomango.co.uk/is/hiring/digital-marketing-manager/) and an ambitious, experienced [Digital Marketing Executive](http://www.tomango.co.uk/is/hiring/digital-marketing-executive/) to work with key clients on their online marketing strategy. Do you have what it takes to [join our team](http://www.tomango.co.uk/is/hiring/)?
+Looking to the future, we're actively recruiting to build the Online Marketing part of the business, which is growing rapidly. We're looking for a talented and driven [Digital Marketing Manager](/careers/) and an ambitious, experienced [Digital Marketing Executive](/careers/) to work with key clients on their online marketing strategy. Do you have what it takes to [join our team](/careers/)?
 
 I guess sometimes you have to work through a bit of pain to achieve something better. I'm certainly very excited about Tomango's future and looking forward to completing more great work using our new approach.
 
