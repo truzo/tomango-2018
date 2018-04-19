@@ -3,6 +3,7 @@ title: "101 fun facts about Christmas to impress your friends"
 author: "mark"
 date: 2017-12-11 09:00:30
 description: As our little gift to you, we've gathered 80 fun facts about Christmas for you to impress your friends and family over the Brussels Sprouts...
+seo_description: In charge of the work Christmas quiz? Or want to impress the family over the Brussels sprouts? Here's 101 fun Christmas facts to get you started!
 banner: images/blog/christmas-opening-hours-lights.jpg
 bannerLarge: images/blog/christmas-opening-hours-lights.jpg
 thinks/categories: 

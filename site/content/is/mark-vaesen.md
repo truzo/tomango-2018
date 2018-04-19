@@ -1,6 +1,7 @@
 ---
 title: Mark Vaesen
 subtitle: Founder & Managing Director
+description: Founder & Managing Director | Tomango
 image: images/team/1000/mark.jpg
 banner: images/team/mark.jpg
 bannerLarge: images/team/1000/mark.jpg

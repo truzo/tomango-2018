@@ -1,6 +1,7 @@
 ---
 title: Tom Ruzyllo
 subtitle: Digital Marketing Manager
+description: Digital Marketing Manager | Tomango
 image: images/team/1000/tom.jpg
 banner: images/team/tom.jpg
 bannerLarge: images/team/1000/tom.jpg

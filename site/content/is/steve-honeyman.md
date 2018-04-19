@@ -2,6 +2,7 @@
 title: Steve Honeyman
 subtitle: Junior Web Developer
 image: images/team/1000/steve.jpg
+description: Junior Web Developer | Tomango
 banner: images/team/steve.jpg
 bannerLarge: images/team/1000/steve.jpg
 bannerHuge: images/team/huge/steve.jpg

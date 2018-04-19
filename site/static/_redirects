@@ -29,6 +29,8 @@
 /create/web/website-design/ /creates/web/ 302
 /create/web/web-development/ /creates/web/ 302
 /create/web/mobile/ /creates/web/ 302
+/creates/web/ecommerce/ /creates/web/ 302
+/creates/web/mobile/ /creates/web/ 302
 /create/online-marketing/search-engine-optimisation/ /creates/online-marketing/seo/ 302
 /create/online-marketing/pay-per-click/ /creates/online-marketing/google-adwords-ppc/ 302
 /create/online-marketing/social-media/ /creates/online-marketing/social-media/ 302
@@ -54,3 +56,57 @@
 /web-design-in-eastbourne/ /creates/web/ 302
 /web-design-in-brighton/ /creates/web/ 302
 /seo-services-east-sussex/ /creates/online-marketing/seo/ 302
+
+/thinks/historic-digital-marketing-examples/ /thinks/4-examples-of-digital-marketing-pr-tactics-used-throughout-history/ 302
+
+/thinks/category/brand/ /thinks/categories/brand/ 302
+/thinks/category/latest-news/ /thinks/categories/latest-news/ 302
+/thinks/category/online-marketing/ /thinks/categories/online-marketing/ 302
+/thinks/category/strategy/ /thinks/categories/strategy/ 302
+/thinks/category/tips-and-advice/ /thinks/categories/tips-and-advice/ 302
+/thinks/category/web-design/ /thinks/categories/web-design/ 302
+/archive/ /thinks/ 302
+
+/thinks/author/elliot/ /thinks/ 302
+/thinks/author/tom/ /thinks/ 302
+/thinks/author/mark/ /thinks/ 302
+/thinks/author/alex/ /thinks/ 302
+/thinks/author/mike/ /thinks/ 302
+/thinks/author/kieran/ /thinks/ 302
+/thinks/author/steve/ /thinks/ 302
+/thinks/author/trys/ /thinks/ 302
+/thinks/tag/email-marketing/ /thinks/ 302
+/thinks/tag/speedy-gonzales/ /thinks/ 302
+/thinks/tag/pr/ /thinks/ 302
+/thinks/tag/instagram/ /thinks/ 302
+/thinks/tag/google/ /thinks/ 302
+/thinks/tag/digital-marketing/ /thinks/ 302
+/thinks/tag/ppc/ /thinks/ 302
+/thinks/tag/htsuyw/ /thinks/ 302
+/thinks/tag/seo/ /thinks/ 302
+/thinks/tag/smm/ /thinks/ 302
+/thinks/tag/social-media/ /thinks/ 302
+/thinks/tag/google-chrome/ /thinks/ 302
+
+/styleguide/ / 302
+/the-best-times-to-send-your-marketing-emails /thinks/ 302
+/thinks/a-farewell-from-me/ /thinks/ 302
+/thinks/apps-to-help-your-productivity/ /thinks/ 302
+/thinks/buy-design-business-get-maximum-roi/ /thinks/ 302
+/thinks/how-to-manage-a-company-facebook-page/ /thinks/ 302
+/thinks/meet-our-new-junior-web-developer-kieran-karn/ /thinks/ 302
+/thinks/saved-client-thousands-pounds-boosted-turnover-15/ /thinks/ 302
+/thinks/tomango-adds-to-its-digital-marketing-team/ /thinks/ 302
+/thinks/tomango-joins-design-business-association/ /thinks/ 302
+/thinks/tomangos-summer-party-with-photos/ /thinks/ 302
+
+/created/browns/ /created/ 302
+/created/fe-sussex/ /created/ 302
+/created/hailsham-town-council/ /created/ 302
+/created/helping-cade-street-nursery-grow/ /created/ 302
+/created/lab-tv/ /created/ 302
+/created/monkey-wellbeing/ /created/ 302
+/created/nutley-edge-cottages/ /created/ 302
+/created/pay-assist/ /created/ 302
+/created/sussex-oak/ /created/ 302
+/created/vces/ /created/ 302

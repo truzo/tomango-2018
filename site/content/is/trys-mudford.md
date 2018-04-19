@@ -1,6 +1,7 @@
 ---
 title: Trys Mudford
 subtitle: Lead Web Developer
+description: Lead Web Developer | Tomango
 image: images/team/1000/trys.jpg
 banner: images/team/trys.jpg
 bannerLarge: images/team/1000/trys.jpg

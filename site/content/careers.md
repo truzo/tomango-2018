@@ -1,5 +1,6 @@
 ---
 title: Careers
+seo_title: Working in a converted barn in a rural location 5 minutes from Lewes and 20 minutes from Brighton, find out what's so great about working for Tomango.
 ---
 
 **We're always interested in hearing from brilliant people looking to carve out their career with us.**

@@ -1,6 +1,7 @@
 ---
 title: Digital Marketing
 image: images/creates/marketing.jpg
+description: By finding the most effective mix for you, we'll make sure you send out the right message, in the right place, at the right time.
 ---
 
 **A good digital marketing strategy gets your business found online by the right people.**

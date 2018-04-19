@@ -2,6 +2,7 @@
 title: Making a difference
 hideCta: true
 lineCta: true
+seo_description: It all starts with your strategy. We'll figure out where you want to go with your business, and what needs to be put in place to get you there.
 ---
 
 Imagine it’s the {{< date >}}

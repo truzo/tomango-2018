@@ -22,7 +22,9 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
     '/thinks/',
     '/offline/',
     '/css/main.css',
-    '/app.js'
+    '/app.js',
+    '/webfonts/34C79D_0_0.woff2',
+    '/webfonts/34C79D_1_0.woff2'
   ];
 
   function updateStaticCache() {

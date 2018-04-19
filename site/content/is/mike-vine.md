@@ -1,6 +1,7 @@
 ---
 title: Mike Vine
 subtitle: Creative Director
+description: Creative Director | Tomango
 image: images/team/1000/mike.jpg
 banner: images/team/mike.jpg
 bannerLarge: images/team/1000/mike.jpg

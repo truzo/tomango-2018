@@ -2,6 +2,7 @@
 title: The first step
 hideCta: true
 lineCta: true
+seo_description: It all starts with your strategy. We'll figure out where you want to go with your business, and what needs to be put in place to get you there.
 ---
 
 If you went to a doctor, a lawyer, or any other expert, you wouldn’t tell them what they should do to help you, would you?

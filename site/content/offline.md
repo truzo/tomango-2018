@@ -12,3 +12,5 @@ Not to worry, much of our site is available regardless of network connection.
 - [What we do](/creates/)
 - [Blog](/thinks/)
 - [Contact](/contact/)
+
+Along with any other pages you've previously viewed.

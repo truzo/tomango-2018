@@ -1,6 +1,7 @@
 ---
 title: What is Brand Identity and why is it important to my business?
 date: '2018-03-15T10:32:52+00:00'
+seo_description: Brand identity isn't just important for large corporates; every business, no matter its size and shape, should have a strong brand ID
 description: >-
   How you can get more of the business that you want by investing in a strong
   brand identity.
