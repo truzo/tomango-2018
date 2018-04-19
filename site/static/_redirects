@@ -1,21 +1,18 @@
-/blog/category/graphic-design/ /blog/categories/web-design/ 302
-/blog/category/latest-news/ /blog/categories/latest-news/ 302
-/blog/category/online-marketing/ /blog/categories/online-marketing/ 302
-/blog/category/tips-and-advice/ /blog/categories/tips-and-advice/ 302
-/blog/category/web-design/ /blog/categories/web-design/ 302
-
-/thinks/* /blog/:splat 302
+/blog/category/graphic-design/ /thinks/categories/web-design/ 302
+/blog/category/latest-news/ /thinks/categories/latest-news/ 302
+/blog/category/online-marketing/ /thinks/categories/online-marketing/ 302
+/blog/category/tips-and-advice/ /thinks/categories/tips-and-advice/ 302
+/blog/category/web-design/ /thinks/categories/web-design/ 302
 
 /created/selling-karndean-with-fludes-carpets/ /created/fludes-carpets/ 302
 /created/the-concept-tag/ /created/concept-tag/ 302
 /our-process/ /strategy/ 302
-/creates/online-marketing/search-engine-optimisation/ /creates/digital-marketing/seo/ 302
-/creates/online-marketing/google-adwords-ppc/ /creates/digital-marketing/ppc/ 302
-/creates/online-marketing/social-media/ /creates/digital-marketing/social-media/ 302
-/creates/online-marketing/email-marketing/ /creates/digital-marketing/ 302
-/creates/online-marketing/content-creation-copywriting/ /creates/digital-marketing/ 302
-/creates/online-marketing/ /creates/digital-marketing/ 302
+/creates/online-marketing/search-engine-optimisation/ /creates/online-marketing/seo/ 302
+/creates/online-marketing/social-media/ /creates/online-marketing/social-media/ 302
+/creates/online-marketing/email-marketing/ /creates/online-marketing/ 302
+/creates/online-marketing/content-creation-copywriting/ /creates/online-marketing/ 302
 /creates/web/website-design/ /creates/web/ 302
+/creates/web/design/ /creates/web/ 302
 /is/hiring/ /careers/ 302
 /vacancies/ /careers/ 302
 /cookies/ /privacy/ 302
@@ -30,14 +27,14 @@
 /create/brand/graphic-design/ /creates/brand/ 302
 /create/web/website-design/ /creates/web/ 302
 /create/web/web-development/ /creates/web/ 302
-/create/web/mobile/ /creates/web/ /creates/digital-marketing/ppc/ 302
-/create/online-marketing/search-engine-optimisation/ /creates/digital-marketing/seo/ 302
+/create/web/mobile/ /creates/web/ /creates/online-marketing/google-adwords-ppc/ 302
+/create/online-marketing/search-engine-optimisation/ /creates/online-marketing/seo/ 302
 /create/online-marketing/pay-per-click/ 302
-/create/online-marketing/social-media/ /creates/digital-marketing/social-media/ 302
-/create/online-marketing/email-marketing/ /creates/digital-marketing/ 302
-/create/online-marketing/copywriting/ /creates/digital-marketing/ 302
-/create/online-marketing/local-seo/ /creates/digital-marketing/seo/ 302
-/create/online-marketing/ /creates/digital-marketing/ 302
+/create/online-marketing/social-media/ /creates/online-marketing/social-media/ 302
+/create/online-marketing/email-marketing/ /creates/online-marketing/ 302
+/create/online-marketing/copywriting/ /creates/online-marketing/ 302
+/create/online-marketing/local-seo/ /creates/online-marketing/seo/ 302
+/create/online-marketing/ /creates/online-marketing/ 302
 /create/brand/ /creates/brand/ 302
 /create/web/ /creates/web/ 302
 /create/ /creates/ 302

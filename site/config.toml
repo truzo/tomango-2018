@@ -7,6 +7,6 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 disableKinds = ["taxonomyTerm"]
 [Taxonomies]
-category = "blog/categories"
+category = "thinks/categories"
 [permalinks]
-  categories = "blog/categories/:slug/"
+  categories = "thinks/categories/:slug/"

@@ -10,5 +10,5 @@ Not to worry, much of our site is available regardless of network connection.
 - [Our work](/created/)
 - [About](/is/)
 - [What we do](/creates/)
-- [Blog](/blog/)
+- [Blog](/thinks/)
 - [Contact](/contact/)

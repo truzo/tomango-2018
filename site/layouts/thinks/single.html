@@ -1,0 +1,70 @@
+{{ define "header_content" }}
+	<h1>{{ .Title }}</h1>
+	{{ if .Params.author }}
+		<h3>By {{ if index $.Site.Data.authors .Params.author }}{{ index $.Site.Data.authors .Params.author }}{{ else }}Guest{{ end }} &nbsp; &nbsp; &nbsp; <time datetime="{{ .Date }}">{{ partial "date" .Date }}</time></h3>
+	{{ end }}
+{{ end }}
+
+{{ define "main" }}
+	<div class="wrap three-col insulate">
+		<aside>
+			{{ if .Params.author }}
+				<img src="images/team/thumbnail/{{ .Params.author }}.jpg" alt="{{ index $.Site.Data.authors .Params.author }}">
+			{{ else }}
+				<img src="images/team/thumbnail/fallback.jpg">
+			{{ end }}
+		</aside>
+		<aside>
+			{{ if .NextInSection }}
+				<a class="traverse" href="{{ .NextInSection.URL }}"><img src="images/traverse.svg" alt="Next Post"></a>
+			{{ end }}
+			
+			{{ if .PrevInSection }}
+				<a class="traverse" href="{{ .PrevInSection.URL }}"><img src="images/traverse.svg" alt="Next Post"></a>
+			{{ end }}
+		</aside>
+		<div class="content content--blog">
+			{{ .Content }}
+			
+			<aside class="signup-form">
+				<h2>Get tips and advice straight to your inbox</h2>
+				<p>Sign up to receive Tomango's weekly email—containing ideas, techniques and tips to help you grow your business by maximising your brand and online presence.</p>
+				{{ partial "subscribe" }}
+			</aside>
+		</div>
+	</div>
+	
+	{{ $url := getenv (cond (eq "production" (getenv "CONTEXT")) "URL" "DEPLOY_PRIME_URL" ) | default (cond (eq "//localhost:1313/" (printf "%s" $.Site.BaseURL)) "//localhost:1313" $.Site.BaseURL) }}
+	{{ $logo := printf "%s%s" $url "/images/og.jpg" | safeJS }}
+	{{ $image := printf "%s%s" $url (.Params.image | default "images/og.jpg" | relURL) }}
+	<script type='application/ld+json'>
+		{
+			"@context":"http:\/\/schema.org",
+			"description": "{{ .Description | default .Title | safeJS }}",
+			"dateModified": "{{ .Lastmod }}",
+			"alternativeHeadline": "{{ .Title | safeJS }}",
+			"headline": "{{ .Title | safeJS }}",
+			"datePublished": "{{ .Date }}",
+			"@type": "NewsArticle",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "{{ $url }}{{ .URL }}"
+			},
+			{{ if index .Params "thinks/categories" }}{{ range first 1 (index .Params "thinks/categories") }}"articleSection": "{{ . | humanize }}",{{ end }}{{ end }}
+			"url": "{{ $url }}{{ .URL }}",
+			"author": {
+				"@type": "Person",
+				"name": "{{ if index $.Site.Data.authors .Params.author }}{{ index $.Site.Data.authors .Params.author }}{{ else }}Guest{{ end }}"
+			},
+			"publisher": {
+				"name": "Tomango",
+				"@type": "Organization",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "{{ $logo }}"
+				}
+			},
+			"image": "{{ $image }}"
+		}
+	</script>
+{{ end }}

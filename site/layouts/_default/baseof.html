@@ -41,13 +41,13 @@
     <meta name="twitter:title" content="{{ $title }}" />
     <meta name="twitter:description" content="{{ $desc }}" />
     <meta name="twitter:image" content="{{ $image }}" />
-    {{ if (.IsPage) and eq .Section "blog" }}
+    {{ if (.IsPage) and eq .Section "thinks" }}
     <meta property="og:type" content="article" />
     <meta property="article:published_time" content="{{ .Date }}" />
     <meta property="article:modified_time" content="{{ .Lastmod }}" />
     <meta property="og:updated_time" content="{{ .Lastmod }}" />
     
-    {{ if index .Params "blog/categories" }}{{ range first 1 (index .Params "blog/categories") }}<meta property="article:section" content="{{ . | humanize }}" />{{ end }}{{ end }}
+    {{ if index .Params "thinks/categories" }}{{ range first 1 (index .Params "thinks/categories") }}<meta property="article:section" content="{{ . | humanize }}" />{{ end }}{{ end }}
     {{ if .Params.author }}
     <meta name="twitter:label1" value="Written by" />
     <meta name="twitter:data1" value="{{ if index $.Site.Data.authors .Params.author }}{{ index $.Site.Data.authors .Params.author }}{{ else }}Guest{{ end }}" />
@@ -60,7 +60,7 @@
   
     {{ $logo := printf "%s%s" $url "/images/og.jpg" | safeJS }}
     <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.tomango.co.uk\/","name":"Tomango"}</script>
-    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.tomango.co.uk\/thinks\/brand-identity-important-business\/","sameAs":["https:\/\/www.facebook.com\/tomangoUK","https:\/\/www.instagram.com\/tomangoUK\/","https:\/\/www.linkedin.com\/company\/tomango","https:\/\/twitter.com\/tomangoUK"],"@id":"#organization","name":"Tomango","logo":"{{ $logo }}"}</script>
+    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.tomango.co.uk\/","sameAs":["https:\/\/www.facebook.com\/tomangoUK","https:\/\/www.instagram.com\/tomangoUK\/","https:\/\/www.linkedin.com\/company\/tomango","https:\/\/twitter.com\/tomangoUK"],"@id":"#organization","name":"Tomango","logo":"{{ $logo }}"}</script>
 
     <style>
       @font-face {
@@ -99,7 +99,7 @@
   </head>
   <body>
 
-    <header role="banner" class="top bw{{ if eq .RelPermalink "/" }} top--home{{ else if eq .Dir "blog/" }} top--blog{{ end }}">
+    <header role="banner" class="top bw{{ if eq .RelPermalink "/" }} top--home{{ else if eq .Dir "thinks/" }} top--blog{{ end }}">
       <div class="top-contact">
         <a href="/" class="logo"><strong><span>T</span>omango</strong></a>
         <a href="#navigation" class="navicon" aria-label="Go To Navigation"><i></i><i></i><i></i></a>
@@ -128,7 +128,7 @@
             <a href="/created/">Our work</a>
             <a href="/is/">About</a>
             <a href="/creates/">What we do</a>
-            <a href="/blog/">Blog</a>
+            <a href="/thinks/">Blog</a>
             <a href="/contact/">Contact</a>
           </div>
         </div>
