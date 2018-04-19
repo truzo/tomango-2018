@@ -19,7 +19,7 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
     '/created/',
     '/creates/',
     '/contact/',
-    '/blog/',
+    '/thinks/',
     '/offline/',
     '/css/main.css',
     '/app.js'
