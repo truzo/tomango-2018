@@ -9,7 +9,7 @@ thinks/categories:
  - online-marketing
 ---
 
-A quick round-up of the week as we pick out some of the highlights from the world of [Brand](/creates/brand/), [Web](/creates/web/), and [Online Marketing](/creates/digital-marketing/).
+A quick round-up of the week as we pick out some of the highlights from the world of [Brand](/creates/brand/), [Web](/creates/web/), and [Online Marketing](/creates/online-marketing/).
 
 ## BRAND AND DESIGN: Domino's unveil new packaging design
 

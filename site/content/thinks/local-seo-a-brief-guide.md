@@ -84,6 +84,6 @@ However, this is just the start! These are just a few of approximately 200 facto
 
 Funny you should say that! Tomango provides local SEO for many of its clients, and can help you do all the above and more.
 
-Find out more about our [online marketing](/creates/digital-marketing/) services to see how we can help your business, then [get in touch](/contact/) to get started.
+Find out more about our [online marketing](/creates/online-marketing/) services to see how we can help your business, then [get in touch](/contact/) to get started.
 
 

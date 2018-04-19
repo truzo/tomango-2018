@@ -10,9 +10,9 @@ thinks/categories:
  - web-design
 ---
 
-With the [Tomango summer party](/thinks/tomangos-summer-party-with-photos/) just over two weeks away, we reflect on the different backgrounds and businesses of our guests and the wide range of services we now provide for them.
+With the Tomango summer party just over two weeks away, we reflect on the different backgrounds and businesses of our guests and the wide range of services we now provide for them.
 
-Before we merged to become *Tomango*, both Blue Planet and Jupiter Colour were formed as [website design](/creates/web/) companies, but now we're about so much more than that.  Our "vision" for Tomango was to be the best [brand identity design](/creates/brand/), [website design](/creates/web/) and [online marketing company](/creates/digital-marketing/) in Sussex.
+Before we merged to become *Tomango*, both Blue Planet and Jupiter Colour were formed as [website design](/creates/web/) companies, but now we're about so much more than that.  Our "vision" for Tomango was to be the best [brand identity design](/creates/brand/), [website design](/creates/web/) and [online marketing company](/creates/online-marketing/) in Sussex.
 
 ## Brand identity
 
@@ -76,7 +76,7 @@ The blog element is vital to the marketing of the website but to continue the hi
 
 ## Online marketing
 
-Since *Tomango* started trading in January, the [online marketing](/creates/digital-marketing/) part of our business has grown quite considerably.  Our expertise has enabled us to deliver sustainable and significant results for our clients and this has led to referrals as word has spread.  Here are a couple of good examples of work we've undertaken recently:
+Since *Tomango* started trading in January, the [online marketing](/creates/online-marketing/) part of our business has grown quite considerably.  Our expertise has enabled us to deliver sustainable and significant results for our clients and this has led to referrals as word has spread.  Here are a couple of good examples of work we've undertaken recently:
 
 ### Authentic Reclamation
 

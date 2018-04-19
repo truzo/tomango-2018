@@ -17,7 +17,7 @@ With the scope of digital marketing getting wider, integrating it into overall 
 
 In fact, according to a [2016 survey](http://www.smartinsights.com/digital-marketing-strategy/digital-strategy-development/10-reasons-for-digital-marketing-strategy/) just 35 per cent of businesses have integrated digital into their overall strategy, and a further *47 per cent* are doing digital marketing with no defined strategy.
 
-Remember - a digital strategy goes further than simply 'getting a website'. With all the different methods of digital communication - from [social media](/creates/digital-marketing/social-media/), to email, to apps, to [SEO](/creates/digital-marketing/seo/) and PPC - there's a huge range of possible opportunities you could be utilising!
+Remember - a digital strategy goes further than simply 'getting a website'. With all the different methods of digital communication - from [social media](/creates/online-marketing/social-media/), to email, to apps, to [SEO](/creates/online-marketing/seo/) and PPC - there's a huge range of possible opportunities you could be utilising!
 
 ### 'Lean back' versus 'lean forward'
 

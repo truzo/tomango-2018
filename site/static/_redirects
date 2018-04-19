@@ -13,6 +13,7 @@
 /creates/online-marketing/content-creation-copywriting/ /creates/online-marketing/ 302
 /creates/web/website-design/ /creates/web/ 302
 /creates/web/design/ /creates/web/ 302
+/creates/web/development/ /creates/web/ 302
 /is/hiring/ /careers/ 302
 /vacancies/ /careers/ 302
 /cookies/ /privacy/ 302
@@ -27,9 +28,9 @@
 /create/brand/graphic-design/ /creates/brand/ 302
 /create/web/website-design/ /creates/web/ 302
 /create/web/web-development/ /creates/web/ 302
-/create/web/mobile/ /creates/web/ /creates/online-marketing/google-adwords-ppc/ 302
+/create/web/mobile/ /creates/web/ 302
 /create/online-marketing/search-engine-optimisation/ /creates/online-marketing/seo/ 302
-/create/online-marketing/pay-per-click/ 302
+/create/online-marketing/pay-per-click/ /creates/online-marketing/google-adwords-ppc/ 302
 /create/online-marketing/social-media/ /creates/online-marketing/social-media/ 302
 /create/online-marketing/email-marketing/ /creates/online-marketing/ 302
 /create/online-marketing/copywriting/ /creates/online-marketing/ 302
@@ -52,4 +53,4 @@
 /web-design-in-heathfield/ /creates/web/ 302
 /web-design-in-eastbourne/ /creates/web/ 302
 /web-design-in-brighton/ /creates/web/ 302
-/seo-services-east-sussex/ /creates/digital-marketing/seo/ 302
+/seo-services-east-sussex/ /creates/online-marketing/seo/ 302

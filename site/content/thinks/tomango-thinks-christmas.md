@@ -162,6 +162,6 @@ Tom: "That my undefeated Monopoly run that stretches back to 2012 remains intact
 
 ---
 
-Merry Christmas from all at Tomango! For full information on our opening hours over the festive period we've listed them [here](/thinks/christmas-2016-opening-hours/).
+Merry Christmas from all at Tomango!
 
 

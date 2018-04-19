@@ -74,7 +74,7 @@ You've got ambitions. You've got a plan.
 
 If your website doesn't fit those plans, you need a new one.
 
-Growing your business usually means getting more customers. To get more customers, your website should be planned and built from the ground up, and include an [online marketing strategy](/creates/digital-marketing/) too.
+Growing your business usually means getting more customers. To get more customers, your website should be planned and built from the ground up, and include an [online marketing strategy](/creates/online-marketing/) too.
 
 > Identify your target market and work out how they look for what you're selling
 

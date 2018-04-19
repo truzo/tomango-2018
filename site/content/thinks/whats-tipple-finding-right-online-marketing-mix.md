@@ -8,11 +8,11 @@ thinks/categories:
  - tips-and-advice
 ---
 
-In the same way that Del Boy isn't likely to settle for a Vodka Martini and you won't see James Bond diving into a Pina Colada, there's no such thing as a one-size-fits-all [online marketing](/creates/digital-marketing/) campaign.
+In the same way that Del Boy isn't likely to settle for a Vodka Martini and you won't see James Bond diving into a Pina Colada, there's no such thing as a one-size-fits-all [online marketing](/creates/online-marketing/) campaign.
 
 There are lots of different ingredients that can make up your online marketing cocktail and you need to judge the quantities of each to get something that's just right for you.
 
-For some, pay-per-click and good ol' [search engine optimisation](/creates/digital-marketing/seo/) (SEO) might be the dominant flavours. For others, the right blend of social media could be the most palatable (and successful) combination.
+For some, pay-per-click and good ol' [search engine optimisation](/creates/online-marketing/seo/) (SEO) might be the dominant flavours. For others, the right blend of social media could be the most palatable (and successful) combination.
 
 In this post, we look at some of the more popular online marketing channels and examine which businesses and campaigns they might suit best.
 

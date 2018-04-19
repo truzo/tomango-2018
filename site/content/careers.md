@@ -21,4 +21,4 @@ As part of the team, you'll benefit from:
 - All the tea and coffee you can drink, plus regular cake
 
 ## Current vacancies
-There are currently no vacancies, but we're always on the look out for talented people. [Email your CV](jobs@tomango.co.uk).
+There are currently no vacancies, but we're always on the look out for talented people. [Email your CV](mailto:jobs@tomango.co.uk).

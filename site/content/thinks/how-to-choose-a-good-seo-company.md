@@ -8,9 +8,9 @@ thinks/categories:
  - tips-and-advice
 ---
 
-We talk to a lot of new clients about their [online marketing](/creates/digital-marketing/) requirements. It's one of the things we do, after all. Unfortunately we often hear about bad experiences with other online marketing companies that puts people off the whole thing. Once bitten, twice shy and all that.
+We talk to a lot of new clients about their [online marketing](/creates/online-marketing/) requirements. It's one of the things we do, after all. Unfortunately we often hear about bad experiences with other online marketing companies that puts people off the whole thing. Once bitten, twice shy and all that.
 
-So, in this post we're going to tell you about some of the most common warning signs to look out for that indicate you should steer clear, and show you how to choose a GOOD [SEO](/creates/digital-marketing/seo/) company.
+So, in this post we're going to tell you about some of the most common warning signs to look out for that indicate you should steer clear, and show you how to choose a GOOD [SEO](/creates/online-marketing/seo/) company.
 
 ## 1. Guaranteed results
 

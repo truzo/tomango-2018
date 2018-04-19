@@ -64,6 +64,6 @@ Why not integrate sharing buttons, similar to Facebook and Twitter ones, for Wha
 
 Keeping in mind the growing prevalence of dark social sharing, taking steps to try and measure it can lead to valuable insights into the online behaviour of your audience. Marketers will have to adapt and use new or different tools to help capture this fragmented behaviour.
 
-If you need some assistance with your brand's [social media](/creates/digital-marketing/social-media/), get in touch with Tomango today.
+If you need some assistance with your brand's [social media](/creates/online-marketing/social-media/), get in touch with Tomango today.
 
 

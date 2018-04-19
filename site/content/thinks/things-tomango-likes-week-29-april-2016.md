@@ -9,7 +9,7 @@ thinks/categories:
 
 After starting strongly a [fortnight ago](/thinks/things-tomango-likes-week-15-april-2016/), this supposedly weekly round-up blog had a week off last Friday as I was attending the awesome [Brighton SEO](http://www.brightonseo.com/) conference. You can read about a lot of the bits I learned on Local SEO [here](/thinks/brighton-seo-how-to-be-a-local-seo-jedi/).
 
-Anyway, here's a quick blast through the week and some of the more interesting things we've noticed this week in the worlds of [Brand](/creates/brand/), [Web](/creates/web/), and [Online Marketing](/creates/digital-marketing/).
+Anyway, here's a quick blast through the week and some of the more interesting things we've noticed this week in the worlds of [Brand](/creates/brand/), [Web](/creates/web/), and [Online Marketing](/creates/online-marketing/).
 
 ## BRAND AND DESIGN: Guinness show off updated logo
 

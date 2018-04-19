@@ -47,7 +47,7 @@ The final step in completing the content of your blog post will make your articl
 
 ### Add links
 
-Throughout your copy, check to see where you could usefully link to other pages or articles; either on your own website (this is a great way to push products of services) or elsewhere. Visually, the addition of links will break up large areas of bland-looking copy. To your reader, it shows consideration for them and that you have taken real care when putting together your post. Oh, and one last point - linking to pages on your own site is a great boost for your [search engine performance](/creates/digital-marketing/seo/).
+Throughout your copy, check to see where you could usefully link to other pages or articles; either on your own website (this is a great way to push products of services) or elsewhere. Visually, the addition of links will break up large areas of bland-looking copy. To your reader, it shows consideration for them and that you have taken real care when putting together your post. Oh, and one last point - linking to pages on your own site is a great boost for your [search engine performance](/creates/online-marketing/seo/).
 
 ### Add images
 

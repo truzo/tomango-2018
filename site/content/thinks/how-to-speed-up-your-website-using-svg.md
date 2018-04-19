@@ -8,7 +8,7 @@ thinks/categories:
  - web-design
 ---
 
-Continuing in the '[How to speed up your website](/thinks/tag/htsuyw/)' series, I'm going to outline the benefits of using SVG to display images. SVG stands for *Scalable Vector Graphics* and they're used to display vector-based images via code.
+Continuing in the 'How to speed up your website' series, I'm going to outline the benefits of using SVG to display images. SVG stands for *Scalable Vector Graphics* and they're used to display vector-based images via code.
 
 ## Images via code? What is this black magic?
 

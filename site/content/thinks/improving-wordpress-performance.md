@@ -9,7 +9,7 @@ thinks/categories:
  - web-design
 ---
 
-As I've mentioned [before,](/thinks/tag/htsuyw/) website speed is incredibly important. Search engines are beginning to penalise slow websites, but more importantly, users are voting with their feet when it comes to slow websites. Check out this [awesome infographic](https://blog.kissmetrics.com/loading-time/?wide=1) from KISSmetrics on how loading times affect your bottom line, it's quite an eye-opener.
+As I've mentioned before, website speed is incredibly important. Search engines are beginning to penalise slow websites, but more importantly, users are voting with their feet when it comes to slow websites. Check out this [awesome infographic](https://blog.kissmetrics.com/loading-time/?wide=1) from KISSmetrics on how loading times affect your bottom line, it's quite an eye-opener.
 
 When it came to building our new website, performance was at the front of my mind. It wasn't that performance was an issue for our previous site, rather due to changing technologies and a design involving a heavier emphasis on images and graphical content I knew that prioritising performance would be key.
 

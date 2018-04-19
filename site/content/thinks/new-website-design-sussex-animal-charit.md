@@ -34,7 +34,7 @@ Raystede puts all its efforts into giving animals a better life and the Sussex c
 
 Our copywriter’s brief is to prepare content as if written by the animals and we're all looking forward to seeing the end result.
 
-Writing copy for your website is never as easy as it sounds.  If you're having difficulty completing your website design project because of writers block, *Tomango* can provide [copywriting](/creates/digital-marketing/content-creation-copywriting/) as part of our service; give us a call to find out how we can help.
+Writing copy for your website is never as easy as it sounds.  If you're having difficulty completing your website design project because of writers block, *Tomango* can provide [copywriting](/creates/online-marketing/content-creation-copywriting/) as part of our service; give us a call to find out how we can help.
 
 ## Getting the right fit for the client
 

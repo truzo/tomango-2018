@@ -10,7 +10,7 @@ thinks/categories:
  - web-design
 ---
 
-I'm going to let you in on a little secret that will help your [online marketing](/creates/digital-marketing/) campaign be successful AND save you time into the bargain.
+I'm going to let you in on a little secret that will help your [online marketing](/creates/online-marketing/) campaign be successful AND save you time into the bargain.
 
 I'm going to tell you all about Evergreen Content.
 
