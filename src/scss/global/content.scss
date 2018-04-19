@@ -63,6 +63,7 @@
 
 	p a:not(.button),
 	li a {
+		background: #FFF;
 		border-bottom: 2px solid $light;
 		font-weight: 400;
 		transition: 300ms border-bottom-color;
