@@ -49,6 +49,11 @@
 			transition: 200ms fill;
 		}
 
+		span {
+			position: absolute !important;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+
 		a:hover svg {
 			fill: $red;
 		}
