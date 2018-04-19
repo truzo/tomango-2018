@@ -19,7 +19,6 @@ fullImage: fludes/fludes-hero.jpg
 Fludes Carpets asked us to increase their sales of Karndean flooring. We put in place a new content strategy over six months that immediately led to a significant jump in sales.
 
 {{< quote
-	image="images/created/fludes/fludes-small-image.jpg"
 	body="Almost from day one visits to the Karndean pages increased and the enquiries we had as a result were firm sales opportunities."
 	citation="Andy Laird, Managing Director, Fludes Carpets"
 >}}
