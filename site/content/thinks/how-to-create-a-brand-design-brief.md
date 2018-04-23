@@ -136,10 +136,3 @@ You might have already engaged your chosen agency, in which case once you've com
 If you're still choosing, share the document with the agencies you're talking to - it'll help them understand the project better and be able to talk to you more clearly about budgets.
 
 And if you want to get our take on it, why not [get in touch](/contact/) - just email your brand brief to <mailto:hello@tomango.co.uk>.
-
-{{% update %}}
-
-### Get more of this stuff
-
-Get ideas, techniques and tips to position and grow your business, straight to your inbox. [Join the mailing list](/subscribe/).
-{{%/ update %}}
