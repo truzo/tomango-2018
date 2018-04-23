@@ -11,7 +11,7 @@ thinks/categories:
 
 On 10th September, our [Head of Finance Nikki Carrick](/is/nikki-carrick/) will be walking 14 miles across London in memory of her Mum Cathy, and to raise money for the Stroke Assocation.
 
-![](images/blog/nikki-fran-sponsored-walk.jpg "Nikki (right) and her sister Fran before one of their training sessions")
+![](images/blog/nikki-fran-sponsored-walk.jpg "Nikki [right] and her sister Fran before one of their training sessions")
 
 Nikki and her sister Fran will be taking part in the [Thames Bridges Trek](http://www.thamespathchallenge.com/thames-bridges-trek), joining around 1,000 others in walking across the capital, taking in 16 of its finest bridges in the process.
 
