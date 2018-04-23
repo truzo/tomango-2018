@@ -89,7 +89,7 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
     const request = event.request;
     const url = new URL(request.url);
 
-    if (url.href.indexOf('https://tomango.netlify.com') !== 0) {
+    if (url.href.indexOf('https://www.tomango.co.uk') !== 0) {
       return;
     }
 

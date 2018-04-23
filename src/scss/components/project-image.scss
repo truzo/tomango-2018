@@ -1,5 +1,9 @@
 .full-image {
 	width: 100%;
+
+	.collage-image + & {
+		margin-top: 5%;
+	}
 }
 
 .project-image {

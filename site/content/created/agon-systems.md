@@ -3,12 +3,14 @@ title: Agon Systems
 image: images/created/agon/created-agon.jpg
 description: Tripling turnover to £5 million by investing in brand design.
 banner: images/created/agon/created-agon-hero.jpg
+fullImage: agon/agon-full.jpg
 collage: agon/agon-collage.png
 weight: 30
 related:
 - concept-tag
 - hop
 images:
+- agon/agon-sheets.jpg
 - agon/agon-site.jpg
 ---
 

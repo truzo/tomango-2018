@@ -5,10 +5,6 @@
 		{{ .Content }}
 	</div>
 
-	{{ if .Params.fullImage }}
-		<img class="full-image" src="images/created/{{ .Params.fullImage }}">
-	{{ end}}
-
 	{{ if .Params.collage }}
 		<figure class="collage-image">
 			<div class="wrap">
@@ -16,6 +12,10 @@
 			</div>
 		</figure>
 	{{ end }}
+
+	{{ if .Params.fullImage }}
+		<img class="full-image" src="images/created/{{ .Params.fullImage }}">
+	{{ end}}
 	
 	{{ if .Params.images }}
 		<figure class="project-image">
