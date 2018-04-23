@@ -29,7 +29,7 @@ Mr Incredible.
 ## Marmite – love it or hate it?
 Love it.
 
-	## Cats or Dogs?
+## Cats or Dogs?
 Cats.
 
 ## What did you want to be when you grew up?
