@@ -1,11 +1,15 @@
 ---
 title: HOP
-image: images/created/created-hop.jpg
+image: images/created/hop/created-hop.jpg
 description: Repositioning market-leading engineers at the top of their industry.
+banner: images/created/hop/created-hop-hero.jpg
+fullImage: hop/hop-full.jpg
 weight: 20
 related:
 - concept-tag
 - fludes-carpets
+images:
+- hop/hop-site.jpg
 ---
 
 

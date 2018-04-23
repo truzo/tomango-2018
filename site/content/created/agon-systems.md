@@ -1,11 +1,15 @@
 ---
 title: Agon Systems
-image: images/created/created-agon.jpg
+image: images/created/agon/created-agon.jpg
 description: Tripling turnover to £5 million by investing in brand design.
+banner: images/created/agon/created-agon-hero.jpg
+collage: agon/agon-collage.png
 weight: 30
 related:
 - concept-tag
 - hop
+images:
+- agon/agon-site.jpg
 ---
 
 In 2014, Agon Systems’ CEO Sean Welch came to us to help him grow his business into a global player in the EAS industry. Our work in developing a brand and marketing strategy has helped the company increase its turnover by almost 200% in three years.

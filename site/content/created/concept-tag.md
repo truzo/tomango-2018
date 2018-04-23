@@ -1,7 +1,9 @@
 ---
 title: The Concept Tag
-image: images/created/created-concept-tag.jpg
+image: images/created/concept-tag/created-concept-tag.jpg
 description: Website and digital marketing strategy that's changing an entire industry.
+banner: images/created/concept-tag/created-concept-hero.jpg
+collage: concept-tag/concept-tag-collage.png
 weight: 10
 related:
 - agon-systems
@@ -12,11 +14,7 @@ stats:
 - number: 20,000%
   text: Return On Investment
 images:
-- concept-tag/1.png
-- concept-tag/2.png
-- concept-tag/3.png
-- concept-tag/4.png
-- concept-tag/5.png
+  - concept-tag/concept-tag-site.jpg
 ---
 
 For years, retailers have been fighting an ongoing battle with shoplifters who are determined to nick their stock. The Concept Tag is a new type of retail security tag that’s set to revolutionise the industry.

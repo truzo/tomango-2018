@@ -1,10 +1,9 @@
 ---
 title: Fludes Carpets
-image: images/created/created-karndean.jpg
+image: images/created/fludes/created-karndean.jpg
 description: Increasing sales of key product through online content creation.
 weight: 40
-banner: images/created/created-karndean-hero.jpg
-bannerLarge: images/created/created-karndean-hero.jpg
+banner: images/created/fludes/created-karndean-hero.jpg
 related:
 - agon-systems
 - concept-tag

@@ -8,9 +8,17 @@
 	{{ if .Params.fullImage }}
 		<img class="full-image" src="images/created/{{ .Params.fullImage }}">
 	{{ end}}
+
+	{{ if .Params.collage }}
+		<figure class="collage-image">
+			<div class="wrap">
+				<img src="images/created/{{ .Params.collage }}">
+			</div>
+		</figure>
+	{{ end }}
 	
 	{{ if .Params.images }}
-		<figure class="project-image" style="background: #e9eae9;">
+		<figure class="project-image">
 			<div class="wrap">
 				{{ range .Params.images }}
 					<img src="images/created/{{ . }}">

@@ -20,7 +20,7 @@ We've been developing websites for over 15 years. Our huge experience in plannin
 
 {{< quote
 	link="/created/hop/"
-	image="images/created/created-hop.jpg"
+	image="images/created/hop/created-hop.jpg"
 	body="Our new site’s repositioned us at the top of our industry and is definitely helping us attract more of the projects we want to win."
 	citation="Adam Humphrey, Director, HOP"
 >}}
