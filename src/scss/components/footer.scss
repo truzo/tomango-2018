@@ -41,17 +41,32 @@
 	}
 
 	&-social {
-		a + a {
-			margin-left: 5px;
+		a {
+			display: block;
 		}
 
 		svg {
 			transition: 200ms fill;
+			display: none;
 		}
 
-		span {
-			position: absolute !important;
-			clip: rect(1px, 1px, 1px, 1px);
+		@include mq(40em, true) {
+			svg {
+				display: block;
+			}
+
+			span {
+				position: absolute !important;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+
+			a {
+				display: inline-block;
+
+				& + a {
+					margin-left: 5px;
+				}
+			}
 		}
 
 		a:hover svg {
