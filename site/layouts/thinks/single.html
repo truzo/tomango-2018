@@ -8,7 +8,7 @@
 {{ define "main" }}
 	<div class="wrap three-col insulate">
 		<aside>
-			{{ if .Params.author }}
+			{{ if and .Params.author (index $.Site.Data.authors .Params.author) }}
 				<img src="images/team/thumbnail/{{ .Params.author }}.jpg" alt="{{ index $.Site.Data.authors .Params.author }}">
 			{{ else }}
 				<img src="images/team/thumbnail/fallback.jpg">
