@@ -2,11 +2,18 @@
 title: "Photography at Goodwood Revival"
 author: "trys"
 date: 2016-09-12 16:36:09
+seo_title: "Goodwood Revival Photography | Trys Mudford | Automotive Photographer"
 description: A photographic rundown of Goodwood Revival 2016, the largest period historic race event in the world.
 banner: images/blog/TRM_9247.jpg
 bannerLarge: images/blog/TRM_9247.jpg
 thinks/categories: 
  - tips-and-advice
+---
+
+Check out my latest work [here](http://photography.trysmudford.com/).
+
+{{< button "http://photography.trysmudford.com/" >}}Goodwood galleries{{</ button >}}
+
 ---
 
 Every September for the past 18 years, Goodwood Motor Circuit has opened its doors to 200,000+ historic racing fans to experience the Goodwood Revival, a period-style festival celebrating the racing years of Goodwood between 1948 and 1966. It’s a nostalgic and remarkably authentic throwback to mid 20th-century motorsport.
