@@ -20,7 +20,7 @@ Ideally an omlette from the Blue Plate Diner in Salt Lake City. The Utahn is esp
 ## Favourite sandwich filling?
 Chicken, avocado, cheese and spinach on brown.
 
-## Favourite film, tv programme, book?
+## Favourite film, TV programme, book?
 Too many favourite films, though Fight Club and Helvetica are perennial faves. I don’t own a TV, though I loved River (detective drama by the beeb on iPlayer last year). Favourite books would be ‘The Cover Art of Blue Note Records’, ‘Where The Wild Things Are’ and ‘Yorkshire Gritstone Bouldering, Volume 1’, of course…
 
 ## Favourite superhero?

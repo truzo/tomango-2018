@@ -1,5 +1,5 @@
 ---
-title: Making a difference
+title: Maximum impact
 hideCta: true
 lineCta: true
 seo_description: It all starts with your strategy. We'll figure out where you want to go with your business, and what needs to be put in place to get you there.

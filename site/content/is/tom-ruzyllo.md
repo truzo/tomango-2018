@@ -12,7 +12,7 @@ weight: 40
 
 Tom is Tomango’s Digital Marketing Executive and joined in April 2016.
 
-He’s responsible for Tomango’s online marketing output, and takes lead on all things SEO, PPC, social media and email marketing. Tom is an NCTJ-qualifed journalist and has previous experience in consumer public relations. He’s also recently finished studying a CIM Diploma in Professional Marketing.
+He's responsible for all Tomango's digital marketing output, and takes lead on all things SEO, PPC, social media and email marketing. Tom is an NCTJ-qualifed journalist and has previous experience in consumer public relations. He also holds a CIM Diploma in Professional Marketing.
 
 ## What’s your perfect breakfast?
 During the week – nothing (banana at a push). Weekend – Full English, black pudding included, no tomato.
@@ -20,7 +20,7 @@ During the week – nothing (banana at a push). Weekend – Full English, black 
 ## Favourite sandwich filling?
 Peanut butter.
 
-## Favourite film, tv programme, book?
+## Favourite film, TV programme, book?
 	
 - Film: Cool Hand Luke.
 - TV programme: Parks &amp; Recreation.

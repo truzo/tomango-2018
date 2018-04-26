@@ -20,8 +20,8 @@ Eggs Royale and a latte.
 ## Favourite sandwich filling?
 Chicken and Sweetcorn.
 
-## Favourite film, tv programme, book?
-The Truman Show, Breaking Bad and although not technically a book, Net Magazine.
+## Favourite film, TV programme, book?
+The Truman Show, Better Call Saul and although not technically a book, Net Magazine.
 
 ## Favourite superhero?
 SuperTed.

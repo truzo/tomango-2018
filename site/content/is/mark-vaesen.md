@@ -20,7 +20,7 @@ Bacon and egg sandwich with plenty of ketchup.
 ## Favourite sandwich filling?
 Cheese, ham and mayo please. On brown.
 
-## Favourite film, tv programme, book?
+## Favourite film, TV programme, book?
 Film: The Day of the Jackal, or The Odd Couple. TV programme: HIGNFY or something voiced by David Attenborough. Book: The Book Thief by Markus Zusak.
 
 ## Favourite superhero?

@@ -6,11 +6,11 @@ description: By finding the most effective mix for you, we'll make sure you send
 
 **A good digital marketing strategy gets your business found online by the right people.**
 
-However, if you’re a business owner focused on day-to-day operations you probably won’t have the time to keep up to date with the constant changes to search algorithms or social media platforms.
+But if you're a business owner focused on day-to-day operations, you probably won’t have the time to keep up to date with the constant changes to search algorithms or social media platforms.
 
 It can be intimidating to even know where to start.
 
-We have the experience of helping a variety of business across all sectors improve their digital footprint and get a good return on their investment.
+We have the experience of helping businesses across all sectors improve their digital footprint and get a good return on their investment.
 
 {{< quote
 	body="When we started our digital marketing campaign, our average cost-per-lead was £70. In four months, the cost had come down to just £7."

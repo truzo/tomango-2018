@@ -12,7 +12,7 @@ weight: 60
 
 Nikki is our Head of Finance and is in charge of invoicing, credit control, dealing with suppliers, and all things financial.
 
-She works remotely and part–time – in between looking after a young family – and previously worked for Blue Planet from its inception in 2000.
+She works remotely and part-time, in between looking after her family and running her own small business.
 
 ## What’s your perfect breakfast?
 Almond croissant and coffee.
@@ -20,7 +20,7 @@ Almond croissant and coffee.
 ## Favourite sandwich filling?
 Roast beef and horseradish.
 
-## Favourite film, tv programme, book?
+## Favourite film, TV programme, book?
 An Affair to Remember/Die Hard, Great British Bake off, The Curious Incident of the Dog in the Night-time.
 
 ## Favourite superhero?

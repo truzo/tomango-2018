@@ -9,12 +9,12 @@ lineCta: true
 
 A well-defined strategy gives context to all your brand and marketing. Without the bigger picture, you’re just shuffling the pieces of the puzzle around hoping they’ll fit.
 
+We shape your strategy by going through a [Discovery Session](/discovery/).
+
 {{< quote
 	body="For the first time in ages we were able to step back and review the whole business. It gave us a clear direction and meant we could put together a well thought out - and exciting - growth plan."
 	citation="Andy Harmer, Flexitreks"
 >}}
-
-We shape your strategy by going through a [Discovery Session](/discovery/).
 
 What comes out of the session is a clear understanding of your business objectives and what needs to be put in place to achieve them.
 

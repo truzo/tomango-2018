@@ -1,6 +1,6 @@
 ---
 title: Social Media
-description: Now a vital part of any digital marketing strategy, having a strong social media presence gives your business the chance to build, engage, and interact with audiences on a number of different platforms.
+description: Now a vital part of any digital marketing strategy, a strong social media presence gives your business the chance to build, engage, and interact with audiences on a number of different platforms.
 image: images/creates/social.jpg
 weight: 20
 ---

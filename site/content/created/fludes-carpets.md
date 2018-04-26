@@ -22,6 +22,6 @@ Fludes Carpets asked us to increase their sales of Karndean flooring. We put in 
 	citation="Andy Laird, Managing Director, Fludes Carpets"
 >}}
 
-Based on the brief we proposed creating a more robust and informative Karndean section of the website. The goal was to produce a hub of information to answer the majority of the visitor’s questions about the product.
+Based on the brief, we proposed creating a more robust and informative Karndean section of the website. The goal was to produce a hub of information to answer the majority of the visitor’s questions about the product.
 
 {{< button "http://www.fludes-carpets.co.uk" >}}Visit site{{</ button >}}

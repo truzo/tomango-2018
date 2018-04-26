@@ -8,9 +8,9 @@ weight: 30
 
 **Using paid digital marketing channels can be a great way to get quick results - but set it up wrong and you can waste a lot of money.**
 
-We have experience in planning and implementing campaigns for a number of businesses in different sectors, with our main aim being to get you the best results for your budget.
+We've planned and implemented campaigns for a number of businesses in different sectors, and always get the best results for your budget.
 
-## Paid Search
+## Google Adwords
 
 Did you know that over 50 per cent of Google Search users can’t differentiate between Paid and Organic search listings?
 

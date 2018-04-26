@@ -4,7 +4,7 @@ seo_description: Tomango is a brand identity, website design and digital marketi
 ---
 
 ## Who we are
-We're a deliberately small team of designers, developers and marketers, here to solve our clients' problems and help them achieve their goals.
+We're a deliberately small team of designers, developers and marketers who solve our clients' problems and help them achieve their goals.
 
 ## Who we work with
 We help ambitious businesses get more of the customers they want.

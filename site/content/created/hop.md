@@ -1,7 +1,7 @@
 ---
 title: HOP
 image: images/created/hop/created-hop.jpg
-description: Repositioning market-leading engineers at the top of their industry.
+description: Repositioning market-leading engineers at the top of their profession.
 banner: images/created/hop/created-hop-hero.jpg
 fullImage: hop/hop-full.jpg
 weight: 20
@@ -13,7 +13,7 @@ images:
 ---
 
 
-HOP came to us in the autumn of 2016 having seen the work we did for ECE Architecture. Their website no longer reflected their position in the marketplace and they asked us to redesign the site to put them back on top and ahead of their competitors.
+HOP came to us having seen the work we did for [ECE Architecture](http://www.ecearchitecture.com/). Their website no longer reflected their position in the marketplace and they asked us to redesign the site to put them back on top and ahead of their competitors.
 
 {{< quote
 	body="Our new site’s repositioned us at the top of our industry and is definitely helping us attract more of the projects we want to win."

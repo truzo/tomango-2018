@@ -14,7 +14,7 @@ images:
 - agon/agon-site.jpg
 ---
 
-In 2014, Agon Systems’ CEO Sean Welch came to us to help him grow his business into a global player in the EAS industry. Our work in developing a brand and marketing strategy has helped the company increase its turnover by almost 200% in three years.
+In 2014, Agon Systems’ CEO Sean Welch came to us to help him grow his business into a global player in the EAS industry. Our work in developing a brand and marketing strategy helped the company increase its turnover by almost 200% in three years.
 
 {{< quote
 	body="Investing in our brand has helped us triple our turnover in three years to £5 million."
