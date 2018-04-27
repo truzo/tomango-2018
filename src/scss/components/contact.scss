@@ -77,7 +77,7 @@
 
 
 .form--contact {
-	padding: 25px 0 40px;
+	padding: 25px 0 20px;
 }
 
 .form--contact p,
@@ -208,9 +208,6 @@ input:-webkit-autofill {
 }
 
 @media screen and (min-width: 35em) {
-	.form--contact {
-		padding-bottom: 72px;
-	}
 
 	.form--contact p {
 		min-height: 74px;
