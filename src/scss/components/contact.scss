@@ -1,6 +1,24 @@
 .find {
 	background: #D8D8D8;
 	position: relative;
+
+	&__left {
+		margin-bottom: 60px;
+	}
+
+	@include mq(600px) {
+		font-size: 16px;
+
+		&__left {
+			margin-bottom: 0;
+		}
+
+		&__content {
+			display: grid;
+			grid-template-columns: 3.25fr 5fr;
+			grid-gap: 30px;
+		}
+	}
 }
 
 .find .content {
@@ -20,12 +38,12 @@
 	top: 0;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1000px) {
 	.map {
 		padding-bottom: 0;
 		position: absolute;
 		height: 100%;
-		width: 50%;
+		width: 35%;
 		right: 0;
 		top: 0;
 	}
@@ -35,17 +53,25 @@
 	}
 
 	.find .content > * {
-		max-width: calc(50% - 20px);
+		max-width: calc(65% - 20px);
 	}
 
 	.find .content h3 {
-		margin-bottom: 45px;
+		margin-bottom: 25px;
 	}
 
 	.find .content .button {
 		margin-top: 23px;
 		width: 100%;
 		max-width: 204px;
+	}
+
+	.find {
+		font-size: inherit;
+
+		&__right p {
+			max-width: 430px;
+		}
 	}
 }
 
