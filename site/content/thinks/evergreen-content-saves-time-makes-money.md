@@ -5,7 +5,7 @@ date: 2015-02-11 08:27:44
 description: Discover this magic ingredient to your online marketing mix that will save you time and make you money.
 image: images/blog/about-teaser-image3.jpg
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
  - web-design
 ---

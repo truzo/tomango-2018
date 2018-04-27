@@ -4,7 +4,7 @@ author: "mark"
 date: 2015-05-14 15:10:01
 description: In the second part of this series, we look at how you can grab your reader's attention by making it all about them.
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
  - web-design
 ---

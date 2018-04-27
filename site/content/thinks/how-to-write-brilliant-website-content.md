@@ -4,7 +4,7 @@ author: "mark"
 date: 2013-03-14 11:10:54
 description: Well-crafted website content is the key to increasing web traffic and more importantly, getting enquiries and making sales.
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
  - web-design
 ---

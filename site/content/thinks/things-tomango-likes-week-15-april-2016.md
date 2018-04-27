@@ -6,7 +6,7 @@ description: The best things from the past 7 days in Brand, Web, and Marketing. 
 image: images/blog/shutterstock_347866958.jpg
 thinks/categories: 
  - brand
- - online-marketing
+ - digital-marketing
 ---
 
 A quick round-up of the week as we pick out some of the highlights from the world of [Brand](/creates/brand/), [Web](/creates/web/), and [Online Marketing](/creates/online-marketing/).

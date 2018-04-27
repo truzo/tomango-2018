@@ -5,7 +5,7 @@ date: 2016-04-20 15:48:08
 description: This analogy works, I promise. It's all about tiny improvements building up to a huge jump in performance.
 image: images/blog/shutterstock_12633685.jpg
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - web-design
 ---
 

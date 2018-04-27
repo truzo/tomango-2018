@@ -4,7 +4,7 @@ author: "mark"
 date: 2014-03-19 13:40:16
 description: Make sure you get the right ingredients, in the right quantities, for your perfect online marketing cocktail.
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
 ---
 

@@ -6,7 +6,7 @@ description: With our summer party just over two weeks away, we reflect on the w
 thinks/categories: 
  - brand
  - latest-news
- - online-marketing
+ - digital-marketing
  - web-design
 ---
 

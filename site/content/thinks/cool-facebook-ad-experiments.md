@@ -5,7 +5,7 @@ date: 2016-05-13 15:26:39
 description: Freak out your room-mate, advertise at your competitors' locations, or find the love of your life. For marketeers, Facebook Ads are here to stay.
 image: images/blog/shutterstock_330654698.jpg
 thinks/categories: 
- - online-marketing
+ - digital-marketing
 ---
 
 It's something that digital marketeers are having to think about more and more. When does personalisation cross over into breach of privacy?

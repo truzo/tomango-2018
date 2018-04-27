@@ -7,7 +7,7 @@ image: images/blog/shutterstock_535662184.jpg
 banner: images/blog/shutterstock_535662184.jpg
 bannerLarge: images/blog/shutterstock_535662184.jpg
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
 ---
 

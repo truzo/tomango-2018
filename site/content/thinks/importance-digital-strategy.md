@@ -4,7 +4,7 @@ author: "tom"
 date: 2016-08-26 08:37:16
 description: According to a 2016 survey, just 35% of businesses have integrated digital into their overall strategy, and a further 47% are doing digital marketing with no defined strategy!
 thinks/categories: 
- - online-marketing
+ - digital-marketing
 ---
 
 In a previous blog post I explained [what digital disruption is](/thinks/what-is-digital-disruption/), and how the landscape for marketers has been under a rapid evolution in recent times with the advent of new technology.

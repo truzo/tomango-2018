@@ -6,7 +6,7 @@ description: Discover how the secrets of Happy Money can keep your customers and
 seo_description: Discover how the secrets of Happy Money can keep your customers and your employees truly happy. Tomango 01273 814019.
 thinks/categories: 
  - brand
- - online-marketing
+ - digital-marketing
  - tips-and-advice
  - web-design
 ---

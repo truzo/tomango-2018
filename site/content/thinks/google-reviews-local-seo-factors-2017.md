@@ -4,7 +4,7 @@ author: "tom"
 date: 2017-11-27 11:26:52
 description: Terrible clickbait title aside, it will actually help.
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
 ---
 

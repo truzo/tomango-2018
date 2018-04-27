@@ -4,7 +4,7 @@ author: "mark"
 date: 2015-04-16 16:09:58
 description: Writing copy for your website is hard. Writing good copy is even harder. Find out how to make your copy more readable and widely shared by writing for a lower reading age.
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
  - web-design
 ---

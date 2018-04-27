@@ -5,7 +5,7 @@ date: 2016-07-15 13:33:49
 description: Worldwide sensation Pokemon Go brings with it some brilliant opportunities for small local businesses. Find out how you could be taking advantage.
 image: images/blog/shutterstock_452401399.jpg
 thinks/categories: 
- - online-marketing
+ - digital-marketing
 ---
 
 Not heard of Pokemon Go? Where have you been?!

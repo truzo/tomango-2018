@@ -4,7 +4,7 @@ author: "mark"
 date: 2014-08-19 11:24:31
 description: An introduction to blogging for your business, answers to the questions everyone asks and tips for getting the most from your blog with the minimum effort.
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
  - web-design
 ---

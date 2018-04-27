@@ -4,7 +4,7 @@ author: "tom"
 date: 2016-05-31 10:23:25
 description: Let's get right back to basics. What is 'marketing' anyway?
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
 ---
 

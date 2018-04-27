@@ -5,7 +5,7 @@ date: 2014-07-22 10:16:05
 description: £4,040 in sales for just 20 minutes work? Here's how I did it...
 thinks/categories: 
  - latest-news
- - online-marketing
+ - digital-marketing
  - tips-and-advice
 ---
 

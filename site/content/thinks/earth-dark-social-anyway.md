@@ -5,7 +5,7 @@ date: 2016-07-06 13:26:53
 description: Research was released last month showing that a gargantuan 77 per cent of content is being shared via 'dark social' channels. For social media marketers, that's massive. The huge amount of dark social sharing shows how people are now consuming online media – switching from channel to channel over many devices per day.
 image: images/blog/shutterstock_275117417.jpg
 thinks/categories: 
- - online-marketing
+ - digital-marketing
 ---
 
 Research was released last month showing that a gargantuan [77 per cent](http://www.thedrum.com/news/2016/06/09/77-content-being-shared-dark-social-finds-new-research) of content is being shared via 'dark social' channels.

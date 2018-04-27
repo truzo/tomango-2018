@@ -4,7 +4,7 @@ author: "tom"
 date: 2016-09-09 16:13:30
 description: Last Friday I was let out of the Tomango studio and ventured to Brighton for my second #BrightonSEO conference of the year!
 thinks/categories: 
- - online-marketing
+ - digital-marketing
 ---
 
 Last Friday saw another Brighton SEO conference take place, and I was lucky to once again attend after [my first visit in April](/thinks/brighton-seo-how-to-be-a-local-seo-jedi/).

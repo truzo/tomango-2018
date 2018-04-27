@@ -5,7 +5,7 @@ date: 2016-05-20 13:22:53
 description: Twitter not counting links & pics, and Google changing limits on page titles & meta descriptions.
 image: images/blog/shutterstock_204352345.jpg
 thinks/categories: 
- - online-marketing
+ - digital-marketing
 ---
 
 Remember the turn of the year when it was rumoured that Twitter was upping its limit from 140 characters to a whopping *10,000?*

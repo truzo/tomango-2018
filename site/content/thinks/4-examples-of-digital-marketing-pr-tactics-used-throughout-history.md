@@ -7,7 +7,7 @@ description: >-
   lessons from each of them.
 image: /images/blog/Luther-Twitter-1024x534.png
 thinks/categories:
-  - online-marketing
+  - digital-marketing
 author: tom
 ---
 History’s cool.

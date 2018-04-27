@@ -4,7 +4,7 @@ author: "mark"
 date: 2014-12-22 17:50:39
 description: How do you choose a good SEO company? And how do you avoid a bad one? We share our experience and some of the common warning signs
 thinks/categories: 
- - online-marketing
+ - digital-marketing
  - tips-and-advice
 ---
 
