@@ -3,6 +3,7 @@ title: "Developing ‘Blue Notes’"
 author: "tom"
 date: 2018-04-30 12:50:57
 description: "With today being ‘International Jazz Day’, I thought it was the perfect chance to share some of Steve’s recent work and blogs, where he does a deep dive into what he calls a labour of love and typography."
+image: /images/blog/blue-notes-tomango.jpg
 thinks/categories: 
  - web-design
 ---
