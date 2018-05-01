@@ -63,7 +63,7 @@ exports.handler = function(event, context, callback) {
     function create_tree(result, callback){
       const content = `---
 title: Instagram - ${date.toString()}
-blog/categories:
+thinks/categories:
 - instagram
 date: ${date.toISOString().slice(0,-14)}
 image: images/blog/${time}.jpg
@@ -78,7 +78,7 @@ ${caption}`;
         type: 'blob',
         sha: result.image
       }, {
-        path: `site/content/blog/${time}.md`,
+        path: `site/content/thinks/${time}.md`,
         mode: '100644',
         type: 'blob',
         content: content
