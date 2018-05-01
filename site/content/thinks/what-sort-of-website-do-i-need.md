@@ -139,7 +139,7 @@ If you want to sell your products online, you need an ecommerce site. You might 
 
 ![](images/blog/sussex-oak-1024x641.jpg "The Sussex Oak website has an ecommerce framework, but no online payments")
 
-For [Sussex Oak](http://www.oakandreclaim.com/product-category/), we created the framework of a shop, but instead of paying online, customers add products to an enquiry list, which is picked up by the site administrator.
+For [Sussex Oak](http://www.oakandreclaim.com), we created the framework of a shop, but instead of paying online, customers add products to an enquiry list, which is picked up by the site administrator.
 
 And don't forget, ecommerce doesn't just mean buying tangible, physical products. If you want to take online payments for subscriptions, digital (downloadable) products or something else, the opportunity's there to improve how you do business.
 

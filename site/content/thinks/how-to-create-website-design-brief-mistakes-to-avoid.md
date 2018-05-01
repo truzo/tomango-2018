@@ -68,7 +68,7 @@ When referring to web design, "Above the Fold" refers to the part of the page th
 
 ### Misleading statistics
 
-The problem usually starts with this often-cited statistic, from our erstwhile friend Jakob Nielsen, back in 2010; [80% of users spend their time above the fold, and only 20% go below the fold](http://www.nngroup.com/articles/scrolling-and-attention/). Holy Moly! We've got to keep everything above the fold, right?  Well, hold on just a sec...
+The problem usually starts with this often-cited statistic, from our erstwhile friend Jakob Nielsen, back in 2010; 80% of users spend their time above the fold, and only 20% go below the fold. Holy Moly! We've got to keep everything above the fold, right?  Well, hold on just a sec...
 
 This stat's a bit misleading because most of the time the navigation and search is at the top of a page, so when you get to a website, the first thing you most often look for is the menu, *which is why the stats are so heavily skewed*.
 
@@ -80,7 +80,7 @@ It's not just our point of view either:
 
 [The Myth of Above the Fold in Web Design](http://www.lunabeanmedia.com/2014/05/the-myth-of-above-the-fold-in-web-design)
 [Life Below 600 pixels](http://iampaddy.com/lifebelow600/)
-[Why "The Fold" is a myth - and where to put your call to action](https://blog.kissmetrics.com/why-the-fold-is-a-myth/http://)
+[Why "The Fold" is a myth - and where to put your call to action](https://blog.kissmetrics.com/why-the-fold-is-a-myth/)
 
 ## 5. Opening new browser windows
 

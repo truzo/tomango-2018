@@ -82,7 +82,7 @@ By the same process, we slimmed the checkout process down in order to speed up a
 
 ## Populating the site, and the testing/feedback loop
 
-The job of populating the site, including adding just under 100 video clips and seven years of research, fell to Junior Developer [Kieran Karn](/is/kieran-karn/).
+The job of populating the site, including adding just under 100 video clips and seven years of research, fell to Junior Developer Kieran Karn.
 
 "The Action Research section of the site probably presented the biggest challenge, as this section of the current site - where I was taking it from - was in a bit of a mess. It took me about three days to get all the content in place.
 

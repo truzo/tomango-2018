@@ -247,9 +247,6 @@ I've opted for Grunt on this project and I'm using the following extensions:
 - [browserSync](https://github.com/BrowserSync/grunt-browser-sync) – live reloading and screen syncing
 - [watch](https://github.com/gruntjs/grunt-contrib-watch) – live grunt reloading
 
-
-Check out our [Gruntfile](http://www.tomango.co.uk/Gruntfile.js) to see how they are used on the site.
-
 ## In summary
 
 Pushing for performance can be hard work. You can spend hours on one section to find that it makes an almost intangible improvement and spend seconds on another that'll make a large gain. Persistence does pay off.
