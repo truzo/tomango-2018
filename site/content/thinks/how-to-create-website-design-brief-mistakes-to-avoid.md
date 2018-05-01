@@ -78,7 +78,6 @@ So although it's still important to put certain things above the fold (see point
 
 It's not just our point of view either:
 
-[The Myth of Above the Fold in Web Design](http://www.lunabeanmedia.com/2014/05/the-myth-of-above-the-fold-in-web-design)
 [Life Below 600 pixels](http://iampaddy.com/lifebelow600/)
 [Why "The Fold" is a myth - and where to put your call to action](https://blog.kissmetrics.com/why-the-fold-is-a-myth/)
 

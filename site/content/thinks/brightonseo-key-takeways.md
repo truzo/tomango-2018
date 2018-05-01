@@ -87,6 +87,6 @@ But this doesn't mean you'll expect a seamless and instantaneous experiences jus
 
 All in all a great talk and a great session, with another pair of brilliant chatbot presentations following Emilie's.
 
-We've already got a couple of ideas in mind for clients for how they might utilise chatbots...we'll be checking out the drag-and-drop editors such as [Chatfuel](http://www.chatfuel.com) as well as the more technical platforms such as [ai.ai!](http://www.ai.ai)
+We've already got a couple of ideas in mind for clients for how they might utilise chatbots...we'll be checking out the drag-and-drop editors such as [Chatfuel](http://www.chatfuel.com) as well as the more technical platforms such as ai.ai!
 
 

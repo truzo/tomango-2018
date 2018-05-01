@@ -99,15 +99,15 @@ So why not advertise *yourself*, and try and find the elusive 'one'?
 
 ![](images/blog/shutterstock_252720688.jpg)
 
-Well, that's the current experiment that [Jason Quey ](https://www.decibite.com/blog/humor/find-the-perfect-spouse-on-facebook/)- a marketer from Spokane, Washington - is undertaking. And it's a great example of just how tailored and targeted you can make Facebook Ads.
+Well, that's the current experiment that Jason Quey - a marketer from Spokane, Washington - is undertaking. And it's a great example of just how tailored and targeted you can make Facebook Ads.
 
-It's worth reading [Jason's whole post](https://www.decibite.com/blog/humor/find-the-perfect-spouse-on-facebook/) to see just how he narrowed it down. His goal was to do all this at a level that was more cost-effective than using a conventional dating site - so it was in his interest to get his campaign targeting as on-the-nose as possible to keep costs to a minimum.
+It's worth reading Jason's whole post to see just how he narrowed it down. His goal was to do all this at a level that was more cost-effective than using a conventional dating site - so it was in his interest to get his campaign targeting as on-the-nose as possible to keep costs to a minimum.
 
 Jason first set about creating a kick-ass landing page to show off his best self - because as we all know, there's no point in getting a click on an ad if you can't match expectations on your website.
 
 Then, using the audience filter, he zoned in on his perfect match; *single women, around his age with no kids, with his religion, and with an interest in keeping fit.*
 
-After that he then added some caveats to these - for example, that the interest in sports didn't include golf (again, [read his post](https://www.decibite.com/blog/humor/find-the-perfect-spouse-on-facebook/) to see the full breakdown).
+After that he then added some caveats to these - for example, that the interest in sports didn't include golf (again, read his post to see the full breakdown).
 
 Then, using the [AIDA marketing model](http://www.smartinsights.com/traffic-building-strategy/offer-and-message-development/aida-model/) as inspiration (Awareness, Interest, Desire, Action), he began.
 

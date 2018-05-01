@@ -21,8 +21,6 @@ But that’s a thing of the past with a content management system (CMS) like Wor
 - Got an urgent notice to put on your website? Not a problem.
 - Restructured your business and need to completely reorganise your website? Simple - WordPress has got it covered.
 
-
-
 ## Flexibility
 
 As well as offering great ease of use, Wordpress is very scaleable. Many discount it as just a blogging platform but they couldn’t be more wrong. Although it started as blogging software in 2003, it’s been a fully functioning CMS since 2005 giving you the ability to manage pages, photos, products and much more. There really is very little that Wordpress cannot do.
@@ -43,27 +41,14 @@ The key to marketing a site well is to get quality optimisation in all areas of 
 
 - Not quite – [wordpress.com](http://wordpress.com) offers free blogs and works in a similar way to tumblr and blogger. It’s a great start if you want to try your hand at blogging but you’ll quickly find it has limits. [Wordpress.org](http://wordpress.org) is free and it supports blogging really well – but it’s so much more than that! With wordpress.org you have full access to the source code, get all the marketing benefits of the great system architecture and have the ability to fully change the appearance and functionality of the site to your needs
 
-
-
 ### Can’t I just set up a WordPress site myself?
-
 
 - It’s not quite that simple. Although the initial installation of Wordpress only takes 5 minutes, developing the website takes a fair amount longer than that! We strive to make our websites as user friendly and flexible as possible and this take time to get perfect. For us, a default theme and a couple of plugins just won’t cut it.
 
-
-
 ### Don’t all Wordpress sites look the same?
-
 
 - Certainly not! There’s a bit of a preconception that all WordPress sites look identical and there’s no room for flexibility. Sure – if you use a default theme or even a premium theme bought online, there’s a good chance that it will look similar to someone else’s websites. It’s estimated that over 15% of all websites in the world use Wordpress! We’re passionate about making websites that work hard for your business and fit your brand perfectly and the only way to ensure this is to design the site from the ground up. Need further proof? Check out these websites using Wordpress and see the possibilities:
 
 - [alisonbuchanan.co.uk](http://alisonbuchanan.co.uk/)
-- [www.youthworkconference.co.uk](http://www.youthworkconference.co.uk/)
 - [sussexlettingshop.co.uk](http://sussexlettingshop.co.uk/)
-
-
-
-
-
-
 

@@ -58,7 +58,7 @@ Thanks, and Merry Christmas!
 
 ![](images/blog/christmas_robin.jpg)
 
-7. The christmas cracker was invented by a London sweet shop owner called Tom Smith. In 1847, after spotting French bonbons wrapped in paper with a twist at each end, he sold similar sweets with a “love motto” inside. He then included a little trinket and a “bang”. His "[Bangs of Expectation](https://norfolkrecordofficeblog.org/2015/12/22/bangs-of-expectation-how-a-log-fire-sparked-the-idea-for-britains-first-christmas-cracker/)" included gifts such as jewellery and miniature dolls. By 1900, he was selling 13 million a year.
+7. The christmas cracker was invented by a London sweet shop owner called Tom Smith. In 1847, after spotting French bonbons wrapped in paper with a twist at each end, he sold similar sweets with a “love motto” inside. He then included a little trinket and a “bang”. His "Bangs of Expectation" included gifts such as jewellery and miniature dolls. By 1900, he was selling 13 million a year.
 
 8. According to tradition, you should eat one mince pie on each of the 12 days of Christmas to bring good luck.
 

@@ -54,7 +54,7 @@ The largest part of our business is still website design and development.  We l
 
 ### Taxi Rater
 
-[Taxi Rater](http://www.taxirater.co.uk/) is a new web-based business started by entrepreneur Trevor Tomes. The site allows users to compare fares of a number of different taxi firms for the same journey, saving the time and hassle of phoning round for different quotes.
+Taxi Rater is a new web-based business started by entrepreneur Trevor Tomes. The site allows users to compare fares of a number of different taxi firms for the same journey, saving the time and hassle of phoning round for different quotes.
 
 Trevor has over 25 years experience in the taxi industry and when he first contacted us, he had the broad idea in place but the details relating to how the fares would be calculated and results displayed weren't established.  Following a thorough consultation process, we worked out a detailed specification that we could work from to design and build the website.
 

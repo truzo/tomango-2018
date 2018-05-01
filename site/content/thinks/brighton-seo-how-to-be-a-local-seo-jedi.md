@@ -55,6 +55,6 @@ The slides from this session - *How to Be A Local SEO Jedi* - are below.
 
 {{< slideshare "34CvxlvnS1kkgm" >}}
 
-For more from Greg, you can follow him [@GregGifford](http://www,twitter.com/greggifford), see more of his slide decks on [Slideshare](http://www.slideshare.net/GregGifford/), or read more of his writing on [SearchEngineLand](http://searchengineland.com/author/greg-gifford).
+For more from Greg, you can follow him [@GregGifford](http://www.twitter.com/greggifford), see more of his slide decks on [Slideshare](http://www.slideshare.net/GregGifford/), or read more of his writing on [SearchEngineLand](http://searchengineland.com/author/greg-gifford).
 
 
