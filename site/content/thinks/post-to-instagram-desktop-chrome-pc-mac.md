@@ -13,7 +13,7 @@ One particular bugbear of mine has been with Instagram. As a rule, Instagram is 
 
 Another thing I’ve found a bit of pain was that, although you can view your Instagram feed on desktop (although Instagram Stories was only a recent addition to this), actually posting images from non-mobile devices is a PITA.
 
-I’ve actually dabbled with bits of softare that mimic a mobile environment before – Gramblr being one that got used for all of five minutes – but it turns out there’s a much better, cheaper and simpler way around it!
+I’ve actually dabbled with bits of software that mimic a mobile environment before – Gramblr being one that got used for all of five minutes – but it turns out there’s a much better, cheaper and simpler way around it!
 
 ## How to post to Instagram from Google Chrome
 
