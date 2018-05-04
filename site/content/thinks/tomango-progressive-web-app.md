@@ -2,7 +2,7 @@
 title: "Tomango site relaunch: Building our JAMstack site"
 author: "trys"
 date: 2018-05-03 09:26:00
-description: "Our new site now runs quickly, anywhere in the world, regardless of internet connectivity."
+description: "Our new site runs quickly, anywhere in the world, regardless of internet connectivity."
 thinks/categories: 
  - web-design
 ---
@@ -17,7 +17,7 @@ I'm going to dive into some of the technical decisions made building this site i
 
 ## Hugo
 
-Hugo is our static site generator (SSG) of choice. It's **really quick**. After using it on a number client projects, it became clear that our new site _had_ to be built with Hugo.
+Hugo is our static site generator (SSG) of choice. It's **really quick**. After using it on a number of client projects, it became clear that our new site _had_ to be built with Hugo.
 
 The big benefit of an SSG, is how it moves all the heavy lifting to the build time.
 
@@ -193,7 +193,7 @@ https://res.cloudinary.com/[account]/image/fetch/w_600/[url]{{ .Params.image }}
 
 ## Netlify
 
-Finally, the biggest piece of the puzzle, hosting with Netlify. I think most colleagues are sick of hearing me wax lyrical about them, but I can't get over how good their service is. I've never come across a company like it.
+Finally, the biggest piece of the puzzle, hosting with Netlify. I think most of my colleagues are sick of hearing me wax lyrical about them, but I can't get over how good their service is. I've never come across a company like it.
 
 We've moved from a single dedicated server in Surrey, to a global content delivery network with Git integration, server-side builds, cloud functions, instant cache invalidation, brilliant support and a great admin system.
 
