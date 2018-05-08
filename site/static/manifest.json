@@ -1,6 +1,8 @@
 {
+    "lang": "en",
     "name": "Tomango",
     "short_name": "Tomango",
+    "description": "We help ambitious businesses grow by getting more of the customers they want.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,5 +17,6 @@
     ],
     "theme_color": "#000000",
     "background_color": "#000000",
-    "display": "standalone"
+    "start_url": "/",
+    "display": "minimal-ui"
 }
