@@ -1,6 +1,7 @@
 ---
 title: Brand
 description: By creating a strong brand identity, we'll help you get more of the type of customers you want, at the prices you want to charge.
+seo_title: "Brand Identity Sussex | Brand Identity Consultants in Sussex"
 image: images/creates/brand.jpg
 weight: 10
 related: 
