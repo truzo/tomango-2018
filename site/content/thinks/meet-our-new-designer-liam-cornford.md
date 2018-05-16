@@ -30,14 +30,16 @@ Not always, no. I worked for quite a long time in photography – advertising, c
 
 So for quite a while I did photography and design alongside one another.
 
-It’s only been in last four or five years that I’ve realised I wanted to be a designer. I still love photography, but I realised that being a self-employed photographer is hard work. Sometimes doing what you think is a “dream job” still means there are less glamourous parts of the role. Like admin. Not my strongest suit. I hoping there’ll be some opportunities to do quite a bit of photography here.
+It’s only been in last four or five years that I’ve realised I wanted to be a designer. I still love photography, but I realised that being a self-employed photographer is hard work. Sometimes doing what you think is a “dream job” still means there are less glamourous parts of the role. Like admin. Not my strongest suit. I'm hoping there’ll be some opportunities to do quite a bit of photography here.
+
+![](images/blog/TRM_2561-2000.jpg)
 
 ### What do you like to do when you're not at work - I hear you're a keen cyclist
 Yeh, the rumour is true. The story goes that I used to play rugby and football a lot when I was younger, but I broke my leg playing rugby and had to have a couple of pins and a plate put in my leg which meant I couldn’t really run much without feeling quite a bit of pain.
 
 I knew I needed to find a low-impact sport to keep fit and so I bought myself a mountain bike. I loved it but wanted go faster, so I bought a race bike and started riding to work and it went from there and now it’s became my real passion. It’s been good for me too; I used to be about 16 stone when I was playing rugby – I’m just under 13 stone now and feel much fitter. And happier.
 
-![](images/blog/TRM_2561-2000.jpg)
+![](images/blog/liam-cycling.jpg)
 
 ### Now what's this rumour about you stealing a horse?
 Ha! Yes, right. Let me explain about that;

@@ -15,10 +15,10 @@ Liam is our Designer and joined Tomango in April 2018.
 He works alongside our Creative Director Mike on both web and print campaigns for our clients. With experience in print, website design and photography, he's a strong multi-discipline designer and natural strategist.
 
 ## What’s your perfect breakfast?
-Smashed Avocado, 2 Poached Eggs, Maple Syrup Bacon (Thick Cut) on Sourdough Toast
+Smashed avocado, two poached eggs, maple syrup bacon (thick cut) on sourdough toast.
 
 ## Favourite sandwich filling?
-Coronation Chicken
+Coronation Chicken.
 
 ## Favourite film, TV programme, book?
 Film: The Batman Trilogy by Christopher Nolan. TV programme: Madmen. Book: The World of Cycling According to G by Geraint Thomas.
