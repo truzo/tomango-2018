@@ -2,7 +2,7 @@
 title: "Meet our new designer - Liam Cornford"
 author: "mark"
 date: 2018-05-16 15:22:57
-description: 123
+description: "We're delighted to unveil the latest addition to the Tomango team, Liam Cornford"
 banner: images/blog/TRM_2561-2000.jpg
 image: images/blog/TRM_2561-2000.jpg
 thinks/categories: 
