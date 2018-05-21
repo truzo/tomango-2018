@@ -22,4 +22,13 @@ As part of the team, you'll benefit from:
 - All the tea and coffee you can drink, plus regular cake
 
 ## Current vacancies
-There are currently no vacancies, but we're always on the look out for talented people. [Email your CV](mailto:jobs@tomango.co.uk).
+
+### [Freelance Web Developer](/careers/freelance-web-developer/)
+
+We’re looking for great Web Developers to work on a number of projects coming up in the next few months.
+
+{{< button "/careers/freelance-web-developer/" >}}More details{{</ button >}}
+
+---
+
+We're always on the look out for talented people. [Email your CV](mailto:jobs@tomango.co.uk).
