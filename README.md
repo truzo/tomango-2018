@@ -11,6 +11,5 @@ OR
 
 npm start
 
-cd site
-hugo server -D -d '../dist'
+hugo server -D -d '../dist' -s './site'
 ```

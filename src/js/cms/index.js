@@ -8,5 +8,5 @@ import Youtube from './components/youtube'
 CMS.registerPreviewStyle('/css/main.css')
 CMS.registerPreviewStyle('/css/cms.css')
 CMS.registerEditorComponent(Youtube);
-CMS.registerPreviewTemplate('blog', PostPreview)
+CMS.registerPreviewTemplate('thinks', PostPreview)
 CMS.registerWidget('checkbox', Checkbox)
