@@ -1,12 +1,12 @@
 ---
-title: "Building Paul the Octopus"
-author: "trys"
-date: 2018-06-02 12:00:00
+title: Building Paul the Octopus 2018
+date: 2018-06-02T12:00:00.000Z
 description: How we built this year's World Cup prediction game with Nuxt & Netlify
 image: images/blog/paul-the-octopus.jpg
 banner: images/blog/paul-the-octopus-banner.jpg
-thinks/categories: 
- - web-design
+thinks/categories:
+  - web-design
+author: trys
 ---
 
 2018 marks the third incarnation of [Paul the Octopus](https://paultheoctop.us), our World Cup predictions game created in homage to the [mystic mollusc](https://en.wikipedia.org/wiki/Paul_the_Octopus).
