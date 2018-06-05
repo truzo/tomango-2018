@@ -4,11 +4,12 @@ date: 2016-06-08T16:06:25.000Z
 description: >-
   I’ll be covering how I went about building a micro social-network/game, what
   worked well and what pitfalls I fell into.
+image: ''
 thinks/categories:
   - web-design
 author: trys
 ---
-As you will no doubt have seen, Euro 2016 is almost upon us and football fever is beginning to take over conversations - certainly in our office anyway! If you’re a keen reader of this blog, you may have also seen that we launched [Paul the Octopus](https://www.paultheoctop.us/), our predictions game built for this very event.
+As you will no doubt have seen, Euro 2016 is almost upon us and football fever is beginning to take over conversations - certainly in our office anyway! If you’re a keen reader of this blog, you may have also seen that we launched [Paul the Octopus](https://paultheoctop.us), our predictions game built for this very event.
 
 Tom has already announced the launch and explained the key features, so if you’re looking for rules, tips or information about the mystic mollusc, check out [his article](/thinks/paul-the-octopus-euro-2016/).
 
