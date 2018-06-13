@@ -40,9 +40,11 @@ Our guide, "How to create a [website design](/creates/web) brief" will help you 
 
 We've broken the guide down into sections to make it a bit more manageable. There are 14 sections in total.
 
-Have a read through the guide first, then download our [free website design brief template](images/blog/Website-design-brief-template.docx) which you can fill in offline.
+Have a read through the guide first, then
 
-> Creating a brief for a brand project? Read our post [How to create a brand design brief](/thinks/how-to-create-a-brand-design-brief/)
+> Download the [free website design brief template](images/blog/Website-design-brief-template.docx).
+
+Creating a brief for a brand project? Read our post [How to create a brand design brief](/thinks/how-to-create-a-brand-design-brief/).
 
 
 ## Why a good website design brief is important
@@ -69,6 +71,8 @@ First of all, the agency needs to know a bit about your company to understand th
 1. How many staff work for the business
 1. Annual turnover - this is the quickest way to get an idea of the scale of your operation
 1. The short and long term goals of the business - try and keep this to one or two sentences. For example "We want to increase our sales by 50% in two years, aiming for a 20% increase after the first 12 months."
+
+> Download the [free website design brief template](images/blog/Website-design-brief-template.docx).
 
 ## Aims of the project
 
@@ -144,6 +148,8 @@ What content needs to be updated frequently, and who do you see doing it? Do you
 - Are there any third party systems you need to integrate with? If you're an Estate Agent, do you need to link in  to RightMove or Zoopla? Do you need to link to a CRM or Accounts software?
 - Does the website need to be available in other languages, and if so, who'll be doing the translations?
 
+> Download the [free website design brief template](images/blog/Website-design-brief-template.docx).
+
 ## Future developments
 
 In order to deliver the best return on your investment, your website should be future-proofed as much as possible. If you can help the web agency look further down the road, they can make your new website work harder for longer.
@@ -162,7 +168,7 @@ Start thinking about the content for the new website as early as possible.
 1. What images do you need, and what have you got? Poor images can undermine even the most beautiful website. Consider employing a professional photographer to take the exact pictures you need
 1. Have you got the right quality video clips or other assets that you need, such as graphics or downloadable documents?
 
-> If there's one thing you can do to help make your web project run smoothly it's to get your content sorted early
+> If there's one thing you can do to help make your web project run smoothly, it's to get your content sorted early.
 
 ## Design brief
 
@@ -197,6 +203,8 @@ Offline marketing - what other traditional marketing are you involved in?
 
 - Is the website project part of a rebrand? Is the rebrand part of this project - do you need the design agency to quote for this too?
 
+> Download the [free website design brief template](images/blog/Website-design-brief-template.docx).
+
 ## Budget and timescales
 
 Don't be in any doubt; providing a budget is extremely important.
@@ -229,6 +237,7 @@ This is often overlooked in a website design brief, but is actually very importa
 1. What needs updating frequently? These might be the updates that it makes sense for you to do yourselves using a CMS. Less frequent changes, or changes requiring creative input might be better carried out by the design agency
 1. How much input will you need from the web agency and how often?
 
+> Download the [free website design brief template](images/blog/Website-design-brief-template.docx).
 
 ## Technical
 
