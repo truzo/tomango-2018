@@ -1,18 +1,20 @@
 ---
-title: "What sort of website do I need?"
-author: "mark"
-date: 2016-01-14 15:10:57
-description: So you’ve decided you need a new website. Your next step is to create a brief for the project. But before you do that, you need to work out what sort of website you need.
+title: What type of website do I need?
+date: 2016-01-14T15:10:57.000Z
+description: >-
+  So you’ve decided you need a new website. Your next step is to create a brief
+  for the project. But before you do that, you need to work out what sort of
+  website you need.
+image: /images/blog/hailsham-town-council-banner.jpg
 banner: images/blog/hailsham-town-council-banner.jpg
-bannerLarge: images/blog/hailsham-town-council-banner.jpg
-thinks/categories: 
- - tips-and-advice
- - web-design
+thinks/categories:
+  - tips-and-advice
+  - web-design
+author: mark
 ---
-
 So you've [decided you need a new website](/thinks/do-i-need-a-new-website/).
 
-Your next step is to create a brief for the project. But before you do that, you need to work out a framework of the functionality; in other words, what sort of website you need.
+Your next step is to create a brief for the project. But before you do that, you need to work out a framework of the functionality; in other words, what type of website you need.
 
 Lots of clients come to us without a fully developed brief, so we work with them in the planning stage to make sure everyone's clear on what the project's trying to achieve.
 
@@ -28,20 +30,20 @@ This question helps frame the whole project, and establishes the reason you're g
 
 You might be aiming to:
 
-- Raise your brand profile
-- Increase sales by getting more customers
-- Sell more to existing customers
-- Sell more of a new product or service
-- Get more customers or orders of a particular type
+* Raise your brand profile
+* Increase sales by getting more customers
+* Sell more to existing customers
+* Sell more of a new product or service
+* Get more customers or orders of a particular type
 
 Or maybe you want to:
 
-- Improve communication with your customers
-- Make your service quicker by taking it online
-- Reduce costs by being more efficient
-- Save money on postage
+* Improve communication with your customers
+* Make your service quicker by taking it online
+* Reduce costs by being more efficient
+* Save money on postage
 
-These are some of the more common aims we discuss with our clients. Some come to us with a completely new idea, or something very niche to their market, but your website should be doing *something* to improve your bottom line.
+These are some of the more common aims we discuss with our clients. Some come to us with a completely new idea, or something very niche to their market, but your website should be doing _something_ to improve your bottom line.
 
 Otherwise, what's the point?
 
@@ -55,25 +57,25 @@ You need to know who your user is to know how to make the site easy (and enjoyab
 
 Perhaps you want to work with small independent retailers.
 
-This is your *type* of customer.
+This is your _type_ of customer.
 
-But you also need to look beyond this to the actual *person* using the site.
+But you also need to look beyond this to the actual _person_ using the site.
 
 How old are they? How tech-savvy are they? Do you think they'll be using a desktop machine (a PC or Mac, or a laptop) or a tablet or phone? Is your website going to be used by them at work? Or at home, on the sofa with a glass of wine in their hand?
 
 It's worth putting in a bit of time and effort to create [Personas](/thinks/what-are-personas/) - it really helps everyone involved in the project visualise the people who'll be using the site (and it's quite good fun, too).
 
-![](images/blog/personas-examples.jpg "Personas bring your site's users to life")
+![Examples of Personas](/images/blog/personas-examples.jpg)
 
 ### How will they find your site - where will they be coming from?
 
 Is your customer going to search for what you sell, or will they already know about you from somewhere else?
 
-*Exhibit A:* One of our clients operates in a very tight-knit industry where everyone knows everyone else; a potential new client wouldn't ever search for what they do.
+_Exhibit A:_ One of our clients operates in a very tight-knit industry where everyone knows everyone else; a potential new client wouldn't ever search for what they do.
 
-*Exhibit B:* Another client sells a niche product to enthusiasts. These users will definitely search for a supplier of these products because they're hard to find.
+_Exhibit B:_ Another client sells a niche product to enthusiasts. These users will definitely search for a supplier of these products because they're hard to find.
 
-If your users *are* searching, what will they search for? Will it be the type of product ("purple leather diary") or the product name ("Thunderbolt 2000 vacuum cleaner")?
+If your users _are_ searching, what will they search for? Will it be the type of product ("purple leather diary") or the product name ("Thunderbolt 2000 vacuum cleaner")?
 
 This question leads into what other marketing you do, away from the website; but more about that later.
 
@@ -87,9 +89,9 @@ The order of their questions, and the answers you need to give them, can help yo
 
 Here's an example of a typical thought-process:
 
-- *Do they do what I want?* Show your full range of services clearly, with links to details
-- *What's their track record?* Show examples of work you've done for other customers
-- *How will they go about it - will I like working with these people?* Describe your processes and get across your personality
+* _Do they do what I want?_ Show your full range of services clearly, with links to details
+* _What's their track record?_ Show examples of work you've done for other customers
+* _How will they go about it - will I like working with these people?_ Describe your processes and get across your personality
 
 If you work out how to help your user through the site, answering their questions along the way, you'll turn more of your visitors into customers.
 
@@ -101,7 +103,7 @@ Are you doing mailouts, exhibitions, seminars, cold-calling? How does the site n
 
 If you're doing a direct mail campaign, you might want to include a specific URL for the user to go to (e.g. www.mydomainname.com/offer). If you're planning on running seminars, it works boths ways; you can promote the seminars on the website and then later, refer the delegates in the room back to your online resources.
 
-### What about online marketing?
+### What about digital marketing?
 
 If you know your customers use search, plan your online strategy early.
 
@@ -129,7 +131,7 @@ Brochure sites range in size from just a handful of pages to several dozen, but 
 
 If you want to show off your work, your new website needs to include a portfolio/case studies/gallery. If customers want to see examples of what you've done for others to help them decide whether to buy from you, this is something you need to do effectively.
 
-![](images/blog/ece-projects-1024x710.jpg "ECE Architecture's projects can be shortlisted using a number of filters")
+![Portfolio website design example - ECE Architecture](/images/blog/ece-projects-1024x710.jpg)
 
 You should think about how your work is presented, what information customers will want to know about each project, and how best to organise your work to help them find what they're looking for.
 
@@ -137,7 +139,7 @@ You should think about how your work is presented, what information customers wi
 
 If you want to sell your products online, you need an ecommerce site. You might want an online shop with categories of products, product details pages, basket and checkout etc., but equally you might want to use some of these features to show your product range, without taking online payments.
 
-![](images/blog/sussex-oak-1024x641.jpg "The Sussex Oak website has an ecommerce framework, but no online payments")
+![Ecommerce website example - Sussex Oak](/images/blog/sussex-oak-1024x641.jpg)
 
 For [Sussex Oak](http://www.oakandreclaim.com), we created the framework of a shop, but instead of paying online, customers add products to an enquiry list, which is picked up by the site administrator.
 
@@ -157,7 +159,7 @@ If you're running a holiday cottages business, or running ticketed events, you'r
 
 There are plenty of good third party systems out there that can be integrated into your site to handle calendars and availability which can easily be hooked up to your preferred payment provider.
 
-![](images/blog/nutley-edge-1013x1024.jpg "The Nutley Edge site integrates with a third party booking system to handle calendars and availability, and to take online bookings")
+![Bookings website design example - Nutley Edge Cottages](/images/blog/nutley-edge-1013x1024.jpg)
 
 ## Membership site
 
@@ -179,12 +181,10 @@ This sort of site suits charities, not-for-profit groups and local government.
 
 If your organisation needs to make information available online to service users, you need a well-organised site with a structure that's easy to follow across all devices and for all users. Other considerations like accessibility might need to be included in your brief too.
 
-![](images/blog/hailsham-town-council.jpg "The Hailsham Town Council website makes a wide range of information accessible to all the town's residents")
+![Information website design example - Hailsham Town Council](/images/blog/hailsham-town-council.jpg)
 
 ## Common interest site
 
 These sites are used for sharing information and resources on a particular subject. They might include directories, online resources, social elements and blogs.
 
 Let's say you're an expert in the haulage industry, and you've spotted an opportunity for a site that carries news stories, blog posts, premium content and a directory of operators. Build relevant traffic coming to the site, sell advertising space and job listings and hey presto - you've got a self-sufficient business.
-
-
