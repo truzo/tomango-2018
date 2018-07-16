@@ -28,11 +28,7 @@ This guide will help you prepare the ideal brief for your own [brand design](/cr
 
 Read through the post below, then
 
-> Download our free 
->
-> [brand identity design brief template](images/blog/Brand-design-brief-template.docx)
->
->  to get started.
+> Download our free [brand identity design brief template](images/blog/Brand-design-brief-template.docx).
 
 ### What is a brand design brief?
 
@@ -146,11 +142,7 @@ What other plans for the business might need to be considered when creating your
 
 Your completed brand design brief is a vital document to have at the start of your project.
 
-> The first thing you need to do is 
->
-> [download the free design brief template](images/blog/Brand-design-brief-template.docx)
->
->  and get it completed.
+> So the first thing you need to do is [download the free design brief template](images/blog/Brand-design-brief-template.docx) and get it completed.
 
 You might have already engaged your chosen agency, in which case once you've completed it, you need to share it with them as soon as possible.
 
