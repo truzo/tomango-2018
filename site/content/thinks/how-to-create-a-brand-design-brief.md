@@ -11,11 +11,28 @@ thinks/categories:
   - tips-and-advice
 author: mark
 ---
-Before we start work on any brand project, we need to establish a clear design brief with the client.
+It's well known that having a strong brand identity can make a massive difference to any business.
+
+Having the right brand identity helps you:
+
+1. Get more of the customers you want
+2. Keep your best customers for longer
+3. Charge the right price for what you sell
+4. Stand apart from your competitors
+
+[Read about how Agon Systems tripled its turnover in three years to £5 million by investing in its brand identity](https://www.tomango.co.uk/created/agon-systems/).
+
+But before we start work on any brand identity project, we need to establish a clear design brief with the client.
 
 This guide will help you prepare the ideal brief for your own [brand design](/creates/brand/) project.
 
-Read through the post below, then download our free [brand identity design brief template](images/blog/Brand-design-brief-template.docx) to get started.
+Read through the post below, then
+
+> Download our free 
+>
+> [brand identity design brief template](images/blog/Brand-design-brief-template.docx)
+>
+>  to get started.
 
 ### What is a brand design brief?
 
@@ -129,7 +146,11 @@ What other plans for the business might need to be considered when creating your
 
 Your completed brand design brief is a vital document to have at the start of your project.
 
-So first off, [download the free design brief template](images/blog/Brand-design-brief-template.docx) now, and get it completed.
+> The first thing you need to do is 
+>
+> [download the free design brief template](images/blog/Brand-design-brief-template.docx)
+>
+>  and get it completed.
 
 You might have already engaged your chosen agency, in which case once you've completed it, you need to share it with them as soon as possible.
 
