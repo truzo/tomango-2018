@@ -11,7 +11,7 @@ thinks/categories:
   - tips-and-advice
 author: mark
 ---
-It's well known that having a strong brand identity can make a massive difference to any business.
+It's well known that having a strong [brand identity](https://www.tomango.co.uk/creates/brand/) can make a massive difference to any business.
 
 Having the right brand identity helps you:
 
