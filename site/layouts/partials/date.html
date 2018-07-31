@@ -1,2 +1,2 @@
 {{ $day := .Format "2" }}
-{{ $day }}{{ if or (eq $day "1") (eq $day "11") (eq $day "21") (eq $day "31") }}st{{ else if or (eq $day "2") (eq $day "12") (eq $day "22") }}nd{{ else if or (eq $day "3") (eq $day "13") (eq $day "23") }}rd{{ else }}th{{ end }} {{ .Format "January 2006" }}
+{{ $day }}{{ if or (eq $day "1") (eq $day "21") (eq $day "31") }}st{{ else if or (eq $day "2") (eq $day "12") (eq $day "22") }}nd{{ else if or (eq $day "3") (eq $day "13") (eq $day "23") }}rd{{ else }}th{{ end }} {{ .Format "January 2006" }}
