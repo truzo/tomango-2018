@@ -36,6 +36,5 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Mike", value: "mike" }
           - { label: "Trys", value: "trys" }
           - { label: "Tom", value: "tom" }
-          - { label: "Steve", value: "steve" }
           - { label: "Liam", value: "liam" }
           - { label: "Guest", value: "guest" }
