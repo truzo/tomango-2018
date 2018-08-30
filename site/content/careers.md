@@ -23,11 +23,11 @@ As part of the team, you'll benefit from:
 
 ## Current vacancies
 
-### [Freelance Web Developer](/careers/freelance-web-developer/)
+### [Web Developer](/careers/web-developer/)
 
-We’re looking for great Web Developers to work on a number of projects coming up in the next few months.
+We're looking for a talented experienced web developer to become a key part of our development team.
 
-{{< button "/careers/freelance-web-developer/" >}}More details{{</ button >}}
+{{< button "/careers/web-developer/" >}}More details{{</ button >}}
 
 ---
 
