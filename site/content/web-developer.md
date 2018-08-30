@@ -54,7 +54,7 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 - Web head
 - Methodical and practical
-- Ability to work under pressure while produce high-quality work
+- Ability to work under pressure while producing high-quality work
 - Ability to plan own workload
 - Commercially aware
 - Self-motivated, comfortable leading and enthusing others
