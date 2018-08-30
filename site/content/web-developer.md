@@ -10,7 +10,7 @@ description: "We're looking for a talented experienced web developer to become a
 
 ## About Tomango
 
-Tomango creates beautiful brands and industry-leading websites for ambitious businesses across the UK. Based in a converted farm building in a rural location about 5 minutes from Lewes and 20 minutes from Brighton, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a huge kick from seeing our clients succeed.
+Tomango creates beautiful brands and industry-leading websites for ambitious businesses across the UK. Based in a converted farm building in a rural location about five minutes from Lewes and 20 minutes from Brighton, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a huge kick from seeing our clients succeed.
 
 This is an exciting opportunity to join a growing company and become a key part of our development team.
 
@@ -32,7 +32,7 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 ## Attributes and skills
 
-- 3 years of experience in web development
+- Three years of experience in web development
 - Strong HTML, CSS, JavaScript and PHP knowledge
 - Solid understanding of web performance and responsive design
 - Ability to convert designs (Sketch) into semantic and performant websites
@@ -47,7 +47,7 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 - Understanding of Git
 - Experience managing web servers and hosting infrastructure
 - Experience of working in a creative agency
-- Understanding of UX patterns, SEO and web best-practises
+- Understanding of UX patterns, technical SEO and web best-practices
 - Knowledge of REST APIs
 
 ## We’re looking for someone with the following personality traits
