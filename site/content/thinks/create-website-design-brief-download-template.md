@@ -17,7 +17,7 @@ author: mark
 
 ## Good news!
 
-Since I wrote this post in April 2016, the way we approach our projects has changed; to the point that I now fundamentally disagree with what I wrote below only 14 months ago. We've found the best outcomes for projects come when we engage with our client _before_ any sort of detailed brief has been written.
+Since I wrote this post in April 2016, the way we approach our projects has changed; to the point that I now fundamentally disagree with what I wrote below only 14 months ago. We've found the best outcomes{{< truncate >}} for projects come when we engage with our client _before_ any sort of detailed brief has been written.
 
 So I just saved you several hours work ;o)
 
