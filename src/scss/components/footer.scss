@@ -116,6 +116,13 @@
 			margin-left: auto;
 		}
 	}
+
+	@include mq(1372px) {
+		&-group {
+			margin-left: 341px;
+			max-width: 788px;
+		}
+	}
 }
 
 .copyright {
