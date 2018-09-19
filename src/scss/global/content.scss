@@ -16,8 +16,14 @@
 	}
 
 	ul ul,
-	ol ol {
+	ol ol,
+	ul ol,
+	ol ul {
 		margin-top: 1.5rem;
+	}
+
+	ul ol li  {
+		list-style: lower-alpha;
 	}
 
 	div[style*="56.25"] {

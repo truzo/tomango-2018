@@ -12,5 +12,3 @@ Hi. I’m Mark Vaesen, the founder of Tomango.
 Sign up to receive our weekly email—containing ideas, techniques and tips to help you grow your business by maximising your brand and online presence.
 
 {{< subscribe >}}
-
-<small>You can unsubscribe in one click, and we'll never share your email address.</small>

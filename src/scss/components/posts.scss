@@ -95,3 +95,30 @@
 		}
 	}
 }
+
+.truncator {
+	margin-bottom: 0;
+}
+
+.truncate {
+	button {
+		font: inherit;
+		color: #E8192D;
+		padding: 0;
+		border: none;
+		background: transparent;
+		border-bottom: 2px solid $light;
+		font-weight: 400;
+		transition: 300ms border-bottom-color;
+		line-height: 1;
+
+		&:hover {
+			border-bottom-color: #E8192D;
+		}
+	}
+}
+
+.truncator ~ *,
+.truncator .extra-truncation {
+	display: none;
+}

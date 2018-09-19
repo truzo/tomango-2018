@@ -5,7 +5,7 @@ with a few additional edits borrowed from Filament Group's. (https://www.filamen
 */
 
 (function() {
-  const version = 'v3';
+  const version = 'v4';
   const cacheName = version + '::tomango-2018:';
 
   const staticCacheName = cacheName + 'static';

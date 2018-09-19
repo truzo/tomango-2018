@@ -69,9 +69,9 @@
 	}
 
 	@include mq(65em) {
-		a:nth-child(7n+2),
-		a:nth-child(7n+3),
-		a:nth-child(7n+4) {
+		a:nth-child(3n+2),
+		a:nth-child(3n+3),
+		a:nth-child(3n+4) {
 			width: 33.333%;
 		}
 	}

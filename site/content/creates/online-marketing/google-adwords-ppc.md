@@ -1,6 +1,6 @@
 ---
 title: Google Adwords & PPC
-seo_title: Google Adwords Consultants Sussex - PPC Experts | Tomango
+seo_title: Google Adwords Consultants Sussex | PPC Experts | Tomango
 description: Want to increase traffic and engagement immediately? Using paid digital marketing channels can be a great way to get quick results.
 image: images/creates/ppc.jpg
 weight: 30
