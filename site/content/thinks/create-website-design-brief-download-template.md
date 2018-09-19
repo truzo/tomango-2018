@@ -11,26 +11,27 @@ thinks/categories:
   - web-design
 author: mark
 ---
-### Update - 22nd June 2017
+### Update - do yourself a favour and read this first
 
 {{% update %}}
 
 ## Good news!
 
-Since I wrote this post in April 2016, the way we approach our projects has changed; to the point that I now fundamentally disagree with what I wrote below only 14 months ago. We've found the best outcomes{{< truncate >}} for projects come when we engage with our client _before_ any sort of detailed brief has been written.
+Since I wrote this post, the way we approach our projects has changed; to the point that I now fundamentally disagree with what I originally wrote. {{< truncate >}} We've found the best outcomes for projects come when we engage with our client **before** any sort of detailed brief has been written.
 
 So I just saved you several hours work ;o)
 
 We add value right from day one - from the very first conversation we have with you. You need us to help you create your brief, based on what you want to achieve from the project. Instead of deliberating about what you need and slaving away writing a long document, you're better off getting in touch _now_ so we can chat about your project in a bit more detail.
 
-I thought about deleting this post entirely, but I know people still find it useful when they want to approach their website project the way we used to do it.
+Call me on 01273 814019, or contact us through the website, so we can start helping you right away.
+
+I thought about deleting this post entirely, but I know people still find it useful when they want to approach their website project the old-fashioned way.
 
 So if you've been asked to put together a brief for your company's new website, and there's no way out of it, go ahead - knock yourself out, and feel free to use this post and the download to help you out.
 
-But if you want to do things the most up-to-date way, get the best results and receive envious looks from your colleagues as plaudits come your way, don't bother - pick up the [phone](/contact/) or drop us an [email](mailto:hello@tomango.co.uk) and let's talk.
+But if you want to do things a better way, get the best results from your project and receive envious looks from your colleagues as plaudits come your way, don't bother - pick up the [phone](/contact/) or drop us an [email](mailto:hello@tomango.co.uk) and let's talk.
 
-_Mark Vaesen_\
-22nd June 2017
+_Mark Vaesen_
 {{%/ update %}}
 
 So you've been asked to create a brief for a new website.
@@ -57,7 +58,7 @@ Whoever you decide to approach, you'll get a better, clearer response from them 
 
 You should certainly expect a good web agency to give you guidance or ideas that add value to the project, and you should always have a detailed consultation period before any work gets underway, but by following this guide you can tell them everything they need to know about your business/organisation so they can give you an accurate quote.
 
-![](/images/blog/mike-researching.jpg)
+![null](/images/blog/mike-researching.jpg)
 
 ## About you
 
@@ -180,7 +181,7 @@ The web company needs to have an initial design brief to understand the directio
 4. Provide any other brand collateral you might have - the website needs to fit with the rest of your brand material, so it's useful to provide examples of things like business stationery and any brochures you might have
 5. Reference websites - provide 3-5 examples of websites you either like or those of your competitors. Note any aspects about the sites that you either like or dislike, being careful to be objective and put yourself in your customer's shoes. Remember to [avoid one of the most common mistakes when creating a website design brief](/thinks/how-to-create-website-design-brief-mistakes-to-avoid/); a good website isn't going to be designed for you - it's going to be designed for your target audience
 
-![](/images/blog/crayons.jpg)
+![null](/images/blog/crayons.jpg)
 
 ## Marketing
 
