@@ -1,7 +1,7 @@
 ---
 title: Brand
 description: By creating a strong brand identity, we'll help you get more of the type of customers you want, at the prices you want to charge.
-seo_title: "Brand Design & Development Experts in Sussex | Tomango"
+seo_title: "Brand Identity Design & Development Experts in Sussex | Tomango"
 image: images/creates/brand.jpg
 weight: 10
 related: 
