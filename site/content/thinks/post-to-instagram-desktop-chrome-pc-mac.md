@@ -7,7 +7,7 @@ thinks/categories:
  - tips-and-advice
 ---
 
-As someone that takes runs social media marketing efforts for a number of accounts across a variety of platforms, I always like finding ways of making the administrative side a bit easier.
+As someone that takes runs [social media marketing](/social-media) efforts for a number of accounts across a variety of platforms, I always like finding ways of making the administrative side a bit easier.
 
 One particular bugbear of mine has been with Instagram. As a rule, Instagram is quite ‘locked down’ compared to Facebook, Twitter and suchlike – for example, there’s little-to-no API access, meaning scheduling posts can be difficult.
 
