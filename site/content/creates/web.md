@@ -17,7 +17,7 @@ A well-designed website is about far more than just its visual appearance.
 
 It must be easy to find, easy to use and work **perfectly** – on every device from desktop to mobile.
 
-We've been developing websites for over 15 years. Our huge experience in planning, designing and building website and web applications will give you the edge over your competitors.
+We've been designing and developing websites for over 15 years. Our huge experience in planning, designing and building website and web applications will give you the edge over your competitors.
 
 {{< quote
 	link="/created/hop/"

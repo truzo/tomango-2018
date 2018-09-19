@@ -10,7 +10,7 @@ bannerPosition: 8%
 weight: 40
 ---
 
-Tom is Tomango’s Digital Marketing Executive and joined in April 2016.
+Tom is Tomango’s Digital Marketing Manager and joined in April 2016.
 
 He's responsible for all Tomango's digital marketing output, and takes lead on all things SEO, PPC, social media and email marketing. Tom is an NCTJ-qualifed journalist and has previous experience in consumer public relations. He also holds a CIM Diploma in Professional Marketing.
 
