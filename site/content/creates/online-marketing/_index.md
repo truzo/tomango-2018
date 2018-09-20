@@ -1,7 +1,7 @@
 ---
 title: Digital Marketing
 image: images/creates/marketing.jpg
-seo_title: "SEO Agency in Sussex | SEO Services in Sussex - Tomango"
+seo_title: "SME Digital Marketing in Sussex | SEO, Social Media, PPC & Email | Tomango"
 description: By finding the most effective mix for you, we'll make sure you send out the right message, in the right place, at the right time.
 ---
 
