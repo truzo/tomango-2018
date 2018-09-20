@@ -1,7 +1,7 @@
 ---
 title: Web Design
 description: By designing an effective website, we'll attract your target visitors and turn them into customers.
-seo_title: "Web Design Sussex | Website Designers in Sussex | Tomango"
+seo_title: "Web Design & Website Development Agency in Sussex | Tomango"
 image: images/creates/web-2.jpg
 weight: 20
 related: 
