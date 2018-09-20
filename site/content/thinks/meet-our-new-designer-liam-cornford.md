@@ -39,7 +39,7 @@ Yeh, the rumour is true. The story goes that I used to play rugby and football a
 
 I knew I needed to find a low-impact sport to keep fit and so I bought myself a mountain bike. I loved it but wanted go faster, so I bought a race bike and started riding to work and it went from there and now it’s became my real passion. It’s been good for me too; I used to be about 16 stone when I was playing rugby – I’m just under 13 stone now and feel much fitter. And happier.
 
-![](images/blog/liam-cycling.jpg)
+![](images/blog/liam-cycling-spain.jpg)
 
 ### Now what's this rumour about you stealing a horse?
 Ha! Yes, right. Let me explain about that;
