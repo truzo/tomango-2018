@@ -4,7 +4,7 @@ author: "tom"
 date: 2018-09-19 15:30:10
 description: Cade Street Nursery is a family business based in Heathfield, East Sussex, and they have been growing plants and flowers there since the 1980s.
 banner: images/blog/cade-street-blog-cover-1.png
-image: images/blog/shutterstock_153195977.jpg
+image: images/blog/cade-street-blog-cover-1.png
 thinks/categories: 
  - digital-marketing
  - social media
