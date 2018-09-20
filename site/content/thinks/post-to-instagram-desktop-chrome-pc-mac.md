@@ -1,5 +1,5 @@
 ---
-title: "How to easily post to Instagram from your PC or Mac"
+title: "How to post to Instagram from your desktop PC, laptop or Mac | Tomango"
 author: "tom"
 date: 2018-04-11 10:55:44
 description: We were chuffed to bits when we found this out. Upload straight from Google Chrome in mere seconds with this quick and foolproof process!

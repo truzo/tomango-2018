@@ -1,6 +1,6 @@
 ---
 title: What we do
-seo_title: "SEO Agency in Sussex | SEO Services in Sussex - Tomango"
+seo_title: "What We Do | Our Approach to Strategy, Brand, Web Design & Marketing | Tomango"
 seo_description: Tomango is a brand identity, website design and digital marketing company in Sussex delivering sustained results.
 ---
 
