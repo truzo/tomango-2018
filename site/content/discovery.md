@@ -32,13 +32,9 @@ In Part 2, we take away what we've learnt in the workshop and, as a team, have a
 
 In Part 3, we present our recommendations. We'll talk you through three costed options so you can decide which one you’d like to go ahead with.
 
-The Discovery Session takes 3-4 weeks to complete and costs £750 + VAT, payable up front.
-
 Find out [how we've helped other businesses](/created/) achieve their goals.
 
-## Book your Discovery session
-
-Fill in your details and we’ll give you a call to arrange your first session.
+## Talk to us about a Discovery session
 
 {{< discovery >}}
 
