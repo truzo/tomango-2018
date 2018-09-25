@@ -9,13 +9,13 @@ lineCta: true
 
 Imagine it’s the {{< date >}}
 
-We’re getting together for a coffee, and you’re very happy. You’re delighted with your progress over the last three years. 
+We’re getting together for a coffee, and you’re very happy. You're delighted with the progress you've made over the last three years. 
 
 What’s happened in that time to make you so happy?
 
 What will your business look like? What size and shape will it be? Will you still be working on it every day, or will you have the freedom to do other things?
 
-Work out the right Strategy and you can bring these goals within your reach.
+Working out the right Strategy can bring these goals within your reach.
 
 {{< quote
 	body="For the first time in ages we were able to step back and review the whole business. It gave us a clear direction and meant we could put together a well thought out - and exciting - growth plan."
@@ -40,4 +40,4 @@ If we just took your order as if you were picking from a menu in a restaurant, f
 
 Prepare to be open-minded. Prepare to be challenged. Put yourself in the hands of experts.
 
-{{< button "/discovery/" >}}Start your journey{{</ button >}}
+{{< button "/contact/" >}}Start your journey{{</ button >}}
