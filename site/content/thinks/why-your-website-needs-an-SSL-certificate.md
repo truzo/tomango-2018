@@ -1,6 +1,6 @@
 ---
 title: "Why your website needs an SSL certificate"
-author: "mark"
+author: "tom"
 date: 2018-10-02 13:30:00
 description: In July 2018, Google released a new updated to it’s browser, Google Chrome, that included an interesting change to their search engine results pages (SERPs).
 banner: images/blog/ssl-certificate-banner-post.jpg
@@ -10,15 +10,15 @@ thinks/categories:
  - tips-and-advice
 ---
 
-In July 2018, Google released a new updated to it’s browser, Google Chrome, that included an interesting change to their search engine results pages (SERPs).
+In July 2018 Google released a new updated to it’s browser, Google Chrome, that included an interesting change to their search engine results pages (SERPs).
 
-In their aim to help facilitate a safer, more secure browsing experience for users, they started marking websites that have already taken proper security measures as **‘secure’.**
+In their aim to help facilitate a safer, more secure browsing experience for users, they started marking websites that have already taken proper security measures as **‘secure’**.
 
-You might have noticed this already - any website address that starts with **HTTPS** has this displayed in green letters in the address bar, as well as having a padlock icon placed next to it.
+You might have noticed this already – any website address that starts with **HTTPS** has this displayed in green letters in the address bar, as well as having a padlock icon placed next to it.
 
 This is an indicator that the website has had an **SSL certificate** installed.
 
-On the flip side, however, websites that do not have an SSL certificate are now being flagged on search as **‘not secure’**.
+On the flip side, however, websites that do _not_ have an SSL certificate are now being flagged on search as **‘not secure’**.
 
 It’s a reasonable assumption that if your company website is showing as ‘not secure’, any potential visitors might be put off visiting that site when it is displayed on SERPs. 
 
@@ -46,7 +46,7 @@ If anyone tries to read the note and they don't have the key, all they'll see is
 
 ## Does my website actually need an SSL certificate?
 
-If you’re collecting any sort of information from customers - either an email subscription form, a contact form with their name and phone number, or taking online payments - it’s a very smart move to have an SSL certificate installed.
+If you’re collecting any sort of information from customers – either an email subscription form, a contact form with their name and phone number, or taking online payments – it’s a very smart move to have an SSL certificate installed.
 
 With GDPR having been implemented earlier in 2018 and big stories such as the Facebook and Cambridge Analytica scandal hitting the headlines, members of the public have become much more aware about where and how they put their personal information on the internet.
 
@@ -68,6 +68,6 @@ The addition of an SSL certificate to a website should be done by a trusted and 
 
 You will need to be able to carry out the installation, set up the infrastructure, validate your identity, and as conduct a spot-check for any issues that might occur during the process. 
 
-As well as this, you will then have to **redirect** each page of your website from the older (HTTP) version to the newer (HTTPS) version - otherwise anyone visiting your website will be met with a missing page!
+As well as this, you will then have to **redirect** each page of your website from the older (HTTP) version to the newer (HTTPS) version – otherwise anyone visiting your website will be met with a missing page!
 
 Alternatively, you could [get in touch](https://www.tomango.co.uk/contact/) with Tomango.
