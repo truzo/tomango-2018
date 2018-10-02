@@ -32,7 +32,7 @@ An SSL (secure socket layer) certificate is a small file that authenticates the 
 
 With an SSL certificate installed, any data sent to the website is encrypted, with only the recipient able to access it.
 
-Let’s say want to pass a note to your friend across the classroom.
+Let’s say you want to pass a note to your friend across the classroom.
 
 Normally, you would pass the note from one person to the other until it reaches its destination.
  
