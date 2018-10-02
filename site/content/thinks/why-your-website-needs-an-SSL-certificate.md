@@ -68,8 +68,8 @@ As Google [states themselves,](https://webmasters.googleblog.com/2014/08/https-a
 
 The addition of an SSL certificate to a website should be done by a trusted and technically proficient person.
 
-You will need to be able to carry out the installation, set up the infrastructure, validate your identity, and as conduct a spot-check for any issues that might occur during the process. 
+You will need to be able to carry out the installation, set up the infrastructure, validate your identity, and conduct a spot-check for any issues that might occur during the process. 
 
 As well as this, you will then have to **redirect** each page of your website from the older (HTTP) version to the newer (HTTPS) version – otherwise anyone visiting your website will be met with a missing page!
 
-Alternatively, you could [get in touch](https://www.tomango.co.uk/contact/) with Tomango.
+However - if this all sounds like too much effort (or far too complicated for you to do yourself), you could [get in touch](https://www.tomango.co.uk/contact/) with Tomango and let us help.
