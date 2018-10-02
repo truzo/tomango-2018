@@ -4,7 +4,7 @@ author: "tom"
 date: 2018-10-02 13:30:00
 description: In July 2018, Google released a new updated to it’s browser, Google Chrome, that included an interesting change to their search engine results pages (SERPs).
 banner: images/blog/ssl-certificate-banner-post.jpg
-image: images/blog/ssl-certificate-cover.jpg
+image: images/blog/ssl-certificate-banner-post.jpg
 thinks/categories: 
  - web-design
  - tips-and-advice
