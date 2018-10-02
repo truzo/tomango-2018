@@ -24,7 +24,7 @@ It’s a reasonable assumption that if your company website is showing as ‘not
 
 If the choice was between your ‘not secure’ website and a ‘secure’ competitor website, which is sending the more trustworthy signal?
 
-![](images/blog/ssl-certificate-lock.jpg)
+![](images/blog/ssl-certificate-security.jpg)
 
 ## What is an SSL certificate and what does it do?
 
@@ -43,6 +43,8 @@ An SSL certificate is to make sure the contents of the note don't get read by an
 They are the only one who can see what's in the box, as they have the key (the SSL certificate). It can therefore be passed down the line and you can be safe in the knowledge that only they can access it.
 
 If anyone tries to read the note and they don't have the key, all they'll see is garbled (encrypted) data, which will most likely just look like random characters. It's like they took the box and just tried smashing it on the floor, but it ripped the note apart in the process.
+
+![](images/blog/ssl-certificate-lock.jpg)
 
 ## Does my website actually need an SSL certificate?
 
