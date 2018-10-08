@@ -23,4 +23,4 @@ So, if you just want a logo made, or a website built, or someone to make your de
 
 But if you need help to grow your business and want to put yourself in the hands of experts, we should talk.
 
-{{< button "/discovery/" >}}Start the discussion{{</ button >}}
+{{< button "/contact/" >}}Get in touch{{</ button >}}

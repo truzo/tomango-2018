@@ -22,4 +22,4 @@ Then we'll implement the strategy – writing and optimising ad copy, adjusting 
 
 Of course, all this is pointless without an adequate website. We’ll also review landing pages and user journeys to ensure your sales funnel is as streamlined as possible and keeps the business leads coming in.
 
-{{< contact >}}
+{{< button "/contact/" >}}Get in touch{{</ button >}}
