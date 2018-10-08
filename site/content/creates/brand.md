@@ -40,4 +40,4 @@ When we show you our ideas, we’ll explain the thought process in detail so you
 
 We’ll also make sure you make the best first impression to your customers by rolling out your new brand across all your marketing materials, whether it’s business stationery, brochures or exhibition stands.
 
-{{< contact >}}
+{{< button "/contact/" >}}Get in touch{{</ button >}}

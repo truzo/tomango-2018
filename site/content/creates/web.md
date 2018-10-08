@@ -35,4 +35,4 @@ The answers to these questions form the beginnings of your design brief, which i
 
 We never lose sight of the reasons for the website – that’s how we make the biggest difference to your business.
 
-{{< contact >}}
+{{< button "/contact/" >}}Get in touch{{</ button >}}

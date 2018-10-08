@@ -28,4 +28,4 @@ First, we'll meet with you to find out about your business, your target audience
 
 Following this, we carry out our own research and consider the options before putting together a plan to get you the best results.
 
-{{< contact >}}
+{{< button "/contact/" >}}Get in touch{{</ button >}}
