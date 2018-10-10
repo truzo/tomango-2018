@@ -15,7 +15,7 @@ If you’re in manufacturing and you’re based in East Sussex or Kent, you coul
 
 If you’re an SME (less than 250 staff) and are making, producing or assembling a product of any sort, you need to get in contact with Robin Simpson to find out about the marketing funding available for manufacturers. 
 
-You can contact Robin on 07773 228147 or [email](mailto:robin.simpson@egs.live)
+You can contact Robin on [07773 228147](tel:07773228147) or [email](mailto:robin.simpson@egs.live)
 
 The range of products that qualify under the heading of “manufacturing” is wide; plastics, paper, printing, precision instruments and pumps. Glass, ceramics, jewellery, perfume, footwear, clothing, luggage and carpets. Bikes, tractors, trailers, caravans and boats. 
 
@@ -63,4 +63,4 @@ One area this funding is intended to support is in helping businesses with the c
 
 We’re helping a number of manufacturing businesses with their marketing plans using this funding route.
 
-To find out more, contact Robin Simpson on 07773 228147 or [email](mailto:robin.simpson@egs.live) 
+To find out more, contact Robin Simpson on [07773 228147](tel:07773228147) or [email](mailto:robin.simpson@egs.live) 
