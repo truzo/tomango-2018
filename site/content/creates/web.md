@@ -1,5 +1,5 @@
 ---
-title: Web Design in Sussex
+title: Web Design
 description: By designing an effective website, we'll attract your target visitors and turn them into customers.
 seo_title: "Web Design in Lewes, Sussex | Wordpress Development | Tomango"
 image: images/creates/web-2.jpg
