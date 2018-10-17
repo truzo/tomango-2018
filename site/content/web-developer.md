@@ -5,22 +5,22 @@ description: "We're looking for a talented experienced web developer to become a
 ---
 
 **Role type:** Permanent  
-**Salary:** Competitive depending on skills and experience  
+**Salary:** £27,000 - £37,000  
 **Hours:** Full time
 
 ## About Tomango
 
 Tomango creates beautiful brands and industry-leading websites for ambitious businesses across the UK. Based in a converted farm building in a rural location about five minutes from Lewes and 20 minutes from Brighton, we’re a perfectly blended team of dedicated and passionate designers, developers and marketers who get a huge kick from seeing our clients succeed.
 
-This is an exciting opportunity to join a growing company and become a key part of our development team.
+This is an exciting opportunity to join a growing company and help lead our development team.
 
 ## About the role
 
 This role has great potential and is ideal for an experienced but ambitious web developer looking to play a pivotal role in the development of the business. You’ll be working closely with key clients and other lead personnel in the company and will be expected to take a leading role in Tomango’s digital output.
 
-Working alongside the Creative Director and Managing Director, you will be responsible for building and managing websites, delivering projects on time, on budget and to an exceptionally high standard. You will also provide technical resource for trouble-shooting and front-line customer support.
+Working alongside the Creative Director and Managing Director, you will be responsible for building and managing websites, delivering projects on time, on budget and to a high standard. You will also provide technical resource for trouble-shooting and front-line customer support.
 
-You’ll be a dedicated and committed developer that strives for excellence and continual improvement, but you’ll already have the highest standards of quality and delivery, outstanding communication skills and be comfortable working under pressure.
+You’ll be a dedicated and committed developer that strives for excellence and continual improvement, but you'll already have high standards of quality and delivery, outstanding communication skills and be comfortable working under pressure.
 
 ## Key tasks and responsibilities
 
@@ -32,23 +32,20 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 ## Attributes and skills
 
-- Three years of experience in web development
+- At least three years experience in web development
 - Strong HTML, CSS, JavaScript and PHP knowledge
-- Solid understanding of web performance and responsive design
+- Good understanding of web performance and responsive design
 - Ability to convert designs (Sketch) into semantic and performant websites
-- Working knowledge of bespoke WordPress theme & plugin development
+- Working knowledge of bespoke WordPress theme development
 - Keen eye for detail and ability to write solid, robust code
-- Gulp/Grunt & SCSS skills
+- Gulp and SCSS skills
 - Great communication skills
 
 ## It would also be useful for you to have
 
-- Knowledge of modern JavaScript frameworks
 - Understanding of Git
 - Experience managing web servers and hosting infrastructure
-- Experience of working in a creative agency
-- Understanding of UX patterns, technical SEO and web best-practices
-- Knowledge of REST APIs
+- Experience with web hosting
 
 ## We’re looking for someone with the following personality traits
 
@@ -64,7 +61,6 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 ## Benefits
 
-- Competitive salary
 - Flexible working hours
 - Working in a beautiful office in the countryside
 - iMac and ergonomic chair
@@ -76,4 +72,4 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 ## How to apply
 
-Email your CV and salary expectations to [jobs@tomango.co.uk](mailto:jobs@tomango.co.uk?subject=Application for Web Developer).
+Email your CV to [jobs@tomango.co.uk](mailto:jobs@tomango.co.uk?subject=Application for Web Developer).

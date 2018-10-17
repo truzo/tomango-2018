@@ -32,4 +32,4 @@ We’ll recommend other ways of improving your website’s authority through lin
 
 As a full-service marketing agency, we leave no stone unturned – we take a holistic approach to your SEO and consider all aspects of your digital marketing mix to get you the best results.
 
-{{< contact >}}
+{{< button "/contact/" >}}Get in touch{{</ button >}}

@@ -68,13 +68,13 @@
 		}
 	}
 
-	@include mq(65em) {
-		a:nth-child(3n+2),
-		a:nth-child(3n+3),
-		a:nth-child(3n+4) {
-			width: 33.333%;
-		}
-	}
+	// @include mq(65em) {
+	// 	a:nth-child(3n+2),
+	// 	a:nth-child(3n+3),
+	// 	a:nth-child(3n+4) {
+	// 		width: 33.333%;
+	// 	}
+	// }
 
 	@include mq(80em) {
 		div {

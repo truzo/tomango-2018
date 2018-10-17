@@ -17,13 +17,15 @@ author: mark
 
 ## Good news!
 
-Since I wrote this post, the way we approach our projects has changed; to the point that I now fundamentally disagree with what I originally wrote. {{< truncate >}} We've found the best outcomes for projects come when we engage with our client **before** any sort of detailed brief has been written.
+Since I wrote this post, the way we approach our projects has changed; to the point that I now fundamentally disagree with what I originally wrote. {{< truncate >}}
+
+We've found the best outcomes for projects come when we engage with our client **before** any sort of detailed brief has been written.
 
 So I just saved you several hours work ;o)
 
 We add value right from day one - from the very first conversation we have with you. You need us to help you create your brief, based on what you want to achieve from the project. Instead of deliberating about what you need and slaving away writing a long document, you're better off getting in touch _now_ so we can chat about your project in a bit more detail.
 
-Call me on 01273 814019, or contact us through the website, so we can start helping you right away.
+Call me on 01273 814019, or [contact us](https://www.tomango.co.uk/contact/) through the website, so we can start helping you right away.
 
 I thought about deleting this post entirely, but I know people still find it useful when they want to approach their website project the old-fashioned way.
 

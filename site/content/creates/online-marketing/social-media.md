@@ -32,4 +32,4 @@ Whether it's on Facebook, Instagram or Twitter, Tomango can help you create enga
 
 From improving sales or signups, extending the reach of content, or remarketing to website visitors - we'll find the right tactics to get you the best return from your investment.
 
-{{< contact >}}
+{{< button "/contact/" >}}Get in touch{{</ button >}}
