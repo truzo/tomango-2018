@@ -48,11 +48,11 @@ Mark no mistake, a good [brand identity is important](/thinks/brand-identity-imp
 
 The right brand image can help you:
 
-* Increase your prices
-* Position your business as high quality
-* Be remembered by your customers
-* Demonstrate you’re a reliable, experienced business
-* Stand out from your competitors
+a) Increase your prices
+b) Position your business as high quality
+c) Be remembered by your customers
+d) Demonstrate you’re a reliable, experienced business
+e) Stand out from your competitors
 
 With the right brand identity, you can attract the right type of customers, willing to pay the right price, **and** you’ll find it easier to convert enquiries into sales and orders.
 
@@ -72,23 +72,23 @@ One of the most effective ways to do this is to think about the questions you mo
 
 Let’s say you sell fancy kitchens. When someone walks into your showroom, they nearly always ask:
 
-a. Do you design the kitchen for us?
-b. Do we need to pay for that?
-c. Do you just do traditional/modern/large/small kitchens?
-d. Do you install the kitchen, or do we need to find an installer?
-e. How long will it take?
-f. How do I know it won’t go wrong and I’ll still be waiting for my tiling to be done six months later?
-g. Do you have the fancy [slide and hide Neff oven](https://www.neff-home.com/uk/discover/slideandhide) off of Bake Off?
-h. How much will it cost me? Can you give me a rough idea?
+a) Do you design the kitchen for us?
+b) Do we need to pay for that?
+c) Do you just do traditional/modern/large/small kitchens?
+d) Do you install the kitchen, or do we need to find an installer?
+e) How long will it take?
+f) How do I know it won’t go wrong and I’ll still be waiting for my tiling to be done six months later?
+g) Do you have the fancy [slide and hide Neff oven](https://www.neff-home.com/uk/discover/slideandhide) off of Bake Off?
+h) How much will it cost me? Can you give me a rough idea?
 
 You need to make sure your content answers these questions. So, you’ll probably want to include these messages or pages on your site:
 
-a. A page that says you do the design (and that it’s free) 
-b. A page showing all the different types of kitchens you’ve done, and how amazing they are
-c. Testimonials from customers saying how creative the design was and how smoothly the installation went
-d. A page about installation, your installers, how they’ve worked for you for years and are really reliable, and how long it usually takes
-e. A page about the appliances and brands you sell
-f. A bit about roughly how much they might need to budget
+a) A page that says you do the design (and that it’s free) 
+b) A page showing all the different types of kitchens you’ve done, and how amazing they are
+c) Testimonials from customers saying how creative the design was and how smoothly the installation went
+d) A page about installation, your installers, how they’ve worked for you for years and are really reliable, and how long it usually takes
+e) A page about the appliances and brands you sell
+f) A bit about roughly how much they might need to budget
 
 At this stage, you’ve got the basis for the structure of the site, and an idea of how the customer might move through the site (this is called the [User Journey](/thinks/what-is-user-journey)).
 
