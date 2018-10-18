@@ -126,17 +126,17 @@ How you get that message across is your **tone**, which needs to fit in with you
 
 There are lots of different ways you could write the Kitchen Designers’ message, and each one would give a different impression.
 
-_“We’re here to help you every step of the way.”_
+### “We’re here to help you every step of the way.”
 
-_“Your dream kitchen, taken care of from start to finish.”_
+### “Your dream kitchen, taken care of from start to finish.”
 
-_“Quality craftsmanship to bring your dream kitchen to life.”_
+### “Quality craftsmanship to bring your dream kitchen to life.”
 
-_“The only thing you need to worry about is whether your shoes match your tiles.”_
+### “The only thing you need to worry about is whether your shoes match your tiles.”
 
-_“Quick, easy, affordable. Great kitchens with the minimum of fuss.”_
+### “Quick, easy, affordable. Great kitchens with the minimum of fuss.”
 
-_“Quality kitchens you can trust.”_
+### “Quality kitchens you can trust.”
 
 Ideally, you’ll have developed a tone of voice as part of your [brand identity development](/creates/brand). This helps you be consistent and stay ‘on brand’ when it comes to writing your copy.
 
