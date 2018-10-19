@@ -26,7 +26,7 @@ So how do you get more of your best customers from your website?
 
 ## 1. Identify who your best customers are
 
-![](images/blog/how-to-get-customers.jpg)
+![](images/blog/how-to-get-customers-1.jpg)
 
 This might seem obvious, but the first thing you need to figure out is who your best customers are.
 
@@ -40,7 +40,7 @@ Once you’ve worked out who your best customers are, you need to get to work on
 
 ## 2. Get your brand right
 
-![](images/blog/how-to-brand-for-customers.jpg)
+![](images/blog/how-to-brand-for-customers-1.jpg)
 
 Having a strong, clear [brand identity](/creates/brand) is the most important thing to get right to position your business properly to your customer.
 
@@ -62,7 +62,7 @@ Once you’ve got your brand identity right, you need to focus on giving your cu
 
 ## 3. Get your content right
 
-![](images/blog/how-to-manage-content-for-customers.jpg)
+![](images/blog/how-to-manage-content-for-customers-1.jpg)
 
 To plan your website effectively, you need to start with your content.
 
@@ -98,7 +98,7 @@ The first is your **message**, the second one is your **tone**.
 
 ## 4. Get your message right
 
-![](images/blog/how-to-get-your-message-right-for-customers.jpg)
+![](images/blog/how-to-get-your-message-right-for-customers-1.jpg)
 
 Your message should be approached from your customer’s point of view;
 
@@ -122,7 +122,7 @@ How you get that message across is your **tone**, which needs to fit in with you
 
 ## 5. Get your tone right
 
-![](images/blog/how-to-get-your-tone-right-for-customers.jpg)
+![](images/blog/how-to-get-your-tone-right-for-customers-1.jpg)
 
 There are lots of different ways you could write the Kitchen Designers’ message, and each one would give a different impression.
 
@@ -148,7 +148,7 @@ Now you need to make sure you convert them into an enquiry.
 
 ## 6. Make it easy for them
 
-![](images/blog/how-to-make-it-easy-for-customers.jpg)
+![](images/blog/how-to-make-it-easy-for-customers-1.jpg)
 
 Have a clear and consistent call to action throughout the website, in all the places where customers might be making their decision to get in touch with you.
 
