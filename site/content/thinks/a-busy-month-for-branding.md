@@ -1,6 +1,6 @@
 ---
 title: "A busy month for branding"
-author: "Tom"
+author: "tom"
 date: 2018-10-22 10:55:00
 description: At Tomango we make it a daily ritual to check industry-related websites to stay up-to-date with the latest trends, technology and design.
 banner: images/blog/dunkin_posters.jpg
