@@ -14,7 +14,7 @@ At Tomango we make it a daily ritual to check industry-related websites to stay 
 This process allows us to get both inspiration and valuable insight from innovative brand, web and marketing campaigns we see. This might eventually feed into something we do for one of our own clients - or, alternatively, help us
 understand what to avoid entirely!
 
-Of the various elements of what we do, [brand design](/brand) is far and away the one that brings the most conversation to Tomango HQ.
+Of the various elements of what we do, [brand design](/creates/brand) is far and away the one that brings the most conversation to Tomango HQ.
 
 A brand or logo, for better or worse, will inevitably bring a instinctive emotional response from people. Hopefully, if the job’s done right, it’s the right response...but not always.
 
