@@ -41,12 +41,14 @@ The company has ditched their circular motif and gone back to a wordmark, as wel
 
 ![](images/blog/uber_2018_u_applications_01.jpg)
 
-"Probably my favourite of all the rebrands. Uber’s new design has a big ‘travel’ feel to it; it looks like the type of things you would see in an airport or on big posters."
+> Our thoughts
+
+"Probably my favourite of all the rebrands. Uber’s new design has a big ‘travel’ feel to it."
 
 "I especially like the use of the U negative space in the ads, videos and social media material. All the new iconography that has been designed for the app, and the new typeface all works really well together. 
 There is a sense of movement with the new branding, I like the logic behind the new logo, combing straight lines and curved lines to represent a straight road, roundabout or slip-road."
 
-_Liam Cornford, Tomango Designer_
+##### Liam Cornford, Tomango Designer
 
 ![](images/blog/uber_2018_u_concept.jpg)
 
@@ -75,15 +77,17 @@ Within seconds of landing on the Mailchimp homepage you are hit with both why yo
 
 An extremely well-designed, clear and effective OVP indeed!
 
+> Our thoughts
+
 "This one’s a bit nuts isn’t it?"
 
 "Mailchimp should be applauded for doing something different - which is the approach they’ve taken with their branding right from their early days. Where they’ve gone, others have followed."
 
 "It certainly positions them as a business that truly believes in their original culture, as opposed to many other tech companies that have gone all grown-up."
 
-_Mark Vaesen, Tomango Managing Director_
+##### Mark Vaesen, Tomango Managing Director
 
-![](images/blog/mailchimp_2018_poster.jpg)
+![](images/blog/mailchimp_2018_typography.jpg)
 
 ---
 
@@ -107,12 +111,14 @@ Wolves were looking for a fresh approach to how they communicated both on and of
 The suite of marketing assets they have devised avoid some of the pitfalls other clubs have found in the past. First, the main club crest has remained untouched, and has instead been used as the inspiration for a three-dimensional
 brand property. Similarly, the existing colour palette has been utilised across all the assets.
 
+> Our thoughts
+
 "This is a fantastic example of a football club finally getting a brand refresh correct and not managing to piss off their entire fanbase. It’s modern, it’s bold, and it’s very aesthetically pleasing.
 
 As the club has used what they already had available to them as a starting point, rather than throwing it all out and redesigning from scratch, they have avoided the bad PR that can come with flippantly tampering with something
 that isn’t just a representation of the club, but the personal identity of thousands of fans."
 
-_Tom Ruzyllo, Tomango Digital Marketing Manager_
+##### Tom Ruzyllo, Tomango Digital Marketing Manager
 
 ![](images/blog/wolverhampton_wanderers_stadium.jpg)
 
@@ -133,11 +139,13 @@ The move is reminiscent of coffee behemoth Starbucks, who made a similar move in
 
 A full rollout date for the change has been set for January 2019.
 
+> Our thoughts
+
 "This rebrand is more than just a cosmetic change, it's designed to transform the company into the on-the-go brand. Dropping the word ‘Donuts’ will allow Dunkin' more flexibility and growth potential in the future.
 
 This is a great example of how companies are increasingly putting value on shorter, snappier monikers. I’m looking forward to seeing how this is rolled out across different touch points."
 
-_Mike Vine, Tomango Creative Director_
+##### Mike Vine, Tomango Creative Director
 
 ![](images/blog/dunkin_posters.jpg)
 
