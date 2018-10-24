@@ -45,12 +45,12 @@ The company has ditched their circular motif and gone back to a wordmark, as wel
 
 "Probably my favourite of all the rebrands. Uber’s new design has a big ‘travel’ feel to it."
 
+![](images/blog/uber_2018_u_concept.jpg)
+
 "I especially like the use of the U negative space in the ads, videos and social media material. All the new iconography that has been designed for the app, and the new typeface all works really well together. 
 There is a sense of movement with the new branding, I like the logic behind the new logo, combing straight lines and curved lines to represent a straight road, roundabout or slip-road."
 
 ##### Liam Cornford, Tomango Designer
-
-![](images/blog/uber_2018_u_concept.jpg)
 
 ---
 
@@ -113,14 +113,14 @@ brand property. Similarly, the existing colour palette has been utilised across 
 
 > Our thoughts
 
-"This is a fantastic example of a football club finally getting a brand refresh correct and not managing to piss off their entire fanbase. It’s modern, it’s bold, and it’s very aesthetically pleasing.
+"This is a fantastic example of a football club finally getting a brand refresh correct and not managing to piss off their entire fanbase. It’s modern, it’s bold, and it’s very aesthetically pleasing."
 
-As the club has used what they already had available to them as a starting point, rather than throwing it all out and redesigning from scratch, they have avoided the bad PR that can come with flippantly tampering with something
+![](images/blog/wolverhampton_wanderers_stadium.jpg)
+
+"As the club has used what they already had available to them as a starting point, rather than throwing it all out and redesigning from scratch, they have avoided the bad PR that can come with flippantly tampering with something
 that isn’t just a representation of the club, but the personal identity of thousands of fans."
 
 ##### Tom Ruzyllo, Tomango Digital Marketing Manager
-
-![](images/blog/wolverhampton_wanderers_stadium.jpg)
 
 ---
 
