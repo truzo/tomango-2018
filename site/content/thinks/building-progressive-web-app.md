@@ -1,7 +1,7 @@
 ---
 title: "Building a Progressive Web App"
 author: "trys"
-date: 2018-04-13 09:00:49
+date: 2018-04-14 09:00:49
 description: How do you provide retail staff around the world with high-quality training for a product that’s growing exponentially?
 banner: images/blog/mockup.jpg
 image: images/blog/mockup.jpg
