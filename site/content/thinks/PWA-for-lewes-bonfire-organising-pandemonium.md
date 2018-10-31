@@ -2,7 +2,7 @@
 title: "PWA for Lewes Bonfire – organising pandemonium"
 author: "liam"
 date: 2018-10-31 8:55:00
-description: At Tomango we make it a daily ritual to check industry-related websites to stay up-to-date with the latest trends, technology and design.
+description: With our studio being located on the outskirts of the town of Lewes, here at Tomango we are well-versed in the annual pandemonium of the world-famous Lewes Bonfire celebrations.
 banner: images/blog/Lewes-Bonfire-Banner.png
 image: images/blog/Lewes-Bonfire-Banner.png
 thinks/categories: 
