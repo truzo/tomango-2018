@@ -18,11 +18,11 @@ Each year, Bonfire societies from all over East and West Sussex gather to march 
 pyrotechnics about like they’re giving out Halloween candy, is a truly spectacular sight to behold. The night then ends with a series of bonfires dotted around the town, each topped off with fantastic fireworks displays that
 collectively paint the night sky above Lewes.
 
-![](images/blog/Lewes-Bonfire-Martyrs.jpg)
-
 However - for people attending for the first time, or those that aren’t armed with a bit of local knowledge, the organised chaos of the entire evening can be rather daunting!
 
 Therefore, as an exercise in speculative design and development, we thought we would see if we could come up with a solution.
+
+<iframe width="442" height="935" src="//invis.io/P8OTP11YHV7" frameborder="0" allowfullscreen></iframe>
 
 ## Research
 
@@ -99,12 +99,6 @@ as to what happens during bonfire night, the procession, the societies and what 
 ![](images/blog/Lewes-Bonfire-content-blocks.png)
 
 I’ve applied all these functions throughout the PWA to all pages, please take a look at the preview of the PWA below, please note this is not accurate to the event, this is purely a speculative project focusing on UI/UX design.
-
-## The PWA
-
-Here it is, time to play!
-
-<iframe width="442" height="935" src="//invis.io/P8OTP11YHV7" frameborder="0" allowfullscreen></iframe>
 
 ## Software used
 
