@@ -20,13 +20,14 @@ collectively paint the night sky above Lewes.
 
 However - for people attending for the first time, or those that aren’t armed with a bit of local knowledge, the organised chaos of the entire evening can be rather daunting!
 
-Therefore, as an exercise in speculative design and development, we thought we would see if we could come up with a solution.
+Therefore, as an **exercise in speculative design and development**, we thought we would see if we could come up with a solution.
 
-<iframe width="100%" height="935" src="//invis.io/P8OTP11YHV7" frameborder="0" allowfullscreen></iframe>
+If you're viewing this on mobile [view the PWA prototype here](https://invis.io/4WOSQSY3Z5D#/327107403_Mobile).
 
-If you're viewing this on mobile [click here to view the prototype](https://invis.io/4WOSQSY3Z5D#/327107403_Mobile).
+<iframe style="transform: scale(1.0) "width="100%" height="950" src="//invis.io/P8OTP11YHV7" frameborder="0" allowfullscreen></iframe>
 
-## Research
+
+## Starting point
 
 As a starting point I gathered as much information as I could about the event, travel options and useful advice from relevant sources. There isn’t much out there for this event, other than past events and historical news articles or
 some great images of the famous bonfire effigies.
@@ -36,12 +37,12 @@ charges to download. As all the user would have to do is visit the URL and then 
 
 For more information on PWAs we wrote a post about [building a PWA for Agon Systems](thinks/building-progressive-web-app/).
 
+![](images/blog/Lewes-Bonfire-plan.png)
+
 ## Planning 
 
 Once the decision was made to think about a PWA I then started planning the [User Journey](https://www.tomango.co.uk/thinks/what-is-user-journey/) this led me to the good old fashioned pen and paper, mapping out scenarios and possible journeys for the user to follow. This also allowed me to
 think about what data the user would need within the PWA, because I want everything to be within this but also not overload the user with extra data or information, it needs to be clear and concise
-
-[Image]
 
 Once I felt confident with the User Journeys, I then mocked up some flow charts using the very cool tool [Whimsical](https://whimsical.co/) which allows you to quickly develop and create flowcharts. With these flowcharts finalised I
 could then start thinking about the design.
