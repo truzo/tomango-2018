@@ -24,7 +24,7 @@ Therefore, as an **exercise in speculative design and development**, we thought 
 
 If you're viewing this on mobile [view the PWA prototype here](https://invis.io/4WOSQSY3Z5D#/327107403_Mobile).
 
-<iframe style="transform: scale(0.8) "width="100%" height="950" src="//invis.io/P8OTP11YHV7" frameborder="0" allowfullscreen></iframe>
+<iframe style="transform: scale(0.8) "width="100%" height="940" src="//invis.io/P8OTP11YHV7" frameborder="0" allowfullscreen></iframe>
 
 
 ## Starting point
