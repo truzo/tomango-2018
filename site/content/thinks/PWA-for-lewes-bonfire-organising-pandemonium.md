@@ -18,13 +18,15 @@ Each year, Bonfire societies from all over East and West Sussex gather to march 
 pyrotechnics about like they’re giving out Halloween candy, is a truly spectacular sight to behold. The night then ends with a series of bonfires dotted around the town, each topped off with fantastic fireworks displays that
 collectively paint the night sky above Lewes.
 
+![](images/blog/Lewes-Bonfire-Procession.jpg)
+
 However - for people attending for the first time, or those that aren’t armed with a bit of local knowledge, the organised chaos of the entire evening can be rather daunting!
 
 There isn’t currently one main central repository for event information for Lewes Bonfire; across the bonfire society and Lewes Bonfire Council websites, travel information on Southern Rail and Brighton & Hove Buses websites, road
 closure information on the Lewes District Council website, and safety and logistical information from Sussex Police - as well as various social media channels for all the above and more - there’s a lot to take in if you’re an
 out-of-towner hoping for a successful evening!
 
-Therefore, as an **exercise in speculative design and development**, we thought we would see if we could come up with something to make all this a bit easier...
+Therefore, as an **exercise in speculative design and development**, we thought we would see if we could create something to make all this a bit easier...
 
 ...and this is what we came up with.
 
@@ -62,7 +64,7 @@ Once I felt confident with the User Journeys, I then mocked up some flow charts 
 
 ![](images/blog/Lewes-Bonfire-Flowchart.png)
 
-Wireframes are a visual blueprint for us to create the framework of a website or PWA, it allows us to arrange elements and form the best design for the intended purpose of the website/PWA.
+Wireframes are a visual blueprint for us to create the framework of a website or PWA. It allows us to arrange elements and form the best design for the intended purpose of the website/PWA.
 
 With these flowcharts finalised I could then start thinking about the design.
 
@@ -73,12 +75,14 @@ With these flowcharts finalised I could then start thinking about the design.
 ## Design process
 
 With the wireframes and flowcharts I was able to tackle the overall design of the Lewes Bonfire PWA.
-Having been to Lewes Bonfire many times as a kid, I already had some ideas in mind for the overall style I wanted to go for. It would consist of three colours; the bright red light of flares, the yellow flames of the huge bonfires,
-and the black of the night sky.
+
+Having been to Lewes Bonfire many times as a kid, I already had some ideas in mind for the overall style I wanted to go for. 
+
+It would consist of three colours; the bright red light of flares, the yellow flames of the huge bonfires, and the black of the night sky.
 
 ![](images/blog/Lewes-Bonfire-colours.png)
 
-For the font, I settled on [Graphik](https://commercialtype.com/catalog/graphik/graphik) – a clear and easy to read sans-serif typeface that’s one of my favourites – and three weights.
+For the typeface, I settled on [Graphik](https://commercialtype.com/catalog/graphik/graphik) – a clear and easy to read sans-serif font that’s one of my favourites – and three weights.
 
 Being such an impressive visual spectacle, I was keen to get some excellent images of the event to use in the PWA. I spent some time looking for them and eventually found some really good images on Flickr by photographer [James
 Lenney](https://www.flickr.com/photos/100974792@N07/albums/72157688997958144).
@@ -91,9 +95,9 @@ I then tweaked the brightness of the effect to make it slightly darker to allow 
 
 ![](images/blog/Lewes-Bonfire-Before-After.png)
 
-## User Interface and User Experience
+## UI and UX design
 
-With the styles, type and images chosen, the design of the pages and subpages began.
+With the styles, typeface and images chosen, the design of the pages and subpages began.
 
 We wanted to provide an easy-to-understand information bank including a timetable of events, travel and safety details, locations, and anything else an attendee might need.
 
@@ -125,7 +129,7 @@ I designed the pages to contain all the information the user needed, rather than
 This approach is best displayed in the ‘Trains’ section.
 
 Train departure times are always easy to find, but arrival times are rarely displayed, so I designed the content block for train times to have a departure time and arrival time, keeping all relevant information to the event in one
-place. It even the calling points along the route.
+place. It even shows the calling points along the route.
 
 Finally, the **‘what to see’** page. This is possibly the most important page for someone new to this event. 
 
@@ -145,4 +149,4 @@ This project uses the same software and tools we use at Tomango for every client
 * Design: [Sketch](https://youtu.be/5EatUkHez0U)
 * Prototype: [InVision](https://deploy-preview-50--tomango.netlify.com/thinks/why-we-use-invision/)
 
-If you are interested in finding out more about how Tomango can help you with your web design project, or have any comments, questions or feedback regarding the Bonfire PWA, get  in touch.
+If you are interested in finding out more about how Tomango can help you with your web design project, or have any comments, questions or feedback regarding the Bonfire PWA, [get  in touch](/contact).
