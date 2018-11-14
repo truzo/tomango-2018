@@ -12,21 +12,20 @@ images:
   - treeconomics/treeconomics-website.jpg
 ---
 
-Treeconomics works internationally with community groups, research organisations, public bodies municipalities and private business to complete projects which highlight the value of trees.
+Treeconomics works with community groups, research organisations, public bodies, municipalities and private business to help them understand the value of trees.
 
-Treeconomics approached us to give their website a new feel and design, the old site was not responsive to mobile, it also failed to get the key business services across to the visitor in a clear and concise way.
+Treeconomics asked us to completely redesign their website which no longer reflected their brand values or the quality of the work they do. It also wasn’t responsive on mobile devices and was failing to get the key business services
+across to the visitor in a clear and concise way.
 
-The new website is now live, it highlights the key services of the business whilst showcasing a selection of projects Treeconomics has worked on all over the world.
+The new website highlights the key services of the business and showcases a selection of projects Treeconomics has worked on all over the world.
 
-The re-design has also seen the introducion of a news section that is fed from social media accounts, news articles and new projects.
+As part of the re-design, we introduce a news section that’s fed from social media accounts, news articles and new projects.
+
+We’ve also added a more detailed About page, which presents the company mission statement, capabilities, and introduces the user to the team members of Treeconomics.
 
 {{< quote
 	body="The new website has allowed us to showcase our projects in a more effective way, highlighting key information, statistics and quotations to the visitor."
 	citation="Kenton Rogers, Co-Founder, Treeconomics"
 >}}
-
-Another new feature of the website is the addition of a more detailed about page – displaying the company mission statement, capabilites, and the team members of Treeconomics.
-
-The new website has seen an increased number of visiors with several new lines of enquiries.
 
 {{< button "http://www.treeconomics.co.uk/" >}}Visit site{{</ button >}}
