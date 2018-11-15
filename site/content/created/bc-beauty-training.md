@@ -9,20 +9,20 @@ related:
 - cannadines
 - fludes-carpets
 stats:
-- number: 18
-  text: Enquiries per month
-- number: 157% increase
-  text: From organic search
+- number: 71%
+  text: Increase in organic traffic
+- number: 157%
+  text: Increase in monthly enquiries
 ---
 
-BC Beauty Training is an award-winning Brighton-based provider of accredited courses that cover all aspects of beauty, including hair, makeup, tanning, nails and massage.
+[BC Beauty Training](https://bcbeautytraining.co.uk/) is an award-winning Brighton-based provider of accredited courses that cover all aspects of beauty, including hair, makeup, tanning, nails and massage.
  
 The company’s Managing Director, Maria Lloyd, first got in touch with Tomango in early 2016. She wanted some assistance with a Google AdWords campaign that they had been running for a while, but wasn’t returning many enquiries for
 beauty courses.
  
 After inviting Maria to our studio, finding out more about her business, and conducting a short audit of the website, we saw a big opportunity to optimise it for search.
 
-From our findings we then presented to Maria a plan of action that would see Tomango take over the AdWords management, but at the same time seek to increase organic visibility via local SEO
+From our findings we then presented to Maria a plan of action that would see Tomango take over the AdWords management, but at the same time seek to increase organic visibility via local SEO.
  
 With BC Beauty Training operating on a strict marketing budget, over time we were able to work together to increase traffic to the website from organic search results and remove the need to spend extra money on AdWords entirely.
  
@@ -40,4 +40,4 @@ solid return on their marketing investment.
 	citation="Maria Lloyd, Managing Director, BC Beauty Training"
 >}}
 
-{{< button "/contact" >}}Need help with SEO?{{</ button >}}
+{{< button "/creates/online-marketing/" >}}Need help with your Marketing?{{</ button >}}
