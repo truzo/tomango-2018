@@ -106,7 +106,7 @@ Thanks, and Merry Christmas!
 
 ![](images/blog/christmas-jumpers.jpg "Christmas jumpers - no matter how hard you try, they're just never going to be cool.")
 
-27. *6.8* *m**illion* - The number of iOS and Android devices that will be activated on Christmas day.
+27. *6.8 million* - The number of iOS and Android devices that will be activated on Christmas day.
 
 28. *4.25 million* - The number of British people who will travel abroad for Christmas.
 
