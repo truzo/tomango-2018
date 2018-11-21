@@ -1,7 +1,7 @@
 ---
 title: "101 fun facts about Christmas to impress your friends"
 author: "mark"
-date: 2017-12-11 09:00:30
+date: 2018-11-21 09:00:30
 description: As our little gift to you, we've gathered 80 fun facts about Christmas for you to impress your friends and family over the Brussels Sprouts...
 seo_description: In charge of the work Christmas quiz? Or want to impress the family over the Brussels sprouts? Here's 101 fun Christmas facts to get you started!
 image: images/blog/christmas-opening-hours-lights.jpg
@@ -13,7 +13,7 @@ thinks/categories:
 
 Is it that time of year again already??!
 
-As the 2017 festive season draws ever closer, we'd like to wish all our clients, suppliers and friends a very
+As the 2018 festive season draws ever closer, we'd like to wish all our clients, suppliers and friends a very
 
 > Merry Christmas and Happy New Year!
 
@@ -23,7 +23,7 @@ As our little gift to you, we've updated our previous list and gathered together
 
 Just £10 can make a difference to someone's Christmas
 
-This blog post has proven to be pretty popular. Over 1,500 people read it yesterday.
+This blog post has proven to be pretty popular. At its peak more than 2,000 people read it each day.
 
 It's full of facts, including stuff about the amount of money we spend and food we eat at Christmas.
 
@@ -40,7 +40,8 @@ Help make a difference and [make a donation](https://www.justgiving.com/fundrais
 Thanks, and Merry Christmas!
 
 *Mark Vaesen*
-11th December 2017
+
+21st November 2018
 {{%/ update %}}
 
 ## Christmas traditions and origins
@@ -93,13 +94,13 @@ Thanks, and Merry Christmas!
 
 20. The chances of a White Christmas are just 1 in 10 for England and Wales, and 1 in 6 for Scotland and Northern Ireland.
 
-21. 16 - The average number of Christmas presents a UK child receives.
+21. **16** - The average number of Christmas presents a UK child receives.
 
-22. 6 million - The number of rolls of sellotape that will be sold in the UK in the run up to Christmas (5.99 million - the number of rolls where you can't find where the tape ends).
+22. **6 million** - The number of rolls of sellotape that will be sold in the UK in the run up to Christmas (5.99 million - the number of rolls where you can't find where the tape ends).
 
-23. 13% of families in the UK always attend church on Christmas Day.
+23. **13%** of families in the UK always attend church on Christmas Day.
 
-24. 27% of families sit down to watch the Queen's Speech.
+24. **27%** of families sit down to watch the Queen's Speech.
 
 25. According to a survey conducted in 2016, *57%* of adults in the UK would gladly sacrifice seeing relatives on Christmas day if it meant they could spend more time on Facebook.
 
@@ -108,9 +109,9 @@ Day.
 
     ![](images/blog/christmas-jumpers.jpg "Christmas jumpers - no matter how hard you try, they're just never going to be cool.")
 
-27. 6.8 million - The number of iOS and Android devices that will be activated on Christmas day.
+27. **6.8 million** - The number of iOS and Android devices that will be activated on Christmas day.
 
-28. 4.25 million - The number of British people who will travel abroad for Christmas.
+28. **4.25 million** - The number of British people who will travel abroad for Christmas.
 
     ## Myth-busting Christmas facts
 
@@ -132,7 +133,7 @@ Day.
 
 36. Nearly 60 million Christmas Trees are grown each year in Europe.
 
-37. 8 million natural Christmas trees are consumed by the UK each year.
+37. **8 million** natural Christmas trees are consumed by the UK each year.
 
     ![](images/blog/christmas-tree.jpg)
 
@@ -208,25 +209,25 @@ Day.
 
     ## Christmas facts about the amount of money spent
 
-68. Brits love Christmas – UK Christmas spending is set to hit £77.56bn in 2016, up by 1.9% on the previous year and almost double the European average.
+68. Brits love Christmas – UK Christmas spending hit £77.56bn in 2016, up by 1.9% on the previous year and almost double the European average.
 
 69. The average home will splash out £809.97 at Christmas; on food and drink, travel, decorations and presents, with the latter accounting for 58.5 per cent of the budget.
 
-70. £700 million - The amount of money spent on unwanted Christmas gifts.
+70. **£700 million** - The amount of money spent on unwanted Christmas gifts.
 
-71. 51,000,000 - The amount saved each year through the use of discount voucher codes.
+71. **£51,000,000** - The amount saved each year through the use of discount voucher codes.
 
-72. £18,000,000,000 - will be withdrawn from UK cash machines over Christmas.
+72. **£18,000,000,000** - will be withdrawn from UK cash machines over Christmas.
 
-73. 330 - The average amount a UK adult spends buying Christmas presents.
+73. **330** - The average amount a UK adult spends buying Christmas presents.
 
 74. During the Christmas period, nearly 28 Lego sets are sold EVERY SECOND. - [Source](http://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/8360246/Lego-in-numbers.html)
 
     ## Christmas facts - World Records
 
-75. 32.56 metres - The length of the longest ever Christmas Stocking. It was also 14.97 metres wide.
+75. **32.56 metres** - The length of the longest ever Christmas Stocking. It was also 14.97 metres wide.
 
-76. 62,824 - The record number of Christmas cards sent by a single person in a year. At the time of writing, that would cost £40,207.36 in first class stamps.
+76. **62,824** - The record number of Christmas cards sent by a single person in a year. At the time of writing, that would cost £40,207.36 in first class stamps.
 
 77. According to the Guinness World Records, the tallest Christmas tree ever cut was a 221-foot Douglas fir that was displayed in 1950 at the Northgate Shopping Center in Seattle, Washington.
 
@@ -236,7 +237,7 @@ Day.
 
 79. The [largest ever Christmas cracker](http://www.guinnessworldrecords.com/world-records/largest-christmas-cracker-) was 63.1m (207ft) long and 4m (13ft) in diameter and was made by the parents of children at Ley Hill School and Pre-School, Chesham, Buckinghamshire on 20th December 2001. The joke was rubbish.
 
-80. 30,000 - The number of participants in the largest ever Secret Santa, organised by Reddit in 2012.
+80. **30,000** - The number of participants in the largest ever Secret Santa, organised by Reddit in 2012.
 
 81. The most valuable Christmas card was sold at an auction in the UK in 2001 for £20,000.
 
@@ -266,11 +267,11 @@ Day.
 
 90. A survey has revealed on average, British women do not attempt their first Christmas lunch until the age of 34. Nearly half of women polled said they felt a real sense of achievement when finally dishing up the Christmas dinner and 28% of British men admit that their partner's dinner is better than their mother's. Source: Food Network
 
-91. 57 - The number of Olympic sized swimming pools that could be filled with the beer consumed in the UK over Xmas.
+91. **57** - The number of Olympic sized swimming pools that could be filled with the beer consumed in the UK over Xmas.
 
-92. 230,000 tonnes - The amount of wasted Christmas food that is thrown away each year.
+92. **230,000 tonnes** - The amount of wasted Christmas food that is thrown away each year.
 
-93. 957 - The typical number of calories in your average Christmas dinner.
+93. **957** - The typical number of calories in your average Christmas dinner.
 
     ![](images/blog/christmas-calories-dont-count.jpg)
 
@@ -290,7 +291,7 @@ Day.
 
     ![](images/blog/christmas_turkey.jpg "Goose used to be the poor man’s Christmas dinner")
 
-101. 10 million - The number of Turkeys cooked in the UK every Christmas.
+101. **10 million** - The number of Turkeys cooked in the UK every Christmas.
 
 {{% update %}}
 
